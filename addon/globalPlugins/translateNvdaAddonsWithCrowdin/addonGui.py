@@ -5,7 +5,6 @@
 import os
 import sys
 import wx
-import subprocess
 import json
 import re
 import threading
@@ -17,7 +16,6 @@ import ui
 from speech.priorities import Spri
 from gui import guiHelper
 from gui.settingsDialogs import SettingsPanel
-from gui.message import _countAsMessageBox
 from logHandler import log
 
 from . import l10nUtil, markdownTranslate
@@ -29,21 +27,53 @@ AVAILABLE_FILES_PATH = os.path.join(os.path.dirname(__file__), "files.json")
 L10N_UTIL_PATH = os.path.join(os.path.dirname(__file__), "l10nUtil.py")
 
 
-@_countAsMessageBox()
-def exportTranslations() -> None:
-	"""Export translations from Crowdin."""
+languageMappings: dict[str, str] = {
+	"af_ZA": "af",
+	"de_CH": "de-CH",
+	"es": "es-ES",
+	"es_CO": "es-CO"
+}
+
+def exportTranslations(language: str | None = None) -> None:
+	"""Export translations from Crowdin.
+	:param language: The language of translation files.
+	"""
 
 	dir = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
 	if not dir:
 		dir = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
-	l10nUtil.exportTranslations(dir)
+	try:
+		l10nUtil.exportTranslations(dir, language)
+	except Exception as e:
+		# Translators: Message presented when translations cannot be downloaded.
+		ui.message(_("Cannot download translations. See NVDA log for more details"))
+		log.error("Translations not downloaded", exc_info=True)
+		return
 	def mainThreadCallback():
 		# Translators: Message presented when translations have been exported.
 		ui.message(_("Translations exported"), Spri.NEXT)
 	wx.CallAfter(mainThreadCallback)
 
 
-@_countAsMessageBox()
+def downloadTranslationFile(crowdinFilePath: str, localFilePath: str, language: str) -> None:
+	"""Download a translation file from Crowdin.
+	:param crowdinFilePath: The path to the file in Crowdin.
+	:param localFilePath: The path to the file stored locally.
+	:param language: The language of the translation file.
+	"""
+	try:
+		l10nUtil.downloadTranslationFile(crowdinFilePath, localFilePath, language)
+	except Exception as e:
+		# Translators: Message presented when a translation file cannot be downloaded.
+		ui.message(_("Cannot download translated file. See NVDA log for more details"))
+		log.error("Translation file not downloaded", exc_info=True)
+		return
+	def mainThreadCallback():
+		# Translators: Message presented when a translation file has been downloaded.
+		ui.message(_("Translation file downloaded to %s" % localFilePath), Spri.NEXT)
+	wx.CallAfter(mainThreadCallback)
+
+
 def uploadTranslatedFile(crowdinFilePath: str, localFilePath: str, language: str):
 	"""Upload a translated file to Crowdin.
 	:param crowdinFilePath: The path to the file in Crowdin.
@@ -55,12 +85,13 @@ def uploadTranslatedFile(crowdinFilePath: str, localFilePath: str, language: str
 		if os.path.isfile(mdPath):
 			markdownTranslate.translateXliff(localFilePath, language, mdPath, localFilePath)
 			os.remove(mdPath)
-	result = subprocess.run(
-		("cmd", L10N_UTIL_PATH, "uploadTranslatedFile", language, crowdinFilePath, localFilePath),
-			stdout=subprocess.DEVNULL,
-			stderr=subprocess.PIPE,
-			text=True,  # Ensures stderr is a text stream
-		)
+	try:
+		l10nUtil.uploadTranslationFile(crowdinFilePath, localFilePath, language)
+	except Exception as e:
+		# Translators: Message presented when a translation file cannot be uploaded.
+		ui.message(_("Cannot upload translated file. See NVDA log for more details"))
+		log.error("Translation file not uploaded", exc_info=True)
+		return
 	def mainThreadCallback():
 		# Translators: Message presented when a translated file has been uploaded.
 		ui.message(_("Translated file uploaded"), Spri.NEXT)
@@ -124,6 +155,8 @@ class ToolsDialog(wx.Dialog):
 		mainSizer = wx.BoxSizer(wx.VERTICAL)
 		sHelper = guiHelper.BoxSizerHelper(self, orientation=wx.VERTICAL)
 		self.languageNames = languageHandler.getAvailableLanguages(presentational=True)[1:]  # Exclude default Windows language
+		index = [x[0] for x in self.languageNames].index("en")
+		self.languageNames.pop(index)
 		languageChoices = [x[1] for x in self.languageNames]
 		# Translators: The label to select a language to translate add-ons.
 		languageLabelText = _("&Language:")
@@ -174,12 +207,16 @@ class ToolsDialog(wx.Dialog):
 		toolsListGroupContents.AddSpacer(guiHelper.SPACE_BETWEEN_ASSOCIATED_CONTROL_HORIZONTAL)
 
 		buttonHelper = guiHelper.ButtonHelper(wx.VERTICAL)
-		# Translators: The label of a button to upload translations.
-		self.uploadButton = buttonHelper.addButton(self, label=_("&Upload translations"))
+		# Translators: The label of a button to upload a translated file.
+		self.uploadButton = buttonHelper.addButton(self, label=_("&Upload translated file"))
 		self.uploadButton.Bind(wx.EVT_BUTTON, self.onUpload)
 
-		# Translators: The label of a button to download translations.
-		self.downloadButton = buttonHelper.addButton(self, label=_("&Download translations"))
+		# Translators: The label of a button to download translations for a specific language.
+		self.downloadForLanguageButton = buttonHelper.addButton(self, label=_("&Download translation for the selected language"))
+		self.downloadForLanguageButton.Bind(wx.EVT_BUTTON, self.onDownloadForLanguage)
+
+		# Translators: The label of a button to download all translations.
+		self.downloadButton = buttonHelper.addButton(self, label=_("Do&wnload all translations"))
 		self.downloadButton.Bind(wx.EVT_BUTTON, self.onDownload)
 
 	# Message translated in NVDA core, label of a button to close a dialog.
@@ -240,9 +277,7 @@ class ToolsDialog(wx.Dialog):
 		if not translationsDirectory:
 			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
-		language = self.languageNames[self.languageList.GetSelection()][0]
-		if "_" in language and language.split("_")[1] == language.split("_")[0].upper() and language != "pt_PT":
-			language = language.split("_")[0]
+		language = self._getLanguage()
 		filename = self.toolsList.GetStringSelection()
 		filePath = os.path.join(translationsDirectory, addonName, language, filename)
 		if os.path.isfile(filePath):
@@ -251,35 +286,53 @@ class ToolsDialog(wx.Dialog):
 			# Translators: Message presented when trying to open a file which doesn't exist.
 			ui.message(_("File not found))"))
 
-	def onDownload(self, evt: wx.CommandEvent):
-		threading.Thread(
-					name="ExportTranslations",
-					target=exportTranslations,
-					daemon=True,
-				).start()
-
 	def onUpload(self, evt: wx.CommandEvent):
 		translationsDirectory = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
 		if not translationsDirectory:
 			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
-		language = self.languageNames[self.languageList.GetSelection()][0]
-		if "_" in language:
-			crowdinLanguage = language.replace("_", "-")
-		else:
-			crowdinLanguage = f"{language}-{language.upper()}"
+		language = self._getLanguage()
 		filename = self.toolsList.GetStringSelection()
-		filePath = os.path.join(translationsDirectory, addonName, language, filename)
+		filePath = os.path.join(translationsDirectory, addonName, self.languageNames[self.languageList.GetSelection()][0], filename)
+		# Translators: Message presented when trying to download all translations.
+		ui.message(_("Uploading file for the selected language..."), Spri.NEXT)
 		if os.path.isfile(filePath):
 			threading.Thread(
 				name="UploadTranslations",
-				target=uploadTranslatedFile(crowdinFilePath=filename, localFilePath=filePath, language=crowdinLanguage),
+				target=uploadTranslatedFile(crowdinFilePath=filename, localFilePath=filePath, language=language),
 					daemon=True,
 			).start()
 		else:
 			# Translators: Message presented when trying to upload a file which doesn't exist.
 			ui.message(_("File not found))"))
 
+	def onDownloadForLanguage(self, evt: wx.CommandEvent):
+		language = self._getLanguage()
+		# Translators: Message presented when trying to download all translations.
+		ui.message(_("Downloading translations for the selected language..."), Spri.NEXT)
+		threading.Thread(
+			name="DownloadTranslationForLanguage",
+			target=exportTranslations(language=language),
+				daemon=True,
+		).start()
+
+	def onDownload(self, evt: wx.CommandEvent):
+		# Translators: Message presented when trying to download all translations.
+		ui.message(_("Downloading all translations..."), Spri.NEXT)
+		threading.Thread(
+					name="ExportTranslations",
+					target=exportTranslations,
+					daemon=True,
+				).start()
+
 	def onClose(self, evt: wx.CommandEvent):
 		self.Destroy()
 		ToolsDialog._instance = None
+
+	def _getLanguage(self) -> str:
+		"""Gets the language to be used when downloading translation files.
+		:returns: The language used to download translation files.
+		"""
+		language = self.languageNames[self.languageList.GetSelection()][0]
+		crowdinLanguage = languageMappings.get(language, language)
+		return crowdinLanguage
