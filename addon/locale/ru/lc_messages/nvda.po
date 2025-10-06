@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: translateNvdaAddonsWithCrowdin\n"
+"POT-Creation-Date: 2025-10-06 12:33+0300\n"
+"PO-Revision-Date: 2025-10-06 13:13+0300\n"
+"Last-Translator: \n"
+"Language-Team: Danil Kostenkov <danilkostenkov38@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: ../../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: addon/globalPlugins/"
+"translateNvdaAddonsWithCrowdin\n"
+"X-Poedit-SearchPath-2: addon/globalPlugins/translateNvdaAddonsWithCrowdin/"
+"crowdin_api\n"
+"X-Poedit-SearchPath-3: addon/globalPlugins/translateNvdaAddonsWithCrowdin/"
+"crowdin_api/api_resources\n"
+"X-Poedit-SearchPath-4: addon/globalPlugins/translateNvdaAddonsWithCrowdin/"
+"crowdin_api/api_resources/languages\n"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py:39
+msgid "&Translate add-ons with Crowdin..."
+msgstr "Перевод дополнений на &Crowdin..."
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py:61
+msgid "Shows the Translate NVDA Add-ons with Crowdin settings."
+msgstr "Открывает настройки дополнения."
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:49
+msgid "Cannot download translations. See NVDA log for more details"
+msgstr ""
+"Не удаётся загрузить переводы. Более подробную информацию смотрите в "
+"журнале NVDA"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:54
+msgid "Translations exported"
+msgstr "Экспортированные переводы"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:68
+msgid "Cannot download translated file. See NVDA log for more details"
+msgstr ""
+"Не удаётся загрузить переведённый файл. Более подробную информацию "
+"смотрите в журнале NVDA"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:73
+#, python-format
+msgid "Translation file downloaded to %s"
+msgstr "Файл перевода загружен по пути %s"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:92
+msgid "Cannot upload translated file. See NVDA log for more details"
+msgstr ""
+"Не удаётся загрузить переведенный файл. Более подробную информацию "
+"смотрите в журнале NVDA"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:97
+msgid "Translated file uploaded"
+msgstr "Переведённый файл загружен"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:108
+msgid "Crowdin API token:"
+msgstr "Токен Crowdin API:"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:113
+msgid "Translations directory:"
+msgstr "Каталог переводов:"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:118
+msgid "Browse..."
+msgstr "Обзор..."
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:120
+msgid "Select translations directory"
+msgstr "Выберите каталог переводов"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:152
+msgid "NVDA add-ons with Crowdin"
+msgstr "Дополнения NVDA на Crowdin"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:162
+msgid "&Language:"
+msgstr "Я&зык:"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:175
+msgid "&Filter by:"
+msgstr "Фи&льтровать по:"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:200
+msgid "&Open file to translate"
+msgstr "&Открыть файл для перевода"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:211
+msgid "&Upload translated file"
+msgstr "&Загрузить переведённый файл"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:215
+msgid "&Download translation for the selected language"
+msgstr "Загрузить перевод на &выбранный язык"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:219
+msgid "Do&wnload all translations"
+msgstr "За&грузить все переводы"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:223
+msgid "&Close"
+msgstr "&Закрыть"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:287
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:307
+msgid "File not found))"
+msgstr "Файл не найден))"
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:298
+msgid "Uploading file for the selected language..."
+msgstr "Загрузка файла перевода на выбранный язык..."
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:312
+msgid "Downloading translations for the selected language..."
+msgstr "Идёт загрузка переводов на выбранный язык..."
+
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:321
+msgid "Downloading all translations..."
+msgstr "Идёт загрузка всех переводов..."
+
+#: buildVars.py:21
+msgid "Translate NVDA add-ons with Crowdin"
+msgstr ""
+"Translate NVDA add-ons with Crowdin (Перевод дополнений для NVDA на "
+"Crowdin)"
+
+#: buildVars.py:25
+msgid ""
+"Translate NVDA add-ons with Crowdin.\n"
+"Crowdin project:"
+msgstr ""
+"Перевод дополнений для NVDA на Crowdin.\n"
+"Проект Crowdin:"
+
+#: buildVars.py:32
+msgid "* Bad version."
+msgstr "* Плохая версия."
