@@ -341,7 +341,7 @@ class ToolsDialog(wx.Dialog):
 
 	def _getLanguage(self) -> str:
 		"""Gets the language to be used when downloading translation files.
-		:returns: The language used to download translation files.
+		:return: The language used to download translation files.
 		"""
 		language = self.languageNames[self.languageList.GetSelection()][0]
 		crowdinLanguage = languageMappings.get(language, language)
