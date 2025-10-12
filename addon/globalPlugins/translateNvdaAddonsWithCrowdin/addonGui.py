@@ -47,9 +47,7 @@ def exportTranslations(language: str | None = None) -> None:
 	:param language: The language of translation files.
 	"""
 
-	dir = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
-	if not dir:
-		dir = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
+	dir = getTranslationsDirectory()
 	try:
 		l10nUtil.exportTranslations(dir, language)
 	except Exception as e:
@@ -104,6 +102,17 @@ def uploadTranslatedFile(crowdinFilePath: str, localFilePath: str, language: str
 		# Translators: Message presented when a translated file has been uploaded.
 		ui.message(_("Translated file uploaded"), Spri.NEXT)
 	wx.CallAfter(mainThreadCallback)
+
+
+def getTranslationsDirectory() -> str:
+	"""Get the directory to store translations.
+	:return: The directory to store translations.
+	"""
+
+	dir = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
+	if not dir:
+		dir = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
+	return dir
 
 
 class AddonSettingsPanel(SettingsPanel):
@@ -180,7 +189,7 @@ class ToolsDialog(wx.Dialog):
 		self.languageList.SetSelection(index)
 
 		# Translators: Label of a dialog to filter a list of choices.
-		searchTextLabel = _("&Filter by:")
+		searchTextLabel = _("&Filter by file list:")
 		self.searchTextEdit = sHelper.addLabeledControl(searchTextLabel, wx.TextCtrl)
 		self.searchTextEdit.Bind(wx.EVT_TEXT, self.onSearchEditTextChange)
 
@@ -200,7 +209,6 @@ class ToolsDialog(wx.Dialog):
 			choices=self.choices,
 		)
 		self.toolsList.Selection = 0
-		#self.toolsList.Bind(wx.EVT_LISTBOX, self.ontoolsListChoice)
 		changeToolsSizer.Add(self.toolsList, proportion=1)
 		changeToolsSizer.AddSpacer(guiHelper.SPACE_BETWEEN_BUTTONS_VERTICAL)
 
@@ -279,9 +287,7 @@ class ToolsDialog(wx.Dialog):
 		self.uploadButton.Enabled = self.sel >= 0
 
 	def onOpen(self, evt: wx.CommandEvent):
-		translationsDirectory = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
-		if not translationsDirectory:
-			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
+		translationsDirectory = getTranslationsDirectory()
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
 		language = self.languageNames[self.languageList.GetSelection()][0]
 		filename = self.toolsList.GetStringSelection()
@@ -293,9 +299,7 @@ class ToolsDialog(wx.Dialog):
 			ui.message(_("File not found))"))
 
 	def onUpload(self, evt: wx.CommandEvent):
-		translationsDirectory = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
-		if not translationsDirectory:
-			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
+		translationsDirectory = getTranslationsDirectory()
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
 		crowdinLanguage = self._getLanguage()
 		filename = self.toolsList.GetStringSelection()
