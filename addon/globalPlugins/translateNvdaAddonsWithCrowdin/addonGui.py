@@ -260,8 +260,6 @@ class ToolsDialog(wx.Dialog):
 				self.toolsList,
 				self.openButton,
 				self.uploadButton,
-				self.downloadButton,
-				self.downloadForLanguageButton ,
 			):
 				control.Enabled = False
 
@@ -271,7 +269,6 @@ class ToolsDialog(wx.Dialog):
 		self.stringSel = self.toolsList.GetString(self.sel)
 		self.openButton.Enabled = self.sel >= 0
 		self.uploadButton.Enabled = self.sel >= 0
-		self.downloadButton.Enabled = self.sel >= 0
 
 	def onOpen(self, evt: wx.CommandEvent):
 		translationsDirectory = config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
