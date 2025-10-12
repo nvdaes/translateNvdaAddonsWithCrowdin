@@ -31,7 +31,14 @@ languageMappings: dict[str, str] = {
 	"af_ZA": "af",
 	"de_CH": "de-CH",
 	"es": "es-ES",
-	"es_CO": "es-CO"
+	"es_CO": "es-CO",
+	"nb_NO": "nb-NO",
+	"nn_NO": "nn-NO",
+	"pt": "pt-PT",
+	"pt_BR": "pt-BR",
+	"zh_CN": "zh-CN",
+	"zh_HK": "zh-HK",
+	"zh_TW": "zh-TW",
 }
 
 def exportTranslations(language: str | None = None) -> None:
