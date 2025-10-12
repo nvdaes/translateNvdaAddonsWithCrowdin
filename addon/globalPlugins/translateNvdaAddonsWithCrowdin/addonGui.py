@@ -212,7 +212,7 @@ class ToolsDialog(wx.Dialog):
 		self.uploadButton.Bind(wx.EVT_BUTTON, self.onUpload)
 
 		# Translators: The label of a button to download translations for a specific language.
-		self.downloadForLanguageButton = buttonHelper.addButton(self, label=_("&Download translation for the selected language"))
+		self.downloadForLanguageButton = buttonHelper.addButton(self, label=_("&Download translations for the selected language"))
 		self.downloadForLanguageButton.Bind(wx.EVT_BUTTON, self.onDownloadForLanguage)
 
 		# Translators: The label of a button to download all translations.
