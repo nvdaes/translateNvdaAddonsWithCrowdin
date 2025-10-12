@@ -63,3 +63,10 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 	)
 	def script_settings(self, gesture: InputGesture):
 		wx.CallAfter(self.onSettings, None)
+
+	@script(
+		# Translators: message presented in input mode.
+		description=_("Shows the Translate NVDA Add-ons with Crowdin dialog.")
+	)
+	def script_tools(self, gesture: InputGesture):
+		wx.CallAfter(self.onCrowdin, None)
