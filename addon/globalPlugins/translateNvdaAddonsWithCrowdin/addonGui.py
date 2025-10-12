@@ -261,6 +261,7 @@ class ToolsDialog(wx.Dialog):
 				self.openButton,
 				self.uploadButton,
 				self.downloadButton,
+				self.downloadForLanguageButton ,
 			):
 				control.Enabled = False
 
@@ -277,7 +278,7 @@ class ToolsDialog(wx.Dialog):
 		if not translationsDirectory:
 			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
-		language = self._getLanguage()
+		language = self.languageNames[self.languageList.GetSelection()][0]
 		filename = self.toolsList.GetStringSelection()
 		filePath = os.path.join(translationsDirectory, addonName, language, filename)
 		if os.path.isfile(filePath):
@@ -291,15 +292,15 @@ class ToolsDialog(wx.Dialog):
 		if not translationsDirectory:
 			translationsDirectory = os.path.join("%appdata%", "translateNvdaAddonsWithCrowdin")
 		addonName = os.path.splitext(self.toolsList.GetStringSelection())[0]
-		language = self._getLanguage()
+		crowdinLanguage = self._getLanguage()
 		filename = self.toolsList.GetStringSelection()
 		filePath = os.path.join(translationsDirectory, addonName, self.languageNames[self.languageList.GetSelection()][0], filename)
-		# Translators: Message presented when trying to download all translations.
-		ui.message(_("Uploading file for the selected language..."), Spri.NEXT)
+		# Translators: Message presented when trying to upload a translated file.
+		ui.message(_("Uploading file for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
 		if os.path.isfile(filePath):
 			threading.Thread(
-				name="UploadTranslations",
-				target=uploadTranslatedFile(crowdinFilePath=filename, localFilePath=filePath, language=language),
+				name="UploadTranslatedFile",
+				target=uploadTranslatedFile(crowdinFilePath=filename, localFilePath=filePath, language=crowdinLanguage),
 					daemon=True,
 			).start()
 		else:
@@ -307,12 +308,12 @@ class ToolsDialog(wx.Dialog):
 			ui.message(_("File not found))"))
 
 	def onDownloadForLanguage(self, evt: wx.CommandEvent):
-		language = self._getLanguage()
-		# Translators: Message presented when trying to download all translations.
-		ui.message(_("Downloading translations for the selected language..."), Spri.NEXT)
+		crowdinLanguage = self._getLanguage()
+		# Translators: Message presented when trying to download translations for the selected language.
+		ui.message(_("Downloading translations for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
 		threading.Thread(
-			name="DownloadTranslationForLanguage",
-			target=exportTranslations(language=language),
+			name="DownloadTranslationsForLanguage",
+			target=exportTranslations(language=crowdinLanguage),
 				daemon=True,
 		).start()
 
