@@ -305,7 +305,7 @@ class ToolsDialog(wx.Dialog):
 		filename = self.toolsList.GetStringSelection()
 		filePath = os.path.join(translationsDirectory, addonName, self.languageNames[self.languageList.GetSelection()][0], filename)
 		# Translators: Message presented when trying to upload a translated file.
-		ui.message(_("Uploading file for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
+		wx.CallAfter(ui.message, _("Uploading file for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
 		if os.path.isfile(filePath):
 			threading.Thread(
 				name="UploadTranslatedFile",
@@ -319,7 +319,7 @@ class ToolsDialog(wx.Dialog):
 	def onDownloadForLanguage(self, evt: wx.CommandEvent):
 		crowdinLanguage = self._getLanguage()
 		# Translators: Message presented when trying to download translations for the selected language.
-		ui.message(_("Downloading translations for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
+		wx.CallAfter(ui.message, _("Downloading translations for {language}...").format(language=self.languageList.GetStringSelection()), Spri.NEXT)
 		threading.Thread(
 			name="DownloadTranslationsForLanguage",
 			target=exportTranslations(language=crowdinLanguage),
@@ -328,7 +328,7 @@ class ToolsDialog(wx.Dialog):
 
 	def onDownload(self, evt: wx.CommandEvent):
 		# Translators: Message presented when trying to download all translations.
-		ui.message(_("Downloading all translations..."), Spri.NEXT)
+		wx.CallAfter(ui.message, _("Downloading all translations..."), Spri.NEXT)
 		threading.Thread(
 					name="ExportTranslations",
 					target=exportTranslations,
@@ -341,7 +341,7 @@ class ToolsDialog(wx.Dialog):
 
 	def _getLanguage(self) -> str:
 		"""Gets the language to be used when downloading translation files.
-		:return: The language used to download translation files.
+		:returns: The language used to download translation files.
 		"""
 		language = self.languageNames[self.languageList.GetSelection()][0]
 		crowdinLanguage = languageMappings.get(language, language)
