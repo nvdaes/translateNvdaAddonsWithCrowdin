@@ -6,6 +6,6 @@ from crowdin_api.typing import TypedDict
 
 
 class LanguagesPatchRequest(TypedDict):
-    value: Any
-    op: PatchOperation
-    path: LanguagesPatchPath
+	value: Any
+	op: PatchOperation
+	path: LanguagesPatchPath

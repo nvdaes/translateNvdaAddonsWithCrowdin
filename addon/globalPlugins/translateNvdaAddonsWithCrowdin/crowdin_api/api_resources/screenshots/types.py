@@ -6,24 +6,24 @@ from crowdin_api.typing import TypedDict
 
 
 class ScreenshotPatchRequest(TypedDict):
-    value: str
-    op: Union[PatchOperation, str]
-    path: ScreenshotPatchPath
+	value: str
+	op: Union[PatchOperation, str]
+	path: ScreenshotPatchPath
 
 
 class Position(TypedDict):
-    x: int
-    y: int
-    width: int
-    height: int
+	x: int
+	y: int
+	width: int
+	height: int
 
 
 class AddTagRequest(TypedDict):
-    stringId: int
-    position: Optional[Position]
+	stringId: int
+	position: Optional[Position]
 
 
 class TagPatchRequest(TypedDict):
-    value: Any
-    op: Union[PatchOperation, str]
-    path: TagPatchPath
+	value: Any
+	op: Union[PatchOperation, str]
+	path: TagPatchPath

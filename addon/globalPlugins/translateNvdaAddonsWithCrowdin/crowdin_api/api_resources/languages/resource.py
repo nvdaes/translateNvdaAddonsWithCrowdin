@@ -6,109 +6,111 @@ from crowdin_api.api_resources.languages.types import LanguagesPatchRequest
 
 
 class LanguagesResource(BaseResource):
-    """
-    Resource for Languages.
+	"""
+	Resource for Languages.
 
-    Crowdin supports more than 300 world languages and custom languages created in the system.
+	Crowdin supports more than 300 world languages and custom languages created in the system.
 
-    Use API to get the list of all supported languages and retrieve additional details
-    (e.g. text direction, internal code) on specific language.
+	Use API to get the list of all supported languages and retrieve additional details
+	(e.g. text direction, internal code) on specific language.
 
-    Link to documentation: https://developer.crowdin.com/api/v2/#tag/Languages
-    """
+	Link to documentation: https://developer.crowdin.com/api/v2/#tag/Languages
+	"""
 
-    def get_languages_path(self, languageId: Optional[str] = None):
-        if languageId:
-            return f"languages/{languageId}"
+	def get_languages_path(self, languageId: Optional[str] = None):
+		if languageId:
+			return f"languages/{languageId}"
 
-        return "languages"
+		return "languages"
 
-    def list_supported_languages(
-        self,
-        page: Optional[int] = None,
-        offset: Optional[int] = None,
-        limit: Optional[int] = None,
-    ):
-        """
-        List Supported Languages.
+	def list_supported_languages(
+		self,
+		page: Optional[int] = None,
+		offset: Optional[int] = None,
+		limit: Optional[int] = None,
+	):
+		"""
+		List Supported Languages.
 
-        Link to documentation:
-        https://developer.crowdin.com/api/v2/#operation/api.languages.getMany
-        """
+		Link to documentation:
+		https://developer.crowdin.com/api/v2/#operation/api.languages.getMany
+		"""
 
-        return self._get_entire_data(
-            method="get",
-            path=self.get_languages_path(),
-            params=self.get_page_params(page=page, offset=offset, limit=limit),
-        )
+		return self._get_entire_data(
+			method="get",
+			path=self.get_languages_path(),
+			params=self.get_page_params(page=page, offset=offset, limit=limit),
+		)
 
-    def add_custom_language(
-        self,
-        name: str,
-        code: str,
-        localeCode: str,
-        textDirection: LanguageTextDirection,
-        pluralCategoryNames: Iterable[str],
-        threeLettersCode: str,
-        twoLettersCode: Optional[str] = None,
-        dialectOf: Optional[str] = None,
-    ):
-        """
-        Add Custom Language.
+	def add_custom_language(
+		self,
+		name: str,
+		code: str,
+		localeCode: str,
+		textDirection: LanguageTextDirection,
+		pluralCategoryNames: Iterable[str],
+		threeLettersCode: str,
+		twoLettersCode: Optional[str] = None,
+		dialectOf: Optional[str] = None,
+	):
+		"""
+		Add Custom Language.
 
-        Link to documentation:
-        https://developer.crowdin.com/api/v2/#operation/api.languages.post
-        """
+		Link to documentation:
+		https://developer.crowdin.com/api/v2/#operation/api.languages.post
+		"""
 
-        return self.requester.request(
-            method="post",
-            path=self.get_languages_path(),
-            request_data={
-                "name": name,
-                "code": code,
-                "localeCode": localeCode,
-                "textDirection": textDirection,
-                "pluralCategoryNames": pluralCategoryNames,
-                "threeLettersCode": threeLettersCode,
-                "twoLettersCode": twoLettersCode,
-                "dialectOf": dialectOf,
-            },
-        )
+		return self.requester.request(
+			method="post",
+			path=self.get_languages_path(),
+			request_data={
+				"name": name,
+				"code": code,
+				"localeCode": localeCode,
+				"textDirection": textDirection,
+				"pluralCategoryNames": pluralCategoryNames,
+				"threeLettersCode": threeLettersCode,
+				"twoLettersCode": twoLettersCode,
+				"dialectOf": dialectOf,
+			},
+		)
 
-    def get_language(self, languageId: str):
-        """
-        Get Language.
+	def get_language(self, languageId: str):
+		"""
+		Get Language.
 
-        Link to documentation:
-        https://developer.crowdin.com/api/v2/#operation/api.languages.get
-        """
+		Link to documentation:
+		https://developer.crowdin.com/api/v2/#operation/api.languages.get
+		"""
 
-        return self.requester.request(
-            method="get", path=self.get_languages_path(languageId=languageId)
-        )
+		return self.requester.request(
+			method="get",
+			path=self.get_languages_path(languageId=languageId),
+		)
 
-    def delete_custom_language(self, languageId: str):
-        """
-        Delete Custom Language.
+	def delete_custom_language(self, languageId: str):
+		"""
+		Delete Custom Language.
 
-        Link to documentation:
-        https://developer.crowdin.com/api/v2/#operation/api.languages.delete
-        """
+		Link to documentation:
+		https://developer.crowdin.com/api/v2/#operation/api.languages.delete
+		"""
 
-        return self.requester.request(
-            method="delete", path=self.get_languages_path(languageId=languageId)
-        )
+		return self.requester.request(
+			method="delete",
+			path=self.get_languages_path(languageId=languageId),
+		)
 
-    def edit_custom_language(self, languageId: str, data: Iterable[LanguagesPatchRequest]):
-        """
-        Edit Custom Language.
+	def edit_custom_language(self, languageId: str, data: Iterable[LanguagesPatchRequest]):
+		"""
+		Edit Custom Language.
 
-        Link to documentation:
-        https://developer.crowdin.com/api/v2/#operation/api.languages.patch
-        """
+		Link to documentation:
+		https://developer.crowdin.com/api/v2/#operation/api.languages.patch
+		"""
 
-        return self.requester.request(
-            method="patch",
-            path=self.get_languages_path(languageId=languageId),
-            request_data=data,
-        )
+		return self.requester.request(
+			method="patch",
+			path=self.get_languages_path(languageId=languageId),
+			request_data=data,
+		)
