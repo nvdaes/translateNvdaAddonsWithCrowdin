@@ -4,19 +4,19 @@ from crowdin_api.api_resources.translations.enums import PreTranslationEditOpera
 
 
 class FallbackLanguages(TypedDict):
-    languageId: Iterable[str]
+	languageId: Iterable[str]
 
 
 class EditPreTranslationScheme(TypedDict):
-    op: PreTranslationEditOperation
-    path: str
-    value: str
+	op: PreTranslationEditOperation
+	path: str
+	value: str
 
 
 class UploadTranslationRequest(TypedDict):
-    storageId: int
-    fileId: int
-    importEqSuggestions: Optional[bool]
-    autoApproveImported: Optional[bool]
-    translateHidden: Optional[bool]
-    addToTm: Optional[bool]
+	storageId: int
+	fileId: int
+	importEqSuggestions: Optional[bool]
+	autoApproveImported: Optional[bool]
+	translateHidden: Optional[bool]
+	addToTm: Optional[bool]

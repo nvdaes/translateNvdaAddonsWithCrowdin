@@ -6,6 +6,6 @@ from crowdin_api.typing import TypedDict
 
 
 class LabelsPatchRequest(TypedDict):
-    value: Any
-    op: PatchOperation
-    path: LabelsPatchPath
+	value: Any
+	op: PatchOperation
+	path: LabelsPatchPath

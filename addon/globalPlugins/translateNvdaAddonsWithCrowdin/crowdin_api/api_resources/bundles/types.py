@@ -6,6 +6,6 @@ from crowdin_api.typing import TypedDict
 
 
 class BundlePatchRequest(TypedDict):
-    value: Union[str, int]
-    op: PatchOperation
-    path: BundlePatchPath
+	value: Union[str, int]
+	op: PatchOperation
+	path: BundlePatchPath
