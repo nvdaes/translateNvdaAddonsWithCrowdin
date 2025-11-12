@@ -26,7 +26,7 @@ addon_info = AddonInfo(
 Crowdin project:"""
 ),
 	# version
-	addon_version="0.0.0",
+	addon_version="0.0.1",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
 	addon_changelog=_("""* Bad version."""),
