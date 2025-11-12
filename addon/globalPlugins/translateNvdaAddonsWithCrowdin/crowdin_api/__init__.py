@@ -5,6 +5,6 @@ __author__ = "Crowdin"
 __version__ = "1.21.0"
 
 __pdoc__ = {
-    "tests": False,
-    "fixtures": False
+	"tests": False,
+	"fixtures": False,
 }

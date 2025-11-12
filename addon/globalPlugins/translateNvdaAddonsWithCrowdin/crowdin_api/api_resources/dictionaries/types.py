@@ -3,5 +3,5 @@ from crowdin_api.typing import TypedDict
 
 
 class DictionaryPatchPath(TypedDict):
-    op: PatchOperation
-    path: str
+	op: PatchOperation
+	path: str

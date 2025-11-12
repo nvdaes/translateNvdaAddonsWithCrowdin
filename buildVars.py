@@ -23,7 +23,7 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description=_(
         """Translate NVDA add-ons with Crowdin.
-Crowdin project:"""
+Crowdin project:""",
 ),
 	# version
 	addon_version="0.0.1",

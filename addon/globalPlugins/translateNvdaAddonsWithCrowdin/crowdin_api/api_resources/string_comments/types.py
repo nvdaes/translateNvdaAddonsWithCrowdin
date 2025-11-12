@@ -6,6 +6,6 @@ from crowdin_api.typing import TypedDict
 
 
 class StringCommentPatchRequest(TypedDict):
-    value: Any
-    op: PatchOperation
-    path: StringCommentPatchPath
+	value: Any
+	op: PatchOperation
+	path: StringCommentPatchPath

@@ -6,6 +6,6 @@ from crowdin_api.typing import TypedDict
 
 
 class WebhookPatchRequest(TypedDict):
-    value: Any
-    op: PatchOperation
-    path: WebhookPatchPath
+	value: Any
+	op: PatchOperation
+	path: WebhookPatchPath

@@ -28,7 +28,6 @@ config.conf.spec["translateNvdaAddonsWithCrowdin"] = confspec
 
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
-
 	scriptCategory = ADDON_SUMMARY
 
 	def __init__(self):
@@ -66,7 +65,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	@script(
 		# Translators: message presented in input mode.
-		description=_("Shows the Translate NVDA Add-ons with Crowdin dialog.")
+		description=_("Shows the Translate NVDA Add-ons with Crowdin dialog."),
 	)
 	def script_tools(self, gesture: InputGesture):
 		wx.CallAfter(self.onCrowdin, None)
