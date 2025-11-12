@@ -303,7 +303,9 @@ def uploadSourceFile(localFilePath: str):
 			print("Done")
 		case _:
 			res = getCrowdinClient().source_files.update_file(
-				fileId=fileId, storageId=storageId, projectId=CROWDIN_PROJECT_ID
+				fileId=fileId,
+				storageId=storageId,
+				projectId=CROWDIN_PROJECT_ID,
 			)
 
 

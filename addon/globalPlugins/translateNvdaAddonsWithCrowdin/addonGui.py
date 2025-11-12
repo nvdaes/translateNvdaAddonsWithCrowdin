@@ -145,7 +145,7 @@ class AddonSettingsPanel(SettingsPanel):
 		directoryEntryControl = groupHelper.addItem(directoryPathHelper)
 		self.translationsDirectoryEdit = directoryEntryControl.pathControl
 		self.translationsDirectoryEdit.SetValue(
-			config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"]
+			config.conf["translateNvdaAddonsWithCrowdin"]["translationsDirectory"],
 		)
 
 	def onSave(self):
@@ -240,7 +240,8 @@ class ToolsDialog(wx.Dialog):
 
 		# Translators: The label of a button to download translations for a specific language.
 		self.downloadForLanguageButton = buttonHelper.addButton(
-			self, label=_("&Download translations for the selected language")
+			self,
+			label=_("&Download translations for the selected language"),
 		)
 		self.downloadForLanguageButton.Bind(wx.EVT_BUTTON, self.onDownloadForLanguage)
 
@@ -332,7 +333,9 @@ class ToolsDialog(wx.Dialog):
 			threading.Thread(
 				name="UploadTranslatedFile",
 				target=uploadTranslatedFile(
-					crowdinFilePath=filename, localFilePath=filePath, language=crowdinLanguage
+					crowdinFilePath=filename,
+					localFilePath=filePath,
+					language=crowdinLanguage,
 				),
 				daemon=True,
 			).start()
@@ -346,7 +349,7 @@ class ToolsDialog(wx.Dialog):
 		wx.CallAfter(
 			ui.message,
 			_("Downloading translations for {language}...").format(
-				language=self.languageList.GetStringSelection()
+				language=self.languageList.GetStringSelection(),
 			),
 			Spri.NEXT,
 		)
