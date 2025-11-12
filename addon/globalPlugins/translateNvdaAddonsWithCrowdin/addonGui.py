@@ -205,7 +205,6 @@ class ToolsDialog(wx.Dialog):
 		self.searchTextEdit = sHelper.addLabeledControl(searchTextLabel, wx.TextCtrl)
 		self.searchTextEdit.Bind(wx.EVT_TEXT, self.onSearchEditTextChange)
 
-		toolsListGroupSizer = wx.StaticBoxSizer(wx.StaticBox(self), wx.HORIZONTAL)
 		toolsListGroupContents = wx.BoxSizer(wx.HORIZONTAL)
 		changeToolsSizer = wx.BoxSizer(wx.VERTICAL)
 		with open(AVAILABLE_FILES_PATH, "rt") as f:

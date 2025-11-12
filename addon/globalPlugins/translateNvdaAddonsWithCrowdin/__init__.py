@@ -3,11 +3,9 @@
 # Released under GPL 2
 
 import wx
-from threading import Thread
 
 import addonHandler
 import config
-import ui
 import globalPluginHandler
 import gui
 from gui.settingsDialogs import NVDASettingsDialog
