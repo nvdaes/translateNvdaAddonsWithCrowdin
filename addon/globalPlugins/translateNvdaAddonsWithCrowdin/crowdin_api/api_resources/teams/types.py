@@ -6,35 +6,35 @@ from crowdin_api.typing import TypedDict
 
 
 class TeamPatchRequest(TypedDict):
-    value: Union[str, bool, Iterable[int], Iterable[dict]]
-    op: PatchOperation
-    path: TeamPatchPath
+	value: Union[str, bool, Iterable[int], Iterable[dict]]
+	op: PatchOperation
+	path: TeamPatchPath
 
 
 class WorkflowStepId(TypedDict):
-    workflowStepIds: Union[str, Iterable[int]]
+	workflowStepIds: Union[str, Iterable[int]]
 
 
 class Permissions(TypedDict):
-    it: WorkflowStepId
-    de: WorkflowStepId
+	it: WorkflowStepId
+	de: WorkflowStepId
 
 
 class LanguageData(TypedDict):
-    allContent: bool
-    workflowStepIds: Optional[Iterable[Any]]
+	allContent: bool
+	workflowStepIds: Optional[Iterable[Any]]
 
 
 class LanguagesAccessData(TypedDict):
-    it: LanguageData
-    uk: LanguageData
+	it: LanguageData
+	uk: LanguageData
 
 
 class RolePermission(TypedDict):
-    allLanguages: bool
-    languagesAccess: Optional[LanguagesAccessData]
+	allLanguages: bool
+	languagesAccess: Optional[LanguagesAccessData]
 
 
 class TeamByProjectRole(TypedDict):
-    name: TeamRole
-    permissions: RolePermission
+	name: TeamRole
+	permissions: RolePermission

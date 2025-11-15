@@ -1,1 +1,1 @@
-__pdoc__ = {'tests': False}
+__pdoc__ = {"tests": False}

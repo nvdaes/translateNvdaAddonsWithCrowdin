@@ -2,9 +2,9 @@ from enum import Enum
 
 
 class LabelsPatchPath(Enum):
-    TITLE = "/title"
+	TITLE = "/title"
 
 
 class ListLabelsOrderBy(Enum):
-    ID = "id"
-    TITLE = "title"
+	ID = "id"
+	TITLE = "title"

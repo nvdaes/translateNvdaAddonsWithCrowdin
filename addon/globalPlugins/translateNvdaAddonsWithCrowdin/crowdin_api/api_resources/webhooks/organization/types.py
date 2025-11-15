@@ -1,4 +1,3 @@
-
 from typing import TypedDict, Any
 
 from crowdin_api.api_resources.enums import PatchOperation
@@ -6,6 +5,6 @@ from crowdin_api.api_resources.webhooks.organization.enums import OrganizationWe
 
 
 class OrganizationWebhookPatchRequest(TypedDict):
-    value: Any
-    op: PatchOperation
-    path: OrganizationWebhookPatchPath
+	value: Any
+	op: PatchOperation
+	path: OrganizationWebhookPatchPath

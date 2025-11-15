@@ -282,19 +282,31 @@ def uploadSourceFile(localFilePath: str):
 	match fileId:
 		case None:
 			if os.path.splitext(filename)[1] == ".pot":
-				title=f"{os.path.splitext(filename)[0]} interface"
-				exportPattern = f"/{os.path.splitext(filename)[0]}/%two_letters_code%/{os.path.splitext(filename)[0]}.po"
+				title = f"{os.path.splitext(filename)[0]} interface"
+				exportPattern = (
+					f"/{os.path.splitext(filename)[0]}/%two_letters_code%/{os.path.splitext(filename)[0]}.po"
+				)
 			else:
-				title=f"{os.path.splitext(filename)[0]} documentation"
-				exportPattern =f"/{os.path.splitext(filename)[0]}/%two_letters_code%/{filename}"
+				title = f"{os.path.splitext(filename)[0]} documentation"
+				exportPattern = f"/{os.path.splitext(filename)[0]}/%two_letters_code%/{filename}"
 			exportOptions = {
-				"exportPattern": exportPattern
+				"exportPattern": exportPattern,
 			}
 			print(f"Importing source file {localFilePath} from storage with ID {storageId}")
-			res = getCrowdinClient().source_files.add_file(storageId=storageId, projectId=CROWDIN_PROJECT_ID, name=filename, title=title, exportOptions=exportOptions)
+			res = getCrowdinClient().source_files.add_file(
+				storageId=storageId,
+				projectId=CROWDIN_PROJECT_ID,
+				name=filename,
+				title=title,
+				exportOptions=exportOptions,
+			)
 			print("Done")
 		case _:
-			res = getCrowdinClient().source_files.update_file(fileId=fileId , storageId=storageId, projectId=CROWDIN_PROJECT_ID)
+			res = getCrowdinClient().source_files.update_file(
+				fileId=fileId,
+				storageId=storageId,
+				projectId=CROWDIN_PROJECT_ID,
+			)
 
 
 def getFiles() -> dict:
@@ -311,7 +323,7 @@ def getFiles() -> dict:
 		id = fileInfo["id"]
 		dictionary[name] = id
 	with open(JSON_FILE, "w", encoding="utf-8") as jsonFile:
-			json.dump(dictionary, jsonFile, ensure_ascii=False)
+		json.dump(dictionary, jsonFile, ensure_ascii=False)
 	return dictionary
 
 
@@ -892,7 +904,7 @@ def main():
 		"-l",
 		"--language",
 		help="Language code to export (e.g., 'es', 'fr', 'de'). If not specified, exports all languages.",
-	default=None,
+		default=None,
 	)
 
 	args = args.parse_args()
