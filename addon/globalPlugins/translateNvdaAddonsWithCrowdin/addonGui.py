@@ -197,7 +197,7 @@ class ToolsDialog(wx.Dialog):
 		try:
 			index = [x[0] for x in self.languageNames].index(languageHandler.getLanguage())
 		except ValueError:
-			index = [x[0] for x in self.languageNames].index(languageHandler.getLanguage().split("_")[0])
+			index = 0
 		self.languageList.SetSelection(index)
 
 		# Translators: Label of a dialog to filter a list of choices.
