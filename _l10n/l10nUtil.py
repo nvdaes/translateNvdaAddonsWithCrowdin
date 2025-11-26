@@ -810,10 +810,6 @@ def main():
 	)
 	command_xliff2md.add_argument("xliffPath", help="Path to the xliff file")
 	command_xliff2md.add_argument("mdPath", help="Path to the resulting markdown file")
-	uploadSourceFileCommand = commands.add_parser(
-		"uploadSourceFile",
-		help="Upload a source file to Crowdin.",
-	)
 	downloadTranslationFileCommand = commands.add_parser(
 		"downloadTranslationFile",
 		help="Download a translation file from Crowdin.",
