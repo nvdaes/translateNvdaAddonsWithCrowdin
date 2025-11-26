@@ -262,7 +262,7 @@ def uploadSourceFile(localFilePath: str):
 	Upload a source file to Crowdin.
 	:param localFilePath: The path to the local file to be uploaded
 	"""
-	with open(JSON_FILE, "r", encoding="utf-8") as jsonFile:
+	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
 		files = json.load(jsonFile)
 	fileId = files.get(localFilePath)
 	if fileId is None:
