@@ -814,15 +814,6 @@ def main():
 		"uploadSourceFile",
 		help="Upload a source file to Crowdin.",
 	)
-	uploadSourceFileCommand.add_argument(
-		"-f",
-		"--localFilePath",
-		help="The local path to the file.",
-	)
-	getFilesCommand = commands.add_parser(
-		"getFiles",
-		help="Get files from Crowdin.",
-	)
 	downloadTranslationFileCommand = commands.add_parser(
 		"downloadTranslationFile",
 		help="Download a translation file from Crowdin.",
