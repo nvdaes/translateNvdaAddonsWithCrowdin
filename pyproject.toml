@@ -205,6 +205,3 @@ lint = [
 	"pre-commit==4.0.1",
 	"pyright==1.1.396",
 ]
-
-[tool.setuptools.dynamic]
-version = {attr = "buildVersion.version_detailed"}
