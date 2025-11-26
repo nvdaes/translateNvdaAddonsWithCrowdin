@@ -18,7 +18,7 @@ import sys
 import zipfile
 import time
 import json
-from .. import buildVars
+import buildVars
 
 CROWDIN_PROJECT_ID = 780748
 POLLING_INTERVAL_SECONDS = 5
