@@ -1,5 +1,5 @@
 # A part of NonVisual Desktop Access (NVDA)
-# Copyright (C) 2024 NV Access Limited.
+# Copyright (C) 2024 NV Access Limited, Noelia Ruiz Martínez.
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
