@@ -45,7 +45,7 @@ jobs:
           name = 'addonId'
           value = addonId
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-            f.write(f"{name}={value}"")
+            f.write(f"{name}={value}")
       - name: Generate xliff
         if: ${{ !inputs.update }}
         run: |
