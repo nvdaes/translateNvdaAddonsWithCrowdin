@@ -856,7 +856,15 @@ def main():
 		default=None,
 		help="The path to the local file to be uploaded. If not provided, the Crowdin file path will be used.",
 	)
-
+	uploadSourceFileCommand = commands.add_parser(
+		"uploadSourceFile",
+		help="Upload a source file to Crowdin.",
+	)
+	uploadSourceFileCommand.add_argument(
+		"-f",
+		"--localFilePath",
+		help="The local path to the file.",
+	)
 	exportTranslationsCommand = commands.add_parser(
 		"exportTranslations",
 		help="Export translation files from Crowdin as a bundle. If no language is specified, exports all languages.",
