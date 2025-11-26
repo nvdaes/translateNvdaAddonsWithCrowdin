@@ -3,7 +3,9 @@
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
-import os, sys
+import os
+import sys
+
 sys.path.insert(0, os.getcwd())
 
 import crowdin_api as crowdin
