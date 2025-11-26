@@ -10,7 +10,8 @@ from site_scons.site_tools.NVDATool.typings import AddonInfo, BrailleTables, Sym
 # which returns whatever is given to it as an argument.
 from site_scons.site_tools.NVDATool.utils import _
 
-
+# The GitHub user account to generate xliff file for translations
+userAccount: str | None = "nvdaes"
 # Add-on information variables
 addon_info = AddonInfo(
 	# add-on Name/identifier, internal for NVDA
@@ -26,7 +27,7 @@ addon_info = AddonInfo(
 Crowdin project:""",
 	),
 	# version
-	addon_version="0.0.1",
+	addon_version="0.0.2",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
 	addon_changelog=_("""* Initial beta version."""),
