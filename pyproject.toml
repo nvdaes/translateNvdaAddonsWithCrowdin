@@ -1,9 +1,27 @@
+[build-system]
+requires = ["setuptools~=72.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "translateNvdaAddonsWithCrowdin"
+dynamic = ["version"]
 version = "0.1.0"
 description = "Translate NVDA add-ons with Crowdin"
 readme = "readme.md"
-requires-python = ">=3.13"
+maintainers = [
+	{name = "Noelia ruiz Martínez", email = "nrm1977@gmail.com"},
+]
+requires-python = ">=3.13,<3.14"
+classifiers = [
+	"Development Status :: 5 - Production/Stable",
+	"Intended Audience :: End Users/Desktop",
+	"License :: OSI Approved :: GNU General Public License v2",
+	"Operating System :: Microsoft :: Windows",
+	"Programming Language :: Python :: 3",
+	"Topic :: Accessibility",
+]
+readme = "readme.md"
+license = {file = "LICENSE"}
 dependencies = [
     "crowdin-api-client==1.21.0",
     "lxml>=6.0.1",
