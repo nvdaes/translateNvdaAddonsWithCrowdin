@@ -50,6 +50,7 @@ jobs:
               while chunk := f.read(8192):
                 hasher.update(chunk)
             readmeSha = hasher.hexdigest()
+          chunk = ""
           for file in i18nSources:
             if os.path.isfile(file):
               with open(file, "rb") as f:
