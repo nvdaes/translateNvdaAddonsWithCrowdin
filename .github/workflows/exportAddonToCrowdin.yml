@@ -39,7 +39,7 @@ jobs:
         id: getAddonInfo
         shell: python
         run: |
-          import os, sys, hashlib
+          import os, sys, hashlib, json
           sys.path.insert(0, os.getcwd())
           import buildVars
           addonId = buildVars.addon_info["addon_name"]
@@ -57,13 +57,20 @@ jobs:
                 while chunk := f.read(8192):
                   hasher.update(chunk)
           i18nSourcesHash = hasher.hexdigest()
+          l10nfile = "_l10n/l10n.json"
+          with open(l10nfile, "r) as f:"):
+            data = json.load(f)
+          shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
+          shouldUpdatePot = (data.get("i18nSourcesSha") == i18nSourcesSha)
           name = 'addonId'
           value = addonId
-          name2 = 'i18nSourcesHash'
-          value2 = i18nSourcesHash
+          name0 = 'shouldUpdateXlif'
+          value0 = shouldUpdateXliff
+          name1 = 'shouldUpdatePot'
+          value1 = shouldUpdatePot
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-            f.write(f"{name}={value}\n{name2}={value2}")
-          print(value2)
+            f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}\n{name2}={value2}")
+
       - name: Generate xliff
         if: ${{ !inputs.update }}
         run: |
