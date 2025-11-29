@@ -55,6 +55,10 @@ jobs:
           print(value2)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name2}={value2}")
+      
+      - name: Print hashFiles
+        run: echo "${{ hashFiles(steps.getAddonInfo.outputs.paths) }}""
+
       - name: Generate xliff
         if: ${{ !inputs.update }}
         run: |
