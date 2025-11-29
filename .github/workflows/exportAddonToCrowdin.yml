@@ -70,7 +70,7 @@ jobs:
           name1 = 'shouldUpdatePot'
           value1 = shouldUpdatePot
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-            f.writ(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
+            f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
           if shouldUpdateXliff or shouldUpdatePot:
             data["readmeSha"] = readmeSha
             data["i18nSourcesSha"] = i18nSourcesSha
