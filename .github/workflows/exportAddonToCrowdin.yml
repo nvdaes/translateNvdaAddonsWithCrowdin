@@ -46,7 +46,7 @@ jobs:
           i18nSources = buildVars.i18nSources
           paths = list()
           for file in i18nSources:
-            if os.path.isfile(file)
+            if os.path.isfile(file):
              paths.append(file)
           name = 'addonId'
           value = addonId
