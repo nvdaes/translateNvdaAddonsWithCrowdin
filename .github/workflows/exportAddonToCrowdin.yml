@@ -57,7 +57,8 @@ jobs:
             f.write(f"{name}={value}\n{name2}={value2}")
       
       - name: Print hashFiles
-        run: echo "${{ hashFiles(steps.getAddonInfo.outputs.paths) }}"
+        #run: echo "${{ hashFiles(steps.getAddonInfo.outputs.paths) }}"
+        run: echo"${{hashFiles('addons/**/*.py')}}"
 
       - name: Generate xliff
         if: ${{ !inputs.update }}
