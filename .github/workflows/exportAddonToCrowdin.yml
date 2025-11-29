@@ -56,7 +56,7 @@ jobs:
               with open(file, "rb") as f:
                 while chunk := f.read(8192):
                   hasher.update(chunk)
-          i18nSourcesHash = hasher.hexdigest()
+          i18nSourcesSha = hasher.hexdigest()
           l10nfile = "_l10n/l10n.json"
           with open(l10nfile, "r") as f:
             data = json.load(f)
