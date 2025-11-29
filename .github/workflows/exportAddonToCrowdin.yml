@@ -58,7 +58,7 @@ jobs:
                 while chunk := f.read(8192):
                   hasher.update(chunk)
           i18nSourcesSha = hasher.hexdigest()
-          l10nfile = "_l10n/l10n.json"
+          l10nfile = "_l10n/l10n.jsons"
           with open(l10nfile, "r") as f:
             data = json.load(f)
           shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
