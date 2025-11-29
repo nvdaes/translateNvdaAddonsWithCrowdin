@@ -45,19 +45,24 @@ jobs:
           addonId = buildVars.addon_info["addon_name"]
           i18nSources = buildVars.i18nSources
           hasher = hashlib.sha256()
+          if os.path.isfile("readme.md"):
+            with open("readme.md", "rb") as f:
+              while chunk := f.read(8192):
+                hasher.update(chunk)
+            readmeSha = hasher.hexdigest()
           for file in i18nSources:
             if os.path.isfile(file):
               with open(file, "rb") as f:
                 while chunk := f.read(8192):
                   hasher.update(chunk)
-          hashValue = hasher.hexdigest()
+          i18nSourcesHash = hasher.hexdigest()
           name = 'addonId'
           value = addonId
-          name2 = 'hashValue'
-          value2 = hashValue
-          print(hashValue)
+          name2 = 'i18nSourcesHash'
+          value2 = i18nSourcesHash
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name2}={value2}")
+          print(value2)
       - name: Generate xliff
         if: ${{ !inputs.update }}
         run: |
