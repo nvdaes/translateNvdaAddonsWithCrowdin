@@ -58,7 +58,7 @@ jobs:
                   hasher.update(chunk)
           i18nSourcesHash = hasher.hexdigest()
           l10nfile = "_l10n/l10n.json"
-          with open(l10nfile, "r) as f:"):
+          with open(l10nfile, "r") as f:"):
             data = json.load(f)
           shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
           shouldUpdatePot = (data.get("i18nSourcesSha") == i18nSourcesSha)
