@@ -50,8 +50,9 @@ jobs:
              paths.append(file)
           name = 'addonId'
           value = addonId
-          name2 = 'paths'
-          value2 = paths
+          name2 = 'sha256'
+          value2 = ${{ hashFiles(paths) }}
+          print(value2)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name2}={value2}")
       - name: Generate xliff
