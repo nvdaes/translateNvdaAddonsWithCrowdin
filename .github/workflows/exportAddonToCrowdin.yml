@@ -61,7 +61,6 @@ jobs:
           l10nfile = "_l10n/l10n.json"
           with open(l10nfile, "r") as f:
             data = json.load(f)
-          print(data["addonId"])
           shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
           shouldUpdatePot = (data.get("i18nSourcesSha") == i18nSourcesSha)
           name = 'addonId'
@@ -77,6 +76,7 @@ jobs:
             data["i18nSourcesSha"] = i18nSourcesSha
             with open(l10nfile, "w") as f:
               json.dump(data, f, ensure_ascii=False)
+            print (data)
       - name: Generate xliff and pot
         if: ${{ !inputs.update }}
         run: |
