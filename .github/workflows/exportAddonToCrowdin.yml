@@ -58,7 +58,7 @@ jobs:
                 while chunk := f.read(8192):
                   hasher.update(chunk)
           i18nSourcesSha = hasher.hexdigest()
-          l10nfile = "_l10n/l10n.jsons"
+          l10nfile = "_l10n/l10n.json"
           with open(l10nfile, "r") as f:
             data = json.load(f)
           shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
@@ -106,7 +106,7 @@ jobs:
           git config --local user.name github-actions
           git config --local user.email github-actions@github.com
           git status
-          git add _l10n/l10n.json
+          git add .
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
           echo "has_changes=false" >> $GITHUB_OUTPUT
