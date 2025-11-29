@@ -71,12 +71,10 @@ jobs:
           value1 = shouldUpdatePot
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
-          if shouldUpdateXliff or shouldUpdatePot:
-            data["readmeSha"] = readmeSha
-            data["i18nSourcesSha"] = i18nSourcesSha
-            with open(l10nfile, "w") as f:
-              json.dump(data, f, ensure_ascii=False)
-            print (data)
+          data["readmeSha"] = readmeSha
+          data["i18nSourcesSha"] = i18nSourcesSha
+          with open(l10nfile, "w") as f:
+            json.dump(data, f, ensure_ascii=False)
       - name: Generate xliff and pot
         if: ${{ !inputs.update }}
         run: |
