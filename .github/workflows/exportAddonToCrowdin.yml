@@ -51,7 +51,7 @@ jobs:
           name = 'addonId'
           value = addonId
           name2 = 'paths'
-          value2 = paths
+          value2 = " ".join(paths)
           print(value2)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name2}={value2}")
