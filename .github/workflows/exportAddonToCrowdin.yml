@@ -73,7 +73,7 @@ jobs:
             f.writ(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
           if shouldUpdateXliff or shouldUpdatePot:
             data["readmeSha"] = readmeSha
-            data("i18nSourcesSha") = i18nSourcesSha
+            data["i18nSourcesSha"] = i18nSourcesSha
             with open(l10nfile, "w") as f:
               json.dump(data, f, ensure_ascii=False)
       - name: Generate xliff and pot
