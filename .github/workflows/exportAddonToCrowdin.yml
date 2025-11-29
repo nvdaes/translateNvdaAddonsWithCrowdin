@@ -47,7 +47,7 @@ jobs:
           paths = list()
           for file in i18nSources:
             if os.path.isfile(file):
-              paths.append(f"'{file}')
+              paths.append(f"'{file}'")
           name = 'addonId'
           value = addonId
           name2 = 'paths'
