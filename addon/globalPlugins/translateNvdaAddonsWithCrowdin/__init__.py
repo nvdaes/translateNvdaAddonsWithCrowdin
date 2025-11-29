@@ -54,7 +54,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 		gui.mainFrame.popupSettingsDialog(NVDASettingsDialog, AddonSettingsPanel)
 
 	@script(
-		# Translators: message presented in input mode.
+		# Translators: message presented in input mode
 		description=_("Shows the Translate NVDA Add-ons with Crowdin settings."),
 		category=SCRCAT_CONFIG,
 	)
