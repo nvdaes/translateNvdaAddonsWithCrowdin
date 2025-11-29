@@ -47,6 +47,8 @@ jobs:
           paths = list()
           for file in i18nSources:
             if os.path.isfile(file):
+              if file.startswith("addon/"):
+                file.replace("addon/", "/addon/", 1)
              paths.append(file)
           name = 'addonId'
           value = addonId
