@@ -49,7 +49,7 @@ jobs:
             if os.path.isfile(file):
               if file.startswith("addon/"):
                 file.replace("addon/", "/addon/", 1)
-             paths.append(file)
+              paths.append(file)
           name = 'addonId'
           value = addonId
           name2 = 'paths'
