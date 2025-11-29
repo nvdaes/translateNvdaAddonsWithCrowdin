@@ -61,6 +61,7 @@ jobs:
           l10nfile = "_l10n/l10n.json"
           with open(l10nfile, "r") as f:
             data = json.load(f)
+          print(data["addonId"])
           shouldUpdateXliff = (data.get("readmeSha") == readmeSha)
           shouldUpdatePot = (data.get("i18nSourcesSha") == i18nSourcesSha)
           name = 'addonId'
