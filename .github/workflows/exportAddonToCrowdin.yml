@@ -58,7 +58,7 @@ jobs:
       
       - name: Print hashFiles
         #run: echo "${{ hashFiles(steps.getAddonInfo.outputs.paths) }}"
-        run: echo "${{hashFiles('addon/**/*.py'")}}"
+        run: echo "${{hashFiles('addon/**/*.py')}}"
 
       - name: Generate xliff
         if: ${{ !inputs.update }}
