@@ -45,7 +45,7 @@ jobs:
           import buildVars, sha256
           addonId = buildVars.addon_info["addon_name"]
           readmeFile = os.path.join(os.getcwd(), "readme.md")
-          i18nSources = buildVars.i18nSources
+          i18nSources = sorted(buildVars.i18nSources)
           if os.path.isfile(readmeFile):
             readmeSha = sha256.sha256_checksum([readmeFile])
           i18nSourcesSha = sha256.sha256_checksum(i18nSources)
@@ -69,6 +69,8 @@ jobs:
           value0 = shouldUpdateXliff
           name1 = 'shouldUpdatePot'
           value1 = shouldUpdatePot
+          if shouldUpdatePot:
+            print("update please")
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
       - name: Generate xliff and pot
