@@ -56,8 +56,6 @@ jobs:
               data = json.load(f)
           shouldUpdateXliff = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
           shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
-          print(data.get("i18nSourcesSha"))
-          print(i18nSourcesSha)
           data = dict()
           if readmeSha:
             data["readmeSha"] = readmeSha
@@ -89,7 +87,7 @@ jobs:
           crowdinProjectID: ${{ vars.CROWDIN_ID }}
           crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
       - name: Update pot
-        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdateXliff }}
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot }}
         run: |
           uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
         env:
