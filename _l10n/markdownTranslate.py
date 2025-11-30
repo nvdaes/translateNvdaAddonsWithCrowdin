@@ -6,8 +6,6 @@
 from typing import Generator
 import tempfile
 import os
-import sys
-sys.path.insert(0, os.getcwd())
 import contextlib
 import lxml.etree
 import argparse
@@ -18,14 +16,16 @@ from xml.sax.saxutils import escape as xmlEscape
 import difflib
 from dataclasses import dataclass
 import subprocess
-
+import sys
+sys.path.insert(0, os.getcwd())
 import buildVars
+
 
 RAW_GITHUB_REPO_URL = f"https://raw.githubusercontent.com/{buildVars.userAccount}/{buildVars.addon_info["addon_name"]}"
 re_kcTitle = re.compile(r"^(<!--\s+KC:title:\s*)(.+?)(\s*-->)$")
 re_kcSettingsSection = re.compile(r"^(<!--\s+KC:settingsSection:\s*)(.+?)(\s*-->)$")
 # Comments that span a single line in their entirety
-re_comment = re.compile(r"^<!--.*?-->$", re.DOTALL)
+re_comment = re.compile(r"^<!--.+-->$")
 re_heading = re.compile(r"^(#+\s+)(.+?)((?:\s+\{#.+\})?)$")
 re_bullet = re.compile(r"^(\s*\*\s+)(.+)$")
 re_number = re.compile(r"^(\s*[0-9]+\.\s+)(.+)$")
