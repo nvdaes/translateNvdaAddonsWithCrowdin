@@ -71,6 +71,8 @@ jobs:
           value1 = shouldUpdatePot
           if shouldUpdatePot:
             print("update please")
+          else:
+            print("Don't update")
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}")
       - name: Generate xliff and pot
