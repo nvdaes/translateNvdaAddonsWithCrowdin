@@ -65,7 +65,7 @@ jobs:
             json.dump(data, f, indent="\t", ensure_ascii=False)
           name = 'addonId'
           value = addonId
-          name0 = 'shouldUpdateXlif'
+          name0 = 'shouldUpdateXliff'
           value0 = str(shouldUpdateXliff).lower()
           name1 = 'shouldUpdatePot'
           value1 = str(shouldUpdatePot).lower()
