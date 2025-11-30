@@ -90,7 +90,7 @@ jobs:
         if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot == 'true' }}
         run: |
           uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
-      - name: Commit and push json files
+      - name: Commit and push json and xliff files
         id: commit
         run: |
           git config --local user.name github-actions
@@ -99,9 +99,7 @@ jobs:
           git add hash.json _l10n/l10n.json ${{ steps.getAddonInfo.outputs.addonId}}.xliff
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
-          echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-          echo "has_changes=true" >> $GITHUB_OUTPUT
           git commit -m "Update Crowdin file ids and hashes"
           git push
           fi
