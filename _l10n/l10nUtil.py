@@ -11,7 +11,6 @@ sys.path.insert(0, os.getcwd())
 import crowdin_api as crowdin
 import tempfile
 import lxml.etree
-import os
 import shutil
 import argparse
 import markdownTranslate
@@ -19,14 +18,13 @@ import requests
 import codecs
 import re
 import subprocess
-import sys
 import zipfile
 import time
 import json
 
 import buildVars
 
-CROWDIN_PROJECT_ID = 780748
+CROWDIN_PROJECT_ID = os.getenv("crowdinProjectID", "").strip()
 POLLING_INTERVAL_SECONDS = 5
 EXPORT_TIMEOUT_SECONDS = 60 * 10  # 10 minutes
 L10N_FILE = os.path.join(os.path.dirname(__file__), "l10n.json")
