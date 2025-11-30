@@ -60,7 +60,7 @@ jobs:
           data = dict()
           data["readmeSha"] = readmeSha
           data["i18nSourcesSha"] = i18nsourcesSha
-          with open(hashFile, "wt"), encoding="utf-8" as f:
+          with open(hashFile, "wt", encoding="utf-8") as f:
             json.dump(data, f, indent="\t", ensure_ascii=False)
           name = 'addonId'
           value = addonId
