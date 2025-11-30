@@ -241,11 +241,7 @@ def downloadTranslationFile(crowdinFilePath: str, localFilePath: str, language: 
 	:param language: The language code to download the translation for
 	"""
 
-	if os.path.isfile(L10N_FILE):
-		with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
-			files = json.load(jsonFile)
-	else:
-		files = getFiles()
+	files = getFiles()
 	fileId = files.get(crowdinFilePath)
 	print(f"Requesting export of {crowdinFilePath} for {language} from Crowdin")
 	res = getCrowdinClient().translations.export_project_translation(
@@ -267,12 +263,9 @@ def uploadSourceFile(localFilePath: str):
 	Upload a source file to Crowdin.
 	:param localFilePath: The path to the local file to be uploaded
 	"""
-	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
-		files = json.load(jsonFile)
+
+	files = getFiles()
 	fileId = files.get(localFilePath)
-	if fileId is None:
-		files = getFiles()
-		fileId = files.get(localFilePath)
 	res = getCrowdinClient().storages.add_storage(
 		open(localFilePath, "rb"),
 	)
@@ -314,23 +307,26 @@ def uploadSourceFile(localFilePath: str):
 
 
 def getFiles() -> dict[str, str]:
-	"""Gets files from Crowdin, and write them to a json file."""
+	"""If file IDs aren't found, get files from Crowdin, and write them to a json file."""
+	if os.path.isfile(L10N_FILE):
+		with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
+			files = json.load(jsonFile)
+	else:
+		addonId = buildVars.addon_info["addon_name"]
 
-	addonId = buildVars.addon_info["addon_name"]
-
-	res = getCrowdinClient().source_files.list_files(CROWDIN_PROJECT_ID, filter=addonId)
-	if res is None:
-		raise ValueError("Getting files from Crowdin failed")
-	dictionary = dict()
-	data = res["data"]
-	for file in data:
-		fileInfo = file["data"]
-		name = fileInfo["name"]
-		id = fileInfo["id"]
-		dictionary[name] = id
-	with open(L10N_FILE, "w", encoding="utf-8") as jsonFile:
-		json.dump(dictionary, jsonFile, ensure_ascii=False)
-	return dictionary
+		res = getCrowdinClient().source_files.list_files(CROWDIN_PROJECT_ID, filter=addonId)
+		if res is None:
+			raise ValueError("Getting files from Crowdin failed")
+		files = dict()
+		data = res["data"]
+		for file in data:
+			fileInfo = file["data"]
+			name = fileInfo["name"]
+			id = fileInfo["id"]
+			files[name] = id
+		with open(L10N_FILE, "w", encoding="utf-8") as jsonFile:
+			json.dump(files, jsonFile, ensure_ascii=False)
+		return files
 
 
 def uploadTranslationFile(crowdinFilePath: str, localFilePath: str, language: str):
@@ -340,12 +336,9 @@ def uploadTranslationFile(crowdinFilePath: str, localFilePath: str, language: st
 	:param localFilePath: The path to the local file to be uploaded
 	:param language: The language code to upload the translation for
 	"""
-	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
-		files = json.load(jsonFile)
+
+	files = getFiles()
 	fileId = files.get(crowdinFilePath)
-	if fileId is None:
-		files = getFiles()
-		fileId = files.get(crowdinFilePath)
 	print(f"Uploading {localFilePath} to Crowdin")
 	res = getCrowdinClient().storages.add_storage(
 		open(localFilePath, "rb"),
