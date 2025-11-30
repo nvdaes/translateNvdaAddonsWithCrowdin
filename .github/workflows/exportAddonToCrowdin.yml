@@ -59,7 +59,7 @@ jobs:
           data = dict()
           if readmeSha:
             data["readmeSha"] = readmeSha
-          if readmeSourcesSha:
+          if i18nSourcesSha:
             data["i18nSourcesSha"] = i18nsourcesSha
           with open(hashFile, "wt", encoding="utf-8") as f:
             json.dump(data, f, indent="\t", ensure_ascii=False)
