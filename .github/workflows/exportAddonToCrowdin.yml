@@ -54,7 +54,7 @@ jobs:
           if os.path.isfile(hashFile):
             with open(hashFile, "rt") as f:
               data = json.load(f)
-          shouldUpdateXliff = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
+          shouldUpdateXliff = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None) and os.path.isfile(f"{addonId}.xliff")
           shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
           data = dict()
           if readmeSha:
