@@ -60,7 +60,7 @@ jobs:
           if readmeSha:
             data["readmeSha"] = readmeSha
           if i18nSourcesSha:
-            data["i18nSourcesSha"] = i18nsourcesSha
+            data["i18nSourcesSha"] = i18nSourcesSha
           with open(hashFile, "wt", encoding="utf-8") as f:
             json.dump(data, f, indent="\t", ensure_ascii=False)
           name = 'addonId'
