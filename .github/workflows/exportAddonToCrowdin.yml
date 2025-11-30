@@ -87,7 +87,7 @@ jobs:
           crowdinProjectID: ${{ vars.CROWDIN_ID }}
           crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
       - name: Update pot
-        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot }}
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdateXliff }}
         run: |
           uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
         env:
