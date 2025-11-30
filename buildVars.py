@@ -24,7 +24,7 @@ addon_info = AddonInfo(
 	addon_description=_(
 		# Translators: Long description to be shown for this add-on on add-on information from add-on store
 """Translate NVDA add-ons with Crowdin.
-Crowdin project:""",
+Crowdin project: https://crowdin.com/project/nvdaaddons""",
 	),
 	# version
 	addon_version="0.0.2",
@@ -61,7 +61,7 @@ Crowdin project:""",
 # pythonSources = ["addon/globalPlugins/*.py"]
 # For more information on SCons Glob expressions please take a look at:
 # https://scons.org/doc/production/HTML/scons-user/apd.html
-pythonSources: list[str] = ["./addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py", "./addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py"]
+pythonSources: list[str] = ["addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py", "addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py"]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources: list[str] = pythonSources + ["buildVars.py"]
