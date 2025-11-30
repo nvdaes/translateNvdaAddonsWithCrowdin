@@ -18,9 +18,10 @@ def sha256_checksum(binaryReadModeFiles: list[typing.BinaryIO], blockSize: int =
 	"""
 	sha256 = hashlib.sha256()
 	for f in binaryReadModeFiles:
-		assert f.readable() and f.mode == "rb"
-		for block in iter(lambda: f.read(blockSize), b""):
-			sha256.update(block)
+		with open(f, "rb") as file:
+			assert file.readable() and file.mode == "rb"
+			for block in iter(lambda: file.read(blockSize), b""):
+				sha256.update(block)
 	return sha256.hexdigest()
 
 
