@@ -1,16 +1,15 @@
 # A part of NonVisual Desktop Access (NVDA)
-# Copyright (C) 2024-2025 NV Access Limited, Noelia Ruiz Martínez.
+# Copyright (C) 2024-2025 NV Access Limited, Noelia Ruiz Martínez
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
-import os
-import sys
-
+import os, sys
 sys.path.insert(0, os.getcwd())
 
 import crowdin_api as crowdin
 import tempfile
 import lxml.etree
+import os
 import shutil
 import argparse
 import markdownTranslate
@@ -18,13 +17,14 @@ import requests
 import codecs
 import re
 import subprocess
+import sys
 import zipfile
 import time
 import json
 
 import buildVars
 
-CROWDIN_PROJECT_ID = os.getenv("crowdinProjectID", "").strip()
+CROWDIN_PROJECT_ID = 780748
 POLLING_INTERVAL_SECONDS = 5
 EXPORT_TIMEOUT_SECONDS = 60 * 10  # 10 minutes
 L10N_FILE = os.path.join(os.path.dirname(__file__), "l10n.json")
@@ -240,9 +240,12 @@ def downloadTranslationFile(crowdinFilePath: str, localFilePath: str, language: 
 	:param localFilePath: The path to save the local file
 	:param language: The language code to download the translation for
 	"""
-
-	files = getFiles()
-	fileId = files.get(crowdinFilePath)
+	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
+		files = json.load(jsonFile)
+		fileId = files.get(crowdinFilePath)
+	if fileId is None:
+		files = getFiles()
+		fileId = files.get(crowdinFilePath)
 	print(f"Requesting export of {crowdinFilePath} for {language} from Crowdin")
 	res = getCrowdinClient().translations.export_project_translation(
 		fileIds=[fileId],
@@ -263,8 +266,12 @@ def uploadSourceFile(localFilePath: str):
 	Upload a source file to Crowdin.
 	:param localFilePath: The path to the local file to be uploaded
 	"""
-
-	files = getFiles()
+	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
+		files = json.load(jsonFile)
+	fileId = files.get(localFilePath)
+	if fileId is None:
+		files = getFiles()
+		fileId = files.get(localFilePath)
 	res = getCrowdinClient().storages.add_storage(
 		open(localFilePath, "rb"),
 	)
@@ -306,26 +313,23 @@ def uploadSourceFile(localFilePath: str):
 
 
 def getFiles() -> dict[str, str]:
-	"""If file IDs aren't found, get files from Crowdin, and write them to a json file."""
-	if os.path.isfile(L10N_FILE):
-		with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
-			files = json.load(jsonFile)
-	else:
-		addonId = buildVars.addon_info["addon_name"]
+	"""Gets files from Crowdin, and write them to a json file."""
 
-		res = getCrowdinClient().source_files.list_files(CROWDIN_PROJECT_ID, filter=addonId)
-		if res is None:
-			raise ValueError("Getting files from Crowdin failed")
-		files = dict()
-		data = res["data"]
-		for file in data:
-			fileInfo = file["data"]
-			name = fileInfo["name"]
-			id = fileInfo["id"]
-			files[name] = id
-		with open(L10N_FILE, "w", encoding="utf-8") as jsonFile:
-			json.dump(files, jsonFile, ensure_ascii=False)
-		return files
+	addonId = buildVars.addon_info["addon_name"]
+
+	res = getCrowdinClient().source_files.list_files(CROWDIN_PROJECT_ID, filter=addonId)
+	if res is None:
+		raise ValueError("Getting files from Crowdin failed")
+	dictionary = dict()
+	data = res["data"]
+	for file in data:
+		fileInfo = file["data"]
+		name = fileInfo["name"]
+		id = fileInfo["id"]
+		dictionary[name] = id
+	with open(L10N_FILE, "w", encoding="utf-8") as jsonFile:
+		json.dump(dictionary, jsonFile, ensure_ascii=False)
+	return dictionary
 
 
 def uploadTranslationFile(crowdinFilePath: str, localFilePath: str, language: str):
@@ -335,9 +339,12 @@ def uploadTranslationFile(crowdinFilePath: str, localFilePath: str, language: st
 	:param localFilePath: The path to the local file to be uploaded
 	:param language: The language code to upload the translation for
 	"""
-
-	files = getFiles()
+	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
+		files = json.load(jsonFile)
 	fileId = files.get(crowdinFilePath)
+	if fileId is None:
+		files = getFiles()
+		fileId = files.get(crowdinFilePath)
 	print(f"Uploading {localFilePath} to Crowdin")
 	res = getCrowdinClient().storages.add_storage(
 		open(localFilePath, "rb"),
