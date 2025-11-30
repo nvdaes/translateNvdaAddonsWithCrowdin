@@ -44,9 +44,10 @@ jobs:
           sys.path.insert(0, os.getcwd())
           import buildVars, sha256
           addonId = buildVars.addon_info["addon_name"]
+          readmeFile = os.path.join(os.getcwd, "readme.md")
           i18nSources = buildVars.i18nSources
-          if os.path.isfile("readme.md"):
-            readmeSha = sha256.sha256_checksum(["readme.md"])
+          if os.path.isfile(readmeFile):
+            readmeSha = sha256.sha256_checksum([readmeFile])
           i18nSourcesSha = sha256.sha256_checksum(i18nSources)
           hashFile = os.path.join(os.getcwd(), "hash.json")
           if os.path.isfile(hashFile):
@@ -58,8 +59,10 @@ jobs:
             shouldUpdateXliff = False
             shouldUpdatePot = False
           data = dict()
-          data["readmeSha"] = readmeSha
-          data["i18nSourcesSha"] = i18nsourcesSha
+          if readmeSha:
+            data["readmeSha"] = readmeSha
+          if readmeSourcesSha:
+            data["i18nSourcesSha"] = i18nsourcesSha
           with open(hashFile, "wt", encoding="utf-8") as f:
             json.dump(data, f, indent="\t", ensure_ascii=False)
           name = 'addonId'
