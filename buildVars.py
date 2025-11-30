@@ -14,7 +14,7 @@ from site_scons.site_tools.NVDATool.utils import _
 userAccount: str | None = "nvdaes"
 # Add-on information variables
 addon_info = AddonInfo(
-	# add-on Name/identifier, internal for NVDA
+	# add-on Name/identifier, internal for NVDA.
 	addon_name="translateNvdaAddonsWithCrowdin",
 	# Add-on summary/title, usually the user visible name of the add-on
 	# Translators: Summary/title for this add-on
