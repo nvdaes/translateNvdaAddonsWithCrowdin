@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
-<file id="readme.md" original="https://raw.githubusercontent.com/nvaccess/nvda/b5d99775f8c79dcdc169c5decb7b8c583b4fc807/readme.md">
+<file id="readme.md" original="https://raw.githubusercontent.com/nvaccess/nvda/570e4c38171329d13e93eb9b40556aba2c56e55b/readme.md">
 <skeleton>
 # $(ID:1506674a-f02e-4083-bb80-a06fae3c67dc)
 
@@ -31,8 +31,7 @@ $(ID:9437dea5-af25-4868-93d6-0663117e3600)
 ## $(ID:b0820529-f6d7-4e85-9a03-e9b5ea7acc07)
 
 * $(ID:a707f01a-5801-42fc-8615-7fe31d67c5a0)
-* $(ID:5165299e-c731-4592-ba73-b1819f58a95d)
-
+* $(ID:30d4f200-87e6-4ad4-914b-29de23328d7f)
 
 </skeleton>
 <unit id="1506674a-f02e-4083-bb80-a06fae3c67dc">
@@ -200,7 +199,7 @@ $(ID:9437dea5-af25-4868-93d6-0663117e3600)
 <source>This process may take several minutes, and may not be available if you reach your Crowdin token limits.</source>
 </segment>
 </unit>
-<unit id="5165299e-c731-4592-ba73-b1819f58a95d">
+<unit id="30d4f200-87e6-4ad4-914b-29de23328d7f">
 <notes>
 <note appliesTo="source">line: 31</note>
 <note appliesTo="source">prefix: * </note>
