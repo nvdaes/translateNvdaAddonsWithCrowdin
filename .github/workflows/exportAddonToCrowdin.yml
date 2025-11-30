@@ -46,8 +46,8 @@ jobs:
           addonId = buildVars.addon_info["addon_name"]
           i18nSources = buildVars.i18nSources
           if os.path.isfile("readme.md"):
-            readmeSha = sha256(["readme.md"])
-          i18nSourcesSha = sha256(i18nSources)
+            readmeSha = sha256.sha256_checksum(["readme.md"])
+          i18nSourcesSha = sha256.sha256_checksum(i18nSources)
           hashFile = os.path.join(os.getcwd(), "hash.json")
           if os.path.isfile(hashFile):
             with open(hashFile, "rt") as f:
