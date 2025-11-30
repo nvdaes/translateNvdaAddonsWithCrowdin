@@ -66,9 +66,9 @@ jobs:
           name = 'addonId'
           value = addonId
           name0 = 'shouldUpdateXlif'
-          value0 = shouldUpdateXliff
+          value0 = str(shouldUpdateXliff).lower()
           name1 = 'shouldUpdatePot'
-          value1 = shouldUpdatePot
+          value1 = str(shouldUpdatePot).lower()
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
             f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}\n")
       - name: Generate xliff and pot
@@ -78,7 +78,7 @@ jobs:
           uv run ./_l10n/l10nUtil.py uploadSourceFile --localFilePath=${{ steps.getAddonInfo.outputs.addonId }}.xliff
           uv run ./_l10n/l10nUtil.py uploadSourceFile --localFilePath=${{ steps.getAddonInfo.outputs.addonId }}.pot
       - name: update xliff
-        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdateXliff == 'True' }}
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdateXliff == 'true' }}
         run: |
           uv run ./_l10n/markdownTranslate.py updateXliff -x ${{ steps.getAddonInfo.outputs.addonId }}.xliff -m readme.md -o ${{ steps.getAddonInfo.outputs.addonId }}.xliff.temp
           mv ${{ steps.getAddonInfo.outputs.addonId }}.xliff.temp ${{ steps.getAddonInfo.outputs.addonId }}.xliff
@@ -87,7 +87,7 @@ jobs:
           crowdinProjectID: ${{ vars.CROWDIN_ID }}
           crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
       - name: Update pot
-        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot == 'True' }}
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot == 'true' }}
         run: |
           uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
         env:
