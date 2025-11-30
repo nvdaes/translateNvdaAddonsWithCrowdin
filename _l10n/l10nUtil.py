@@ -1,11 +1,9 @@
 # A part of NonVisual Desktop Access (NVDA)
-# Copyright (C) 2024-2025 NV Access Limited, Noelia Ruiz Martínez.
+# Copyright (C) 2024-2025 NV Access Limited, Noelia Ruiz Martínez
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
-import os
-import sys
-
+import os, sys
 sys.path.insert(0, os.getcwd())
 
 import crowdin_api as crowdin

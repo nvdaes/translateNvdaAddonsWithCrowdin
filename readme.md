@@ -28,3 +28,4 @@ The following controls are available:
 
 * This process may take several minutes, and may not be available if you reach your Crowdin token limits.
 * NVDA may block during a few seconds when these processes are started. After that, you can work normally, and a message should be presented when the process has finished.
+

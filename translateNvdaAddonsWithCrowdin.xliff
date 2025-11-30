@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
+<file id="readme.md" original="https://raw.githubusercontent.com/nvdaes/translateNvdaAddonsWithCrowdin/4f2520e48f7f82f0d3fde48bfa1c2a60dd7ffb93/readme.md">
+<skeleton>
+# $(ID:fe1dee6d-7834-4724-a14b-ede480b41ac8)
+
+$(ID:c811abcd-3bdd-418c-8242-527da9c2650b)
+
+## $(ID:e8836641-48d6-4bc0-9e1b-cf7c2aea0cb5)
+
+$(ID:f98186a4-2143-43f9-a1dd-78d71fe4f249)
+$(ID:cd0a65c1-846e-4cf2-8d52-1b4298f8d4a7)
+
+$(ID:d18cfe25-3b18-49a7-8071-82f640040df8)
+
+## $(ID:061fce1e-9d42-4ca4-a2dc-0c744f3cdb26)
+
+$(ID:bb47c078-29f5-4a48-83ad-1da2c1478230)
+
+$(ID:53a2091a-66d8-42ad-8bc5-fe3ec13d2f16)
+
+* $(ID:a72d170f-5548-4600-af14-f7d7284e6801)
+* $(ID:92a538cb-e32b-4979-a0b5-5e074fb344d2)
+* $(ID:f9ecc461-3152-4df3-803b-ed02cb27a917)
+* $(ID:522a16ff-91f7-48f3-8915-ca874fe11aff)
+* $(ID:5dc22bd8-caba-4330-9c26-4e0d16e8c9e2)
+* $(ID:491d7ff8-134c-40ab-b3eb-4f80fde1f2b4)
+* $(ID:ca108d96-8214-4c04-9e5b-d369da848c37)
+* $(ID:f83894c6-2f38-462a-bbb4-47e8f5b40b38)
+
+## $(ID:011c8234-3db6-4bf3-b8db-60a8e8975afd)
+
+* $(ID:48c5a056-5883-4e35-a699-9eedfed56b7f)
+* $(ID:aaf5ccca-b5f4-4eb8-a34e-8a98515f5596)
+
+</skeleton>
+<unit id="fe1dee6d-7834-4724-a14b-ede480b41ac8">
+<notes>
+<note appliesTo="source">line: 2</note>
+<note appliesTo="source">prefix: # </note>
+</notes>
+<segment>
+<source>translateNvdaAddonsWithCrowdin</source>
+</segment>
+</unit>
+<unit id="c811abcd-3bdd-418c-8242-527da9c2650b">
+<notes>
+<note appliesTo="source">line: 4</note>
+</notes>
+<segment>
+<source>The goald of this add-on is help translators work more efficiently when using this [project to translate NVDA add-ons with Crowdin](https://crowdin.com/project/nvdaaddons).</source>
+</segment>
+</unit>
+<unit id="e8836641-48d6-4bc0-9e1b-cf7c2aea0cb5">
+<notes>
+<note appliesTo="source">line: 6</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Settings</source>
+</segment>
+</unit>
+<unit id="f98186a4-2143-43f9-a1dd-78d71fe4f249">
+<notes>
+<note appliesTo="source">line: 8</note>
+</notes>
+<segment>
+<source>Though most translators won't need to use this feature, a dialog is provided to save the Crowdin token, and to select the directory where documentation and interface message files will be stored.</source>
+</segment>
+</unit>
+<unit id="cd0a65c1-846e-4cf2-8d52-1b4298f8d4a7">
+<notes>
+<note appliesTo="source">line: 9</note>
+</notes>
+<segment>
+<source>To open this dialog, go to NVDA menu, Preferences submenu, Settings dialog, Translate NVDA add-ons with Crowdin category.</source>
+</segment>
+</unit>
+<unit id="d18cfe25-3b18-49a7-8071-82f640040df8">
+<notes>
+<note appliesTo="source">line: 11</note>
+</notes>
+<segment>
+<source>Also, a gesture can be assigned to open the add-on settings from the Input gestures dialog.</source>
+</segment>
+</unit>
+<unit id="061fce1e-9d42-4ca4-a2dc-0c744f3cdb26">
+<notes>
+<note appliesTo="source">line: 13</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Translate add-ons with Crowdin</source>
+</segment>
+</unit>
+<unit id="bb47c078-29f5-4a48-83ad-1da2c1478230">
+<notes>
+<note appliesTo="source">line: 15</note>
+</notes>
+<segment>
+<source>This dialog can be accessed from NVDA menu, Tools submenu, or assigning a gesture from the Input gestures dialog.</source>
+</segment>
+</unit>
+<unit id="53a2091a-66d8-42ad-8bc5-fe3ec13d2f16">
+<notes>
+<note appliesTo="source">line: 17</note>
+</notes>
+<segment>
+<source>The following controls are available:</source>
+</segment>
+</unit>
+<unit id="a72d170f-5548-4600-af14-f7d7284e6801">
+<notes>
+<note appliesTo="source">line: 19</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A combo box to select the translation language.</source>
+</segment>
+</unit>
+<unit id="92a538cb-e32b-4979-a0b5-5e074fb344d2">
+<notes>
+<note appliesTo="source">line: 20</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>An edit box to filter the list of files available to translate.</source>
+</segment>
+</unit>
+<unit id="f9ecc461-3152-4df3-803b-ed02cb27a917">
+<notes>
+<note appliesTo="source">line: 21</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A list of files with po and xliff extensions. This will be focused when the dialog is opened. Press enter to open the selected file.</source>
+</segment>
+</unit>
+<unit id="522a16ff-91f7-48f3-8915-ca874fe11aff">
+<notes>
+<note appliesTo="source">line: 22</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A button to open the selected file. The file will be opened with Poedit, if po and xliff files are associated with this program on your system.</source>
+</segment>
+</unit>
+<unit id="5dc22bd8-caba-4330-9c26-4e0d16e8c9e2">
+<notes>
+<note appliesTo="source">line: 23</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A button to upload the selected translated file.</source>
+</segment>
+</unit>
+<unit id="491d7ff8-134c-40ab-b3eb-4f80fde1f2b4">
+<notes>
+<note appliesTo="source">line: 24</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A button to download translations for the selected language.</source>
+</segment>
+</unit>
+<unit id="ca108d96-8214-4c04-9e5b-d369da848c37">
+<notes>
+<note appliesTo="source">line: 25</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A button to download all translations</source>
+</segment>
+</unit>
+<unit id="f83894c6-2f38-462a-bbb4-47e8f5b40b38">
+<notes>
+<note appliesTo="source">line: 26</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>A button to close the dialog.</source>
+</segment>
+</unit>
+<unit id="011c8234-3db6-4bf3-b8db-60a8e8975afd">
+<notes>
+<note appliesTo="source">line: 28</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Downloading and uploading translations</source>
+</segment>
+</unit>
+<unit id="48c5a056-5883-4e35-a699-9eedfed56b7f">
+<notes>
+<note appliesTo="source">line: 30</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>This process may take several minutes, and may not be available if you reach your Crowdin token limits.</source>
+</segment>
+</unit>
+<unit id="aaf5ccca-b5f4-4eb8-a34e-8a98515f5596">
+<notes>
+<note appliesTo="source">line: 31</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>NVDA may block during a few seconds when these processes are started. After that, you can work normally, and a message should be presented when the process has finished.</source>
+</segment>
+</unit>
+</file>
+</xliff>
