@@ -265,7 +265,6 @@ def uploadSourceFile(localFilePath: str):
 	"""
 
 	files = getFiles()
-	fileId = files.get(localFilePath)
 	res = getCrowdinClient().storages.add_storage(
 		open(localFilePath, "rb"),
 	)
