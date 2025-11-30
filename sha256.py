@@ -17,11 +17,10 @@ def sha256_checksum(binaryReadModeFiles: list[typing.BinaryIO], blockSize: int =
 	:return: The Sha256 hex digest.
 	"""
 	sha256 = hashlib.sha256()
-	for file in binaryReadModeFiles:
-		assert binaryReadModeFile.readable() and binaryReadModeFile.mode == "rb"
-	f = binaryReadModeFile
-	for block in iter(lambda: f.read(blockSize), b""):
-		sha256.update(block)
+	for f in binaryReadModeFiles:
+		assert f.readable() and f.mode == "rb"
+		for block in iter(lambda: f.read(blockSize), b""):
+			sha256.update(block)
 	return sha256.hexdigest()
 
 
