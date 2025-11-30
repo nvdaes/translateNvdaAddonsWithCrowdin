@@ -240,12 +240,13 @@ def downloadTranslationFile(crowdinFilePath: str, localFilePath: str, language: 
 	:param localFilePath: The path to save the local file
 	:param language: The language code to download the translation for
 	"""
-	with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
-		files = json.load(jsonFile)
-		fileId = files.get(crowdinFilePath)
-	if fileId is None:
+
+	if os.path.isfile(L10N_FILE):
+		with open(L10N_FILE, "r", encoding="utf-8") as jsonFile:
+			files = json.load(jsonFile)
+	else:
 		files = getFiles()
-		fileId = files.get(crowdinFilePath)
+	fileId = files.get(crowdinFilePath)
 	print(f"Requesting export of {crowdinFilePath} for {language} from Crowdin")
 	res = getCrowdinClient().translations.export_project_translation(
 		fileIds=[fileId],
