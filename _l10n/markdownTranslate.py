@@ -17,11 +17,14 @@ import difflib
 from dataclasses import dataclass
 import subprocess
 import sys
+
 sys.path.insert(0, os.getcwd())
 import buildVars
 
 
-RAW_GITHUB_REPO_URL = f"https://raw.githubusercontent.com/{buildVars.userAccount}/{buildVars.addon_info["addon_name"]}"
+RAW_GITHUB_REPO_URL = (
+	f"https://raw.githubusercontent.com/{buildVars.userAccount}/{buildVars.addon_info['addon_name']}"
+)
 re_kcTitle = re.compile(r"^(<!--\s+KC:title:\s*)(.+?)(\s*-->)$")
 re_kcSettingsSection = re.compile(r"^(<!--\s+KC:settingsSection:\s*)(.+?)(\s*-->)$")
 # Comments that span a single line in their entirety
