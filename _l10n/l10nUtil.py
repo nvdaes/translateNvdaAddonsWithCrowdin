@@ -274,7 +274,8 @@ def uploadSourceFile(localFilePath: str):
 		raise ValueError("Crowdin storage upload failed")
 	storageId = res["data"]["id"]
 	print(f"Stored with ID {storageId}")
-	filename = os.path.basename(localFilePath)
+	addonId = buildVars.addon_info["addon_name"]
+	filename = addonId
 	if os.path.splitext(filename)[1] == ".pot":
 		title = f"{os.path.splitext(filename)[0]} interface"
 		exportPattern = f"/{os.path.splitext(filename)[0]}/%two_letters_code%/{os.path.splitext(filename)[0]}.po"
