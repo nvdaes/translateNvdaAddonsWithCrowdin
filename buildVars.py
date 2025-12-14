@@ -12,7 +12,7 @@ addon_description = _(
     the add-on source tree.
 
     See the README for detailed usage instructions.
-    """
+    """,
 )
 
 # Other build variables
