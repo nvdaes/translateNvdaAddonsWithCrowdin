@@ -89,13 +89,13 @@ jobs:
         if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot == 'true' }}
         run: |
           uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
-      - name: Commit and push json 
+      - name: Commit and push json
         id: commit
         run: |
           git config --local user.name github-actions
           git config --local user.email github-actions@github.com
           git status
-          git add _l10n/l10n.json 
+          git add _l10n/l10n.json
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
           else
