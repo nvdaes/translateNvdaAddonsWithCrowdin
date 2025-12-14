@@ -18,7 +18,7 @@ The following controls are available:
 * A combo box to select the translation language.
 * An edit box to filter the list of files available to translate.
 * A list of files with po and md extensions. This will be focused when the dialog is opened. Press enter to open the selected file.
-* A button to open the selected file. The file will be opened in the application associated with each kind of file on your system.
+* A button to open the selected file. The file will be opened in the application associated with each kind of file on your system. Anyway, generally, documentation will be easy to translate from Crowdin web interface.
 * A button to upload the selected translated file.
 * A button to download translations for the selected language.
 * A button to download all translations
