@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """GUI for the Crowdin integration add-on."""
-
-from __future__ import annotations
 
 import wx
 
