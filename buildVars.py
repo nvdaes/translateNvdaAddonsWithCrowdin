@@ -10,6 +10,14 @@ from site_scons.site_tools.NVDATool.typings import AddonInfo, BrailleTables, Sym
 # which returns whatever is given to it as an argument.
 from site_scons.site_tools.NVDATool.utils import _
 
+
+try:
+	_ 
+except NameError:
+	def _(s: str) -> str:
+		return s
+
+
 # The GitHub user account to generate xliff file for translations
 userAccount: str | None = "nvdaes"
 # Add-on information variables
