@@ -12,7 +12,7 @@ from site_scons.site_tools.NVDATool.utils import _
 
 
 try:
-	_ 
+	_
 except NameError:
 	def _(s: str) -> str:
 		return s
