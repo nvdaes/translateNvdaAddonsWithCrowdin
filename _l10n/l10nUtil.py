@@ -297,7 +297,7 @@ def uploadSourceFile(localFilePath: str):
 	print("Done")
 
 
-def getFiles() -> None:
+def getFiles() -> dict[str, int]:
 	"""Gets files from Crowdin, and write them to a json file."""
 
 	addonId = buildVars.addon_info["addon_name"]
@@ -314,6 +314,7 @@ def getFiles() -> None:
 		dictionary[name] = id
 	with open(L10N_FILE, "w", encoding="utf-8") as jsonFile:
 		json.dump(dictionary, jsonFile, ensure_ascii=False)
+	return dictionary
 
 
 def uploadTranslationFile(crowdinFilePath: str, localFilePath: str, language: str):
