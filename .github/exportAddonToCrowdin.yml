@@ -1,0 +1,72 @@
+name: Export add-on to Crowdin
+
+on:
+
+  workflow_dispatch:
+    inputs:
+      update:
+        description: 'true to update preexisting sources, false to add them from scratch'
+        type: boolean
+        required: false
+        default: true
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+env:
+  crowdinProjectID: ${{ vars.CROWDIN_ID }}
+  crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout add-on
+        uses: actions/checkout@v6
+      - name: "Set up Python"
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: ".python-version"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install scons markdown
+          sudo apt update
+          sudo apt install gettext
+      - name: Build add-on and pot file
+        run: |
+          scons
+          scons pot
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7
+      - name: Get add-on info
+        id: getAddonInfo
+        run: uv run ./.github/workflows/setOutputs.py
+      - name: Generate source files
+        if: ${{ !inputs.update }}
+        run: |
+          mv readme.md ${{ steps.getAddonInfo.outputs.addonId }}.md
+          uv run ./_l10n/l10nUtil.py uploadSourceFile --localFilePath=${{ steps.getAddonInfo.outputs.addonId }}.md
+          uv run ./_l10n/l10nUtil.py uploadSourceFile --localFilePath=${{ steps.getAddonInfo.outputs.addonId }}.pot
+      - name: update md
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdateMd == 'true' }}
+        run: |
+          mv readme.md ${{ steps.getAddonInfo.outputs.addonId }}.md
+          uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.md
+      - name: Update pot
+        if: ${{ inputs.update && steps.getAddonInfo.outputs.shouldUpdatePot == 'true' }}
+        run: |
+          uv run ./_l10n/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
+      - name: Commit and push json 
+        id: commit
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email github-actions@github.com
+          git status
+          git add _l10n/l10n.json 
+          if git diff --staged --quiet; then
+          echo "Nothing added to commit."
+          else
+          git commit -m "Update Crowdin file ids and hashes"
+          git push
+          fi
