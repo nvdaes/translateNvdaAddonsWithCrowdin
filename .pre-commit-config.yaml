@@ -90,3 +90,16 @@ repos:
   - id: markdownlint-cli2
     name: Lint markdown files
     args: ["--fix"]
+- repo: local
+  hooks:
+    - id: checkPo
+      name: Check po files
+      entry: uv run _l10n/l10nUtil.py checkPo
+      language: python
+      types: [pofile]
+
+    - id: pyright
+      name: type check with pyright
+      entry: uv run pyright
+      language: system
+      types: [python]
