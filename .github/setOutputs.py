@@ -13,15 +13,16 @@ def main():
 	i18nSources = sorted(buildVars.i18nSources)
 	if os.path.isfile(readmeFile):
 		readmeSha = sha256.sha256_checksum([readmeFile])
+	else:
+		readmeSha = None
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
-		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None) and os.path.isfile(readmeFile)
-		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
-	data = dict()
+		shouldUpdateMd = data.get("readmeSha") != readmeSha and readmeSha is not None
+		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and i18nSourcesSha is not None)
 	if readmeSha:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha:
