@@ -1,4 +1,4 @@
-# Copyright (C) 2024-2025 NV Access Limited, Noelia Ruiz Martínez
+# Copyright (C) 2025 NV Access Limited, Noelia Ruiz Martínez
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
@@ -13,18 +13,19 @@ def main():
 	i18nSources = sorted(buildVars.i18nSources)
 	if os.path.isfile(readmeFile):
 		readmeSha = sha256.sha256_checksum([readmeFile])
+	else:
+		readmeSha = None
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
-		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None) and os.path.isfile(readmeFile)
+		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
 		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
-	data = dict()
-	if readmeSha:
+	if readmeSha is not None:
 		data["readmeSha"] = readmeSha
-	if i18nSourcesSha:
+	if i18nSourcesSha is not None:
 		data["i18nSourcesSha"] = i18nSourcesSha
 	with open(hashFile, "wt", encoding="utf-8") as f:
 		json.dump(data, f, indent="\t", ensure_ascii=False)
