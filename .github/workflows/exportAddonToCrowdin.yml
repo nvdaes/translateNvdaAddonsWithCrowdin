@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout add-on
         uses: actions/checkout@v6
+        with:
+          submodules: true
       - name: "Set up Python"
         uses: actions/setup-python@v6
         with:
