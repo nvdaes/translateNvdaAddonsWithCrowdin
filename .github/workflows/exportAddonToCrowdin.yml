@@ -62,7 +62,7 @@ jobs:
           git config --local user.name github-actions
           git config --local user.email github-actions@github.com
           git status
-          git add hash.json l10n.json
+          git add [ -f hash.json ] [-f l10n.json ]
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
           else
