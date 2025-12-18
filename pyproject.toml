@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools~=72.0", "wheel"]
+requires = ["setuptools~=80.9", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -208,3 +208,4 @@ lint = [
 	"pre-commit==4.0.1",
 	"pyright==1.1.396",
 ]
+
