@@ -2,9 +2,13 @@
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
-import os, sys, json
+import os
+import sys
+import json
+
 sys.path.insert(0, os.getcwd())
-import buildVars, sha256
+import buildVars
+import sha256
 
 
 def main():
@@ -18,24 +22,28 @@ def main():
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
+	shouldUpdateMd = False
+	shouldUpdatePot = False
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
-		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
-		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
+		shouldUpdateMd = data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None
+		shouldUpdatePot = (
+			data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None
+		)
 	if readmeSha is not None:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha is not None:
 		data["i18nSourcesSha"] = i18nSourcesSha
 	with open(hashFile, "wt", encoding="utf-8") as f:
 		json.dump(data, f, indent="\t", ensure_ascii=False)
-	name = 'addonId'
+	name = "addonId"
 	value = addonId
-	name0 = 'shouldUpdateMd'
+	name0 = "shouldUpdateMd"
 	value0 = str(shouldUpdateMd).lower()
-	name1 = 'shouldUpdatePot'
+	name1 = "shouldUpdatePot"
 	value1 = str(shouldUpdatePot).lower()
-	with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+	with open(os.environ["GITHUB_OUTPUT"], "a") as f:
 		f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}\n")
 
 
