@@ -16,7 +16,7 @@ def main():
 	else:
 		readmeSha = None
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
-	shouldUpdateReadme = False
+	shouldUpdateMd = False
 	shouldUpdatePot = False
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
