@@ -22,6 +22,8 @@ def main():
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
+	shouldUpdateMd = False
+	shouldUpdatePot = False
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
