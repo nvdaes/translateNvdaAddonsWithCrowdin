@@ -21,8 +21,8 @@ def main():
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
-		shouldUpdateMd = data.get("readmeSha") != readmeSha and readmeSha is not None
-		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and i18nSourcesSha is not None)
+	shouldUpdateMd = data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None
+	shouldUpdatePot = data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None
 	if readmeSha:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha:
