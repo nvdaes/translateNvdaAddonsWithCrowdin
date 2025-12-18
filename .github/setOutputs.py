@@ -16,8 +16,6 @@ def main():
 	else:
 		readmeSha = None
 	i18nSourcesSha = sha256.sha256_checksum(i18nSources)
-	shouldUpdateMd = False
-	shouldUpdatePot = False
 	hashFile = os.path.join(os.getcwd(), "hash.json")
 	data = dict()
 	if os.path.isfile(hashFile):
@@ -25,6 +23,9 @@ def main():
 			data = json.load(f)
 		shouldUpdateMd = data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None
 		shouldUpdatePot = data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None
+	else:
+		shouldUpdateMd = False
+		shouldUpdatePot = False
 	if readmeSha:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha:
