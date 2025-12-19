@@ -17,24 +17,20 @@ jobs:
     steps:
       - name: Checkout add-on
         uses: actions/checkout@v6
-        with:
-          submodules: true
       - name: "Set up Python"
         uses: actions/setup-python@v6
         with:
           python-version-file: ".python-version"
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install scons markdown
           sudo apt update
           sudo apt install gettext
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7
       - name: Build add-on and pot file
         run: |
           scons
           scons pot
-      - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@v7
       - name: Get add-on info
         id: getAddonInfo
         run: uv run ./.github/workflows/setOutputs.py
@@ -56,13 +52,13 @@ jobs:
         if: ${{ steps.getAddonInfo.outputs.shouldUpdatePot == 'true' }}
         run: |
           uv run ./_l10n/source/crowdinSync.py uploadSourceFile ${{ steps.getAddonInfo.outputs.addonId }}.pot
-      - name: Commit and push json
+      - name: Commit and push json 
         id: commit
         run: |
           git config --local user.name github-actions
           git config --local user.email github-actions@github.com
           git status
-          git add [ -f hash.json ] [-f l10n.json ]
+          git add *.json
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
           else
