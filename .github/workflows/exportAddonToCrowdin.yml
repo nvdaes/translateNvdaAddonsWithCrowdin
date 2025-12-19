@@ -29,7 +29,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: Build add-on and pot file
         run: |
-          scons
+          uv run scons
           scons pot
       - name: Get add-on info
         id: getAddonInfo
