@@ -7,7 +7,7 @@ The goal of this add-on is help translators work more efficiently when using thi
 Though most translators won't need to use this feature, a dialog is provided to save the Crowdin token, and to select the directory where documentation and interface message files will be stored.
 To open this dialog, go to NVDA menu, Preferences submenu, Settings dialog, Translate NVDA add-ons with Crowdin category.
 
-Also, a gesture can be assigned to open the add-on settings from the Input gestures dialog.
+Also, a gesture can be assigned to open the add-on settings from the Input Gestures dialog.
 
 ## Translate add-ons with Crowdin
 
