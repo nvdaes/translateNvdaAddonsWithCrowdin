@@ -27,8 +27,8 @@ def main():
 			data = json.load(f)
 		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
 		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
-	shouldAddMdFromScratch = not os.path.isfile(hashFile) and not shouldUpdateMd
-	shouldAddPotFromScratch = not os.path.isfile(hashFile) and not shouldUpdatePot
+	shouldAddMdFromScratch = not os.path.isfile(hashFile)
+	shouldAddPotFromScratch = not os.path.isfile(hashFile)
 	if readmeSha is not None:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha is not None:
