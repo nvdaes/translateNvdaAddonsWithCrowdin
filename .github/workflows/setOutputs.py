@@ -27,8 +27,8 @@ def main():
 			data = json.load(f)
 		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
 		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
-	shouldAddMdFromScratch = not os.path.isfile(hashFile)
-	shouldAddPotFromScratch = not os.path.isfile(hashFile)
+	shouldAddMdFromScratch = data.get("readmeSha") is None
+	shouldAddPotFromScratch = data.get("i18nSourcesSha") is None
 	if readmeSha is not None:
 		data["readmeSha"] = readmeSha
 	if i18nSourcesSha is not None:
@@ -41,9 +41,9 @@ def main():
 	value0 = str(shouldUpdateMd).lower()
 	name1 = 'shouldUpdatePot'
 	value1 = str(shouldUpdatePot).lower()
-	name2 = shouldAddMdFromScratch
+	name2 = 'shouldAddMdFromScratch'
 	value2 = str(shouldAddMdFromScratch).lower()
-	name3 = shouldAddPotFromScratch
+	name3 = 'shouldAddPotFromScratch'
 	value3 = str(shouldAddPotFromScratch).lower()
 	with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
 		f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}\n{name2}={value2}\n{name3}={value3}\n")
