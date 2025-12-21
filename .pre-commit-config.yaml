@@ -68,7 +68,7 @@ repos:
   - id: add-trailing-comma
 
 - repo: https://github.com/astral-sh/ruff-pre-commit
-  rev: v0.9.11
+  rev: 0.9.11
   hooks:
     - id: ruff
       name: lint with ruff
