@@ -30,6 +30,8 @@ jobs:
           sudo apt install gettext
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
+      - name: Configure git authentication
+        run: git config --global url."https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/"
       - name: Run pre-commit
         run: |
           # Ensure uv environment is up to date.
