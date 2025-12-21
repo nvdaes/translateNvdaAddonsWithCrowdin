@@ -68,13 +68,16 @@ repos:
   - id: add-trailing-comma
 
 - repo: https://github.com/astral-sh/ruff-pre-commit
-  rev: 0.9.11
+  rev: v0.14.5
   hooks:
     - id: ruff
       name: lint with ruff
       args: [ --fix ]
     - id: ruff-format
       name: format with ruff
+- repo: https://github.com/astral-sh/uv-pre-commit3
+  rev: 0.9.11
+  hooks:
     - id: uv-lock
       name: Verify uv lock file
       # Override python interpreter from .python-versions as that is too strict for pre-commit.ci
