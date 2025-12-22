@@ -2,9 +2,13 @@
 # This file is covered by the GNU General Public License.
 # See the file COPYING for more details.
 
-import os, sys, json
+import os
+import sys
+import json
+
 sys.path.insert(0, os.getcwd())
-import buildVars, sha256
+import buildVars
+import sha256
 
 
 def main():
@@ -25,8 +29,10 @@ def main():
 	if os.path.isfile(hashFile):
 		with open(hashFile, "rt") as f:
 			data = json.load(f)
-		shouldUpdateMd = (data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None)
-		shouldUpdatePot = (data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None)
+		shouldUpdateMd = data.get("readmeSha") != readmeSha and data.get("readmeSha") is not None
+		shouldUpdatePot = (
+			data.get("i18nSourcesSha") != i18nSourcesSha and data.get("i18nSourcesSha") is not None
+		)
 	shouldAddMdFromScratch = data.get("readmeSha") is None
 	shouldAddPotFromScratch = data.get("i18nSourcesSha") is None
 	if readmeSha is not None:
@@ -35,17 +41,17 @@ def main():
 		data["i18nSourcesSha"] = i18nSourcesSha
 	with open(hashFile, "wt", encoding="utf-8") as f:
 		json.dump(data, f, indent="\t", ensure_ascii=False)
-	name = 'addonId'
+	name = "addonId"
 	value = addonId
-	name0 = 'shouldUpdateMd'
+	name0 = "shouldUpdateMd"
 	value0 = str(shouldUpdateMd).lower()
-	name1 = 'shouldUpdatePot'
+	name1 = "shouldUpdatePot"
 	value1 = str(shouldUpdatePot).lower()
-	name2 = 'shouldAddMdFromScratch'
+	name2 = "shouldAddMdFromScratch"
 	value2 = str(shouldAddMdFromScratch).lower()
-	name3 = 'shouldAddPotFromScratch'
+	name3 = "shouldAddPotFromScratch"
 	value3 = str(shouldAddPotFromScratch).lower()
-	with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+	with open(os.environ["GITHUB_OUTPUT"], "a") as f:
 		f.write(f"{name}={value}\n{name0}={value0}\n{name1}={value1}\n{name2}={value2}\n{name3}={value3}\n")
 
 
