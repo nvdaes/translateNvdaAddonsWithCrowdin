@@ -71,27 +71,28 @@ jobs:
           fi
       - name: Download translations from Crowdin
         run: |
-          git push
+          git pull
           git checkout -b env.downloadTranslationsBranch
           uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
           for poFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po; do
+          [ -e "$poFile" ] || continue
             langCode=$(basename $(dirname $poFile))
-            mkdir -p addons/locale/$langCode/LC_MESSAGES
-            mv $poFile addons/locale/$langCode/LC_MESSAGES/nvda.po
+            mkdir -p addon/locale/$langCode/LC_MESSAGES/nvda.po
             done
             for mdFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md; do
             langCode=$(basename $(dirname $mdFile))
-            mkdir -p addons/doc/$langCode
-            mv $mdFile addons/doc/$langCode/readme.md
+          [ -e "$mdFile" ] || continue
+            mkdir -p addon/doc/$langCode
+            mv $mdFile addon/doc/$langCode/readme.md
             done
-          git add addons/locale addons/doc
-          git commit -m "Download translations for ${{ steps.getAddonInfo.outputs.addonId }}"
+          git add addon/locale addon/doc
+          git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git push --set-upstream origin env.downloadTranslationsBranch
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Download translations for ${{ steps.getAddonInfo.outputs.addonId }}
+          commit-message: Update translations for ${{ steps.getAddonInfo.outputs.addonId }}
           branch: env.downloadTranslationsBranch
           title: Translations for ${{ steps.getAddonInfo.outputs.addonId }}
           body: This PR includes the latest translations from Crowdin for the add-on ${{ steps.getAddonInfo.outputs.addonId }}.
