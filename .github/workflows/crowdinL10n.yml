@@ -108,3 +108,5 @@ jobs:
           --body "This pull request updates translations to languages being tracked from Crowdin."
           gh pr merge ${{ env.downloadTranslationsBranch }} \
           --squash --delete-branch --auto
+          fi
+          
