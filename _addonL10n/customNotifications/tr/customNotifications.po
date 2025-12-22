@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 08:37+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: customNotifications.pot\n"
+"X-Crowdin-File-ID: 244\n"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:64
+#, python-format
+msgid "Shows the %s settings."
+msgstr "%s ayarlarını gösterir."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:72
+#, python-format
+msgid "Toggles Truncate notifications option of %s."
+msgstr "%s için bildirimleri kısalt seçeneğini açar/kapatır."
+
+#. Translators: message presented when truncate notifications are disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:80
+msgid "Truncate notifications disabled"
+msgstr "Bildirimleri kısalt devre dışı"
+
+#. Translators: message presented when truncate notifications are enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:84
+msgid "Truncate notifications enabled"
+msgstr "Bildirimleri kısalt etkin"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:88
+#, python-format
+msgid "Toggles speech option of %s."
+msgstr "%s için konuşma seçeneğini değiştirir."
+
+#. Translators: message presented when customNotifications speech is disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:96
+#, python-format
+msgid "Speech disabled for %s"
+msgstr "%s için konuşma devre dışı"
+
+#. Translators: message presented when customNotifications speech is enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:100
+#, python-format
+msgid "Speech enabled for %s"
+msgstr "%s için konuşma etkin"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:104
+#, python-format
+msgid "Toggles braille option of %s."
+msgstr "%s için braille seçeneğini değiştirir."
+
+#. Translators: message presented when customNotifications braille is disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:112
+#, python-format
+msgid "Braille disabled for %s"
+msgstr "%s için Braille devre dışı"
+
+#. Translators: message presented when customNotifications braille is enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:116
+#, python-format
+msgid "Braille enabled for %s"
+msgstr "%s için Braille etkin"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:27
+msgid "&Truncate notifications"
+msgstr "Bildirimleri kısal&t"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:33
+msgid "Type the characters to be used as the &start limit of notifications"
+msgstr "Bildirimlerin başlangıç &sınırı olarak kullanılacak karakterleri yazın"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:37
+msgid "Type the characters to be used as the end &limit of notifications"
+msgstr "Bi&ldirimlerin bitiş sınırı olarak kullanılacak karakterleri yazın"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:41
+msgid "Sele&ct output modes for notifications"
+msgstr "Bildirimler için &çıkış modlarını seçin"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:44
+msgid "Speech"
+msgstr "Konuşma"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:46
+msgid "Braille"
+msgstr "Braille"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:61
+msgid "Type the text to show a test &notification"
+msgstr "Bir test bildirimi göstermek içi&n metni yazın"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:66
+msgid "&Show test notification"
+msgstr "Test bildirimini gö&ster"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Custom Notifications"
+msgstr "Bildirimleri Özelleştir"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Choose how NVDA should read toast notifications.\n"
+"You can read just the application which sent a toast, and choose if notifications are spoken, displayed in braille or both.\n"
+"This may  improve your experience with toast notifications and help you to keep your privacy."
+msgstr "NVDA'nın bildirimleri nasıl okuması gerektiğini seçin.\n"
+"Yalnızca bir tost gönderen uygulamayı okuyabilir ve bildirimlerin konuşulup, Braille ile gösterilmesini veya her ikisini de seçebilirsiniz.\n"
+"Bu, tost bildirimleriyle deneyiminizi geliştirebilir ve gizliliğinizi korumanıza yardımcı olabilir."
+

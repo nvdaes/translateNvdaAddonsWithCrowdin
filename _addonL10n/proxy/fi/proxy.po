@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 07:13+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: proxy.pot\n"
+"X-Crowdin-File-ID: 384\n"
+
+#. TRANSLATORS: socks4 proxy type
+#: addon/globalPlugins/proxy/__init__.py:46
+msgid "SOCKS v4"
+msgstr "SOCKS v4"
+
+#. TRANSLATORS: socks5 proxy type
+#: addon/globalPlugins/proxy/__init__.py:48
+msgid "SOCKS v5"
+msgstr "SOCKS v5"
+
+#. TRANSLATORS: http proxy type which redirects all traffic
+#: addon/globalPlugins/proxy/__init__.py:50
+msgid "HTTP"
+msgstr "HTTP"
+
+#. TRANSLATORS: title for the Proxy settings category in NVDA settings dialog
+#: addon/globalPlugins/proxy/__init__.py:140
+msgid "Proxy"
+msgstr "Välityspalvelin"
+
+#: addon/globalPlugins/proxy/__init__.py:143
+msgid "The following options allow you to configure a proxy server so NVDA can connect to the Internet"
+msgstr "Seuraavien asetusten avulla voit määrittää välityspalvelimen, jonka kautta NVDA muodostaa yhteyden internetiin."
+
+#. TRANSLATORS: label for a group of proxy settings in the proxy settings panel
+#: addon/globalPlugins/proxy/__init__.py:151
+msgid "All traffic"
+msgstr "Kaikki liikenne"
+
+#. TRANSLATORS: label for a combo box which contains SOCKS proxy types
+#: addon/globalPlugins/proxy/__init__.py:154
+msgid "SOCKS proxy type"
+msgstr "SOCKS-välityspalvelimen tyyppi"
+
+#. TRANSLATORS: proxy host for socks connections
+#. TRANSLATORS: proxy host for http connections
+#. TRANSLATORS: proxy host for https connections
+#. TRANSLATORS: proxy host for ftp connections
+#: addon/globalPlugins/proxy/__init__.py:158
+#: addon/globalPlugins/proxy/__init__.py:178
+#: addon/globalPlugins/proxy/__init__.py:194
+#: addon/globalPlugins/proxy/__init__.py:210
+msgid "Host: "
+msgstr "Isäntä: "
+
+#. TRANSLATORS: proxy port for socks connections
+#. TRANSLATORS: proxy port for http connections
+#. TRANSLATORS: proxy port for https connections
+#. TRANSLATORS: proxy port for ftp connections
+#: addon/globalPlugins/proxy/__init__.py:161
+#: addon/globalPlugins/proxy/__init__.py:181
+#: addon/globalPlugins/proxy/__init__.py:197
+#: addon/globalPlugins/proxy/__init__.py:214
+msgid "Port: "
+msgstr "Portti: "
+
+#. TRANSLATORS: option to redirect dns traffic through a SOCKSv5 proxy
+#: addon/globalPlugins/proxy/__init__.py:164
+msgid "Use proxy for DNS requests if possible"
+msgstr "Käytä välityspalvelinta DNS-pyyntöihin, mikäli mahdollista"
+
+#. TRANSLATORS: proxy username for socks connections
+#. TRANSLATORS: proxy username for http connections
+#. TRANSLATORS: proxy username for https connections
+#. TRANSLATORS: proxy username for ftp connections
+#: addon/globalPlugins/proxy/__init__.py:168
+#: addon/globalPlugins/proxy/__init__.py:184
+#: addon/globalPlugins/proxy/__init__.py:200
+#: addon/globalPlugins/proxy/__init__.py:218
+msgid "Username: "
+msgstr "Käyttäjänimi: "
+
+#. TRANSLATORS: proxy password for socks connections
+#. TRANSLATORS: proxy password for http connections
+#. TRANSLATORS: proxy password for https connections
+#. TRANSLATORS: proxy password for ftp connections
+#: addon/globalPlugins/proxy/__init__.py:171
+#: addon/globalPlugins/proxy/__init__.py:187
+#: addon/globalPlugins/proxy/__init__.py:203
+#: addon/globalPlugins/proxy/__init__.py:222
+msgid "Password: "
+msgstr "Salasana: "
+
+#. TRANSLATORS: label for a group of proxy settings in the proxy settings panel
+#: addon/globalPlugins/proxy/__init__.py:174
+msgid "HTTP traffic"
+msgstr "HTTP-liikenne"
+
+#. TRANSLATORS: label for a group of proxy settings in the proxy settings panel
+#: addon/globalPlugins/proxy/__init__.py:190
+msgid "HTTPS traffic"
+msgstr "HTTPS-liikenne"
+
+#. TRANSLATORS: label for a group of proxy settings in the proxy settings panel
+#: addon/globalPlugins/proxy/__init__.py:206
+msgid "FTP traffic"
+msgstr "FTP-liikenne"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Proxy support"
+msgstr "Välityspalvelimen tuki"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "This add-on allows NVDA connecting to the Internet through a proxy server."
+msgstr "Tämän lisäosan avulla NVDA voi muodostaa internet-yhteyden välityspalvelimen kautta."
+

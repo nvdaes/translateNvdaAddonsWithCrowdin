@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ru">
+  <file id="mp3DirectCut.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/mp3DirectCut/mp3DirectCut.md">
+    <skeleton>
+$(ID:13e2c32b-9b90-43f5-8c57-e22bae167f08)
+
+* $(ID:7347f451-ac30-42d4-8641-d9a179715264)
+* $(ID:ff3e64a6-6da4-432d-a8d8-ed56526a0ef7)
+* $(ID:1e16a7bd-03d3-4126-8afc-5da07e37d3ae)
+
+# $(ID:45e5774e-4f09-495e-8969-b91975752f07)
+
+$(ID:1baeb79a-e508-47b2-9950-5dcd26ae3902)
+
+$(ID:47f1bc6d-5765-4646-9cf7-33d91d338242)
+
+## $(ID:463cdc82-ecd6-4c29-a790-0ec9081f6396)
+
+$(ID:3f6d16d4-3e48-44b3-8011-0c68c4e347e2)
+
+* $(ID:14a99921-e499-4f04-99cc-cdd6c1c86b59)
+
+    * $(ID:dfad8cfc-4d02-4dbd-81d2-94bd6e78569d)
+
+* $(ID:1417a7ad-a563-4f6b-ac43-7f7dea331ab8)
+
+    * $(ID:02e45e49-55be-4bfe-ae02-24a99149a51c)
+    * $(ID:285f9b31-8221-481d-8184-7395cb69210f)
+
+* $(ID:6ab9c324-86b2-47f2-ba49-0b77d50d1c8e)
+
+    * $(ID:c47ed13d-f881-41b8-9c0c-efbdfa204502)
+    * $(ID:969be4b6-6805-4b5b-af06-6cfce372c2ac)
+
+* $(ID:2488e7aa-d088-4e07-bcfa-a009cfd7177c)
+
+    * $(ID:69b1e352-0ac2-48a5-8507-769607a519fe)
+
+* $(ID:da03e8aa-ede9-4467-8f17-b5a433e42511)
+
+    * $(ID:93cc5a94-8016-4dfe-9012-555aa96e8874)
+
+* $(ID:1a143e33-5b5b-4cfe-9f59-507942f0ef99)
+
+    * $(ID:80f6b3f8-db32-41e8-8c18-57b4f778bf83)
+    * $(ID:26536769-46c0-45f2-aa85-3bdcdd418e93)
+
+* $(ID:343efea4-5e2c-4cc6-9fa4-312767973cc4)
+
+    * $(ID:6d2f4f6a-7759-48b3-b1b8-ba5e52cbadd9)
+
+* $(ID:826edcb3-4cfb-458f-875a-eabac0a169c7)
+
+    * $(ID:7516505a-5ff5-4981-a608-1568976046fe)
+    * $(ID:a724ed50-1d04-407d-9d7b-80e70e748323)
+
+* $(ID:90fcb94b-d826-41b5-b220-832a2dd466b5)
+
+    * $(ID:0ecaf8f3-90ae-43d7-adb6-7bbb55635f97)
+    * $(ID:78d3b3b8-426d-40d9-9224-e12f043ff920)
+    * $(ID:af7b35e2-edcf-4991-b893-a6781fcb20b2)
+    * $(ID:03fdf638-9e6e-4821-8ba1-9cbd2a0265d2)
+
+* $(ID:037120a5-1f18-42dc-a490-25d108093517)
+
+    * $(ID:a0313091-58f0-404a-bf5a-c9d0e6e85cd2)
+
+* $(ID:f09d1d52-66bd-4340-bd9c-938921929620)
+
+    * $(ID:2f34a311-9be4-401e-9840-894d70ee1d07)
+
+* $(ID:01a839cc-35ea-4ac3-8666-1919e9b6b753)
+
+    * $(ID:8a9f2278-9f5d-480e-8b45-3ca74c607e2a)
+    * $(ID:7a77b062-302b-4c3d-8c87-f9e8018715dc)
+
+* $(ID:8a2ebe55-4cdf-4fe6-bb5d-262b22510ac4)
+
+    * $(ID:89a82dee-a077-480b-91ca-e1f7c216374d)
+
+* $(ID:f114af7b-808b-4c0e-8b49-2862e2d59f4b)
+
+    * $(ID:8f3d66c6-b83d-4221-81fe-7e192556d47d)
+    * $(ID:269fd8ed-0a5b-4f2f-b753-6a38a2d8dbde)
+
+* $(ID:5cdfb089-7457-48ac-bd1a-84d9eb15306b)
+
+    * $(ID:e851b29d-13b4-4d24-920a-c79776bc2675)
+    * $(ID:1f605b61-5111-4dce-96a8-30d52684bf72)
+
+* $(ID:676b33f2-10fb-4253-b432-b581cba86257)
+
+    * $(ID:f62b8368-439c-463c-8536-86fa729006f0)
+
+* $(ID:c856de0d-7508-4f14-bd53-ec0ab6d85057)
+
+    * $(ID:561be79e-79fa-4a5e-a547-9024fe1470b9)
+    * $(ID:dbf89cde-2c8a-4ed5-9999-93b614bf3fcb)
+
+* $(ID:cf3a18ac-bb2f-4d3f-a83b-6839cb9941c2)
+
+    * $(ID:385c3404-d53f-4fc1-b917-23f5565b8c32)
+
+* $(ID:8b72a48b-474c-43b0-8387-60e7ba659ab8)
+
+    * $(ID:c599e9b7-71d4-4e75-be9a-d8df034f84a3)
+
+* $(ID:e7fe3bd1-1b54-4679-b231-5736c7738f0f)
+
+    * $(ID:9b7e5ecc-f711-48fd-baac-137bf297b7e0)
+
+* $(ID:34792cd2-a398-43bf-8269-a90d524754c3)
+
+    * $(ID:63b2d844-6010-40b5-a032-ed41cbb2aa88)
+
+* $(ID:386ad842-ad4b-4a08-aeb1-cc82ba3caf75)
+
+    * $(ID:4bf33aec-e656-4d5e-baba-64c00249500a)
+
+* $(ID:009c2c8a-1c18-4429-a4b1-731421141ff9)
+
+    * $(ID:bda56e75-2961-4cc7-a3d5-ea53175f9550)
+    * $(ID:8daa51ed-6937-49cf-b1a4-6bdb85c08c1d)
+    * $(ID:62549db6-02d8-473f-8075-0a85c1db3e18)
+    * $(ID:3f999390-b48d-43eb-81bb-ffe210b5e438)
+    * $(ID:38b6de6f-b64a-4ad0-8667-702be0994cea)
+
+* $(ID:34d318c9-3dcb-46cf-8943-771b1a8c284b)
+
+    * $(ID:5455a15a-777e-4741-8186-4424c7230dc0)
+    * $(ID:2c26e0dc-cdd5-428b-a4c7-46606fd716de)
+    * $(ID:3b4bd1fd-0221-4b4c-a0ff-7c5b4243c1a1)
+    * $(ID:37223e90-9b92-42c8-a2d3-00d17b95afd3)
+
+* $(ID:08bc486d-9d20-4b56-9fba-6fa2574077e9)
+
+    * $(ID:98ac7851-4b58-4689-8afe-e59a243018a9)
+
+## $(ID:08a84ca4-e4e7-4552-b469-5aca7460e8ac)
+
+* $(ID:3cd121c0-ee46-4e9d-8835-b0ba352ce59f)
+
+## $(ID:b0a7f1df-9f90-4fc4-9ed3-f8d89a261e6f)
+
+* $(ID:6eceb620-1ca4-4033-8c79-d42228e82775)
+* $(ID:c8406f81-6d26-4e58-8fb1-15a648e02952)
+* $(ID:c5c879cd-dfd9-4a21-a0d0-19adf87928dd)
+
+## $(ID:ba0a0dc2-2786-4420-8b2e-46f85937fa8c)
+
+* $(ID:47a5183c-e6ec-4d33-ad7b-88e07e5c7000)
+* $(ID:27cd38b8-09ab-4a36-b8d9-2120cf2345ee)
+
+## $(ID:dfaa1371-e5b0-4627-ab7a-43b41bb5b458)
+
+* $(ID:f987f535-2e68-4b21-99d3-84ebbf9b29ed)
+ * $(ID:f2e37bc3-3794-48e9-a744-bb3c5b5a0e6f)
+ * $(ID:3a661f9e-cec6-4a2a-a7f0-634807fcd3bb)
+ * $(ID:c00d7ced-1d31-40bf-a974-856e6ed07a15)
+* $(ID:3d40066d-19de-4d7b-8d18-c5e85354ff10)
+
+## $(ID:07d25ca4-a45c-4674-83f7-cc0fa6a7ee76)
+
+* $(ID:682848e2-b2a9-4a69-9e5d-2700c7612c76)
+
+## $(ID:d2d9f085-4248-420b-8f4c-4df2ddbae4ab)
+
+* $(ID:ebbdd611-7e7f-401c-8255-cb7dee44c5cb)
+* $(ID:14eca2a6-c5e7-4f62-9f9b-c55c4b5c7121)
+
+## $(ID:c6262ed5-46a0-4623-99b7-3cdf65ff9bed)
+
+* $(ID:a995f3f7-95aa-4371-9188-fa576457e072)
+* $(ID:c05909bc-a11c-4028-9450-8bad04f460c6)
+* $(ID:cd1920c7-ad1e-46ba-a602-6cf54f355981)
+
+## $(ID:341154e0-df8e-4feb-a2ff-dd01c8d3eab0)
+
+* $(ID:c50872bc-27b1-4c03-846a-39cb71844bf2)
+* $(ID:a3983a0c-8031-4176-864d-67842a7c94e2)
+
+## $(ID:c4d263ff-8f40-4ed2-8176-dc9ac2b2f653)
+
+* $(ID:e6801a52-c529-4e15-891d-294e34f21541)
+* $(ID:2748192c-f069-431e-9c0e-2b3642d4f6eb)
+* $(ID:ea95c0d6-9aab-4946-bf6a-73fdc07a3901)
+
+## $(ID:2ab55415-b698-4f12-a151-2886daa12557)
+
+* $(ID:41814829-5d56-438d-9dc9-3dbff6ecefcc)
+* $(ID:f995246f-e6f9-4d8c-86c5-65657f960fe6)
+* $(ID:0b01c061-d23e-418f-97b9-808b387f18e1)
+* $(ID:3c686428-791f-4b2e-a42a-d63fb06b8157)
+
+## $(ID:61369089-5e36-4671-8051-a084b3d598ea)
+
+* $(ID:bdb55962-7a40-46be-9a25-17127ee53557)
+
+## $(ID:7dd91d5d-448b-4f1b-846f-42f4459e8b27)
+
+* $(ID:a2c6f6f4-50c5-4333-87b2-d28b960db2ed)
+* $(ID:e8ca3dc6-a010-4070-823a-cb52b369ea00)
+* $(ID:250cdd21-a539-4f15-aa5c-f1c2a90ec3f3)
+* $(ID:f742c0cd-fd77-4590-962c-0143421ee630)
+* $(ID:65eb39b0-60e4-450c-86d5-c65783c9dc20)
+* $(ID:ff773ab8-6fff-4177-885c-3add39d529f9)
+* $(ID:ffe3be39-ed75-46e1-acb2-4118608b021a)
+
+## $(ID:338021a8-4c75-43ae-94bb-c7aba6b5f33f)
+
+* $(ID:e76545e3-2278-4c34-9f35-48820c2ed772)
+* $(ID:25d435ba-1636-4fe1-83e3-d2f9e6e1d36e)
+* $(ID:5d3cb539-8af4-4686-9ed6-e93d4d65c269)
+* $(ID:00ba7911-3e60-4c00-a04f-a7d7ba664bf3)
+* $(ID:f0610897-9f4a-47f0-850f-1b39ed6db6fc)
+
+## $(ID:f5b42a73-9a2e-4a0d-9300-c4f63a2f5bad)
+
+* $(ID:c230185f-6540-4a42-afa0-4b1924b1c81b)
+* $(ID:965cacaf-d745-4965-b0ae-d0431ca1c321)
+* $(ID:dbd5e09c-d4cc-4326-aa03-b0d492b7a5e9)
+
+## $(ID:8b008948-f667-4160-9c1d-7a57f15d5886)
+
+* $(ID:eb71b85d-66b7-4bd0-93d0-c8951e9cc36b)
+
+    * $(ID:70cebd46-215f-430b-8e57-72879745ab9d)
+
+* $(ID:bb249b8a-2a39-4c25-87c0-24c7897a5334)
+
+## $(ID:9554ce70-0ae4-42f1-8e29-3a05ea54af5b)
+
+* $(ID:bbc49d80-9746-4cdb-be10-8e3abe8afc55)
+
+$(ID:a70e327f-7ce2-444d-a5c1-3da06b8459cf)
+
+$(ID:b40d4bca-c971-4900-9d7a-a4df26d05592)
+</skeleton>
+    <unit id="13e2c32b-9b90-43f5-8c57-e22bae167f08">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+      </notes>
+      <segment state="final">
+        <source>﻿# mp3DirectCut</source>
+        <target>﻿# mp3DirectCut</target>
+      </segment>
+    </unit>
+    <unit id="7347f451-ac30-42d4-8641-d9a179715264">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author(s) : Abdel, Rémy, Abdellah zineddine, Jean-François COLAS</source>
+        <target>Автор(ы) : Abdel, Rémy, Abdellah zineddine, Jean-François COLAS</target>
+      </segment>
+    </unit>
+    <unit id="ff3e64a6-6da4-432d-a8d8-ed56526a0ef7">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>Загрузить [стабильную версию][1]</target>
+      </segment>
+    </unit>
+    <unit id="1e16a7bd-03d3-4126-8afc-5da07e37d3ae">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [development version][2]</source>
+        <target>Загрузить [разрабатываемую версию][2]</target>
+      </segment>
+    </unit>
+    <unit id="45e5774e-4f09-495e-8969-b91975752f07">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Presentation #</source>
+        <target>Презентация #</target>
+      </segment>
+    </unit>
+    <unit id="1baeb79a-e508-47b2-9950-5dcd26ae3902">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on improves the accessibility of the software mp3DirectCut with NVDA.</source>
+        <target>Это дополнение улучшает доступность программы mp3DirectCut в NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="47f1bc6d-5765-4646-9cf7-33d91d338242">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="final">
+        <source>It has been tested with versions of mp3DirectCut ranging from 212 up to 233.</source>
+        <target>Оно проверялось с версиями mp3DirectCut от 212 до 233.</target>
+      </segment>
+    </unit>
+    <unit id="463cdc82-ecd6-4c29-a790-0ec9081f6396">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Keyboard shortcuts ##</source>
+        <target>Горячие клавиши ##</target>
+      </segment>
+    </unit>
+    <unit id="3f6d16d4-3e48-44b3-8011-0c68c4e347e2">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="final">
+        <source>This addon offers the following commands:</source>
+        <target>Это дополнение предлагает следующие команды:</target>
+      </segment>
+    </unit>
+    <unit id="14a99921-e499-4f04-99cc-cdd6c1c86b59">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>B</source>
+        <target>B</target>
+      </segment>
+    </unit>
+    <unit id="dfad8cfc-4d02-4dbd-81d2-94bd6e78569d">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to confirm correct placement of the marker of the beginning of the selection B.</source>
+        <target>Используется для подтверждения правильного размещения маркера начала выделения B.</target>
+      </segment>
+    </unit>
+    <unit id="1417a7ad-a563-4f6b-ac43-7f7dea331ab8">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+B</source>
+        <target>Ctrl+Shift+B</target>
+      </segment>
+    </unit>
+    <unit id="02e45e49-55be-4bfe-ae02-24a99149a51c">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to indicate the position of the marker of the beginning of selection B.</source>
+        <target>Используется для указания положения маркера начала выделения B.</target>
+      </segment>
+    </unit>
+    <unit id="285f9b31-8221-481d-8184-7395cb69210f">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Double pressure lets give you the duration of the selection.</source>
+        <target>Двойное нажатие позволяет определить продолжительность выделения.</target>
+      </segment>
+    </unit>
+    <unit id="6ab9c324-86b2-47f2-ba49-0b77d50d1c8e">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+D</source>
+        <target>Ctrl+Shift+D</target>
+      </segment>
+    </unit>
+    <unit id="c47ed13d-f881-41b8-9c0c-efbdfa204502">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Gives the duration from the beginning of the file to the current position of the playback cursor.</source>
+        <target>Предоставляет длительность от начала файла до текущего положения курсора воспроизведения.</target>
+      </segment>
+    </unit>
+    <unit id="969be4b6-6805-4b5b-af06-6cfce372c2ac">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Double pressure lets give you the total duration.</source>
+        <target>Двойное нажатие позволяет определить общую продолжительность.</target>
+      </segment>
+    </unit>
+    <unit id="2488e7aa-d088-4e07-bcfa-a009cfd7177c">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+R</source>
+        <target>Ctrl+R</target>
+      </segment>
+    </unit>
+    <unit id="69b1e352-0ac2-48a5-8507-769607a519fe">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Confirms that the selection has been canceled.</source>
+        <target>Подтверждает, что выделение было отменено.</target>
+      </segment>
+    </unit>
+    <unit id="da03e8aa-ede9-4467-8f17-b5a433e42511">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+R</source>
+        <target>Ctrl+Shift+R</target>
+      </segment>
+    </unit>
+    <unit id="93cc5a94-8016-4dfe-9012-555aa96e8874">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Gives the time remaining from the current position of the playback cursor to the end of the file.</source>
+        <target>Предоставляет время, оставшееся от текущего положения курсора воспроизведения до конца файла.</target>
+      </segment>
+    </unit>
+    <unit id="1a143e33-5b5b-4cfe-9f59-507942f0ef99">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+E</source>
+        <target>Ctrl+Shift+E</target>
+      </segment>
+    </unit>
+    <unit id="80f6b3f8-db32-41e8-8c18-57b4f778bf83">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to indicate the position of the marker of the end of selection N.</source>
+        <target>Используется для указания положения маркера конца выделения N.</target>
+      </segment>
+    </unit>
+    <unit id="26536769-46c0-45f2-aa85-3bdcdd418e93">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Double pressure gives recapitulatif positions B and N, and the duration of the selection.</source>
+        <target>Двойное нажатие позволяет повторить позиции B и N и продолжительность выделения.</target>
+      </segment>
+    </unit>
+    <unit id="343efea4-5e2c-4cc6-9fa4-312767973cc4">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+P</source>
+        <target>Ctrl+Shift+P</target>
+      </segment>
+    </unit>
+    <unit id="6d2f4f6a-7759-48b3-b1b8-ba5e52cbadd9">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Give the reference of the actual part and the total number of parts in the current file.</source>
+        <target>Предоставить ссылку на фактическую часть и общее количество частей в текущем файле.</target>
+      </segment>
+    </unit>
+    <unit id="826edcb3-4cfb-458f-875a-eabac0a169c7">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Shift+Space</source>
+        <target>Ctrl+Shift+Пробел</target>
+      </segment>
+    </unit>
+    <unit id="7516505a-5ff5-4981-a608-1568976046fe">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to determine the current level of the vu-meter, during recording.</source>
+        <target>Используется для определения текущего уровня индикатора во время записи.</target>
+      </segment>
+    </unit>
+    <unit id="a724ed50-1d04-407d-9d7b-80e70e748323">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Double pressure reset it.</source>
+        <target>Двойное нажатие сбрасывает его.</target>
+      </segment>
+    </unit>
+    <unit id="90fcb94b-d826-41b5-b220-832a2dd466b5">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Down Arrow</source>
+        <target>Стрелка Вниз</target>
+      </segment>
+    </unit>
+    <unit id="0ecaf8f3-90ae-43d7-adb6-7bbb55635f97">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets you see the current position of the playhead.</source>
+        <target>Позволяет увидеть текущее положение головки воспроизведения.</target>
+      </segment>
+    </unit>
+    <unit id="78d3b3b8-426d-40d9-9224-e12f043ff920">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This command also position the cursor at the location of the marker of the end of selection N, while giving the location of this marker if a selection has been made.</source>
+        <target>Эта команда также помещает курсор в положение маркера конца выделения N, одновременно указывая местоположение этого маркера, если выделение было сделано.</target>
+      </segment>
+    </unit>
+    <unit id="af7b35e2-edcf-4991-b893-a6781fcb20b2">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>In the volume dialog box, vocalise the next value that can be reached generally with downArrow.</source>
+        <target>В диалоге громкости озвучить следующее значение, которое обычно можно достичь с помощью стрелки вниз.</target>
+      </segment>
+    </unit>
+    <unit id="03fdf638-9e6e-4821-8ba1-9cbd2a0265d2">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This value is not vocalized default.</source>
+        <target>По умолчанию это значение не озвучивается.</target>
+      </segment>
+    </unit>
+    <unit id="037120a5-1f18-42dc-a490-25d108093517">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>End</source>
+        <target>End</target>
+      </segment>
+    </unit>
+    <unit id="a0313091-58f0-404a-bf5a-c9d0e6e85cd2">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Moves the playback cursor at the end of the current file and give the total time.</source>
+        <target>Перемещает курсор воспроизведения в конец текущего файла и предоставляет общее время.</target>
+      </segment>
+    </unit>
+    <unit id="f09d1d52-66bd-4340-bd9c-938921929620">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Home</source>
+        <target>Home</target>
+      </segment>
+    </unit>
+    <unit id="2f34a311-9be4-401e-9840-894d70ee1d07">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Moves the playback cursor at the beginning of the current file.</source>
+        <target>Перемещает курсор воспроизведения в начало текущего файла.</target>
+      </segment>
+    </unit>
+    <unit id="01a839cc-35ea-4ac3-8666-1919e9b6b753">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Left Arrow</source>
+        <target>Стрелка Влево</target>
+      </segment>
+    </unit>
+    <unit id="8a9f2278-9f5d-480e-8b45-3ca74c607e2a">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets make a brief return back of one second during playback, while giving the current duration.</source>
+        <target>Позволяет сделать краткий возврат назад на одну секунду во время воспроизведения, указав при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="7a77b062-302b-4c3d-8c87-f9e8018715dc">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This duration is configurable in the options of mp3directcut.</source>
+        <target>Эта длительность настраивается в настройках mp3directcut.</target>
+      </segment>
+    </unit>
+    <unit id="8a2ebe55-4cdf-4fe6-bb5d-262b22510ac4">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>N</source>
+        <target>N</target>
+      </segment>
+    </unit>
+    <unit id="89a82dee-a077-480b-91ca-e1f7c216374d">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to confirm correct placement of the marker of the end of the selection N.</source>
+        <target>Используется для подтверждения правильного размещения маркера конца выделения N.</target>
+      </segment>
+    </unit>
+    <unit id="f114af7b-808b-4c0e-8b49-2862e2d59f4b">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Page Down</source>
+        <target>Страница Вниз</target>
+      </segment>
+    </unit>
+    <unit id="8f3d66c6-b83d-4221-81fe-7e192556d47d">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets make a leap forward of 10 seconds during playback, while giving the current duration.</source>
+        <target>Позволяет сделать скачок на 10 секунд вперёд во время воспроизведения, указав при этом текущую продолжительность.</target>
+      </segment>
+    </unit>
+    <unit id="269fd8ed-0a5b-4f2f-b753-6a38a2d8dbde">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This duration is configurable in the options of mp3directcut.</source>
+        <target>Эта длительность настраивается в настройках mp3directcut.</target>
+      </segment>
+    </unit>
+    <unit id="5cdfb089-7457-48ac-bd1a-84d9eb15306b">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Page Up</source>
+        <target>Страница Вверх</target>
+      </segment>
+    </unit>
+    <unit id="e851b29d-13b4-4d24-920a-c79776bc2675">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets make a return back of 10 seconds during playback, while giving the current duration.</source>
+        <target>Позволяет сделать скачок на 10 секунд назад во время воспроизведения, указав при этом текущую продолжительность.</target>
+      </segment>
+    </unit>
+    <unit id="1f605b61-5111-4dce-96a8-30d52684bf72">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This duration is configurable in the options of mp3directcut.</source>
+        <target>Эта длительность настраивается в настройках mp3directcut.</target>
+      </segment>
+    </unit>
+    <unit id="676b33f2-10fb-4253-b432-b581cba86257">
+      <notes>
+        <note appliesTo="source">line: 88</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>R</source>
+        <target>R</target>
+      </segment>
+    </unit>
+    <unit id="f62b8368-439c-463c-8536-86fa729006f0">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Allows to prepare a record and whether you can press spacebar to start.</source>
+        <target>Позволяет подготовить запись и указать, можете ли вы нажать пробел для начала.</target>
+      </segment>
+    </unit>
+    <unit id="c856de0d-7508-4f14-bd53-ec0ab6d85057">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Right Arrow</source>
+        <target>Стрелка Вправо</target>
+      </segment>
+    </unit>
+    <unit id="561be79e-79fa-4a5e-a547-9024fe1470b9">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets do a brief forward of one second during playback, while giving the current duration.</source>
+        <target>Позволяет сделать короткую перемотку вперед на одну секунду во время воспроизведения, указав при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="dbf89cde-2c8a-4ed5-9999-93b614bf3fcb">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This duration is configurable in the options of mp3directcut.</source>
+        <target>Эта длительность настраивается в настройках mp3directcut.</target>
+      </segment>
+    </unit>
+    <unit id="cf3a18ac-bb2f-4d3f-a83b-6839cb9941c2">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Right Arrow</source>
+        <target>Ctrl+Стрелка Вправо</target>
+      </segment>
+    </unit>
+    <unit id="385c3404-d53f-4fc1-b917-23f5565b8c32">
+      <notes>
+        <note appliesTo="source">line: 99</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Moves to the next splitting point, while giving the current duration.</source>
+        <target>Переходит к следующей точке разделения, предоставляя при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="8b72a48b-474c-43b0-8387-60e7ba659ab8">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Ctrl+Left Arrow</source>
+        <target>Ctrl+Стрелка Влево</target>
+      </segment>
+    </unit>
+    <unit id="c599e9b7-71d4-4e75-be9a-d8df034f84a3">
+      <notes>
+        <note appliesTo="source">line: 103</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Moves to the previous splitting point, while giving the current duration.</source>
+        <target>Перемещается к предыдущей точке разделения, предоставляя при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="e7fe3bd1-1b54-4679-b231-5736c7738f0f">
+      <notes>
+        <note appliesTo="source">line: 105</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shift+Right Arrow</source>
+        <target>Shift+Стрелка Вправо</target>
+      </segment>
+    </unit>
+    <unit id="9b7e5ecc-f711-48fd-baac-137bf297b7e0">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets do a brief forward of four hundredths of seconds during playback, while giving the current duration.</source>
+        <target>Позволяет сделать короткую перемотку вперед на четыре сотых секунды во время воспроизведения, указав при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="34792cd2-a398-43bf-8269-a90d524754c3">
+      <notes>
+        <note appliesTo="source">line: 109</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shift+Left Arrow</source>
+        <target>Shift+Стрелка Влево</target>
+      </segment>
+    </unit>
+    <unit id="63b2d844-6010-40b5-a032-ed41cbb2aa88">
+      <notes>
+        <note appliesTo="source">line: 111</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets do a brief backwards of four hundredths of seconds during playback, while giving the current duration.</source>
+        <target>Позволяет сделать короткую перемотку назад на четыре сотых секунды во время воспроизведения, указав при этом текущую длительность.</target>
+      </segment>
+    </unit>
+    <unit id="386ad842-ad4b-4a08-aeb1-cc82ba3caf75">
+      <notes>
+        <note appliesTo="source">line: 113</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>S</source>
+        <target>S</target>
+      </segment>
+    </unit>
+    <unit id="4bf33aec-e656-4d5e-baba-64c00249500a">
+      <notes>
+        <note appliesTo="source">line: 115</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Used to stop the reading and give the current duration.</source>
+        <target>Используется для остановки чтения и указания текущей продолжительности.</target>
+      </segment>
+    </unit>
+    <unit id="009c2c8a-1c18-4429-a4b1-731421141ff9">
+      <notes>
+        <note appliesTo="source">line: 117</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Space</source>
+        <target>Пробел</target>
+      </segment>
+    </unit>
+    <unit id="bda56e75-2961-4cc7-a3d5-ea53175f9550">
+      <notes>
+        <note appliesTo="source">line: 119</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>If the recording is ready, start this recording.</source>
+        <target>Если запись готова, запустить её.</target>
+      </segment>
+    </unit>
+    <unit id="8daa51ed-6937-49cf-b1a4-6bdb85c08c1d">
+      <notes>
+        <note appliesTo="source">line: 120</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>If a recording is in progress, stop it by positioning the cursor at the beginning.</source>
+        <target>Если выполняется запись, остановить её, установив курсор в начало.</target>
+      </segment>
+    </unit>
+    <unit id="62549db6-02d8-473f-8075-0a85c1db3e18">
+      <notes>
+        <note appliesTo="source">line: 121</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>If a file is loaded, start the reading.</source>
+        <target>Если файл загружен, начать чтение.</target>
+      </segment>
+    </unit>
+    <unit id="3f999390-b48d-43eb-81bb-ffe210b5e438">
+      <notes>
+        <note appliesTo="source">line: 122</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>If a read is in progress, allows to do a pause by giving current duration.</source>
+        <target>Если выполняется чтение, позволяет сделать паузу, указав текущую продолжительность.</target>
+      </segment>
+    </unit>
+    <unit id="38b6de6f-b64a-4ad0-8667-702be0994cea">
+      <notes>
+        <note appliesTo="source">line: 123</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>If read is paused, allows to restart the reading from the current location.</source>
+        <target>Если чтение приостановлено, позволяет перезапустить чтение с текущего местоположения.</target>
+      </segment>
+    </unit>
+    <unit id="34d318c9-3dcb-46cf-8943-771b1a8c284b">
+      <notes>
+        <note appliesTo="source">line: 125</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Up Arrow</source>
+        <target>Стрелка Вверх</target>
+      </segment>
+    </unit>
+    <unit id="5455a15a-777e-4741-8186-4424c7230dc0">
+      <notes>
+        <note appliesTo="source">line: 127</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets you see the current position of the playhead.</source>
+        <target>Позволяет увидеть текущее положение головки воспроизведения.</target>
+      </segment>
+    </unit>
+    <unit id="2c26e0dc-cdd5-428b-a4c7-46606fd716de">
+      <notes>
+        <note appliesTo="source">line: 128</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This command also position the cursor at the location of the marker of the beginning of selection B, while giving the location of this marker if a selection has been made.</source>
+        <target>Эта команда также помещает курсор в положение маркера начала выделения B, одновременно указывая местоположение этого маркера, если выделение было сделано.</target>
+      </segment>
+    </unit>
+    <unit id="3b4bd1fd-0221-4b4c-a0ff-7c5b4243c1a1">
+      <notes>
+        <note appliesTo="source">line: 129</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>In the volume dialog box, vocalise the previous value that can be reached generally with upArrow.</source>
+        <target>В диалоге громкости озвучено предыдущее значение, которое обычно может быть достигнуто с помощью Стрелки Вверх.</target>
+      </segment>
+    </unit>
+    <unit id="37223e90-9b92-42c8-a2d3-00d17b95afd3">
+      <notes>
+        <note appliesTo="source">line: 130</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>This value is not vocalized default.</source>
+        <target>По умолчанию это значение не озвучивается.</target>
+      </segment>
+    </unit>
+    <unit id="08bc486d-9d20-4b56-9fba-6fa2574077e9">
+      <notes>
+        <note appliesTo="source">line: 132</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+H</source>
+        <target>NVDA+H</target>
+      </segment>
+    </unit>
+    <unit id="98ac7851-4b58-4689-8afe-e59a243018a9">
+      <notes>
+        <note appliesTo="source">line: 134</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Lets open the help of the current add-on.</source>
+        <target>Даёт открыть справку текущего дополнения.</target>
+      </segment>
+    </unit>
+    <unit id="08a84ca4-e4e7-4552-b469-5aca7460e8ac">
+      <notes>
+        <note appliesTo="source">line: 136</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility ##</source>
+        <target>Совместимость ##</target>
+      </segment>
+    </unit>
+    <unit id="3cd121c0-ee46-4e9d-8835-b0ba352ce59f">
+      <notes>
+        <note appliesTo="source">line: 138</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>This add-on is compatible with the versions of NVDA ranging from 2019.3 and beyond.</source>
+        <target>Это дополнение совместимо с версиями NVDA, начиная с 2019.3 и более поздними.</target>
+      </segment>
+    </unit>
+    <unit id="b0a7f1df-9f90-4fc4-9ed3-f8d89a261e6f">
+      <notes>
+        <note appliesTo="source">line: 140</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 20231007.0.0 ##</source>
+        <target>Изменение версии 20231007.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="6eceb620-1ca4-4033-8c79-d42228e82775">
+      <notes>
+        <note appliesTo="source">line: 142</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>After placing the cutting points and after opening the cutting properties window, with "Ctrl+N", adding accessibility to the title of this window by indicating the part index.</source>
+        <target>После размещения точек разделения и открытия окна свойств разделения с помощью "Ctrl+N" добавлена доступность к заголовку этого окна, указав индекс детали.</target>
+      </segment>
+    </unit>
+    <unit id="c8406f81-6d26-4e58-8fb1-15a648e02952">
+      <notes>
+        <note appliesTo="source">line: 143</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In reading mode, after moving the start or end markers of selections with keys 1 to 6 of the alphanumeric pad, addition of automatic start of reading from the new position;</source>
+        <target>В режиме чтения, после перемещения начального или конечного маркеров выбора с помощью клавиш с 1 по 6 буквенно-цифровой клавиатуры, добавляется автоматическое начало считывания с новой позиции;</target>
+      </segment>
+    </unit>
+    <unit id="c5c879cd-dfd9-4a21-a0d0-19adf87928dd">
+      <notes>
+        <note appliesTo="source">line: 144</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug that occurred when consulting the remaining time with "control+shift+r" from the beginning of the track.</source>
+        <target>Исправлена ошибка, возникавшая при просмотре оставшегося времени с помощью "control+shift+r" с начала дорожки.</target>
+      </segment>
+    </unit>
+    <unit id="ba0a0dc2-2786-4420-8b2e-46f85937fa8c">
+      <notes>
+        <note appliesTo="source">line: 146</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 20230728.0.0 ##</source>
+        <target>Изменение версии 20230728.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="47a5183c-e6ec-4d33-ad7b-88e07e5c7000">
+      <notes>
+        <note appliesTo="source">line: 148</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Applied the flake8 and mypy rules to the code;</source>
+        <target>Применены к коду правила flake8 и mypy;</target>
+      </segment>
+    </unit>
+    <unit id="27cd38b8-09ab-4a36-b8d9-2120cf2345ee">
+      <notes>
+        <note appliesTo="source">line: 149</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changed the minimum supported NVDA version to 2019.3 to support annotations introduced in Python 3.</source>
+        <target>Изменена минимальная поддерживаемая версия NVDA на 2019.3 для поддержки аннотаций, введённых в Python 3.</target>
+      </segment>
+    </unit>
+    <unit id="dfaa1371-e5b0-4627-ab7a-43b41bb5b458">
+      <notes>
+        <note appliesTo="source">line: 151</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 20230607.0.0 ##</source>
+        <target>Изменение версии 20230607.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="f987f535-2e68-4b21-99d3-84ebbf9b29ed">
+      <notes>
+        <note appliesTo="source">line: 153</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the following workflows:</source>
+        <target>Добавлены следующие рабочие процессы:</target>
+      </segment>
+    </unit>
+    <unit id="f2e37bc3-3794-48e9-a744-bb3c5b5a0e6f">
+      <notes>
+        <note appliesTo="source">line: 154</note>
+        <note appliesTo="source">prefix:  * </note>
+      </notes>
+      <segment state="final">
+        <source>auto-update-translations - to automatically update translations from NVDA's translation system.</source>
+        <target>auto-update-translations - автоматически обновлять переводы из системы перевода NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="3a661f9e-cec6-4a2a-a7f0-634807fcd3bb">
+      <notes>
+        <note appliesTo="source">line: 155</note>
+        <note appliesTo="source">prefix:  * </note>
+      </notes>
+      <segment state="final">
+        <source>release-on-tag..yaml: to build and publish the addon as soon as a new tag is pushed;</source>
+        <target>release-on-tag..yaml: создать и опубликовать дополнение, как только нажат новый тег;</target>
+      </segment>
+    </unit>
+    <unit id="c00d7ced-1d31-40bf-a974-856e6ed07a15">
+      <notes>
+        <note appliesTo="source">line: 156</note>
+        <note appliesTo="source">prefix:  * </note>
+      </notes>
+      <segment state="final">
+        <source>manual-release.yaml: to build and release new versions of the add-on manually.</source>
+        <target>manual-release.yaml: для создания и выпуска новых версий дополнения вручную.</target>
+      </segment>
+    </unit>
+    <unit id="3d40066d-19de-4d7b-8d18-c5e85354ff10">
+      <notes>
+        <note appliesTo="source">line: 157</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="07d25ca4-a45c-4674-83f7-cc0fa6a7ee76">
+      <notes>
+        <note appliesTo="source">line: 159</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for version 20230508.0.0 and beyond ##</source>
+        <target>Изменение версии 20230508.0.0 and beyond ##</target>
+      </segment>
+    </unit>
+    <unit id="682848e2-b2a9-4a69-9e5d-2700c7612c76">
+      <notes>
+        <note appliesTo="source">line: 161</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>• Changed version number, minimum NVDA version and download link according to store conventions/requirements.</source>
+        <target>• Изменён номер версии, минимальная версия NVDA и ссылка для скачивания в соответствии с соглашениями/требованиями магазина.</target>
+      </segment>
+    </unit>
+    <unit id="d2d9f085-4248-420b-8f4c-4df2ddbae4ab">
+      <notes>
+        <note appliesTo="source">line: 163</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 20.12 ##</source>
+        <target>Изменение версии 20.12 ##</target>
+      </segment>
+    </unit>
+    <unit id="ebbdd611-7e7f-401c-8255-cb7dee44c5cb">
+      <notes>
+        <note appliesTo="source">line: 165</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Stop speech during recording and reading for the latest versions of mp3directcut;</source>
+        <target>Останавливается речь во время записи и чтения в последних версиях mp3directcut;</target>
+      </segment>
+    </unit>
+    <unit id="14eca2a6-c5e7-4f62-9f9b-c55c4b5c7121">
+      <notes>
+        <note appliesTo="source">line: 166</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed reading remaining time for new versions of NVDA using Python 3.</source>
+        <target>Исправлено чтение оставшегося времени для новых версий NVDA с использованием Python 3.</target>
+      </segment>
+    </unit>
+    <unit id="c6262ed5-46a0-4623-99b7-3cdf65ff9bed">
+      <notes>
+        <note appliesTo="source">line: 168</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 19.02 ##</source>
+        <target>Изменение версии 19.02 ##</target>
+      </segment>
+    </unit>
+    <unit id="a995f3f7-95aa-4371-9188-fa576457e072">
+      <notes>
+        <note appliesTo="source">line: 170</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the add-on's configuration in the settings panel available since nvda 2018.2;</source>
+        <target>Добавлена настройка дополнения на панели настроек, доступной с NVDA 2018.2;</target>
+      </segment>
+    </unit>
+    <unit id="c05909bc-a11c-4028-9450-8bad04f460c6">
+      <notes>
+        <note appliesTo="source">line: 171</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changed version numbering using YY.MM (The year in 2 digits, followed by a dot, followed by the month in 2 digits);</source>
+        <target>Изменена нумерация версий с использованием YY.MM (Год из 2 цифр, за которым следует точка, за которой следует месяц из 2 цифр);</target>
+      </segment>
+    </unit>
+    <unit id="cd1920c7-ad1e-46ba-a602-6cf54f355981">
+      <notes>
+        <note appliesTo="source">line: 172</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added compatibility with the new versioning format of add-on, appeared since nvda 2019.1.</source>
+        <target>Добавлена совместимость с новым форматом управления версиями дополнения, появившимся после nvda 2019.1.</target>
+      </segment>
+    </unit>
+    <unit id="341154e0-df8e-4feb-a2ff-dd01c8d3eab0">
+      <notes>
+        <note appliesTo="source">line: 174</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 4.0 ##</source>
+        <target>Изменение версии 4.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="c50872bc-27b1-4c03-846a-39cb71844bf2">
+      <notes>
+        <note appliesTo="source">line: 176</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the Compatibility of the add-on with both Python 2.7 and 3;</source>
+        <target>Добавлена совместимость дополнения как с Python 2.7, так и с 3;</target>
+      </segment>
+    </unit>
+    <unit id="a3983a0c-8031-4176-864d-67842a7c94e2">
+      <notes>
+        <note appliesTo="source">line: 177</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug with add-on paths that contain non-ASCII characters.</source>
+        <target>Исправлена ошибка с путями дополнения, содержащими символы, отличные от ASCII.</target>
+      </segment>
+    </unit>
+    <unit id="c4d263ff-8f40-4ed2-8176-dc9ac2b2f653">
+      <notes>
+        <note appliesTo="source">line: 179</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 3.0 ##</source>
+        <target>Изменение версии 3.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="e6801a52-c529-4e15-891d-294e34f21541">
+      <notes>
+        <note appliesTo="source">line: 181</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Used the gui.guiHelper module to ensure the correct appearance of the addon's configuration dialog;</source>
+        <target>Использован модуль gui.guiHelper, чтобы обеспечить правильный внешний вид диалога настройки дополнения;</target>
+      </segment>
+    </unit>
+    <unit id="2748192c-f069-431e-9c0e-2b3642d4f6eb">
+      <notes>
+        <note appliesTo="source">line: 182</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Used format instead of %s for formatted strings;</source>
+        <target>Используемый формат вместо %s для форматированных строк;</target>
+      </segment>
+    </unit>
+    <unit id="ea95c0d6-9aab-4946-bf6a-73fdc07a3901">
+      <notes>
+        <note appliesTo="source">line: 183</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Used compliance with guidelines for implementation.</source>
+        <target>Используется в соответствии с руководящими принципами внедрения.</target>
+      </segment>
+    </unit>
+    <unit id="2ab55415-b698-4f12-a151-2886daa12557">
+      <notes>
+        <note appliesTo="source">line: 185</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 2.3 ##</source>
+        <target>Изменение версии 2.3 ##</target>
+      </segment>
+    </unit>
+    <unit id="41814829-5d56-438d-9dc9-3dbff6ecefcc">
+      <notes>
+        <note appliesTo="source">line: 187</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the GPL license to the addon;</source>
+        <target>Добавлена лицензия GPL в дополнение;</target>
+      </segment>
+    </unit>
+    <unit id="f995246f-e6f9-4d8c-86c5-65657f960fe6">
+      <notes>
+        <note appliesTo="source">line: 188</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changed the shortcut of the script giving the end of selection from Ctrl + Shift + N to Ctrl + Shift + E because Ctrl + Shift + N doesn't work with the latest versions of mp3DirectCut;</source>
+        <target>Изменена комбинация клавиш скрипта, указывающая конец выделения, с Ctrl + Shift + N на Ctrl + Shift + E, потому что Ctrl + Shift + N не работает с последними версиями mp3DirectCut;</target>
+      </segment>
+    </unit>
+    <unit id="0b01c061-d23e-418f-97b9-808b387f18e1">
+      <notes>
+        <note appliesTo="source">line: 189</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a script to confirm that the selection has been canceled with 'Ctrl+r';</source>
+        <target>Добавлен скрипт для подтверждения того, что выделение было отменено с помощью "Ctrl+r";</target>
+      </segment>
+    </unit>
+    <unit id="3c686428-791f-4b2e-a42a-d63fb06b8157">
+      <notes>
+        <note appliesTo="source">line: 190</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Made some corrections in the code of the appModule 'mp3directcut.py'.</source>
+        <target>Внёс некоторые исправления в код модуля приложения 'mp3directcut.py'.</target>
+      </segment>
+    </unit>
+    <unit id="61369089-5e36-4671-8051-a084b3d598ea">
+      <notes>
+        <note appliesTo="source">line: 192</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 2.2 ##</source>
+        <target>Изменение версии 2.2 ##</target>
+      </segment>
+    </unit>
+    <unit id="bdb55962-7a40-46be-9a25-17127ee53557">
+      <notes>
+        <note appliesTo="source">line: 194</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Correction of the scripts giving the selection markers' locations.</source>
+        <target>Исправление скриптов для предоставления расположения меток выделения.</target>
+      </segment>
+    </unit>
+    <unit id="7dd91d5d-448b-4f1b-846f-42f4459e8b27">
+      <notes>
+        <note appliesTo="source">line: 196</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 2.1.1 ##</source>
+        <target>Изменение версии 2.1.1 ##</target>
+      </segment>
+    </unit>
+    <unit id="a2c6f6f4-50c5-4333-87b2-d28b960db2ed">
+      <notes>
+        <note appliesTo="source">line: 198</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removing the script giving the total time and adding this information to the script giving the elapsed time;</source>
+        <target>Удалён скрипт, предоставляющий общее время, и эта информация добавлена в скрипт оставшегося времени;</target>
+      </segment>
+    </unit>
+    <unit id="e8ca3dc6-a010-4070-823a-cb52b369ea00">
+      <notes>
+        <note appliesTo="source">line: 199</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the ability to enable or disable the announcements related to the space key in the module's configuration options, separately from other announcements;</source>
+        <target>Добавлена возможность включать или отключать объявления, связанные с клавишей пробела, в параметрах конфигурации модуля отдельно от других объявлений;</target>
+      </segment>
+    </unit>
+    <unit id="250cdd21-a539-4f15-aa5c-f1c2a90ec3f3">
+      <notes>
+        <note appliesTo="source">line: 200</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the ability to enable or disable the announcement of placement of the selection marqueures in the module's configuration options;</source>
+        <target>Добавлена возможность включать или отключать объявление о размещении маркеров выбора в параметрах конфигурации модуля;</target>
+      </segment>
+    </unit>
+    <unit id="f742c0cd-fd77-4590-962c-0143421ee630">
+      <notes>
+        <note appliesTo="source">line: 201</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding the announcement of the current part when moving through the cutting points;</source>
+        <target>Добавлено объявление текущей части при перемещении по точкам разделения;</target>
+      </segment>
+    </unit>
+    <unit id="65eb39b0-60e4-450c-86d5-c65783c9dc20">
+      <notes>
+        <note appliesTo="source">line: 202</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Correction of announcements related to vertical keys;</source>
+        <target>Исправление объявлений, касающихся клавиш вертикальных стрелок;</target>
+      </segment>
+    </unit>
+    <unit id="ff773ab8-6fff-4177-885c-3add39d529f9">
+      <notes>
+        <note appliesTo="source">line: 203</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to open the help of the current add-on with 'NVDA+H';</source>
+        <target>Добавлен скрипт для открытия справки текущего дополнения при запущеной программе 'NVDA+H';</target>
+      </segment>
+    </unit>
+    <unit id="ffe3be39-ed75-46e1-acb2-4118608b021a">
+      <notes>
+        <note appliesTo="source">line: 204</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Displacement of the add-on's configuration menu from the Tools menu to the Preferences menu of NVDA.</source>
+        <target>Перемещено меню конфигурации из меню Сервис в меню параметров программы NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="338021a8-4c75-43ae-94bb-c7aba6b5f33f">
+      <notes>
+        <note appliesTo="source">line: 206</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 2.1 ##</source>
+        <target>Изменение версии 2.1 ##</target>
+      </segment>
+    </unit>
+    <unit id="e76545e3-2278-4c34-9f35-48820c2ed772">
+      <notes>
+        <note appliesTo="source">line: 208</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to vocalize moving to the next splitting point with Control+Right Arrow;</source>
+        <target>Добавлен скрипт для озвучивания перехода к следующей точке разделения с помощью Control+ стрелка вправо;</target>
+      </segment>
+    </unit>
+    <unit id="25d435ba-1636-4fe1-83e3-d2f9e6e1d36e">
+      <notes>
+        <note appliesTo="source">line: 209</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to vocalize moving to the previous splitting point with Control+Left Arrow;</source>
+        <target>Добавлен скрипт для озвучивания перехода к предыдущей точке разделения с помощью Control+ стрелка влево;</target>
+      </segment>
+    </unit>
+    <unit id="5d3cb539-8af4-4686-9ed6-e93d4d65c269">
+      <notes>
+        <note appliesTo="source">line: 210</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to vocalize the displacement of 4 hundredths of second ahead, with Shift+Right Arrow;</source>
+        <target>Добавлен скрипт для озвучивания перемещения на 4 сотых секунды вперёд с помощью Shift+ стрелка вправо;</target>
+      </segment>
+    </unit>
+    <unit id="00ba7911-3e60-4c00-a04f-a7d7ba664bf3">
+      <notes>
+        <note appliesTo="source">line: 211</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to vocalize the displacement of 4 hundredths of second back, with Shift+Left Arrow;</source>
+        <target>Добавлен скрипт для озвучивания перемещения на 4 сотых секунды назад с помощью Shift+ стрелка влево;</target>
+      </segment>
+    </unit>
+    <unit id="f0610897-9f4a-47f0-850f-1b39ed6db6fc">
+      <notes>
+        <note appliesTo="source">line: 212</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Correction of the addon's summary from 'for mp3DirectCut' to 'mp3DirectCut'.</source>
+        <target>Исправлена суммарная информация дополнения  С 'for mp3DirectCut' на 'mp3DirectCut'.</target>
+      </segment>
+    </unit>
+    <unit id="f5b42a73-9a2e-4a0d-9300-c4f63a2f5bad">
+      <notes>
+        <note appliesTo="source">line: 214</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 2.0 ##</source>
+        <target>Изменение версии 2.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="c230185f-6540-4a42-afa0-4b1924b1c81b">
+      <notes>
+        <note appliesTo="source">line: 216</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adding a script to know the remaining time with 'Control Shift R';</source>
+        <target>Добавлен скрипт для выяснения оставшегося времени 'Control Shift R';</target>
+      </segment>
+    </unit>
+    <unit id="965cacaf-d745-4965-b0ae-d0431ca1c321">
+      <notes>
+        <note appliesTo="source">line: 217</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed reading durations including hours;</source>
+        <target>Исправлено чтение длительности, включая часы;</target>
+      </segment>
+    </unit>
+    <unit id="dbd5e09c-d4cc-4326-aa03-b0d492b7a5e9">
+      <notes>
+        <note appliesTo="source">line: 218</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added ability to differentiate thousandths or hundredths of seconds.</source>
+        <target>Добавлена возможность разделять тысячные или сотые доли секунд.</target>
+      </segment>
+    </unit>
+    <unit id="8b008948-f667-4160-9c1d-7a57f15d5886">
+      <notes>
+        <note appliesTo="source">line: 220</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 1.1 ##</source>
+        <target>Изменение версии 1.1 ##</target>
+      </segment>
+    </unit>
+    <unit id="eb71b85d-66b7-4bd0-93d0-c8951e9cc36b">
+      <notes>
+        <note appliesTo="source">line: 222</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the ability to include the mp3DirectCut category into the Input Gestures;</source>
+        <target>Добавлена возможность включать категорию mp3DirectCut в жесты ввода;</target>
+      </segment>
+    </unit>
+    <unit id="70cebd46-215f-430b-8e57-72879745ab9d">
+      <notes>
+        <note appliesTo="source">line: 224</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>They will be visible only during use of the mp3DirectCut software.</source>
+        <target>Она будет видна только во время использования программы mp3DirectCut.</target>
+      </segment>
+    </unit>
+    <unit id="bb249b8a-2a39-4c25-87c0-24c7897a5334">
+      <notes>
+        <note appliesTo="source">line: 226</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the ability to enable or disable automatic messages, in the tools menu of NVDA, item 'mp3DirectCut configuration';</source>
+        <target>Добавлена возможность включать или отключать автоматические сообщения в меню сервис NVDA, пункт 'Настройки mp3DirectCut';</target>
+      </segment>
+    </unit>
+    <unit id="9554ce70-0ae4-42f1-8e29-3a05ea54af5b">
+      <notes>
+        <note appliesTo="source">line: 228</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change for version 1.0 ##</source>
+        <target>Изменение версии 1.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="bbc49d80-9746-4cdb-be10-8e3abe8afc55">
+      <notes>
+        <note appliesTo="source">line: 230</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>Первоначальная версия.</target>
+      </segment>
+    </unit>
+    <unit id="a70e327f-7ce2-444d-a5c1-3da06b8459cf">
+      <notes>
+        <note appliesTo="source">line: 232</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://www.nvaccess.org/addonStore/legacy?file=mp3DirectCut</source>
+        <target>[1]: https://www.nvaccess.org/addonStore/legacy?file=mp3DirectCut</target>
+      </segment>
+    </unit>
+    <unit id="b40d4bca-c971-4900-9d7a-a4df26d05592">
+      <notes>
+        <note appliesTo="source">line: 234</note>
+      </notes>
+      <segment state="final">
+        <source>[2]: https://www.nvaccess.org/addonStore/legacy?file=mp3DirectCut</source>
+        <target>[2]: https://www.nvaccess.org/addonStore/legacy?file=mp3DirectCut</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

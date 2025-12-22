@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:15+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: columnsReview.pot\n"
+"X-Crowdin-File-ID: 332\n"
+
+#. Translators: message when list contains one item only
+#: addon/globalPlugins/columnsReview/__init__.py:197
+msgid "Mono-item list: "
+msgstr "Luettelossa yksi kohde: "
+
+#. Translators: message when user lands on the last list item
+#: addon/globalPlugins/columnsReview/__init__.py:200
+msgid "List bottom: "
+msgstr "Luettelon loppu: "
+
+#. Translators: message when user lands on the first list item
+#: addon/globalPlugins/columnsReview/__init__.py:203
+msgid "List top: "
+msgstr "Luettelon alku: "
+
+#. Translators: Name of the default category
+#. in the Input Gestures dialog where scripts of this add-on are placed.
+#: addon/globalPlugins/columnsReview/__init__.py:241
+#, python-brace-format
+msgid "{name} (DO NOT EDIT!)"
+msgstr "{name} (ÄLÄ MUOKKAA!)"
+
+#. Translators: message when digit pressed exceed the columns number
+#: addon/globalPlugins/columnsReview/__init__.py:358
+#: addon/globalPlugins/columnsReview/__init__.py:401
+msgid "No more columns available"
+msgstr "Ei enempää sarakkeita käytettävissä"
+
+#. Translators: Announced when the column at the requested index is not visible.
+#: addon/globalPlugins/columnsReview/__init__.py:362
+msgid "No more visible columns available"
+msgstr "Ei enempää näkyviä sarakkeita käytettävissä"
+
+#. Translators: Presented for an empty column.
+#: addon/globalPlugins/columnsReview/__init__.py:367
+#: addon/globalPlugins/columnsReview/actions.py:52
+#: addon/globalPlugins/columnsReview/actions.py:71
+#: addon/globalPlugins/columnsReview/actions.py:93
+#: addon/globalPlugins/columnsReview/actions.py:110
+msgid "Empty column"
+msgstr "Tyhjä sarake"
+
+#. Translators: documentation of script to read columns
+#: addon/globalPlugins/columnsReview/__init__.py:374
+msgid "Returns the header and the content of the list column at the index corresponding to the number pressed"
+msgstr "Lukee luettelosarakkeen otsikon ja sisällön painettua numeroa vastaavassa indeksissä."
+
+#. Translators: message when you change interval in a list with more ten columns
+#: addon/globalPlugins/columnsReview/__init__.py:419
+#, python-brace-format
+msgid "From {start} to {end}"
+msgstr "{start} / {end}"
+
+#. Translators: documentation for script to change interval
+#: addon/globalPlugins/columnsReview/__init__.py:424
+msgid "Cycles between a variable number of intervals of ten columns"
+msgstr "Vaihtaa siirtymisväliä kymmenen saraketta kerrallaan."
+
+#. Translators: Reported when information about position on a list cannot be retrieved.
+#. selected items retrieval from IAccessibleTable2Object
+#. seems broken in new Thunderbird, so...
+#. Translators: Reported when information about position on a list cannot be retrieved.
+#: addon/globalPlugins/columnsReview/__init__.py:440
+#: addon/globalPlugins/columnsReview/__init__.py:1486
+#: addon/globalPlugins/columnsReview/__init__.py:1583
+msgid "No information available"
+msgstr "Tietoja ei käytettävissä"
+
+#. Translators: documentation for script to announce list item info
+#: addon/globalPlugins/columnsReview/__init__.py:448
+msgid "Announces list item position information"
+msgstr "Puhuu luettelokohteen sijaintitiedot."
+
+#. Translators: documentation for script to manage headers
+#: addon/globalPlugins/columnsReview/__init__.py:463
+msgid "Provides a dialog for interactions with list column headers"
+msgstr "Avaa valintaikkunan, jossa voidaan hallita luettelosarakkeiden otsikoita."
+
+#. Translators: message presented when get selected item count and names
+#: addon/globalPlugins/columnsReview/__init__.py:493
+#, python-brace-format
+msgid "{selCount} selected items: {selNames}"
+msgstr "{selCount} valittua kohdetta: {selNames}"
+
+#. Translators: documentation for script to know current selected items
+#: addon/globalPlugins/columnsReview/__init__.py:499
+msgid "Reports current selected list items"
+msgstr "Ilmoittaa valitut luettelokohteet."
+
+#. Translators: documentation for script to find in list
+#: addon/globalPlugins/columnsReview/__init__.py:520
+msgid "Provides a dialog for searching in item list"
+msgstr "Avaa valintaikkunan, jossa voidaan hakea kohdeluettelosta."
+
+#. Translators: Message presented when search is in progress.
+#: addon/globalPlugins/columnsReview/__init__.py:529
+msgid "Searching..."
+msgstr "Haetaan..."
+
+#. Translators: documentation for script to manage headers
+#: addon/globalPlugins/columnsReview/__init__.py:606
+msgid "Goes to next result of current search"
+msgstr "Siirtää nykyisen haun seuraavaan tulokseen."
+
+#. Translators: documentation for script to manage headers
+#: addon/globalPlugins/columnsReview/__init__.py:619
+msgid "Goes to previous result of current search"
+msgstr "Siirtää nykyisen haun edelliseen tulokseen."
+
+#. Translators: documentation for script to read all list items starting from the focused one.
+#: addon/globalPlugins/columnsReview/__init__.py:629
+msgid "Starts reading all list items beginning at the item with focus"
+msgstr "Aloittaa kaikkien luettelokohteiden lukemisen aktiivisesta kohteesta alkaen."
+
+#. Translators: message listing foreground over background colors
+#: addon/globalPlugins/columnsReview/__init__.py:741
+#, python-brace-format
+msgid "{foregroundColors} over {backgroundColors}"
+msgstr "Edustan väri: {foregroundColors}, taustan väri: {backgroundColors}"
+
+#. Translators: Description of the keyboard command,
+#. which reports foreground and background color of the current list item.
+#: addon/globalPlugins/columnsReview/__init__.py:749
+msgid "reports foreground and background colors of the current list item."
+msgstr "Ilmoittaa nykyisen kohteen edustan ja taustan värin."
+
+#. Translators: Reported when it is impossible to report currently selected items.
+#: addon/globalPlugins/columnsReview/__init__.py:981
+#: addon/globalPlugins/columnsReview/__init__.py:1201
+msgid "Current selection info not available"
+msgstr "Valinnan tietoja ei käytettävissä"
+
+#. Translators: Reported when current list does not support searching.
+#. not fully working for now
+#: addon/globalPlugins/columnsReview/__init__.py:992
+#: addon/globalPlugins/columnsReview/__init__.py:1000
+#: addon/globalPlugins/columnsReview/__init__.py:1007
+#: addon/globalPlugins/columnsReview/__init__.py:1223
+#: addon/globalPlugins/columnsReview/__init__.py:1231
+#: addon/globalPlugins/columnsReview/__init__.py:1239
+#: addon/globalPlugins/columnsReview/__init__.py:1494
+#: addon/globalPlugins/columnsReview/__init__.py:1502
+#: addon/globalPlugins/columnsReview/__init__.py:1510
+msgid "Cannot search here."
+msgstr "Haku ei toimi tässä."
+
+#. Translators: Label of the checkbox in the find dialog which, if checked, selects multiple
+#. items if they match the search query.
+#: addon/globalPlugins/columnsReview/__init__.py:1777
+msgid "Use multiple selection"
+msgstr "Käytä monivalintaa"
+
+#. Translators: Description of the action which simply ignores the pressed key
+#: addon/globalPlugins/columnsReview/actions.py:38
+msgid "Do nothing"
+msgstr "Älä tee mitään"
+
+#. Translators: Name of the action which reads given column.
+#: addon/globalPlugins/columnsReview/actions.py:46
+msgid "Read column"
+msgstr "Lue sarake"
+
+#. Translators: Name of the action which copies given column.
+#: addon/globalPlugins/columnsReview/actions.py:65
+msgid "Copy column"
+msgstr "Kopioi sarake"
+
+#. Translators: Name of the action which spells given column.
+#: addon/globalPlugins/columnsReview/actions.py:87
+msgid "Spell column"
+msgstr "Tavaa sarake"
+
+#. Translators: Name of the action which displays content of the given column in the browseable message.
+#: addon/globalPlugins/columnsReview/actions.py:103
+msgid "Show column content in browse mode"
+msgstr "Näytä sarakkeen sisältö selaustilassa"
+
+#: addon/globalPlugins/columnsReview/compat.py:12
+#, python-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s kohde"
+msgstr[1] "%s kohdetta"
+
+#. Translators: Label of a combobox in which action can be assigned to a first press of the shortcut.
+#: addon/globalPlugins/columnsReview/dialogs.py:33
+msgid "On first press:"
+msgstr "Ensimmäisellä painalluksella:"
+
+#. Translators: Label of a combobox in which action can be assigned to a second press of the shortcut.
+#: addon/globalPlugins/columnsReview/dialogs.py:35
+msgid "On second press:"
+msgstr "Toisella painalluksella:"
+
+#. Translators: Label of a combobox in which action can be assigned to a third press of the shortcut.
+#: addon/globalPlugins/columnsReview/dialogs.py:37
+msgid "On third press:"
+msgstr "Kolmannella painalluksella:"
+
+#. Translators: Label of a combobox in which action can be assigned to a fourth press of the shortcut.
+#: addon/globalPlugins/columnsReview/dialogs.py:39
+msgid "On fourth press:"
+msgstr "Neljännellä painalluksella:"
+
+#. Translators: label for read-header checkbox in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:56
+msgid "Read the column header"
+msgstr "Lue sarakkeen otsikko"
+
+#. Translators: label for copy-header checkbox in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:60
+msgid "Copy the column header"
+msgstr "Kopioi sarakkeen otsikko"
+
+#. Translators: title of settings panel
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: addon/globalPlugins/columnsReview/dialogs.py:124 buildVars.py:23
+msgid "Columns Review"
+msgstr "Sarakkeiden tarkastelu"
+
+#. Translators: Help message for group of comboboxes allowing to assign action to a keypress.
+#: addon/globalPlugins/columnsReview/dialogs.py:133
+msgid "When pressing combination to read column:"
+msgstr "Sarakkeen lukemisen pikanäppäin:"
+
+#. Translators: Help message for sub-sizer of keys choices
+#: addon/globalPlugins/columnsReview/dialogs.py:151
+msgid "Choose the keys you want to use with numbers:"
+msgstr "Valitse numeroiden kanssa käytettävät näppäimet:"
+
+#. Translators: label for numpad keys checkbox in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:165
+msgid "Use numpad keys to navigate through the columns"
+msgstr "Käytä laskinnäppäimistön näppäimiä sarakkeissa liikkumiseen"
+
+#. Translators: label for edit field in settings, visible if previous checkbox is disabled
+#: addon/globalPlugins/columnsReview/dialogs.py:172
+msgid "Insert the char after \"0\" in your keyboard layout, or another char as you like:"
+msgstr "Lisää näppäinasettelussasi merkki 0:n tai muun haluamasi merkin jälkeen:"
+
+#. Translators: label for announce-empty-list checkbox in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:184
+msgid "Announce empty list"
+msgstr "Ilmoita tyhjästä luettelosta"
+
+#. Translators: label for announce-list-bounds checkbox in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:190
+msgid "Announce list bounds (top, mono-item, bottom)"
+msgstr "Ilmoita luettelon rajat"
+
+#. Translators: a choice in announce-list-bounds-with radio box
+#: addon/globalPlugins/columnsReview/dialogs.py:197
+msgid "voice"
+msgstr "puheella"
+
+#. Translators: a choice in announce-list-bounds-with radio box
+#: addon/globalPlugins/columnsReview/dialogs.py:199
+msgid "beep"
+msgstr "merkkiäänellä"
+
+#. Translators: label for announce-list-bounds-with radio box in settings
+#: addon/globalPlugins/columnsReview/dialogs.py:203
+msgid "Announce with:"
+msgstr "Ilmoita:"
+
+#. Translators: a tooltip on beep values input box
+#: addon/globalPlugins/columnsReview/dialogs.py:209
+msgid "Please input a frequency for top beep, a frequency for bottom beep, and their duration in milliseconds (each of three values must be a positive number, separated by comma):"
+msgstr "Syötä kolme positiivista lukua pilkuilla eroteltuna (ylin ja alin taajuus hertseinä sekä kesto millisekunteina):"
+
+#: addon/globalPlugins/columnsReview/dialogs.py:216
+msgid "Beep values"
+msgstr "Merkkiäänen arvot"
+
+#. Translators: message when user inputs wrong values for beep
+#: addon/globalPlugins/columnsReview/dialogs.py:301
+msgid "Please input valid values for beep."
+msgstr "Syötä kelvolliset merkkiäänen arvot."
+
+#. Translators: Title of the dialog when user inputs wrong values for beep
+#: addon/globalPlugins/columnsReview/dialogs.py:303
+msgid "Error!"
+msgstr "Virhe"
+
+#. Translators: Title of the dialog which allows to perform actions on headers of the current list.
+#: addon/globalPlugins/columnsReview/dialogs.py:322
+msgid "Headers manager"
+msgstr "Otsikoiden hallinta"
+
+#. Translators: Shown for a header which has no name.
+#: addon/globalPlugins/columnsReview/dialogs.py:325
+msgid "Unnamed header"
+msgstr "Nimetön otsikko"
+
+#. Translators: Label for a list containing names of all headers of the current list.
+#: addon/globalPlugins/columnsReview/dialogs.py:327
+msgid "Headers:"
+msgstr "Otsikot:"
+
+#. Translators: Label for a button which clicks the given header with the left mouse button.
+#: addon/globalPlugins/columnsReview/dialogs.py:332
+msgid "Left click"
+msgstr "Vasen napsautus"
+
+#. Translators: Label for a button which clicks the given header with the right mouse button.
+#: addon/globalPlugins/columnsReview/dialogs.py:335
+msgid "Right click"
+msgstr "Oikea napsautus"
+
+#. Translators: Announced when the given header has been clicked, 'headerName' is replaced with the name of
+#. the  clicked object.
+#: addon/globalPlugins/columnsReview/dialogs.py:359
+#, python-brace-format
+msgid "{headerName} header clicked"
+msgstr "{headerName}-otsikkoa napsautettu"
+
+#. Translators: the label of a message box dialog.
+#: addon/installTasks.py:18
+msgid "Previous add-on settings will be lost. Please configure it again, from NVDA preferences."
+msgstr "Lisäosan aiemmat asetukset menetetään. Määritä ne uudelleen NVDA:n asetuksista."
+
+#. Translators: the title of a message box dialog.
+#: addon/installTasks.py:20
+msgid "Add-on settings reset"
+msgstr "Lisäosan asetukset nollattu"
+
+#. Translators: the label of a message box dialog to uninstall another add-on
+#: addon/installTasks.py:29
+#, python-brace-format
+msgid "You have installed {another_addon} by {another_author}, that causes problems with empty folder feature of ColumnsReview (if enabled); do you want to remove it now?"
+msgstr "Sinulla on asennettuna tekijän {another_author} {another_addon} -lisäosa, joka aiheuttaa ongelmia Sarakkeiden tarkastelun tyhjän kansion ilmoitusominaisuuden kanssa, mikäli se on käytössä. Haluatko poistaa sen nyt?"
+
+#. Translators: the title of a message box dialog.
+#: addon/installTasks.py:31
+msgid "Warning!"
+msgstr "Varoitus"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "A better experience with lists"
+msgstr "Parempi luetteloiden käyttökokemus"
+

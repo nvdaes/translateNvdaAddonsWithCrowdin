@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ru">
+  <file id="goldenCursor.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/goldenCursor/goldenCursor.md">
+    <skeleton>
+# $(ID:e4b56a75-eb25-467e-be64-e5ee8b74636f)
+
+* $(ID:fcd3760d-c662-4a28-a229-a94d1a12d7d6)
+* $(ID:917f2773-0676-439b-8799-54deb98912d5)
+* $(ID:c9de5739-a05a-4adc-8199-fd63d30614a0)
+
+$(ID:9b2b6444-5829-4197-bb21-a3a1d878bbbc)
+
+## $(ID:a8f074b0-320a-4748-88d5-696fd98f75d1)
+
+* $(ID:41225885-75c6-4c9d-b7a7-64b15bb6b6be)
+* $(ID:655313ca-7941-47f7-b12c-effb7fa3e319)
+* $(ID:0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9)
+* $(ID:24fc349c-c2dc-469f-8789-2f48fd4d385e)
+* $(ID:56e9154e-b8db-466e-8bd1-704b518a6f7d)
+* $(ID:36f93986-4ba0-4032-a4b6-ed03359c36e6)
+* $(ID:4ba7ec1e-12ea-4601-8ac4-d88e0445dbde)
+* $(ID:15d44390-71bc-4916-8420-f092f913aad3)
+* $(ID:c2f094d0-d9de-474d-9dee-8e656c7405d7)
+
+$(ID:59f238ed-c7d5-4c4b-8925-8bcf39caf328)
+
+## $(ID:9f37373c-77b3-4ab4-8e3d-25880ab74eb9)
+
+* $(ID:b5a54e44-b081-4a3a-8e57-e33e7c8e4992)
+* $(ID:42c79b8b-c429-4926-a2da-edee799a55f9)
+* $(ID:ffd58ac8-fc54-4952-9e87-2cf42f35b41e)
+* $(ID:ef57c320-f4a8-4248-9e50-d459df0b84eb)
+* $(ID:fbe42a88-9906-4032-95f9-381beb1b1886)
+* $(ID:c48c2f74-4aae-4722-a0f4-f5199bca5a16)
+
+## $(ID:ffa477fa-0da6-4f78-ba3f-a88f9921ad31)
+
+* $(ID:06e9345d-556e-44fc-b74a-03623a773cbe)
+* $(ID:9153c985-65da-479c-94b1-7f2a3569b815)
+
+## $(ID:8a663a31-01ef-4755-b84c-264c7e24a9e6)
+
+* $(ID:33c0084b-ec2e-48c1-b85a-14edb6634f46)
+* $(ID:2451a2ef-f062-4c00-9ef5-d7119d1343b9)
+
+## $(ID:a8200183-82ee-47e0-8fb3-74d806453269)
+
+* $(ID:5362fa7f-b53b-471f-a119-556d4c7195db)
+* $(ID:01067cce-9614-4c4a-95bc-f3d184c5eca7)
+
+## $(ID:db92a919-fe20-4245-b416-a392b31ab3cb)
+
+* $(ID:324c5621-08b6-4c9d-a80e-62705b539067)
+* $(ID:fd73f3be-9566-4465-947d-a175600111b0)
+
+## $(ID:6724a9c4-5436-46e8-a2ef-68c79b244ea9)
+
+* $(ID:13530c65-4d84-4635-8fdd-1bbcdef24424)
+
+## $(ID:69bc898e-c86c-45b9-b71a-a28ba767f049)
+
+* $(ID:17abe10c-e547-4da1-a3ba-52df80a431ad)
+
+## $(ID:c65c97ba-eb4f-438c-b815-c3f85f94374e)
+
+* $(ID:8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4)
+
+## $(ID:0038d7cc-9f53-4970-9e17-36391618d548)
+
+* $(ID:0b901509-15b6-4a59-8a76-e2e3af929914)
+* $(ID:26fe813a-0291-4917-ab4d-a4e9b2fa5a3a)
+* $(ID:da0fe932-d7dc-440c-bc4e-b170d6eb029c)
+
+## $(ID:254856eb-9f1f-48ef-9c0a-08c508ee0626)
+
+* $(ID:218fa153-4f62-4519-bb89-701d5d1c8a1c)
+* $(ID:ba033211-f087-4e36-b3bc-b14b548d7fc5)
+* $(ID:bcfa2ce2-5aeb-4245-bef6-808070ee9673)
+* $(ID:833f731f-13cc-4ab7-9724-62eafe535fd5)
+* $(ID:b9536c7b-9147-41a8-a00a-03047bdb7174)
+* $(ID:cd25d8f3-40d2-4800-bce0-9cf539162ace)
+* $(ID:a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff)
+* $(ID:eac7aa87-4c13-4822-8a0a-ce1eeee9335c)
+* $(ID:2617084b-c0b2-4a52-a52e-d593d59a7394)
+* $(ID:c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3)
+* $(ID:3a80f7ef-b313-40a5-9390-f18272a44692)
+* $(ID:4d8c641e-1831-4cec-8e84-c6832a35192a)
+* $(ID:384815f4-abcf-4381-a393-a6d83b42c84b)
+
+## $(ID:a8d38ec7-07f7-48b7-b135-43ba18184b95)
+
+* $(ID:72b25cd6-bdd1-4786-be35-908cc39f896b)
+
+## $(ID:9e5afa78-f771-4839-a29a-51b11dd59e98)
+
+* $(ID:463ca87d-2ad4-42a5-888f-9e7ce9321446)
+
+$(ID:4ff4542a-307c-4b6c-82b8-08a3d2472fbb)
+
+$(ID:395f75c1-07e4-4989-b546-3dd96e59eadd)
+</skeleton>
+    <unit id="e4b56a75-eb25-467e-be64-e5ee8b74636f">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>golden cursor#</source>
+        <target>золотой курсор#</target>
+      </segment>
+    </unit>
+    <unit id="fcd3760d-c662-4a28-a229-a94d1a12d7d6">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: salah atair, Joseph Lee</source>
+        <target>Автор: salah atair, Joseph Lee</target>
+      </segment>
+    </unit>
+    <unit id="917f2773-0676-439b-8799-54deb98912d5">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>Загрузить [стабильную версию][1]</target>
+      </segment>
+    </unit>
+    <unit id="c9de5739-a05a-4adc-8199-fd63d30614a0">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2022.4 and beyond</source>
+        <target>Совместимость с NVDA: 2022.4 и выше</target>
+      </segment>
+    </unit>
+    <unit id="9b2b6444-5829-4197-bb21-a3a1d878bbbc">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on allows you to move the mouse using a keyboard and save mouse positions for applications.</source>
+        <target>Это дополнение позволит перемещать мышь с помощью клавиатуры и сохранять позиции мыши для приложений.</target>
+      </segment>
+    </unit>
+    <unit id="a8f074b0-320a-4748-88d5-696fd98f75d1">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Key commands</source>
+        <target>Комбинации клавиш</target>
+      </segment>
+    </unit>
+    <unit id="41225885-75c6-4c9d-b7a7-64b15bb6b6be">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+NVDA+L: view saved mouse positions for an application, if any. You can also assign gestures to these positions from this dialog. When pressing the assigned gesture, a left click will be performed in the saved position.</source>
+        <target>Control+NVDA+L: просмотреть сохранённые положения мыши для приложения, если таковые имеются. Вы также можете назначить жесты для этих положений в этом диалоге. При нажатии на назначенный жест сохранённого положения будет выполнен щелчок левой кнопки мыши.</target>
+      </segment>
+    </unit>
+    <unit id="655313ca-7941-47f7-b12c-effb7fa3e319">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shift+NVDA+l: save a tag or a label for the current mouse position in the currently focused application.</source>
+        <target>Shift+NVDA+l: сохранить тег или метку для текущего положения мыши в текущем приложении в фокусе.</target>
+      </segment>
+    </unit>
+    <unit id="0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+C: change mouse movement unit.</source>
+        <target>Windows+NVDA+C: изменить единицу перемещения мыши.</target>
+      </segment>
+    </unit>
+    <unit id="24fc349c-c2dc-469f-8789-2f48fd4d385e">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+R: toggle mouse restriction.</source>
+        <target>Windows+NVDA+R: переключить ограничение мыши.</target>
+      </segment>
+    </unit>
+    <unit id="56e9154e-b8db-466e-8bd1-704b518a6f7d">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+S: toggle reporting of mouse position in pixels.</source>
+        <target>Windows+NVDA+S: включить или выключить объявления позиций мыши в пикселях.</target>
+      </segment>
+    </unit>
+    <unit id="36f93986-4ba0-4032-a4b6-ed03359c36e6">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+J: move mouse to a specific x and y position.</source>
+        <target>Windows+NVDA+J: переместить мышь в определённое положение по осям x и y.</target>
+      </segment>
+    </unit>
+    <unit id="4ba7ec1e-12ea-4601-8ac4-d88e0445dbde">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+P: report mouse position.</source>
+        <target>Windows+NVDA+P: сообщить положение мыши.</target>
+      </segment>
+    </unit>
+    <unit id="15d44390-71bc-4916-8420-f092f913aad3">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+M: sswitch mouse arrows on or off.</source>
+        <target>Windows+NVDA+M: Включить или выключить стрелки мыши.</target>
+      </segment>
+    </unit>
+    <unit id="c2f094d0-d9de-474d-9dee-8e656c7405d7">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+arrow keys (or just arrow keys if mouse arrows is on): move mouse.</source>
+        <target>Windows+NVDA+стрелки (или просто клавиши стрелок, если включены стрелки мыши): перемещение мыши.</target>
+      </segment>
+    </unit>
+    <unit id="59f238ed-c7d5-4c4b-8925-8bcf39caf328">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="final">
+        <source>Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Golden Cursor category.</source>
+        <target>Примечание: эти жесты могут быть переназначены в диалоге жестов ввода в категории "Золотой Курсор".</target>
+      </segment>
+    </unit>
+    <unit id="9f37373c-77b3-4ab4-8e3d-25880ab74eb9">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Notes</source>
+        <target>Примечания</target>
+      </segment>
+    </unit>
+    <unit id="b5a54e44-b081-4a3a-8e57-e33e7c8e4992">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When sharing positions (tags), each party should use same display resolution.</source>
+        <target>При предоставлении позиционирования (тэгов), каждая сторона должна использовать одинаковое Разрешение дисплея.</target>
+      </segment>
+    </unit>
+    <unit id="42c79b8b-c429-4926-a2da-edee799a55f9">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For maximum compatibility, you should maximize windows by pressing Windows+Up arrow.</source>
+        <target>Для максимальной совместимости, вы должны развернуть окна, нажав клавиши Windows+стрелка вверх.</target>
+      </segment>
+    </unit>
+    <unit id="ffd58ac8-fc54-4952-9e87-2cf42f35b41e">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When sharing positions, existing position labels should be renamed.</source>
+        <target>При совместном позиционировании, существующие метки позиций должны быть переименованы.</target>
+      </segment>
+    </unit>
+    <unit id="ef57c320-f4a8-4248-9e50-d459df0b84eb">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.x and 2.x mouse position formats are incompatible.</source>
+        <target>Форматы положения мыши версий 1.x и 2.x несовместимы.</target>
+      </segment>
+    </unit>
+    <unit id="fbe42a88-9906-4032-95f9-381beb1b1886">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>To perform functions that require use of arrow keys, turn off mouse arrows first.</source>
+        <target>Для выполнения функций, требующих использования клавиш стрелок, сначала отключите стрелки мыши.</target>
+      </segment>
+    </unit>
+    <unit id="c48c2f74-4aae-4722-a0f4-f5199bca5a16">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When deleting saved positions, if there are no saved positions left, positions for the application will be cleared.</source>
+        <target>При удалении сохранённых положений, если сохраненных положений не осталось, положения для приложения будут удалены.</target>
+      </segment>
+    </unit>
+    <unit id="ffa477fa-0da6-4f78-ba3f-a88f9921ad31">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 6.2</source>
+        <target>Версия 6.2</target>
+      </segment>
+    </unit>
+    <unit id="06e9345d-556e-44fc-b74a-03623a773cbe">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2022.4 or later.</source>
+        <target>Требуется NVDA 2022.4 и выше.</target>
+      </segment>
+    </unit>
+    <unit id="9153c985-65da-479c-94b1-7f2a3569b815">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>Совместимо с NVDA 2023.1.</target>
+      </segment>
+    </unit>
+    <unit id="8a663a31-01ef-4755-b84c-264c7e24a9e6">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 6.1</source>
+        <target>Версия 6.1</target>
+      </segment>
+    </unit>
+    <unit id="33c0084b-ec2e-48c1-b85a-14edb6634f46">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2021.3 or later.</source>
+        <target>Требуется NVDA 2021.3 и выше.</target>
+      </segment>
+    </unit>
+    <unit id="2451a2ef-f062-4c00-9ef5-d7119d1343b9">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Now, you can assign shortcuts for saved positions from the positions list. When pressing a shortcut, a left click will be performed for the position.</source>
+        <target>Теперь вы можете назначить горячие клавиши для сохраненных положений из списка. При нажатии на горячую клавишу для положения будет выполнен щелчок левой кнопкой мыши.</target>
+      </segment>
+    </unit>
+    <unit id="a8200183-82ee-47e0-8fb3-74d806453269">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 5.0</source>
+        <target>Версия 5.0</target>
+      </segment>
+    </unit>
+    <unit id="5362fa7f-b53b-471f-a119-556d4c7195db">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Modernized add-on source code to make it compatible with NVDA 2021.1.</source>
+        <target>Обновлен исходный код дополнения, чтобы сделать его совместимым с NVDA 2021.1.</target>
+      </segment>
+    </unit>
+    <unit id="01067cce-9614-4c4a-95bc-f3d184c5eca7">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Resolved many coding style issues and potential bugs with Flake8.</source>
+        <target>Устранены многие проблемы со стилем кодирования и потенциальные ошибки с помощью Flake8.</target>
+      </segment>
+    </unit>
+    <unit id="db92a919-fe20-4245-b416-a392b31ab3cb">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 4.0</source>
+        <target>Версия 4.0</target>
+      </segment>
+    </unit>
+    <unit id="324c5621-08b6-4c9d-a80e-62705b539067">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>Требуется NVDA 2019.3 и выше.</target>
+      </segment>
+    </unit>
+    <unit id="fd73f3be-9566-4465-947d-a175600111b0">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Golden Cursor settings dialog has been replaced by Golden Cursor settings panel.</source>
+        <target>Диалог настроек Golden Cursor был заменён панелью настроек Golden Cursor.</target>
+      </segment>
+    </unit>
+    <unit id="6724a9c4-5436-46e8-a2ef-68c79b244ea9">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.3</source>
+        <target>Версия 3.3</target>
+      </segment>
+    </unit>
+    <unit id="13530c65-4d84-4635-8fdd-1bbcdef24424">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>Внутренние изменения для поддержки будущих выпусков NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="69bc898e-c86c-45b9-b71a-a28ba767f049">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.2</source>
+        <target>Версия 3.2</target>
+      </segment>
+    </unit>
+    <unit id="17abe10c-e547-4da1-a3ba-52df80a431ad">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Add-on is compatible with NVDA 2018.3 (wxPython 4).</source>
+        <target>Дополнение совместимо с NVDA 2018.3 (wxPython 4).</target>
+      </segment>
+    </unit>
+    <unit id="c65c97ba-eb4f-438c-b815-c3f85f94374e">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.0</source>
+        <target>Версия 3.0</target>
+      </segment>
+    </unit>
+    <unit id="8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>If using NVDA 2018.2, add-on settings will be found in new multi-category settings screen under "Golden Cursor" category.</source>
+        <target>При использовании NVDA 2018.2 настройки дополнения будут доступны на новом экране настроек для нескольких категорий в категории "Golden Cursor".</target>
+      </segment>
+    </unit>
+    <unit id="0038d7cc-9f53-4970-9e17-36391618d548">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 2.1</source>
+        <target>Версия 2.1</target>
+      </segment>
+    </unit>
+    <unit id="0b901509-15b6-4a59-8a76-e2e3af929914">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed unicode decode error when trying to delete tag name.</source>
+        <target>Исправлена ошибка декодирования в юникоде при попытке удалить название тега.</target>
+      </segment>
+    </unit>
+    <unit id="26fe813a-0291-4917-ab4d-a4e9b2fa5a3a">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Prevent Multiple Instances When Opening various add-on Dialogs.</source>
+        <target>Предотвращено Многократное Использование При Открытии различных Диалогов дополнений.</target>
+      </segment>
+    </unit>
+    <unit id="da0fe932-d7dc-440c-bc4e-b170d6eb029c">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Improved appearance of mouse positions list and jump to position dialogs.</source>
+        <target>Улучшен внешний вид списка положений мыши и диалогов перехода к положениям.</target>
+      </segment>
+    </unit>
+    <unit id="254856eb-9f1f-48ef-9c0a-08c508ee0626">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 2.0</source>
+        <target>Версия 2.0</target>
+      </segment>
+    </unit>
+    <unit id="218fa153-4f62-4519-bb89-701d5d1c8a1c">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2017.3 and later.</source>
+        <target>Требуется NVDA 2017.3 и выше.</target>
+      </segment>
+    </unit>
+    <unit id="ba033211-f087-4e36-b3bc-b14b548d7fc5">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Position file format is incompatible with 1.x versions. If 1.x position format is found, old positions will be migrated to the new format during installation.</source>
+        <target>Формат файла положения несовместим с версиями 1.x. Если найден формат положения 1.x, старые положения будут перенесены в новый формат во время установки.</target>
+      </segment>
+    </unit>
+    <unit id="bcfa2ce2-5aeb-4245-bef6-808070ee9673">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a new Golden Cursor settings dialog in NVDA's Preferences menu to configure mouse movement unit and announcement of mouse positions as mouse moves.</source>
+        <target>Добавлен новый диалог настроек Golden Cursor в меню настроек NVDA для настройки единицы перемещения мыши и объявления положения мыши при её перемещении.</target>
+      </segment>
+    </unit>
+    <unit id="833f731f-13cc-4ab7-9724-62eafe535fd5">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Various messages from this add-on has changed.</source>
+        <target>Изменились различные сообщения дополнения.</target>
+      </segment>
+    </unit>
+    <unit id="b9536c7b-9147-41a8-a00a-03047bdb7174">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When toggling various settings, toggle tone will no longer be heard.</source>
+        <target>При переключении различных настроек звуковой сигнал переключения больше не будет слышен.</target>
+      </segment>
+    </unit>
+    <unit id="cd25d8f3-40d2-4800-bce0-9cf539162ace">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>You can now enter mouse arrows mode where you can move the mouse by pressing just arrow keys.</source>
+        <target>Теперь вы можете перейти в режим стрелок мыши, в котором вы можете перемещать мышь, нажимая только клавиши стрелок.</target>
+      </segment>
+    </unit>
+    <unit id="a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changes to positions list dialog, including new name (now called Mouse Positions) and layout, displaying mouse coordinates for a label, and showing the name of the active app as part of the title.</source>
+        <target>Изменения в диалоге списка положений, включая новое название (теперь оно называется положениями мыши) и макет, отображение координат мыши для надписи и отображение названия активного приложения в качестве части заголовка.</target>
+      </segment>
+    </unit>
+    <unit id="eac7aa87-4c13-4822-8a0a-ce1eeee9335c">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>From Mouse Positions dialog, pressing Enter on a saved label will move the mouse to the saved location.</source>
+        <target>В диалоге "Положение мыши" нажатие клавиши Enter на сохраненной метке приведет к перемещению мыши в сохраненное местоположение.</target>
+      </segment>
+    </unit>
+    <unit id="2617084b-c0b2-4a52-a52e-d593d59a7394">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When renaming a mouse position, an error dialog will be shown if a label with the same name as the new name exists.</source>
+        <target>При переименовании положения мыши будет показан диалог с сообщением об ошибке, если существует метка с тем же именем, что и новое имя.</target>
+      </segment>
+    </unit>
+    <unit id="c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When deleting or clearing mouse positions, you must now answer Yes before positions are deleted and/or cleared.</source>
+        <target>При удалении или очистке положений мыши теперь вы должны ответить "Да", прежде чем положения будут удалены и/или очищены.</target>
+      </segment>
+    </unit>
+    <unit id="3a80f7ef-b313-40a5-9390-f18272a44692">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changes to mouse jump feature, including a new name (now called New mouse position) and ability to enter X and Y coordinates separately or by using up or down arrow keys.</source>
+        <target>Изменения в функции прыжка мыши, включая новое название (теперь оно называется "Новое положение мыши") и возможность вводить координаты X и Y отдельно или с помощью клавиш стрелок вверх или вниз.</target>
+      </segment>
+    </unit>
+    <unit id="4d8c641e-1831-4cec-8e84-c6832a35192a">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The dialog shown when saving the current mouse position now shows coordinates for current mouse location.</source>
+        <target>В диалоге, отображаемом при сохранении текущего положения мыши, теперь отображаются координаты её текущего положения.</target>
+      </segment>
+    </unit>
+    <unit id="384815f4-abcf-4381-a393-a6d83b42c84b">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When saving positions, resolved an issue where NvDA may play error tones if the positions folder does not exist.</source>
+        <target>При сохранении позиций устранена проблема, из-за которой NVDA может воспроизводить звуковые сигналы ошибки, если папка позиций не существует.</target>
+      </segment>
+    </unit>
+    <unit id="a8d38ec7-07f7-48b7-b135-43ba18184b95">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.4</source>
+        <target>Версия 1.4</target>
+      </segment>
+    </unit>
+    <unit id="72b25cd6-bdd1-4786-be35-908cc39f896b">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed win32api dependency to make it compatible with past and future versions of NVDA.</source>
+        <target>Удалена зависимость от win32api, чтобы сделать его совместимым с предыдущими и будущими версиями NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="9e5afa78-f771-4839-a29a-51b11dd59e98">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.0</source>
+        <target>Версия 1.0</target>
+      </segment>
+    </unit>
+    <unit id="463ca87d-2ad4-42a5-888f-9e7ce9321446">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial release.</source>
+        <target>Первоначальный выпуск.</target>
+      </segment>
+    </unit>
+    <unit id="4ff4542a-307c-4b6c-82b8-08a3d2472fbb">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=gc</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=gc</target>
+      </segment>
+    </unit>
+    <unit id="395f75c1-07e4-4989-b546-3dd96e59eadd">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+      </notes>
+      <segment state="final">
+        <source>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</source>
+        <target>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

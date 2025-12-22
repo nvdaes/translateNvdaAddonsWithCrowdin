@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 07:35+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: searchWith.pot\n"
+"X-Crowdin-File-ID: 388\n"
+
+#. Translators: Search with menu title.
+#: addon/globalPlugins/searchWith/__init__.py:214
+msgid "Search With Menu"
+msgstr "搜索菜单"
+
+#. Translators: Message displayed if error happens in getting url.
+#: addon/globalPlugins/searchWith/__init__.py:253
+#: addon/globalPlugins/searchWith/__init__.py:618
+#, python-brace-format
+msgid "Not able to get {item} url"
+msgstr "无法获取 {item} 网址"
+
+#. Translators: Title of message box
+#. Translators: Title of message box.
+#: addon/globalPlugins/searchWith/__init__.py:256
+#: addon/globalPlugins/searchWith/__init__.py:621
+msgid "Error Message"
+msgstr "错误信息"
+
+#. Translators: Message displayed if there is no text in clipboard.
+#: addon/globalPlugins/searchWith/__init__.py:294
+msgid "No text in clipboard"
+msgstr "剪贴板中没有文本"
+
+#. Translators: Message displayed if there is no last spoken text.
+#: addon/globalPlugins/searchWith/__init__.py:297
+msgid "No last spoken text"
+msgstr "没有最后依次朗读的文本"
+
+#. Translators: Message displayed in input help mode.
+#: addon/globalPlugins/searchWith/__init__.py:313
+msgid "Display Search with dialog to enter a search query. And if text selected, displays a virtual menu pressed once, searches Google directly pressed twice."
+msgstr "显示一个对话框输入关键词搜索。如果选中了文本，按依次显示一个虚拟菜单，连按两次直接使用 Google 搜索。"
+
+#. Translators: Category of addon in input gestures.
+#. Translators: title of the panel
+#. Translators: Title of dialog
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: addon/globalPlugins/searchWith/__init__.py:316
+#: addon/globalPlugins/searchWith/__init__.py:326
+#: addon/globalPlugins/searchWith/__init__.py:336
+#: addon/globalPlugins/searchWith/__init__.py:358
+#: addon/globalPlugins/searchWith/__init__.py:542 buildVars.py:23
+msgid "Search With"
+msgstr "快捷搜索"
+
+#. Translators: Message displayed in input help mode.
+#: addon/globalPlugins/searchWith/__init__.py:324
+msgid "Display Search with virtual menu for clipboard text, and pressed twice searches Google directly."
+msgstr "针对剪贴板中的文本弹出搜索引擎菜单，连按两次使用 Google 搜索。"
+
+#. Translators: Message displayed in input help mode.
+#: addon/globalPlugins/searchWith/__init__.py:334
+msgid "Display Search with virtual menu for last spoken text, and pressed twice searches Google directly."
+msgstr "针对最后依次朗读的文本弹出搜索引擎菜单，连按两次使用 Google 搜索。"
+
+#. Translators: Label of group related to menu.
+#: addon/globalPlugins/searchWith/__init__.py:364
+msgid "Menu"
+msgstr "菜单"
+
+#. Translators: List of available items to add to menu.
+#: addon/globalPlugins/searchWith/__init__.py:366
+msgid "Available items to add"
+msgstr "可添加到搜索菜单的项目"
+
+#. Translators: Label of add button.
+#: addon/globalPlugins/searchWith/__init__.py:375
+msgid "Add to menu"
+msgstr "添加到菜单(&A)"
+
+#. Translators: Search with menu items.
+#: addon/globalPlugins/searchWith/__init__.py:380
+msgid "Search with menu"
+msgstr "搜索菜单"
+
+#. Translators: Label of remove button.
+#: addon/globalPlugins/searchWith/__init__.py:390
+msgid "Remove"
+msgstr "移除(&R)"
+
+#. Translators: Label of move up button.
+#: addon/globalPlugins/searchWith/__init__.py:393
+msgid "Move item up"
+msgstr "上移(&P)"
+
+#. Translators: Label of move down button.
+#: addon/globalPlugins/searchWith/__init__.py:396
+msgid "Move item down"
+msgstr "下移(&N)"
+
+#. Translators: Label of set menu to default button.
+#: addon/globalPlugins/searchWith/__init__.py:399
+msgid "Set menu to default"
+msgstr "恢复默认菜单(&D)"
+
+#. Translators: Label of options in searching google.
+#: addon/globalPlugins/searchWith/__init__.py:404
+msgid "In Google search"
+msgstr "Google 搜索"
+
+#. Translators: Option in cumbo box to choose browser setting
+#: addon/globalPlugins/searchWith/__init__.py:407
+msgid "Browser language and setting"
+msgstr "浏览器语言"
+
+#. Translators: Option in cumbo box to choose NVDA language
+#: addon/globalPlugins/searchWith/__init__.py:409
+msgid "NVDA language"
+msgstr "NVDA 语言"
+
+#. Translators: Option in cumbo box to choose windows language
+#: addon/globalPlugins/searchWith/__init__.py:411
+msgid "Windows language"
+msgstr "Windows 语言"
+
+#. Translators: Label of static text
+#: addon/globalPlugins/searchWith/__init__.py:415
+msgid "Use:"
+msgstr "使用："
+
+#. Translators: In search with dialog group
+#: addon/globalPlugins/searchWith/__init__.py:421
+msgid "In search with dialog"
+msgstr "对话框搜索"
+
+#. Translators: An option to use for default query.
+#: addon/globalPlugins/searchWith/__init__.py:424
+msgid "Leave Blank"
+msgstr "留空"
+
+#. Translators: An option to use for default query.
+#: addon/globalPlugins/searchWith/__init__.py:426
+msgid "Use clipboard text"
+msgstr "使用剪贴板中的文本"
+
+#. Translators: An option to use for default query.
+#: addon/globalPlugins/searchWith/__init__.py:428
+msgid "Use last spoken text"
+msgstr "使用最后依次朗读的文本"
+
+#. Translators: Label of static text
+#: addon/globalPlugins/searchWith/__init__.py:432
+msgid "Options for default query:"
+msgstr "默认搜索关键词："
+
+#. Translators: Label of options to choose target language for translation engines.
+#: addon/globalPlugins/searchWith/__init__.py:438
+msgid "Translation engines"
+msgstr "翻译引擎"
+
+#. Translators: Label of combo box for google translate.
+#: addon/globalPlugins/searchWith/__init__.py:444
+msgid "Target language for google translate:"
+msgstr "谷歌翻译的目标语言："
+
+#. Translators: Label of combo box for deepL translate.
+#: addon/globalPlugins/searchWith/__init__.py:447
+msgid "Target language for deepL translate:"
+msgstr "deepL 翻译的目标语言："
+
+#. For advanced users group
+#. Translators: Label of group for advanced users.
+#: addon/globalPlugins/searchWith/__init__.py:453
+msgid "For advanced users"
+msgstr "针对高级用户"
+
+#. Translators: Label of checkbox preserve data folder.
+#: addon/globalPlugins/searchWith/__init__.py:455
+msgid "Preserve data folder upon installing a new version"
+msgstr "安装新版时保留数据目录"
+
+#. Translators: Message informing that an item was added
+#: addon/globalPlugins/searchWith/__init__.py:469
+msgid "Information: Item added"
+msgstr "信息：已添加项目"
+
+#. Translators: Message informing that an item was removed.
+#: addon/globalPlugins/searchWith/__init__.py:485
+msgid "Information: item removed"
+msgstr "信息：已删除项目"
+
+#. Translators: Message informing that an item was moved up.
+#: addon/globalPlugins/searchWith/__init__.py:502
+msgid "Information: item moved up"
+msgstr "信息：上移项目"
+
+#. Translators: Message informing that an item was moved down.
+#: addon/globalPlugins/searchWith/__init__.py:515
+msgid "Information: item moved down"
+msgstr "信息：下移项目"
+
+#. Translators: Message informing that menu was set to default.
+#: addon/globalPlugins/searchWith/__init__.py:526
+msgid "Information: Menu set to default"
+msgstr "信息：已恢复默认菜单"
+
+#. Translators: Label of static text
+#: addon/globalPlugins/searchWith/__init__.py:549
+msgid "Search with google"
+msgstr "Google 搜索"
+
+#. Translators: Label of text control to enter query.
+#: addon/globalPlugins/searchWith/__init__.py:551
+msgid "Enter a search query"
+msgstr "输入搜索关键词(&S)"
+
+#. Translators: Label of Other engines button
+#: addon/globalPlugins/searchWith/__init__.py:555
+msgid "Other Engines"
+msgstr "其他引擎(&A)"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "This addon helps you to search text, via various search engines.\n"
+"Let no text selected, and press the gesture of the addon\n"
+"A dialog will be displayed, with an edit box to enter a search query\n"
+"To search with Google press enter, or tab to search with other engins.\n"
+"Or\n"
+"select some text and press once, a menu will be displayed with various search engines to choose from.\n"
+"And while text is selected, you can press the gesture twice to search with Google directly.\n"
+"The Default gesture for the addon is: NVDA+ Windows+ S."
+msgstr "该插件可帮助您使用各种搜索引擎搜索文本。\n"
+"如果您在没有选择文本的情况下按下插件的搜索快捷键，\n"
+"会显示一个对话框，其中包含一个用于输入搜索关键词的编辑框\n"
+"直接按回车键使用 Google 搜索，或按 Tab 键选择其他引擎进行搜索。\n"
+"或者您可以\n"
+"选中想搜索的文本，按一次搜索快捷键，此时会显示一个菜单，其中包含各种搜索引擎可供选择。\n"
+"您也可以在选中想搜索的文本后，连按两次搜索快捷键直接使用 Google 进行搜索。\n"
+"插件的默认搜索快捷键是： NVDA + Windows + S。"
+

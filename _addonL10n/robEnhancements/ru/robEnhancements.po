@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 07:42+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: robEnhancements.pot\n"
+"X-Crowdin-File-ID: 396\n"
+
+#. outlook 2010
+#. Translators: unsupported Outlook version
+#: addon/appModules/outlook.py:36
+#, python-brace-format
+msgid "Your Outlook version {Versionsnumber} is not supported."
+msgstr "Ваша версия Outlook {Versionsnumber} не поддерживается."
+
+#. Translators: Name of the category for the keyboard mapping dialog
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: addon/appModules/outlook.py:45 addon/globalPlugins/start.py:55
+#: buildVars.py:23
+msgid "ROB enhancements"
+msgstr "ROB enhancements"
+
+#. tones.beep(100, 100)
+#. Translators: empty outlook folder
+#: addon/appModules/outlook.py:67
+msgid "This folder is empty."
+msgstr "Эта папка пуста."
+
+#. Translators: Jumps to the next Outlook folder with unread mails below the inbox.
+#: addon/appModules/outlook.py:71
+msgid "Jumps to the next Outlook folder with unread mails below the inbox."
+msgstr "Переходит к следующей папке Outlook с непрочитанными письмами в папке со входящими."
+
+#. Translators: unread mails found in folder
+#: addon/appModules/outlook.py:89
+#, python-brace-format
+msgid "{count} mails in the folder {folder}"
+msgstr "{count} писем в папке {folder}"
+
+#. Translators: No unread mails found
+#: addon/appModules/outlook.py:94
+msgid "No unread mails found"
+msgstr "Непрочитанных писем не найдено"
+
+#. Translators: if the outlook object modell is not available
+#: addon/appModules/outlook.py:97
+msgid "Outlook object  not available - please contact the addon developer"
+msgstr "Объект Outlook недоступен - пожалуйста, свяжитесь с разработчиком дополнения"
+
+#. Translators: Shows the current URL of the document, press twice = copies to the clipboard.
+#: addon/globalPlugins/start.py:63
+msgid "Show document URL, press twice copies to clipboard."
+msgstr "Показывает URL документа, двойное нажатие копирует в буфер обмена."
+
+#. Translators: URL copied to clipboard
+#: addon/globalPlugins/start.py:75
+#, python-brace-format
+msgid "copied to clipboard {URL}."
+msgstr "{URL} скопирован в буфер обмена."
+
+#. Translators: No URL found in browser document
+#: addon/globalPlugins/start.py:78
+msgid "Document URL not found."
+msgstr "URL-адрес документа не найден."
+
+#. Translators: The user is not in a browser.
+#: addon/globalPlugins/start.py:81
+msgid "No browser window found."
+msgstr "Окно браузера не найдено."
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "support for various apps and some new functions."
+msgstr "поддержка различных приложений и некоторые новые функции."
+

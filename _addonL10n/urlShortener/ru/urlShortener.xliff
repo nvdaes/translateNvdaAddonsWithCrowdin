@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ru">
+  <file id="urlShortener.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/urlShortener/urlShortener.md">
+    <skeleton>
+# $(ID:8a98ae8f-30ab-4e0b-8115-9b12d0e5e27b)
+
+* $(ID:e23a2a2d-bc86-4572-a08e-940c8048b838)
+
+$(ID:d727a511-abfe-47f3-ac09-ce9917d10802)
+
+## $(ID:417e6c97-acfb-4bd1-8b0a-26b884c3757e)
+
+$(ID:4611d39c-817b-42cc-8251-87243705680b)
+
+$(ID:9c80c1c2-6d84-4d2a-a1c9-497c1df55979)
+
+$(ID:f6f84819-cf87-4fa7-a907-a6d821731909)
+
+* $(ID:d87bc52b-dd2e-4314-a827-3b902c69b94b)
+* $(ID:8bf3b010-4536-495e-97dd-d9ddd4496ed5)
+* $(ID:9ffc7c52-93a1-435a-84ef-02f817ad56ee)
+* $(ID:3c4ed476-6d46-4449-8c41-04e5b86fb5ba)
+* $(ID:d842ee1c-1f9e-4d9b-afda-67e864aa2700)
+* $(ID:a719dabe-b0c7-4ff8-b8e6-43ef475b621f)
+* $(ID:cbca3f58-b056-4028-9900-6ced5a57117e)
+* $(ID:7182b6de-a0de-4bb1-a950-5ce90c5bc9ee)
+
+## $(ID:b5d0745f-9efa-4a26-9f9d-35938ed93592)
+
+* $(ID:027ab2b1-44fe-4c79-a5ba-9b725202ea2d)
+
+## $(ID:227a4af9-73c0-410d-ae63-b3c4ea995026)
+
+* $(ID:3ad23f17-2ab0-45fc-a420-3a15f2765077)
+
+## $(ID:b4244d51-4dbf-439d-9305-f4ba39088c53)
+
+* $(ID:706a53e8-6357-44ef-9628-a0443b26e67d)
+* $(ID:73639770-2ccd-4811-b96f-972b7010591c)
+
+## $(ID:75f3e647-792d-48ff-96f4-de9cbf5fe8ae)
+
+* $(ID:33299d71-d6c1-4942-9633-89abb2b4831a)
+
+
+
+$(ID:a151c06c-268d-4138-aac9-15e5641962a1)
+</skeleton>
+    <unit id="8a98ae8f-30ab-4e0b-8115-9b12d0e5e27b">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>URL Shortener #</source>
+        <target>Сокращение URL #</target>
+      </segment>
+    </unit>
+    <unit id="e23a2a2d-bc86-4572-a08e-940c8048b838">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Noelia Ruiz Martínez</source>
+        <target>Автор: Noelia Ruiz Martínez</target>
+      </segment>
+    </unit>
+    <unit id="d727a511-abfe-47f3-ac09-ce9917d10802">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on is used to shorten URLs from NVDA through [is.gd][1].</source>
+        <target>Это дополнение используется для сокращения URL-адресов в NVDA с помощью [is.gd][1].</target>
+      </segment>
+    </unit>
+    <unit id="417e6c97-acfb-4bd1-8b0a-26b884c3757e">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Shorten URL dialog ##</source>
+        <target>Диалог сокращения URL ##</target>
+      </segment>
+    </unit>
+    <unit id="4611d39c-817b-42cc-8251-87243705680b">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>Go to NVDA's menu, Tools submenu, and activate the Shorten URL item.</source>
+        <target>Перейдите в меню NVDA, подменю "Сервис", и активируйте пункт "Сократить URL".</target>
+      </segment>
+    </unit>
+    <unit id="9c80c1c2-6d84-4d2a-a1c9-497c1df55979">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="final">
+        <source>Alternatively, you can assign a gesture from the Input gestures dialog of NVDA.</source>
+        <target>В качестве альтернативы вы можете назначить жест в диалоге жестов ввода NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="f6f84819-cf87-4fa7-a907-a6d821731909">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="final">
+        <source>The Shorten URL dialog includes the following controls:</source>
+        <target>Диалог Сокращения URL включает в себя следующие элементы управления:</target>
+      </segment>
+    </unit>
+    <unit id="d87bc52b-dd2e-4314-a827-3b902c69b94b">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>A list to select one of the saved URLs. From this list, Press shift+tab to search, and tab to press one of the following buttons.</source>
+        <target>Список для выбора одного из сохраненных URL-адресов. В этом списке нажмите shift+tab для поиска и tab для нажатия одной из следующих кнопок.</target>
+      </segment>
+    </unit>
+    <unit id="8bf3b010-4536-495e-97dd-d9ddd4496ed5">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Copy shortened URL. This can also be activated by pressing Enter from the URLs list.</source>
+        <target>Скопировать сокращённый URL. Это также можно активировать, нажав Enter в списке URL-адресов.</target>
+      </segment>
+    </unit>
+    <unit id="9ffc7c52-93a1-435a-84ef-02f817ad56ee">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>A readonly box showing details about the selected URL.</source>
+        <target>Поле только для чтения, с подробной информацией о выбранном URL.</target>
+      </segment>
+    </unit>
+    <unit id="3c4ed476-6d46-4449-8c41-04e5b86fb5ba">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Set of controls to shorten a new URL: Provide the new URL; optionally, you can set a display name and a custom subfix for the shortened URL. Finally, press the Shorten URL button.</source>
+        <target>Набор элементов управления для сокращения нового URL-адреса: Укажите новый URL; при желании вы можете задать отображаемое имя и пользовательский субфикс для сокращённого URL. Наконец, нажмите кнопку Сократить URL.</target>
+      </segment>
+    </unit>
+    <unit id="d842ee1c-1f9e-4d9b-afda-67e864aa2700">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Rename: opens a dialog to provide a new name to display the selected URL on the list.</source>
+        <target>Переименовать: открывает диалог для ввода нового названия, отображаемого выбранного URL-адреса в списке.</target>
+      </segment>
+    </unit>
+    <unit id="a719dabe-b0c7-4ff8-b8e6-43ef475b621f">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Delete: opens a dialog to delete the selected URL.</source>
+        <target>Удалить: открывает диалог для удаления выбранного URL.</target>
+      </segment>
+    </unit>
+    <unit id="cbca3f58-b056-4028-9900-6ced5a57117e">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Remove saved URLs: opens a dialog to remove the saved URLs from the configuration folder.</source>
+        <target>Удалить сохранённые URL: открывает диалог для удаления сохраненных URL-адресов из папки конфигурации.</target>
+      </segment>
+    </unit>
+    <unit id="7182b6de-a0de-4bb1-a950-5ce90c5bc9ee">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Close.</source>
+        <target>Закрыть.</target>
+      </segment>
+    </unit>
+    <unit id="b5d0745f-9efa-4a26-9f9d-35938ed93592">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 8.0.0 ##</source>
+        <target>Изменения для 8.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="027ab2b1-44fe-4c79-a5ba-9b725202ea2d">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a readonly box with details about the selected URL.</source>
+        <target>Добавлено поле только для чтения с подробной информацией о выбранном URL.</target>
+      </segment>
+    </unit>
+    <unit id="227a4af9-73c0-410d-ae63-b3c4ea995026">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.0 ##</source>
+        <target>Изменения для 5.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="3ad23f17-2ab0-45fc-a420-3a15f2765077">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The new URL dialog has been replaced with a set of controls in the main dialog, so that the focus can be placed in the relevant field to fix possible errors.</source>
+        <target>Диалог "Новый URL" был заменён набором элементов управления в главном диалоге, чтобы можно было сосредоточить внимание на соответствующем поле для исправления возможных ошибок.</target>
+      </segment>
+    </unit>
+    <unit id="b4244d51-4dbf-439d-9305-f4ba39088c53">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.0.0 ##</source>
+        <target>Изменения для 2.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="706a53e8-6357-44ef-9628-a0443b26e67d">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The Shorten URL option won't appear multiple times in Tools submenu when reloading plugins.</source>
+        <target>Опция сокращения URL не будет появляться несколько раз в подменю "Сервис" при перезагрузке плагинов.</target>
+      </segment>
+    </unit>
+    <unit id="73639770-2ccd-4811-b96f-972b7010591c">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The New URL dialog includes an edit box to provide a custom subfix for the shortened URL.</source>
+        <target>Диалог "Создать URL-адрес" включает в себя поле редактирования для предоставления пользовательского вложенного исправления для сокращённого URL.</target>
+      </segment>
+    </unit>
+    <unit id="75f3e647-792d-48ff-96f4-de9cbf5fe8ae">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.0.0 ##</source>
+        <target>Изменения для 1.0.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="33299d71-d6c1-4942-9633-89abb2b4831a">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>Первоначальная версия.</target>
+      </segment>
+    </unit>
+    <unit id="a151c06c-268d-4138-aac9-15e5641962a1">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://is.gd</source>
+        <target>[1]: https://is.gd</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

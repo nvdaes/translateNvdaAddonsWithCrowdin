@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="pt">
+  <file id="controlUsageAssistant.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/controlUsageAssistant/controlUsageAssistant.md">
+    <skeleton>
+# $(ID:a8e57aed-c4bf-426c-9206-65965653966a)
+
+* $(ID:5479c0db-2f75-41f1-bd19-67c1a6999256)
+
+
+$(ID:755594af-abe4-46ff-af08-13626e48c615)
+$(ID:70aba62f-2314-4bef-8f18-1d6eb96c2aed)
+
+$(ID:b84b9610-3211-4b0a-8a20-468c94a0bd87)
+
+* $(ID:4ab7442c-2a24-4244-8a31-2b30f7015b6f)
+* $(ID:834da25f-f119-4e74-9cc2-749d0178e3ab)
+* $(ID:e9365467-5712-4af7-bb27-5eea6ac49a13)
+* $(ID:8986ec30-6c4b-4a32-a92e-6869021d32b2)
+
+## $(ID:c623e40f-106e-4f7d-b2c2-fc414830e5f0)
+
+* $(ID:c7bc2f37-2866-4cca-b83a-9c4f6655933c)
+
+## $(ID:60d98a88-a4c3-44c6-9f78-0ea41951593d)
+
+* $(ID:732d585a-79f0-4f84-adc9-e0ae18be5b3b)
+
+## $(ID:ba16b751-8ba9-4543-b099-7b6707b65964)
+
+* $(ID:77d2e916-129d-4d08-88e1-94612fa3a771)
+* $(ID:e0dadab0-c4d0-453c-912f-f78f3d01fc7a)
+
+## $(ID:41e2f6e2-7fbd-4be5-82ad-40a5872f8c36)
+
+* $(ID:9a66221a-888d-4bbc-8fec-1dd05a3bdf12)
+
+## $(ID:200361c2-7078-4028-b9cb-04beca45f560)
+
+* $(ID:4a6643ab-0423-4f28-990a-5a83f109b13f)
+
+## $(ID:cbf29506-f1dd-4004-af1e-ed1bc3fcbaf0)
+
+* $(ID:4b6f5d87-0513-4aa8-ad26-e27a40731d36)
+* $(ID:3b8a240b-fdb4-4bb4-b80d-0b42c7a16998)
+
+## $(ID:09ea5a62-9efe-4bcb-a04a-c33d1fbf00fd)
+
+* $(ID:b59ef86b-a6c2-4cd3-9415-0da29024527e)
+
+## $(ID:2aebcbdb-a590-41ec-a218-65d6bb013bc1)
+
+* $(ID:2f54db68-8aad-4a25-9575-046476377058)
+
+## $(ID:47e975b4-e6c7-4816-b1fd-41224e5c1255)
+
+* $(ID:e555c312-3a08-4e7e-b51c-05fa4c19bb0e)
+* $(ID:9e17d03f-921c-450e-95c9-7d1a3b34979c)
+
+## $(ID:29851c09-3289-47fc-affc-ae7fe2132f16)
+
+* $(ID:c53f983e-592b-445e-ae1e-21ebbecca078)
+
+## $(ID:98aaba9b-d24c-43ae-a2d5-178e4a0e9fb3)
+
+* $(ID:ef46c9a5-bca4-4a42-90b4-da6586de3b90)
+* $(ID:4dd0f707-ad54-4a94-8e7f-eaa46c853154)
+
+## $(ID:89a03522-c451-4247-81d1-083b876345e9)
+
+* $(ID:b2854639-9500-44cd-b465-3c0366097f53)
+
+## $(ID:646b9add-25d1-43a0-9dd2-017b02dfc3f0)
+
+* $(ID:44a0d1ed-dbb9-43d5-9eb5-019fd39061b9)
+
+## $(ID:79ce9f0d-5a79-49d9-aa4e-cf58b9336865)
+
+* $(ID:c5d3ca5c-bf77-461c-be32-ff56eefc32cb)
+* $(ID:45e92c47-d5e8-4df5-b29f-0fbf5c24ea84)
+* $(ID:ab98549c-6bae-4ac9-9440-dc983278df1f)
+* $(ID:24314de8-b722-43d8-8bf4-60673257982e)
+
+## $(ID:69f612bb-75dd-4f3e-80b3-490f46da4b3c)
+
+* $(ID:a3cb563d-b504-4a05-aced-8f39135f42b6)
+</skeleton>
+    <unit id="a8e57aed-c4bf-426c-9206-65965653966a">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Control Usage Assistant #</source>
+        <target>Assistente de controle de uso #</target>
+      </segment>
+    </unit>
+    <unit id="5479c0db-2f75-41f1-bd19-67c1a6999256">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Joseph Lee, Noelia Ruiz Martínez</source>
+        <target>Autor: Joseph Lee, Noelia Ruiz Martínez</target>
+      </segment>
+    </unit>
+    <unit id="755594af-abe4-46ff-af08-13626e48c615">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>Use this add-on to find out how to interact with the focused control.</source>
+        <target>Use esse complemento para descobrir como interagir com o controle focalizado.</target>
+      </segment>
+    </unit>
+    <unit id="70aba62f-2314-4bef-8f18-1d6eb96c2aed">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>Press NVDA+H to obtain a short help message on interacting with the focused control, such as checkboxes, edit fields and so on.</source>
+        <target>Pressione NVDA+H para obter uma breve mensagem de ajuda sobre como interagir com o controle em foco, como caixas de seleção, campos de edição e assim por diante.</target>
+      </segment>
+    </unit>
+    <unit id="b84b9610-3211-4b0a-8a20-468c94a0bd87">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>Go to NVDA's menu, Preferences submenu, Settings dialog, Control Usage Asistant category to configure add-on settings:</source>
+        <target>Acesse o menu do NVDA, submenu Preferences (Preferências), caixa de diálogo Settings (Configurações), categoria Control Usage Asistant (Assistente de controle de uso) para definir as configurações do complemento:</target>
+      </segment>
+    </unit>
+    <unit id="4ab7442c-2a24-4244-8a31-2b30f7015b6f">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Automatic messages for focus: Checked by default.</source>
+        <target>Mensagens automáticas para foco: Marcado por padrão.</target>
+      </segment>
+    </unit>
+    <unit id="834da25f-f119-4e74-9cc2-749d0178e3ab">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Type the message to be used when an object can be activated: You may include a short message indicating the default or your configured gesture to know if the current object has an associated action when pressing a gesture like NVDA+enter in object navigation.</source>
+        <target>Digite a mensagem a ser usada quando um objeto puder ser ativado: Você pode incluir uma mensagem curta indicando o gesto padrão ou o gesto configurado para saber se o objeto atual tem uma ação associada ao pressionar um gesto como NVDA+enter na navegação do objeto.</target>
+      </segment>
+    </unit>
+    <unit id="e9365467-5712-4af7-bb27-5eea6ac49a13">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select output modes for automatic messages: This list of checkboxes allows to select speech and braille.</source>
+        <target>Selecione os modos de saída para mensagens automáticas: Essa lista de caixas de seleção permite selecionar fala e braile.</target>
+      </segment>
+    </unit>
+    <unit id="8986ec30-6c4b-4a32-a92e-6869021d32b2">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Pitch change for automatic messages: This spin box allows to set the pitch change when NVDA reads automatic messages (from -30 to +30).</source>
+        <target>Alteração de tom para mensagens automáticas: Essa caixa giratória permite definir a mudança de tom quando o NVDA lê mensagens automáticas (de -30 a +30).</target>
+      </segment>
+    </unit>
+    <unit id="c623e40f-106e-4f7d-b2c2-fc414830e5f0">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20250611.0.0</source>
+        <target>Versão 20250611.0.0</target>
+      </segment>
+    </unit>
+    <unit id="c7bc2f37-2866-4cca-b83a-9c4f6655933c">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added copy and close buttons to messages presented in browse mode.</source>
+        <target>Adição dos botões copiar e fechar às mensagens apresentadas no modo de navegação.</target>
+      </segment>
+    </unit>
+    <unit id="60d98a88-a4c3-44c6-9f78-0ea41951593d">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20240324.0.0</source>
+        <target>Versão 20240324.0.0</target>
+      </segment>
+    </unit>
+    <unit id="732d585a-79f0-4f84-adc9-e0ae18be5b3b">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved support for edit controls and suggestions.</source>
+        <target>Suporte aprimorado para controles de edição e sugestões.</target>
+      </segment>
+    </unit>
+    <unit id="ba16b751-8ba9-4543-b099-7b6707b65964">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2023.02.19</source>
+        <target>Versão 2023.02.19</target>
+      </segment>
+    </unit>
+    <unit id="77d2e916-129d-4d08-88e1-94612fa3a771">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The message configured for clickable objects will be reported after other properties.</source>
+        <target>A mensagem configurada para objetos clicáveis será informada depois de outras propriedades.</target>
+      </segment>
+    </unit>
+    <unit id="e0dadab0-c4d0-453c-912f-f78f3d01fc7a">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>Compatível com o NVDA 2023.1.</target>
+      </segment>
+    </unit>
+    <unit id="41e2f6e2-7fbd-4be5-82ad-40a5872f8c36">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2022.07.10</source>
+        <target>Versão 2022.07.10</target>
+      </segment>
+    </unit>
+    <unit id="9a66221a-888d-4bbc-8fec-1dd05a3bdf12">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added ability to set a message for object navigation, to announce if the current object can be activated.</source>
+        <target>Foi adicionada a capacidade de definir uma mensagem para a navegação de objetos, para anunciar se o objeto atual pode ser ativado.</target>
+      </segment>
+    </unit>
+    <unit id="200361c2-7078-4028-b9cb-04beca45f560">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2022.03.27</source>
+        <target>Versão 2022.03.27</target>
+      </segment>
+    </unit>
+    <unit id="4a6643ab-0423-4f28-990a-5a83f109b13f">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2022.1 or later.</source>
+        <target>Requer o NVDA 2022.1 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="cbf29506-f1dd-4004-af1e-ed1bc3fcbaf0">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 22.01</source>
+        <target>Versão 22.01</target>
+      </segment>
+    </unit>
+    <unit id="4b6f5d87-0513-4aa8-ad26-e27a40731d36">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added support for automatic messages.</source>
+        <target>Foi adicionado suporte a mensagens automáticas.</target>
+      </segment>
+    </unit>
+    <unit id="3b8a240b-fdb4-4bb4-b80d-0b42c7a16998">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved support for requested messages in browse mode.</source>
+        <target>Suporte aprimorado para mensagens solicitadas no modo de navegação.</target>
+      </segment>
+    </unit>
+    <unit id="09ea5a62-9efe-4bcb-a04a-c33d1fbf00fd">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 21.10</source>
+        <target>Versão 21.10</target>
+      </segment>
+    </unit>
+    <unit id="b59ef86b-a6c2-4cd3-9415-0da29024527e">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2021.2 or later is required due to changes to NVDA that affects this add-on.</source>
+        <target>O NVDA 2021.2 ou posterior é necessário devido a alterações no NVDA que afetam esse complemento.</target>
+      </segment>
+    </unit>
+    <unit id="2aebcbdb-a590-41ec-a218-65d6bb013bc1">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.10</source>
+        <target>Versão 20.10</target>
+      </segment>
+    </unit>
+    <unit id="2f54db68-8aad-4a25-9575-046476377058">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Help messages are announced in languages other than English.</source>
+        <target>As mensagens de ajuda são anunciadas em outros idiomas além do inglês.</target>
+      </segment>
+    </unit>
+    <unit id="47e975b4-e6c7-4816-b1fd-41224e5c1255">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.06</source>
+        <target>Versão 20.06</target>
+      </segment>
+    </unit>
+    <unit id="e555c312-3a08-4e7e-b51c-05fa4c19bb0e">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Resolved many coding style issues and potential bugs with Flake8.</source>
+        <target>Resolvidos vários problemas de estilo de codificação e possíveis bugs com o Flake8.</target>
+      </segment>
+    </unit>
+    <unit id="9e17d03f-921c-450e-95c9-7d1a3b34979c">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA will no longer appear to do nothing or play error tones when trying to obtain help for certain browse mode controls.</source>
+        <target>O NVDA não parecerá mais não fazer nada ou reproduzir tons de erro ao tentar obter ajuda para determinados controles do modo de navegação.</target>
+      </segment>
+    </unit>
+    <unit id="29851c09-3289-47fc-affc-ae7fe2132f16">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.01</source>
+        <target>Versão 20.01</target>
+      </segment>
+    </unit>
+    <unit id="c53f983e-592b-445e-ae1e-21ebbecca078">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2019.3 or later is required.</source>
+        <target>É necessário o NVDA 2019.3 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="98aaba9b-d24c-43ae-a2d5-178e4a0e9fb3">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 3.0/19.11</source>
+        <target>Versão 3.0/19.11</target>
+      </segment>
+    </unit>
+    <unit id="ef46c9a5-bca4-4a42-90b4-da6586de3b90">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Version scheme is now year.month.</source>
+        <target>O esquema de versão agora é year.month.</target>
+      </segment>
+    </unit>
+    <unit id="4dd0f707-ad54-4a94-8e7f-eaa46c853154">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When NVDA+H is pressed, a help screen will be displayed instead of a flash message being shown.</source>
+        <target>Quando NVDA+H for pressionado, uma tela de ajuda será exibida em vez de uma mensagem em flash.</target>
+      </segment>
+    </unit>
+    <unit id="89a03522-c451-4247-81d1-083b876345e9">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2.5</source>
+        <target>Versão 2.5</target>
+      </segment>
+    </unit>
+    <unit id="b2854639-9500-44cd-b465-3c0366097f53">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with Python 3.</source>
+        <target>Compatível com Python 3.</target>
+      </segment>
+    </unit>
+    <unit id="646b9add-25d1-43a0-9dd2-017b02dfc3f0">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2.1</source>
+        <target>Versão 2.1</target>
+      </segment>
+    </unit>
+    <unit id="44a0d1ed-dbb9-43d5-9eb5-019fd39061b9">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New and updated translations.</source>
+        <target>Traduções novas e atualizadas.</target>
+      </segment>
+    </unit>
+    <unit id="79ce9f0d-5a79-49d9-aa4e-cf58b9336865">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2.0</source>
+        <target>Versão 2.0</target>
+      </segment>
+    </unit>
+    <unit id="c5d3ca5c-bf77-461c-be32-ff56eefc32cb">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Help messages for more controls added, including terminal windows.</source>
+        <target>Adicionadas mensagens de ajuda para mais controles, incluindo janelas de terminal.</target>
+      </segment>
+    </unit>
+    <unit id="45e92c47-d5e8-4df5-b29f-0fbf5c24ea84">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added help messages for working in some areas of applications, such as Microsoft Excel and Powerpoint and Windows 8 start screen.</source>
+        <target>Foram adicionadas mensagens de ajuda para trabalhar em algumas áreas de aplicativos, como o Microsoft Excel e o Powerpoint e a tela inicial do Windows 8.</target>
+      </segment>
+    </unit>
+    <unit id="ab98549c-6bae-4ac9-9440-dc983278df1f">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added help messages for working with forms in both browse and focus modes in virtual buffer documents (Internet Explorer, Adobe Reader, Mozilla Firefox, etc.).</source>
+        <target>Foram adicionadas mensagens de ajuda para trabalhar com formulários nos modos de navegação e foco em documentos de buffer virtual (Internet Explorer, Adobe Reader, Mozilla Firefox, etc.).</target>
+      </segment>
+    </unit>
+    <unit id="24314de8-b722-43d8-8bf4-60673257982e">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New language: Danish.</source>
+        <target>Novo idioma: Dinamarquês.</target>
+      </segment>
+    </unit>
+    <unit id="69f612bb-75dd-4f3e-80b3-490f46da4b3c">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.0</source>
+        <target>Versão 1.0</target>
+      </segment>
+    </unit>
+    <unit id="a3cb563d-b504-4a05-aced-8f39135f42b6">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial version.</source>
+        <target>Versão inicial.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

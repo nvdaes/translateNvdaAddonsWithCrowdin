@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:12+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: unicodeBrailleInput.pot\n"
+"X-Crowdin-File-ID: 328\n"
+
+#. Translators: name of menu item.
+#: addon/globalPlugins/unicodeBrailleInput/__init__.py:33
+msgid "Un&icode Braille Input..."
+msgstr "Ввод брайлевского юн&икода..."
+
+#. Translators: menu item tool tip text.
+#. Translators: Message presented when user performs input help for this shortcut.
+#: addon/globalPlugins/unicodeBrailleInput/__init__.py:35
+#: addon/globalPlugins/unicodeBrailleInput/__init__.py:41
+msgid "Displays a dialog to enter braille in numeric form."
+msgstr "Показывает диалог ввода Брайля в числовой форме."
+
+#. Translators: the label of an input type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:38
+msgid "Braille dots (e.g. 1345-1236-145-1)"
+msgstr "Брайлевские точки (например, 1345-1236-145-1)"
+
+#. Translators: the label of an input type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:40
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:44
+#, python-brace-format
+msgid "Normal text according to {table}"
+msgstr "Обычный текст в соответствии с {table}"
+
+#. Translators: the label of an output type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:59
+msgid "Unicode braille"
+msgstr "Брайль Unicode"
+
+#. Translators: the label of an output type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:61
+msgid "ASCII braille (BRF)"
+msgstr "Брайль ASCII (BRF)"
+
+#. Translators: the label of an output type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:63
+msgid "NABCC"
+msgstr "NABCC"
+
+#. Translators: the label of an export type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:75
+msgid "Clipboard"
+msgstr "Буфер обмена"
+
+#. Translators: the label of an export type
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:77
+msgid "File"
+msgstr "Файл"
+
+#. Translators: Error message displayed when the user enters invalid input.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:175
+#, python-format
+msgid "Unexpected input: '%s', only dots 0 to 8 and - are allowed."
+msgstr "Неожиданный ввод: '%s', можно вводить только точки от 0 до 8 и знак минуса."
+
+#. Translators: The title of the dialog.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:208
+msgid "Convert Braille"
+msgstr "Преобразование брайля"
+
+#. Translators: the label of the edit field.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:214
+msgid "&Input:"
+msgstr "&Ввод:"
+
+#. Translators: The label for a button to import text.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:222
+msgid "I&mport..."
+msgstr "И&мпорт..."
+
+#. Translators: the label of the combo box to choose the input type.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:231
+msgid "Input &type:"
+msgstr "&Тип ввода:"
+
+#. Translators: the label of the radio box to choose the output type.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:239
+msgid "&Output type:"
+msgstr "Тип в&ывода:"
+
+#. Translators: Label for a checkbox, wether to use a regular space or the Braille unicode space.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:249
+msgid "Convert Unicode Braille &space to ASCII space"
+msgstr "Преобразовывать &пробел брайлевского юникода в пробел ASCII"
+
+#. Translators: the label of the combo box to choose the export type.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:258
+msgid "&Export to:"
+msgstr "&Экспорт в :"
+
+#. Translators: Label of a dialog to import a file.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:270
+msgid "Import File"
+msgstr "Импорт файла"
+
+#. Translators: Dialog text presented when NVDA can't import a file.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:283
+#, python-brace-format
+msgid "Error importing file: {e}"
+msgstr "Ошибка импорта файла: {e}"
+
+#. Translators: the title of an error message dialog
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:285
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:316
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:360
+msgid "Error"
+msgstr "Ошибка"
+
+#. Translators: Label of a dialog to export a file.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:300
+msgid "Export File"
+msgstr "Экспорт файла"
+
+#. Translators: Dialog text presented when NVDA can't export a file.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:314
+#, python-brace-format
+msgid "Error exporting file: {e}"
+msgstr "Ошибка экспорта файла: {e}"
+
+#. Translators: This is the message when unicode text has been copied to the clipboard.
+#: addon/globalPlugins/unicodeBrailleInput/interface.py:358
+msgid "Result copied to clipboard ready for you to paste."
+msgstr "Результат скопирован в буфер обмена и готов для вставки."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Unicode Braille Input"
+msgstr "Ввод брайлевского юникода"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Utilities to convert text to Unicode braille"
+msgstr "Утилиты для преобразования текста в брайлевский юникод"
+

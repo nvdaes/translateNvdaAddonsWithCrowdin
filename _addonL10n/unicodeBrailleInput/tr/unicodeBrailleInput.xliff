@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="unicodeBrailleInput.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/unicodeBrailleInput/unicodeBrailleInput.md">
+    <skeleton>
+# $(ID:38e14b0d-ec97-4338-a0f3-687444b50549)
+
+* $(ID:611b42d9-54ba-444a-859f-f8a8a4fa52ef)
+* $(ID:baa6c7fc-3a39-455f-b234-3b90c932aee4)
+
+$(ID:a3d6dd14-af44-4680-a916-e543860d860d)
+$(ID:dc0b709f-7ede-4f42-b5d4-867c30fd827c)
+$(ID:84ca51f9-eb63-4a78-b5ec-f55e9d1fef98)
+$(ID:88362b08-252d-496d-933a-2195426f32dd)
+
+$(ID:783f08a3-6be8-4095-913f-4aca39cc1287)
+$(ID:4e39a2de-6acc-4893-87a0-eac393bc2ef6)
+$(ID:3f349785-1745-4dc0-abd7-c04828c6f0ef)
+
+## $(ID:ccd583d4-37ea-4601-b1ba-4cd33eaa698d)
+
+* $(ID:0ec57b1f-0b63-46e4-aab7-1f3eff3aee78)
+
+* $(ID:491a11db-dfa3-40ac-9c6e-15e1e5de6a8b)
+
+* $(ID:0cb96897-284d-4583-8d52-a243def9352a)
+
+* $(ID:5e875eb1-223b-4cc5-8379-0f924fe743d8)
+
+* $(ID:4b714b21-46c0-42c5-8878-0e220c8068bc)
+
+* $(ID:78856bb2-e72c-4787-804c-38a32caa07d4)
+  * $(ID:b1376e02-515e-4396-964d-73bebcacc00d)
+  * $(ID:2d09fa2a-cdba-4e55-997a-c7c139ce103d)
+
+## $(ID:b9281cab-6dc0-4e4b-96aa-897330791a37)
+
+### $(ID:78ef6da6-119d-417a-aa36-3fbedb5d51a8)
+
+* $(ID:c191649f-f62d-44ce-8e79-713f7bb55835)
+* $(ID:4aa5d6f5-ff77-423f-acda-2841223d82c9)
+* $(ID:f1046794-5a1e-486c-a249-fa4df7871858)
+
+### $(ID:07b76a37-b969-43af-b692-f341d3502988)
+
+* $(ID:0166e558-aa64-47ac-a86d-421cd8c4fe36)
+* $(ID:ae91fc45-0991-45fd-9570-21e3a2f4c491)
+
+### $(ID:efe1a4ab-b705-42df-b647-118c4b1fa593)
+
+* $(ID:08465d61-7f92-499e-b530-9bfa126972e7)
+* $(ID:a36f082c-e8c5-4a33-9bb6-627b347342cd)
+
+### $(ID:cba40f46-4575-42f7-bed1-372447c351bb)
+
+* $(ID:9ba8dd75-e710-4a86-b75c-ad88f2b6d23d)
+
+### $(ID:e405a850-5501-4fe1-835e-666104745863)
+
+* $(ID:dd09c743-a06a-4ae0-a00c-222d8848be49)
+
+### $(ID:6c5e34e2-403e-4011-a117-03f9c5540fd4)
+
+* $(ID:f50a1f89-eed2-4ae0-8a29-e9c88c78a14c)
+* $(ID:c9f21639-3e53-4914-a20c-bc9a59043794)
+* $(ID:33368abb-c233-4a30-9962-356b76f69b83)
+
+### $(ID:32bbc151-53b1-4c6e-a555-75b98e3abfe5)
+
+* $(ID:289c9081-2416-41e6-8c5c-e6f6d5100e9e)
+* $(ID:905799b5-1bfc-451f-9e25-e5173b7702dd)
+
+### $(ID:e93b97ee-62bb-4756-be00-8022b54d82bb)
+
+* $(ID:df489ed8-4661-4612-98da-d77817a71733)
+* $(ID:33d365c0-9757-47f1-87d9-84eeaab4ec3a)
+* $(ID:85f97201-e6aa-41b0-9a14-8f17ee8c0224)
+
+### $(ID:31620ddc-1685-4455-8b8e-f19ba88ee6bd)
+
+* $(ID:d43dd0cf-f5f5-4477-aa9b-f2690de5dad2)
+
+### $(ID:510d240b-0d57-41d5-b7e4-3d2de0cf7987)
+
+* $(ID:de4b0b6b-e292-465d-9209-9a9af4435255)
+* $(ID:ef639b03-d730-4227-b2f8-832b5d5b8200)
+* $(ID:5283ee1a-6c19-48b9-8c09-88c4aad90208)
+* $(ID:16f25d76-1488-4b75-ba3b-ba8261f6f414)
+* $(ID:92442e7d-8345-4a38-bd1f-a4283b536813)
+
+### $(ID:9699caa6-700b-49cd-ad05-5554d6f73f38)
+
+* $(ID:7a487d2d-85a9-42a5-b27c-8a7ed0b1e930)
+* $(ID:baa03d23-e369-44d3-8620-b7ee6b10c112)
+
+$(ID:0564cd61-3c82-4aac-bc07-65b163eb7988)
+
+$(ID:b4dff5c5-594f-40ad-afb6-2d6798a3b31f)
+</skeleton>
+    <unit id="38e14b0d-ec97-4338-a0f3-687444b50549">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>UnicodeBrailleInput</source>
+        <target>Unicode Braille Girişi</target>
+      </segment>
+    </unit>
+    <unit id="611b42d9-54ba-444a-859f-f8a8a4fa52ef">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: Mesar Hameed, Patrick Zajda, Leonard de Ruijter.</source>
+        <target>Yazarlar: Mesar Hameed, Patrick Zajda, Leonard de Ruijter.</target>
+      </segment>
+    </unit>
+    <unit id="baa6c7fc-3a39-455f-b234-3b90c932aee4">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[kararlı sürümü indir][1]</target>
+      </segment>
+    </unit>
+    <unit id="a3d6dd14-af44-4680-a916-e543860d860d">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on allows you to perform several Braille conversion tasks.</source>
+        <target>Bu eklenti, birkaç Braille dönüştürme görevi gerçekleştirmenize olanak tanır.</target>
+      </segment>
+    </unit>
+    <unit id="dc0b709f-7ede-4f42-b5d4-867c30fd827c">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>For example, you can convert text from braille dot notation (E.G. 1345-1236-145-1) to Unicode or ASCII braille characters.</source>
+        <target>Örneğin, Braille nokta gösterimindeki metni (Örn. 1345-1236-145-1) Unicode veya ASCII Braille karakterlerine dönüştürebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="84ca51f9-eb63-4a78-b5ec-f55e9d1fef98">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="translated">
+        <source>You can also convert text according to the currently selected input or output braille table, either by typing or pasting it into an input field, or by importing a text file.</source>
+        <target>Metni, giriş alanına yazarak, yapıştırarak ya da bir metin dosyasını içe aktararak, seçili giriş veya çıkış braille tablosuna göre dönüştürebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="88362b08-252d-496d-933a-2195426f32dd">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>The result can either be copied to the clipboard or exported into a text or BRF file.</source>
+        <target>Sonuç panoya kopyalanabilir, bir metin veya BRF dosyasına aktarılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="783f08a3-6be8-4095-913f-4aca39cc1287">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="translated">
+        <source>The initial purpose of this specialized addon was to make it easier to help to improve liblouis tables and to add automatic tests for your language.</source>
+        <target>Bu özel eklentinin ilk amacı, liblouis tablolarını geliştirmeye yardımcı olmayı ve diliniz için otomatik testler eklemeyi kolaylaştırmaktı.</target>
+      </segment>
+    </unit>
+    <unit id="4e39a2de-6acc-4893-87a0-eac393bc2ef6">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+      </notes>
+      <segment state="translated">
+        <source>However, with the addition of the unicode braille table in NVDA 2017.3, this add-on is no longer required for that.</source>
+        <target>Ancak, NVDA 2017.3'te unicode braille tablosunun eklenmesiyle, bu eklenti artık bunun için gerekli değildir.</target>
+      </segment>
+    </unit>
+    <unit id="3f349785-1745-4dc0-abd7-c04828c6f0ef">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="translated">
+        <source>Users can now choose to input braille with that table, either via a Braille keyboard or the [PC Keyboard Braille Input add-on][2].</source>
+        <target>Kullanıcılar artık Braille klavye veya [PC Klavye ile Braille Girişi eklentisi][2] aracılığıyla bu tabloyla Braille girmeyi seçebilirler.</target>
+      </segment>
+    </unit>
+    <unit id="ccd583d4-37ea-4601-b1ba-4cd33eaa698d">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Usage example</source>
+        <target>Kullanım örneği</target>
+      </segment>
+    </unit>
+    <unit id="0ec57b1f-0b63-46e4-aab7-1f3eff3aee78">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Open a text editor (for example Notepad plus plus).</source>
+        <target>Bir metin düzenleyicisi açın (örneğin Notepad Plus Plus).</target>
+      </segment>
+    </unit>
+    <unit id="491a11db-dfa3-40ac-9c6e-15e1e5de6a8b">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Press NVDA+Ctrl+i or choose Unicode Braille Input found under NVDA tools menu.</source>
+        <target>NVDA+Ctrl+i tuşlarına basın veya NVDA araçlar menüsünde bulunan Unicode Braille Girişi'ni seçin.</target>
+      </segment>
+    </unit>
+    <unit id="0cb96897-284d-4583-8d52-a243def9352a">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Type your braille text in numeric form or your normal text, respectively. You can also import from a text file if desired.</source>
+        <target>Braille metninizi sırasıyla sayısal biçimde veya normal metninizde yazın. İsterseniz bir metin dosyasından da içe aktarabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="5e875eb1-223b-4cc5-8379-0f924fe743d8">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select whether your input consists of braille dots (e.g. 1345-1236-145-1) or normal text according to a current braille table (e.g. Dutch (Netherlands).</source>
+        <target>Girişinizin braille noktalarından mı (ör. 1345-1236-145-1) yoksa mevcut braille tablosuna göre normal metinden mi (ör. Felemenkçe (Hollanda)) oluştuğunu seçin.</target>
+      </segment>
+    </unit>
+    <unit id="4b714b21-46c0-42c5-8878-0e220c8068bc">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select the output type. Leave it to Unicode braille, or change it to BRF or NABC if desired.</source>
+        <target>Çıkış türünü seçin. Unicode braille'e bırakın veya isterseniz BRF veya NABC olarak değiştirin.</target>
+      </segment>
+    </unit>
+    <unit id="78856bb2-e72c-4787-804c-38a32caa07d4">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select the export type:</source>
+        <target>Dışa aktarma türünü seçin:</target>
+      </segment>
+    </unit>
+    <unit id="b1376e02-515e-4396-964d-73bebcacc00d">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix:   * </note>
+      </notes>
+      <segment state="translated">
+        <source>When set to `Clipboard`, The result will be copied to your clipboard ready for you to  paste after pressing OK.</source>
+        <target>`Pano` olarak ayarlandığında, sonuç panonuza kopyalanır ve  Tamam düğmesine bastıktan sonra yapıştırmaya hazır hale gelir.</target>
+      </segment>
+    </unit>
+    <unit id="2d09fa2a-cdba-4e55-997a-c7c139ce103d">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix:   * </note>
+      </notes>
+      <segment state="translated">
+        <source>When set to `File`, after pressing OK, a save window will appear.</source>
+        <target>"Dosya" olarak ayarlandığında, Tamam'a bastıktan sonra bir kaydetme penceresi görünecektir.</target>
+      </segment>
+    </unit>
+    <unit id="b9281cab-6dc0-4e4b-96aa-897330791a37">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes</source>
+        <target>Değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="78ef6da6-119d-417a-aa36-3fbedb5d51a8">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 5.0</source>
+        <target>5.0 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="c191649f-f62d-44ce-8e79-713f7bb55835">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The add-on now requires NVDA 2024.3 or newer</source>
+        <target>Eklenti artık NVDA 2024.3 veya daha yenisini gerektiriyor</target>
+      </segment>
+    </unit>
+    <unit id="4aa5d6f5-ff77-423f-acda-2841223d82c9">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Changed radio buttons into combo boxes</source>
+        <target>Radyo düğmeleri açılan kutulara dönüştürüldü</target>
+      </segment>
+    </unit>
+    <unit id="f1046794-5a1e-486c-a249-fa4df7871858">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added output types for ASCII braille (BRF) and NABC (North American Braille Computer Code with full Latin1 character set)</source>
+        <target>ASCII braille (BRF) ve NABC (tam Latin1 karakter setine sahip Kuzey Amerika Braille Bilgisayar Kodu) için çıktı türleri eklendi</target>
+      </segment>
+    </unit>
+    <unit id="07b76a37-b969-43af-b692-f341d3502988">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.1</source>
+        <target>4.1 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="0166e558-aa64-47ac-a86d-421cd8c4fe36">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The add-on now requires NVDA 2023.1 or newer</source>
+        <target>Eklenti artık NVDA 2023.1 veya daha yenisini gerektiriyor</target>
+      </segment>
+    </unit>
+    <unit id="ae91fc45-0991-45fd-9570-21e3a2f4c491">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added support for custom braille tables as input table</source>
+        <target>Giriş tablosu olarak özel braille tabloları için destek eklendi</target>
+      </segment>
+    </unit>
+    <unit id="efe1a4ab-b705-42df-b647-118c4b1fa593">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.0</source>
+        <target>4.0 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="08465d61-7f92-499e-b530-9bfa126972e7">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with NVDA 2024.1</source>
+        <target>Eklenti NVDA 2024.1 ile uyumludur</target>
+      </segment>
+    </unit>
+    <unit id="a36f082c-e8c5-4a33-9bb6-627b347342cd">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Changed the gesture to open the Unicode Braille dialog from NVDA+control+u to NVDA+control+i</source>
+        <target>Unicode Braille iletişim kutusunu açma hareketi NVDA+kontrol+U'dan NVDA+kontrol+i'ye değiştirildi</target>
+      </segment>
+    </unit>
+    <unit id="cba40f46-4575-42f7-bed1-372447c351bb">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.4</source>
+        <target>3.4 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="9ba8dd75-e710-4a86-b75c-ad88f2b6d23d">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with NVDA 2023.1</source>
+        <target>Eklenti NVDA 2023.1 ile uyumludur</target>
+      </segment>
+    </unit>
+    <unit id="e405a850-5501-4fe1-835e-666104745863">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.3</source>
+        <target>3.3 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="dd09c743-a06a-4ae0-a00c-222d8848be49">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with NVDA 2022.1</source>
+        <target>Eklenti NVDA 2022.1 ile uyumludur</target>
+      </segment>
+    </unit>
+    <unit id="6c5e34e2-403e-4011-a117-03f9c5540fd4">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.2</source>
+        <target>3.2 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="f50a1f89-eed2-4ae0-8a29-e9c88c78a14c">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with NVDA 2021.1</source>
+        <target>Eklenti NVDA 2021.1 ile uyumludur</target>
+      </segment>
+    </unit>
+    <unit id="c9f21639-3e53-4914-a20c-bc9a59043794">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed an issue that caused a traceback when wrong input was provided in dot input mode. A friendly message box is now shown instead</source>
+        <target>Nokta giriş modunda yanlış giriş sağlandığında geri izlemeye neden olan bir sorun düzeltildi. Artık bunun yerine kolay bir mesaj kutusu gösteriliyor</target>
+      </segment>
+    </unit>
+    <unit id="33368abb-c233-4a30-9962-356b76f69b83">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Çeviriler güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="32bbc151-53b1-4c6e-a555-75b98e3abfe5">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.1</source>
+        <target>3.1 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="289c9081-2416-41e6-8c5c-e6f6d5100e9e">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The tab order for the radio buttons and the input edit control has been swapped.</source>
+        <target>Radyo düğmeleri ve giriş düzenleme kontrolü için sekme sırası değiştirildi.</target>
+      </segment>
+    </unit>
+    <unit id="905799b5-1bfc-451f-9e25-e5173b7702dd">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Çeviriler güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="e93b97ee-62bb-4756-be00-8022b54d82bb">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.0</source>
+        <target>3.0 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="df489ed8-4661-4612-98da-d77817a71733">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New maintainer: Leonard de Ruijter.</source>
+        <target>Yeni bakıcı: Leonard de Ruijter.</target>
+      </segment>
+    </unit>
+    <unit id="33d365c0-9757-47f1-87d9-84eeaab4ec3a">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with Python 3 and therefore with NVDA 2019.3 and above.</source>
+        <target>Eklenti, Python 3 ve dolayısıyla NVDA 2019.3 ve üzeri ile uyumludur.</target>
+      </segment>
+    </unit>
+    <unit id="85f97201-e6aa-41b0-9a14-8f17ee8c0224">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added the ability to create unicode braille from normal text according to the currently selected input braille table.</source>
+        <target>Seçili olan giriş braille tablosuna göre normal metinden unicode braille oluşturma yeteneği eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="31620ddc-1685-4455-8b8e-f19ba88ee6bd">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0</source>
+        <target>2.0 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="d43dd0cf-f5f5-4477-aa9b-f2690de5dad2">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on help is available from the Add-ons Manager.</source>
+        <target>Eklenti yardımına Eklenti Mağazasından ulaşılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="510d240b-0d57-41d5-b7e4-3d2de0cf7987">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.1</source>
+        <target>1.1 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="de4b0b6b-e292-465d-9209-9a9af4435255">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improve delay to allow announcements to be heard correctly.</source>
+        <target>Duyuruların doğru şekilde duyulmasını sağlamak için gecikme süresi iyileştirildi.</target>
+      </segment>
+    </unit>
+    <unit id="ef639b03-d730-4227-b2f8-832b5d5b8200">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Many new translations.</source>
+        <target>Birçok yeni çeviri.</target>
+      </segment>
+    </unit>
+    <unit id="5283ee1a-6c19-48b9-8c09-88c4aad90208">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added documentation under NVDA help menu.</source>
+        <target>NVDA yardım menüsü altında Yardım belgesi eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="16f25d76-1488-4b75-ba3b-ba8261f6f414">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added a checkbox to optionally replace the space braille (character 0x2800) by the regular space character.</source>
+        <target>Boş braille'i (karakter 0x2800) isteğe bağlı olarak normal boşluk karakteriyle değiştirmek için bir onay kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="92442e7d-8345-4a38-bd1f-a4283b536813">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Shortcuts can now be reassigned using the NVDA gesture input dialog, under the Tools category.</source>
+        <target>Kısayollar artık Tercihler kategorisi altındaki Girdi Hareketleri iletişim kutusu kullanılarak yeniden atanabilir.</target>
+      </segment>
+    </unit>
+    <unit id="9699caa6-700b-49cd-ad05-5554d6f73f38">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.0</source>
+        <target>1.0 için değişiklikler</target>
+      </segment>
+    </unit>
+    <unit id="7a487d2d-85a9-42a5-b27c-8a7ed0b1e930">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial release</source>
+        <target>İlk sürüm</target>
+      </segment>
+    </unit>
+    <unit id="baa03d23-e369-44d3-8620-b7ee6b10c112">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New Languages: French</source>
+        <target>Yeni Diller: Fransızca</target>
+      </segment>
+    </unit>
+    <unit id="0564cd61-3c82-4aac-bc07-65b163eb7988">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: http://addons.nvda-project.org/files/get.php?file=ubi</source>
+        <target>[1]: http://addons.nvda-project.org/files/get.php?file=ubi</target>
+      </segment>
+    </unit>
+    <unit id="b4dff5c5-594f-40ad-afb6-2d6798a3b31f">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://github.com/nvdaes/pcKbBrl</source>
+        <target>[2]: https://github.com/nvdaes/pcKbBrl</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

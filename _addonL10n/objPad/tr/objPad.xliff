@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="objPad.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/objPad/objPad.md">
+    <skeleton>
+# $(ID:5283505a-9378-4cb6-a519-63b32266933b)
+
+* $(ID:b9b243d3-293a-4f1b-a5d9-2c0177fda3a1)
+* $(ID:c1e6eeae-4078-4c10-be7c-be8ef6e70d9e)
+
+$(ID:744af5c0-d903-42ac-b077-775dbd8b8860)
+
+## $(ID:48dbdc23-9970-4a6b-9e09-ca972a3b45b0)
+
+* $(ID:b1fac300-40a2-42a4-8eef-e58b9232a5f7)
+
+## $(ID:1aa25e1d-9559-4e12-a831-10ac8b0ae580)
+
+$(ID:a2a2877f-fbc9-4156-b9ce-5fff56fd6264)
+
+* $(ID:1236b1b1-658a-4dbe-870b-a7faf37e3aa4)
+* $(ID:f21452b2-7c61-4483-8e4c-bec30d1be19f)
+* $(ID:ac47dd71-f3ce-49be-af03-bab19d9e2cef)
+* $(ID:5c946557-7299-4fd2-ba95-f8f51598ee1d)
+
+$(ID:7d61662f-20f4-4c66-8f79-a437dd8cf5fe)
+
+* $(ID:55f3a776-ddb1-49ff-8c42-4fa3a9aca8da)
+* $(ID:4d1b1e7c-fa1f-45bc-a127-fce836da8ecc)
+* $(ID:6f51bd7f-629b-4f32-9682-79e9cf8e8816)
+* $(ID:09ea47cc-639f-4050-b182-309bef86d9e2)
+* $(ID:e91cd177-b871-4936-8443-f29567c34718)
+
+$(ID:6741f0bd-aae2-42cc-930f-ab930a119375)
+
+* $(ID:cd646de9-0dcd-4bd1-99bc-d7ca5c59a99d)
+* $(ID:dff58265-6ccf-4f40-a79f-3b33b87fe2aa)
+* $(ID:abdc5bfa-2217-4f9c-8446-18d09c27a2ac)
+* $(ID:3be84ca4-9051-4a7f-9bba-34aa50e8ba9d)
+* $(ID:0f1108dd-0ef6-46aa-acab-bf14e8e66160)
+
+$(ID:c0a09add-2803-4d85-a996-54e17827a38e)
+
+* $(ID:3da73b97-51ac-4f64-9966-9daddbff1c3a)
+* $(ID:27b4c89a-20d7-4698-a64b-7731d4804b4b)
+* $(ID:343b26b0-d5bc-493d-9fc5-1af4b5555fe1)
+* $(ID:76857b7e-2dce-4417-8deb-302dd7e95620)
+* $(ID:c55209ad-169f-46d5-b7be-219abed6c664)
+* $(ID:6d6e6e8c-4dec-4268-a52d-9095895cc460)
+* $(ID:a238d750-ec3d-4bfc-8390-de546e5021a9)
+
+## $(ID:daa7d878-9d80-4125-b781-8419de0cf489)
+
+* $(ID:be6debd9-0d33-4c09-8132-0409c6edf986)
+* $(ID:cad07a88-21aa-47e6-b4a2-105cedaf0b77)
+
+## $(ID:04a2182f-eb25-4da1-8a3d-f14565937eff)
+
+* $(ID:7d901f22-7037-455a-bfb5-0969c38514d8)
+
+## $(ID:39785835-2a76-47be-aed2-e01d747f8c06)
+
+* $(ID:3878af00-3878-4b00-bc05-b3996338b769)
+
+## $(ID:d2c4bba7-bcbc-4b82-9cbf-7525df2ffe78)
+
+* $(ID:f2210835-5922-4248-ba6a-22410f2f9f05)
+* $(ID:5d5d5679-f419-4082-b7fc-ddcfcafbb120)
+
+## $(ID:c810b104-9a17-491e-bdc5-66019c5bf6fd)
+
+* $(ID:abd64c94-2b67-4691-ad35-c9eaefbe2f34)
+* $(ID:9fd75a09-ddf9-4789-8a10-1da3a6dd7146)
+
+## $(ID:e2e0ccee-1588-4804-91cf-2b114ff119fe)
+
+* $(ID:f74034cf-595b-468b-a4ed-461d8218e288)
+
+## $(ID:33bc574e-368d-4b5d-a7af-94fc8fa47b56)
+
+* $(ID:1b00fc19-ee0a-44a7-a841-641b11c02164)
+
+## $(ID:c05fb50b-ff58-43ce-a741-ef27820bfd87)
+
+* $(ID:03bdd86e-32f4-4e3a-95b0-d0b5e9b3d0c4)
+
+## $(ID:ab27224b-175a-4bed-a0d8-092aef8eaed0)
+
+* $(ID:49c4c2b6-4b80-4850-bb16-b5574e5a2418)
+
+## $(ID:210ea0dd-77e0-4f6a-a94e-eba97f8d2efb)
+
+* $(ID:df4d8a82-ec6f-4cae-807b-f34fbbfb8502)
+* $(ID:cd7c1c21-4025-4765-aaed-107a8b8c83f5)
+
+## $(ID:95bab673-8641-4ec2-9406-2b99a2587c51)
+
+* $(ID:2d71d740-9160-4c7e-a337-b2cb286ff6ef)
+
+## $(ID:27e687da-f1d9-46cd-900d-60934eaa0a48)
+
+* $(ID:6ac52288-8746-44f5-b492-0cdb2edc6464)
+
+## $(ID:263cde7e-1e94-4245-9aef-601551bac343)
+
+* $(ID:c7f00b2c-9e38-4ba0-bf63-cbc2351bca6d)
+</skeleton>
+    <unit id="5283505a-9378-4cb6-a519-63b32266933b">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>ObjPad</source>
+        <target>Nesne Dolaşımı</target>
+      </segment>
+    </unit>
+    <unit id="b9b243d3-293a-4f1b-a5d9-2c0177fda3a1">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Christopher Duffley &lt;nvda@chrisduffley.com&gt;, originally by Joseph Lee, Cleverson Uliana and others</source>
+        <target>Yazar: Christopher Duffley &lt;nvda@chrisduffley.com&gt;, aslen Joseph Lee, Cleverson Uliana ve diğerleri tarafından yazılmıştır</target>
+      </segment>
+    </unit>
+    <unit id="c1e6eeae-4078-4c10-be7c-be8ef6e70d9e">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2022.4 and later</source>
+        <target>NVDA uyumluluğu: 2022.4 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="744af5c0-d903-42ac-b077-775dbd8b8860">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on provides quick commands to manage objects on screen, including navigation and other possibilities.</source>
+        <target>Bu eklenti, gezinme ve diğer olasılıklar da dahil olmak üzere ekrandaki nesneleri yönetmek için hızlı komutlar sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="48dbdc23-9970-4a6b-9e09-ca972a3b45b0">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Commands</source>
+        <target>Komutlar</target>
+      </segment>
+    </unit>
+    <unit id="b1fac300-40a2-42a4-8eef-e58b9232a5f7">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+TAB: Steps through arrow key modes (see below for details).</source>
+        <target>Kontrol+NVDA+TAB: Ok tuşu modlarında adım adım ilerler (ayrıntılar için aşağıya bakın).</target>
+      </segment>
+    </unit>
+    <unit id="1aa25e1d-9559-4e12-a831-10ac8b0ae580">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Arrow key modes</source>
+        <target>Ok tuş modları</target>
+      </segment>
+    </unit>
+    <unit id="a2a2877f-fbc9-4156-b9ce-5fff56fd6264">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+      </notes>
+      <segment state="translated">
+        <source>The add-on provides four ways to use arrow keys:</source>
+        <target>Eklenti, ok tuşlarını kullanmak için dört yol sağlar:</target>
+      </segment>
+    </unit>
+    <unit id="1236b1b1-658a-4dbe-870b-a7faf37e3aa4">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Classic (or normal mode): use arrow keys to move cursor.</source>
+        <target>Klasik (veya normal mod): imleci hareket ettirmek için ok tuşlarını kullanın.</target>
+      </segment>
+    </unit>
+    <unit id="f21452b2-7c61-4483-8e4c-bec30d1be19f">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Object nav: use arrow keys to move to next/previous/parent/first child objects.</source>
+        <target>Nesne Dolaşımı: sonraki/önceki/üst/ilk alt nesneye gitmek için ok tuşlarını kullanın.</target>
+      </segment>
+    </unit>
+    <unit id="ac47dd71-f3ce-49be-af03-bab19d9e2cef">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Web: use arrow keys to cycle through elements and move between them.</source>
+        <target>Web: öğeler arasında gezinmek için ok tuşlarını kullanın.</target>
+      </segment>
+    </unit>
+    <unit id="5c946557-7299-4fd2-ba95-f8f51598ee1d">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Scan mode: use arrow keys to move through objects on screen regardless of hierarchy.</source>
+        <target>Tarama modu: sıralamadan bağımsız olarak ekrandaki nesneler arasında hareket etmek için ok tuşlarını kullanın.</target>
+      </segment>
+    </unit>
+    <unit id="7d61662f-20f4-4c66-8f79-a437dd8cf5fe">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="translated">
+        <source>The following commands are available with arrow keys set to object nav:</source>
+        <target>Aşağıdaki komutlar, Nesne sunucusu modunda ok tuşlarıyla kullanılabilir:</target>
+      </segment>
+    </unit>
+    <unit id="55f3a776-ddb1-49ff-8c42-4fa3a9aca8da">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Right arrow: next object.</source>
+        <target>Sağ ok: sonraki nesne.</target>
+      </segment>
+    </unit>
+    <unit id="4d1b1e7c-fa1f-45bc-a127-fce836da8ecc">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Left arrow: previous object.</source>
+        <target>Sol ok: önceki nesne.</target>
+      </segment>
+    </unit>
+    <unit id="6f51bd7f-629b-4f32-9682-79e9cf8e8816">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Up arrow: parent object.</source>
+        <target>Yukarı ok: ana nesne.</target>
+      </segment>
+    </unit>
+    <unit id="09ea47cc-639f-4050-b182-309bef86d9e2">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Down arrow: first child object.</source>
+        <target>Aşağı ok: ilk alt nesne.</target>
+      </segment>
+    </unit>
+    <unit id="e91cd177-b871-4936-8443-f29567c34718">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>SPACE or ENTER: activate.</source>
+        <target>Aralık veya ENTER: etkinleştir.</target>
+      </segment>
+    </unit>
+    <unit id="6741f0bd-aae2-42cc-930f-ab930a119375">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="translated">
+        <source>With web mode active (elements are normal or moving by object, link, form field, heading, frame, table, list, landmark):</source>
+        <target>Web modu etkinken (öğeler normaldir veya nesne, bağlantı, form alanı, başlık, çerçeve, tablo, liste, yer işaretine göre hareket eder):</target>
+      </segment>
+    </unit>
+    <unit id="cd646de9-0dcd-4bd1-99bc-d7ca5c59a99d">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Right arrow: next element.</source>
+        <target>Sağ ok: sonraki öğe.</target>
+      </segment>
+    </unit>
+    <unit id="dff58265-6ccf-4f40-a79f-3b33b87fe2aa">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Left arrow: previous element.</source>
+        <target>Sol ok: önceki öğe.</target>
+      </segment>
+    </unit>
+    <unit id="abdc5bfa-2217-4f9c-8446-18d09c27a2ac">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Up arrow: previous element type.</source>
+        <target>Yukarı ok: önceki öğe türü.</target>
+      </segment>
+    </unit>
+    <unit id="3be84ca4-9051-4a7f-9bba-34aa50e8ba9d">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Down arrow: next element type.</source>
+        <target>Aşağı ok: sonraki öğe türü.</target>
+      </segment>
+    </unit>
+    <unit id="0f1108dd-0ef6-46aa-acab-bf14e8e66160">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>SPACE or ENTER: activate.</source>
+        <target>Aralık veya ENTER: etkinleştir.</target>
+      </segment>
+    </unit>
+    <unit id="c0a09add-2803-4d85-a996-54e17827a38e">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+      </notes>
+      <segment state="translated">
+        <source>With scan mode active:</source>
+        <target>Tarama modu etkinken:</target>
+      </segment>
+    </unit>
+    <unit id="3da73b97-51ac-4f64-9966-9daddbff1c3a">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Down arrow: next object or the next line.</source>
+        <target>Aşağı ok: sonraki nesne veya sonraki satır.</target>
+      </segment>
+    </unit>
+    <unit id="27b4c89a-20d7-4698-a64b-7731d4804b4b">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Up arrow: previous object or previous line.</source>
+        <target>Yukarı ok: önceki nesne veya önceki satır.</target>
+      </segment>
+    </unit>
+    <unit id="343b26b0-d5bc-493d-9fc5-1af4b5555fe1">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Right arrow: review next character.</source>
+        <target>Sağ ok: sonraki karakteri gözden geçirin.</target>
+      </segment>
+    </unit>
+    <unit id="76857b7e-2dce-4417-8deb-302dd7e95620">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Left arrow: previous character.</source>
+        <target>Sol ok: önceki karakter.</target>
+      </segment>
+    </unit>
+    <unit id="c55209ad-169f-46d5-b7be-219abed6c664">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+right arrow: next word.</source>
+        <target>Kontrol+sağ ok: sonraki kelime.</target>
+      </segment>
+    </unit>
+    <unit id="6d6e6e8c-4dec-4268-a52d-9095895cc460">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+left arrow: previous word.</source>
+        <target>Kontrol+sol ok: önceki kelime.</target>
+      </segment>
+    </unit>
+    <unit id="a238d750-ec3d-4bfc-8390-de546e5021a9">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>SPACE or ENTER: activate.</source>
+        <target>Aralık veya ENTER: etkinleştir.</target>
+      </segment>
+    </unit>
+    <unit id="daa7d878-9d80-4125-b781-8419de0cf489">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.06</source>
+        <target>Sürüm 25.06</target>
+      </segment>
+    </unit>
+    <unit id="be6debd9-0d33-4c09-8132-0409c6edf986">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2025.1</source>
+        <target>NVDA 2025.1 ile uyumluluk</target>
+      </segment>
+    </unit>
+    <unit id="cad07a88-21aa-47e6-b4a2-105cedaf0b77">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The link to download the add-on is no longer present to encourage usage of the Add-On Store.</source>
+        <target>Eklenti Mağazası'nın kullanımını teşvik etmek için eklentiyi indirme bağlantısı artık mevcut değil.</target>
+      </segment>
+    </unit>
+    <unit id="04a2182f-eb25-4da1-8a3d-f14565937eff">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 24.04</source>
+        <target>Sürüm 24.04</target>
+      </segment>
+    </unit>
+    <unit id="7d901f22-7037-455a-bfb5-0969c38514d8">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatibility with NVDA 2024.1.</source>
+        <target>NVDA 2024.1 ile uyumluluk.</target>
+      </segment>
+    </unit>
+    <unit id="39785835-2a76-47be-aed2-e01d747f8c06">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 23.05</source>
+        <target>Sürüm 23.05</target>
+      </segment>
+    </unit>
+    <unit id="3878af00-3878-4b00-bc05-b3996338b769">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>To reflect the maintainer change, the manifest has been updated to indicate as such.</source>
+        <target>Sürdürücü değişikliğini yansıtmak için, bildirim bu şekilde belirtilecek şekilde güncelleştirilmiştir.</target>
+      </segment>
+    </unit>
+    <unit id="d2c4bba7-bcbc-4b82-9cbf-7525df2ffe78">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 23.02</source>
+        <target>Sürüm 23.02</target>
+      </segment>
+    </unit>
+    <unit id="f2210835-5922-4248-ba6a-22410f2f9f05">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2022.4 or later is required.</source>
+        <target>NVDA 2022.4 veya sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="5d5d5679-f419-4082-b7fc-ddcfcafbb120">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows 10 21H2 (November 2021 Update/build 19044) or later is required.</source>
+        <target>Windows 10 21H2 (Kasım 2021 Güncellemesi/derlemesi 19044) veya üstü gereklidir.</target>
+      </segment>
+    </unit>
+    <unit id="c810b104-9a17-491e-bdc5-66019c5bf6fd">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 23.01</source>
+        <target>Sürüm 23.01</target>
+      </segment>
+    </unit>
+    <unit id="abd64c94-2b67-4691-ad35-c9eaefbe2f34">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2022.3 or later is required.</source>
+        <target>NVDA 2022.3 veya sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="9fd75a09-ddf9-4789-8a10-1da3a6dd7146">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows 10 or later is required as Windows 7, 8, and 8.1 are no longer supported by Microsoft as of January 2023.</source>
+        <target>Ocak 2023 itibariyle Windows 7, 8 ve 8.1 artık Microsoft tarafından desteklenmediğinden Windows 10 veya sonraki sürümleri gereklidir.</target>
+      </segment>
+    </unit>
+    <unit id="e2e0ccee-1588-4804-91cf-2b114ff119fe">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 22.06</source>
+        <target>Sürüm 22.06</target>
+      </segment>
+    </unit>
+    <unit id="f74034cf-595b-468b-a4ed-461d8218e288">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2021.3 or later.</source>
+        <target>NVDA 2021.3 veya sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="33bc574e-368d-4b5d-a7af-94fc8fa47b56">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 21.04</source>
+        <target>Sürüm 21.04</target>
+      </segment>
+    </unit>
+    <unit id="1b00fc19-ee0a-44a7-a841-641b11c02164">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2020.1 or later.</source>
+        <target>NVDA 2020.1 veya sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="c05fb50b-ff58-43ce-a741-ef27820bfd87">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.01</source>
+        <target>Sürüm 20.01</target>
+      </segment>
+    </unit>
+    <unit id="03bdd86e-32f4-4e3a-95b0-d0b5e9b3d0c4">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>NVDA 2019.3 veya sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="ab27224b-175a-4bed-a0d8-092aef8eaed0">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 18.12</source>
+        <target>Sürüm 18.12</target>
+      </segment>
+    </unit>
+    <unit id="49c4c2b6-4b80-4850-bb16-b5574e5a2418">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>Gelecekteki NVDA sürümlerini desteklemek için dahili değişiklikler.</target>
+      </segment>
+    </unit>
+    <unit id="210ea0dd-77e0-4f6a-a94e-eba97f8d2efb">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 18.09</source>
+        <target>Sürüm 18.09</target>
+      </segment>
+    </unit>
+    <unit id="df4d8a82-ec6f-4cae-807b-f34fbbfb8502">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added localizations.</source>
+        <target>Yerelleştirmeler eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="cd7c1c21-4025-4765-aaed-107a8b8c83f5">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Enter key (regular and Numpad) can be used to activate objects.</source>
+        <target>Nesneleri etkinleştirmek için enter tuşu (normal ve Numpad) kullanılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="95bab673-8641-4ec2-9406-2b99a2587c51">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 18.03</source>
+        <target>Sürüm 18.03</target>
+      </segment>
+    </unit>
+    <unit id="2d71d740-9160-4c7e-a337-b2cb286ff6ef">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Better compatibility with NVDA 2018.1.</source>
+        <target>NVDA 2018.1 ile daha iyi uyumluluk.</target>
+      </segment>
+    </unit>
+    <unit id="27e687da-f1d9-46cd-900d-60934eaa0a48">
+      <notes>
+        <note appliesTo="source">line: 96</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 16.12</source>
+        <target>Sürüm 16.12</target>
+      </segment>
+    </unit>
+    <unit id="6ac52288-8746-44f5-b492-0cdb2edc6464">
+      <notes>
+        <note appliesTo="source">line: 98</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added web mode.</source>
+        <target>Web modu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="263cde7e-1e94-4245-9aef-601551bac343">
+      <notes>
+        <note appliesTo="source">line: 100</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 16.10</source>
+        <target>Sürüm 16.10</target>
+      </segment>
+    </unit>
+    <unit id="c7f00b2c-9e38-4ba0-bf63-cbc2351bca6d">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial stable version.</source>
+        <target>İlk kararlı sürüm.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

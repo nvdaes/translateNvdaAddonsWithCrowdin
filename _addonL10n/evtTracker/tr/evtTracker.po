@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-17 05:05+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: evtTracker.pot\n"
+"X-Crowdin-File-ID: 438\n"
+
+#. Translators: input help message for a command in Event Tracker add-on.
+#: addon/globalPlugins/evtTracker.py:211
+msgid "Shows the list of processed events"
+msgstr "İşlenen olayların listesini gösterir"
+
+#. Translators: title of a dialog displaying recent events.
+#: addon/globalPlugins/evtTracker.py:233
+msgid "Events List"
+msgstr "Olay Listesi"
+
+#. Translators: label for a read-only edit field displaying event properties.
+#: addon/globalPlugins/evtTracker.py:249
+msgid "Event &description"
+msgstr "&Olay Açıklaması"
+
+#. Add-on summary/title, usually the user visible name of the add-on
+#. Translators: Summary/title for this add-on
+#. to be shown on installation and add-on information found in add-on store
+#: buildVars.py:21
+msgid "Event Tracker"
+msgstr "Olay İzleyici"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:24
+msgid "Tracks events and displays information about them"
+msgstr "Olayları izler ve bunlarla ilgili bilgileri görüntüler"
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:29
+msgid "* NVDA 2025.1 compatibility.\n"
+"* NVDA 2024.1 or later is required due to Python 3.11 upgrade.\n"
+"* Restored limited support for Windows 8.1.\n"
+"* Made the add-on code more robust with help from Pyright (a Python static type checker).\n"
+"* NVDA will record actual control role name instead of integers when reporting events."
+msgstr "* NVDA 2025.1  ile Uyumluluk.\n"
+"* Python 3.11 yükseltmesi nedeniyle NVDA 2024.1 veya üstü gereklidir.\n"
+"* Windows 8.1 için sınırlı destek geri yüklendi.\n"
+"* Eklenti kodu Pyright'ın (Python statik tip denetleyicisi) yardımıyla daha sağlam hale getirildi.\n"
+"* NVDA, olayları bildirirken tamsayılar yerine gerçek kontrol rolü adını kaydeder."
+

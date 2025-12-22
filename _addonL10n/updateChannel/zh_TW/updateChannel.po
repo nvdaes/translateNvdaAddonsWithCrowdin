@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:04+0000\n"
+"PO-Revision-Date: 2025-12-15 01:03\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: updateChannel.pot\n"
+"X-Crowdin-File-ID: 320\n"
+
+#. TRANSLATORS: default channel option in the combo box
+#: addon/globalPlugins/updateChannel.py:31
+msgid "Default"
+msgstr "預設"
+
+#. TRANSLATORS: stable releases option in the combo box
+#: addon/globalPlugins/updateChannel.py:33
+msgid "Stable"
+msgstr "穩定"
+
+#. TRANSLATORS: release candidate and beta releases option in the combo box
+#: addon/globalPlugins/updateChannel.py:35
+msgid "Rc and beta"
+msgstr "Rc(候選)和beta(測試)"
+
+#. TRANSLATORS: alpha snapshots option in the combo box
+#: addon/globalPlugins/updateChannel.py:37
+msgid "Alpha (snapshots)"
+msgstr "Alpha(快照)"
+
+#. TRANSLATORS: disable updates option in the combo box
+#: addon/globalPlugins/updateChannel.py:39
+msgid "Disable updates (not recommended)"
+msgstr "停用更新(不推薦)"
+
+#. TRANSLATORS: title for the Update Channel settings category
+#. TRANSLATORS: label for available update channels in a combo box
+#: addon/globalPlugins/updateChannel.py:84
+#: addon/globalPlugins/updateChannel.py:89
+msgid "Update channel"
+msgstr "更新通道"
+
+#. TRANSLATORS: label of the View changelog hyperlink in the add-on settings panel
+#: addon/globalPlugins/updateChannel.py:107
+msgid "View changelog"
+msgstr "檢視新版資訊"
+
+#. TRANSLATORS: information displayed when there is a new version available for download
+#: addon/globalPlugins/updateChannel.py:167
+#, python-brace-format
+msgid "{channelInfo} (apiVersion {APIVersion})"
+msgstr "{channelInfo} (api 版本 {APIVersion})"
+
+#. TRANSLATORS: label of the download hyperlink located in the add-on settings panel
+#: addon/globalPlugins/updateChannel.py:170
+#, python-format
+msgid "Download now %s"
+msgstr "立即下載 %s"
+
+#. TRANSLATORS: Message displayed when an error occurred and the channel update information
+#. could not be retrieved.
+#: addon/globalPlugins/updateChannel.py:186
+msgid "Fail retrieving update info"
+msgstr "擷取更新資訊失敗"
+
+#. TRANSLATORS: Message displayed when there are no updates available on the selected channel.
+#: addon/globalPlugins/updateChannel.py:189
+msgid "Already updated"
+msgstr "已更新"
+
+#. TRANSLATORS: Message displayed when retrieval of update information has not yet been completed.
+#: addon/globalPlugins/updateChannel.py:193
+msgid "searching update info"
+msgstr "正在搜尋更新資訊"
+
+#. TRANSLATORS: When disable updates has been selected, the current version information is displayed.
+#: addon/globalPlugins/updateChannel.py:198
+#, python-brace-format
+msgid "Current version: {version} build {version_build}"
+msgstr "目前版本： {version} 組建 {version_build}"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:18
+msgid "Update channel selector"
+msgstr "更新通道選取器"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:21
+msgid "This add-on allows you to switch quickly between NVDA snapshots and release types. Go to the update channel category on the NVDA settings dialog, choose your update channel and check for updates from the NVDA help menu. Choose the stable option and update again to return to an official release."
+msgstr "此附加元件可讓您在 NVDA 快照版與發布類型之間快速切換。請前往 NVDA 設定對話框的更新通道類別，選擇您的更新通道，然後從 NVDA 的說明功能表中檢查更新。若要回復至官方發布版本，請選擇穩定版選項並再次更新。"
+

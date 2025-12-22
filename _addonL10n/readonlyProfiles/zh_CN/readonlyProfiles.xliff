@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="readonlyProfiles.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/readonlyProfiles/readonlyProfiles.md">
+    <skeleton>
+# $(ID:ecfc6b57-50ad-47ad-a003-991d14547827)
+
+* $(ID:2678115d-40fb-4c95-ae95-17f228d90758)
+
+$(ID:97af9115-7936-4e24-88d9-bfd891e5ec77)
+
+$(ID:e8e1cbe2-bfb6-4803-9ee2-da05f1210f7b)
+
+$(ID:3d3dc477-e267-4e6c-b1e3-1dd2c6c90c51)
+</skeleton>
+    <unit id="ecfc6b57-50ad-47ad-a003-991d14547827">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Readonly Profiles</source>
+        <target>手动保存配置文件</target>
+      </segment>
+    </unit>
+    <unit id="2678115d-40fb-4c95-ae95-17f228d90758">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Noelia Ruiz Martínez</source>
+        <target>作者：Noelia Ruiz Martínez</target>
+      </segment>
+    </unit>
+    <unit id="97af9115-7936-4e24-88d9-bfd891e5ec77">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="final">
+        <source>When this add-on is enabled, configuration profiles won't be saved automatically.</source>
+        <target>启用此插件后，配置文件将不会自动保存。</target>
+      </segment>
+    </unit>
+    <unit id="e8e1cbe2-bfb6-4803-9ee2-da05f1210f7b">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="final">
+        <source>Press NVDA+shift+p to save the current configuration to the most recent profile.</source>
+        <target>按下 NVDA+Shift+P 可将当前配置保存到最近使用的配置文件。</target>
+      </segment>
+    </unit>
+    <unit id="3d3dc477-e267-4e6c-b1e3-1dd2c6c90c51">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>This command can be changed from NVDA's menu, Preferences submenu, Input Gestures dialog, Configuration category.</source>
+        <target>此命令可通过 NVDA 菜单、选项子菜单、按键与手势对话框、配置类别进行修改。</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

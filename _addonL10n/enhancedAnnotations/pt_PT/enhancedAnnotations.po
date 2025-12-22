@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 09:19+0000\n"
+"PO-Revision-Date: 2025-12-15 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: enhancedAnnotations.pot\n"
+"X-Crowdin-File-ID: 252\n"
+
+#. Translators: the description for the reportDetailsSummary script.
+#: addon/globalPlugins/enhancedAnnotations/__init__.py:35
+msgid "Go to annotation details under the system caret."
+msgstr "Ir para os detalhes da anotação sob o cursor do sistema."
+
+#. Translators: the description for the script_popAnnotationStack script.
+#: addon/globalPlugins/enhancedAnnotations/__init__.py:86
+msgid "Return to annotation subject"
+msgstr "Regressar ao tema da anotação"
+
+#. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+#: addon/globalPlugins/enhancedAnnotations/__init__.py:97
+msgid "No annotation subject present"
+msgstr "Não existe objeto de anotação"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Enhanced Annotations"
+msgstr "Anotações melhoradas"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Adds ability to move the cursor to additional details, and back to the original element, in browse mode.\n"
+"\tThis has been requested at\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
+msgstr "Adiciona a capacidade de mover o cursor para detalhes adicionais e voltar ao elemento original, no modo de navegação.\n"
+"\tIsto foi solicitado em\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
+

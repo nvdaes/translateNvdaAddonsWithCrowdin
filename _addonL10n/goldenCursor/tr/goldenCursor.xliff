@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="goldenCursor.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/goldenCursor/goldenCursor.md">
+    <skeleton>
+# $(ID:e4b56a75-eb25-467e-be64-e5ee8b74636f)
+
+* $(ID:fcd3760d-c662-4a28-a229-a94d1a12d7d6)
+* $(ID:917f2773-0676-439b-8799-54deb98912d5)
+* $(ID:c9de5739-a05a-4adc-8199-fd63d30614a0)
+
+$(ID:9b2b6444-5829-4197-bb21-a3a1d878bbbc)
+
+## $(ID:a8f074b0-320a-4748-88d5-696fd98f75d1)
+
+* $(ID:41225885-75c6-4c9d-b7a7-64b15bb6b6be)
+* $(ID:655313ca-7941-47f7-b12c-effb7fa3e319)
+* $(ID:0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9)
+* $(ID:24fc349c-c2dc-469f-8789-2f48fd4d385e)
+* $(ID:56e9154e-b8db-466e-8bd1-704b518a6f7d)
+* $(ID:36f93986-4ba0-4032-a4b6-ed03359c36e6)
+* $(ID:4ba7ec1e-12ea-4601-8ac4-d88e0445dbde)
+* $(ID:15d44390-71bc-4916-8420-f092f913aad3)
+* $(ID:c2f094d0-d9de-474d-9dee-8e656c7405d7)
+
+$(ID:59f238ed-c7d5-4c4b-8925-8bcf39caf328)
+
+## $(ID:9f37373c-77b3-4ab4-8e3d-25880ab74eb9)
+
+* $(ID:b5a54e44-b081-4a3a-8e57-e33e7c8e4992)
+* $(ID:42c79b8b-c429-4926-a2da-edee799a55f9)
+* $(ID:ffd58ac8-fc54-4952-9e87-2cf42f35b41e)
+* $(ID:ef57c320-f4a8-4248-9e50-d459df0b84eb)
+* $(ID:fbe42a88-9906-4032-95f9-381beb1b1886)
+* $(ID:c48c2f74-4aae-4722-a0f4-f5199bca5a16)
+
+## $(ID:ffa477fa-0da6-4f78-ba3f-a88f9921ad31)
+
+* $(ID:06e9345d-556e-44fc-b74a-03623a773cbe)
+* $(ID:9153c985-65da-479c-94b1-7f2a3569b815)
+
+## $(ID:8a663a31-01ef-4755-b84c-264c7e24a9e6)
+
+* $(ID:33c0084b-ec2e-48c1-b85a-14edb6634f46)
+* $(ID:2451a2ef-f062-4c00-9ef5-d7119d1343b9)
+
+## $(ID:a8200183-82ee-47e0-8fb3-74d806453269)
+
+* $(ID:5362fa7f-b53b-471f-a119-556d4c7195db)
+* $(ID:01067cce-9614-4c4a-95bc-f3d184c5eca7)
+
+## $(ID:db92a919-fe20-4245-b416-a392b31ab3cb)
+
+* $(ID:324c5621-08b6-4c9d-a80e-62705b539067)
+* $(ID:fd73f3be-9566-4465-947d-a175600111b0)
+
+## $(ID:6724a9c4-5436-46e8-a2ef-68c79b244ea9)
+
+* $(ID:13530c65-4d84-4635-8fdd-1bbcdef24424)
+
+## $(ID:69bc898e-c86c-45b9-b71a-a28ba767f049)
+
+* $(ID:17abe10c-e547-4da1-a3ba-52df80a431ad)
+
+## $(ID:c65c97ba-eb4f-438c-b815-c3f85f94374e)
+
+* $(ID:8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4)
+
+## $(ID:0038d7cc-9f53-4970-9e17-36391618d548)
+
+* $(ID:0b901509-15b6-4a59-8a76-e2e3af929914)
+* $(ID:26fe813a-0291-4917-ab4d-a4e9b2fa5a3a)
+* $(ID:da0fe932-d7dc-440c-bc4e-b170d6eb029c)
+
+## $(ID:254856eb-9f1f-48ef-9c0a-08c508ee0626)
+
+* $(ID:218fa153-4f62-4519-bb89-701d5d1c8a1c)
+* $(ID:ba033211-f087-4e36-b3bc-b14b548d7fc5)
+* $(ID:bcfa2ce2-5aeb-4245-bef6-808070ee9673)
+* $(ID:833f731f-13cc-4ab7-9724-62eafe535fd5)
+* $(ID:b9536c7b-9147-41a8-a00a-03047bdb7174)
+* $(ID:cd25d8f3-40d2-4800-bce0-9cf539162ace)
+* $(ID:a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff)
+* $(ID:eac7aa87-4c13-4822-8a0a-ce1eeee9335c)
+* $(ID:2617084b-c0b2-4a52-a52e-d593d59a7394)
+* $(ID:c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3)
+* $(ID:3a80f7ef-b313-40a5-9390-f18272a44692)
+* $(ID:4d8c641e-1831-4cec-8e84-c6832a35192a)
+* $(ID:384815f4-abcf-4381-a393-a6d83b42c84b)
+
+## $(ID:a8d38ec7-07f7-48b7-b135-43ba18184b95)
+
+* $(ID:72b25cd6-bdd1-4786-be35-908cc39f896b)
+
+## $(ID:9e5afa78-f771-4839-a29a-51b11dd59e98)
+
+* $(ID:463ca87d-2ad4-42a5-888f-9e7ce9321446)
+
+$(ID:4ff4542a-307c-4b6c-82b8-08a3d2472fbb)
+
+$(ID:395f75c1-07e4-4989-b546-3dd96e59eadd)
+</skeleton>
+    <unit id="e4b56a75-eb25-467e-be64-e5ee8b74636f">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>golden cursor#</source>
+        <target>altın İmleç #</target>
+      </segment>
+    </unit>
+    <unit id="fcd3760d-c662-4a28-a229-a94d1a12d7d6">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: salah atair, Joseph Lee</source>
+        <target>Yazarlar: salah atair, Joseph Lee</target>
+      </segment>
+    </unit>
+    <unit id="917f2773-0676-439b-8799-54deb98912d5">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[Kararlı Sürümü İndirin][1]</target>
+      </segment>
+    </unit>
+    <unit id="c9de5739-a05a-4adc-8199-fd63d30614a0">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2022.4 and beyond</source>
+        <target>NVDA uyumluluğu: 2022.4 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="9b2b6444-5829-4197-bb21-a3a1d878bbbc">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on allows you to move the mouse using a keyboard and save mouse positions for applications.</source>
+        <target>Bu eklenti, klavyeyi kullanarak fareyi hareket ettirmenize ve uygulamalar için fare konumlarını kaydetmenizi sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="a8f074b0-320a-4748-88d5-696fd98f75d1">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Key commands</source>
+        <target>Kısayol Tuşları</target>
+      </segment>
+    </unit>
+    <unit id="41225885-75c6-4c9d-b7a7-64b15bb6b6be">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+L: view saved mouse positions for an application, if any. You can also assign gestures to these positions from this dialog. When pressing the assigned gesture, a left click will be performed in the saved position.</source>
+        <target>Kontrol+NVDA+L: Varsa, bir uygulama için kaydedilmiş fare konumlarını görüntüler. Bu iletişim kutusundan bu konumlara hareketler de atayabilirsiniz. Atanan harekete basıldığında, kaydedilen konumda bir sol tıklama gerçekleştirilecektir.</target>
+      </segment>
+    </unit>
+    <unit id="655313ca-7941-47f7-b12c-effb7fa3e319">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Shift+NVDA+l: save a tag or a label for the current mouse position in the currently focused application.</source>
+        <target>Shift+NVDA+l: o anda odaklanılan uygulamada geçerli fare konumu için bir etiket veya etiket kayded.</target>
+      </segment>
+    </unit>
+    <unit id="0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+C: change mouse movement unit.</source>
+        <target>Windows+NVDA+C: fare hareket birimini değiştir.</target>
+      </segment>
+    </unit>
+    <unit id="24fc349c-c2dc-469f-8789-2f48fd4d385e">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+R: toggle mouse restriction.</source>
+        <target>Windows+NVDA+R: fare kısıtlamasını aç/kapat.</target>
+      </segment>
+    </unit>
+    <unit id="56e9154e-b8db-466e-8bd1-704b518a6f7d">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+S: toggle reporting of mouse position in pixels.</source>
+        <target>Windows+NVDA+S: fare konumunun piksel cinsinden raporlanmasını aç/kapat.</target>
+      </segment>
+    </unit>
+    <unit id="36f93986-4ba0-4032-a4b6-ed03359c36e6">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+J: move mouse to a specific x and y position.</source>
+        <target>Windows+NVDA+J: fareyi belirli bir x ve y konumuna götür.</target>
+      </segment>
+    </unit>
+    <unit id="4ba7ec1e-12ea-4601-8ac4-d88e0445dbde">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+P: report mouse position.</source>
+        <target>Windows+NVDA+P: fare konumunu bildir.</target>
+      </segment>
+    </unit>
+    <unit id="15d44390-71bc-4916-8420-f092f913aad3">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+M: sswitch mouse arrows on or off.</source>
+        <target>Windows+NVDA+M: fare oklarını açar veya kapatır.</target>
+      </segment>
+    </unit>
+    <unit id="c2f094d0-d9de-474d-9dee-8e656c7405d7">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows+NVDA+arrow keys (or just arrow keys if mouse arrows is on): move mouse.</source>
+        <target>Windows+NVDA+ok tuşları (veya fare okları açıksa sadece ok tuşları): fareyi hareket ettirir.</target>
+      </segment>
+    </unit>
+    <unit id="59f238ed-c7d5-4c4b-8925-8bcf39caf328">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="translated">
+        <source>Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Golden Cursor category.</source>
+        <target>Not, bu hareketler NVDA Girdi Hareketleri iletişim  kutusunda bulunan Altın İmleç kategorisinden yeniden atanabilir.</target>
+      </segment>
+    </unit>
+    <unit id="9f37373c-77b3-4ab4-8e3d-25880ab74eb9">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Notes</source>
+        <target>Notlar</target>
+      </segment>
+    </unit>
+    <unit id="b5a54e44-b081-4a3a-8e57-e33e7c8e4992">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When sharing positions (tags), each party should use same display resolution.</source>
+        <target>Konumları (etiketleri) paylaşırken, her bir taraf aynı ekran çözünürlüğünü kullanmalıdır.</target>
+      </segment>
+    </unit>
+    <unit id="42c79b8b-c429-4926-a2da-edee799a55f9">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>For maximum compatibility, you should maximize windows by pressing Windows+Up arrow.</source>
+        <target>Maksimum uyumluluk için Windows yukarı ok tuşuna basarak pencereleri büyütmelisiniz.</target>
+      </segment>
+    </unit>
+    <unit id="ffd58ac8-fc54-4952-9e87-2cf42f35b41e">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When sharing positions, existing position labels should be renamed.</source>
+        <target>Konumları paylaşırken, mevcut konum etiketleri yeniden adlandırılmalıdır.</target>
+      </segment>
+    </unit>
+    <unit id="ef57c320-f4a8-4248-9e50-d459df0b84eb">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.x and 2.x mouse position formats are incompatible.</source>
+        <target>Sürüm 1.x ve 2.x fare konumu biçimleri uyumsuzdur.</target>
+      </segment>
+    </unit>
+    <unit id="fbe42a88-9906-4032-95f9-381beb1b1886">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>To perform functions that require use of arrow keys, turn off mouse arrows first.</source>
+        <target>Ok tuşlarının kullanılmasının gerektiği işlemlerde önce fare oklarını kapatmanız gerekir.</target>
+      </segment>
+    </unit>
+    <unit id="c48c2f74-4aae-4722-a0f4-f5199bca5a16">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When deleting saved positions, if there are no saved positions left, positions for the application will be cleared.</source>
+        <target>Kaydedilen pozisyonlar silinirken, kayıtlı pozisyon kalmamışsa, uygulama için pozisyonlar silinecektir.</target>
+      </segment>
+    </unit>
+    <unit id="ffa477fa-0da6-4f78-ba3f-a88f9921ad31">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 6.2</source>
+        <target>Sürüm6.2</target>
+      </segment>
+    </unit>
+    <unit id="06e9345d-556e-44fc-b74a-03623a773cbe">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2022.4 or later.</source>
+        <target>NVDA 2022.4 ve sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="9153c985-65da-479c-94b1-7f2a3569b815">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>NVDA 2023.1 ile uyumludur.</target>
+      </segment>
+    </unit>
+    <unit id="8a663a31-01ef-4755-b84c-264c7e24a9e6">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 6.1</source>
+        <target>Sürüm6.1</target>
+      </segment>
+    </unit>
+    <unit id="33c0084b-ec2e-48c1-b85a-14edb6634f46">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2021.3 or later.</source>
+        <target>NVDA 2021.3 ve sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="2451a2ef-f062-4c00-9ef5-d7119d1343b9">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Now, you can assign shortcuts for saved positions from the positions list. When pressing a shortcut, a left click will be performed for the position.</source>
+        <target>Artık pozisyonlar listesinden kayıtlı pozisyonlar için kısayollar atayabilirsiniz. Bir kısayola basıldığında, konum için sol tıklama gerçekleştirilecektir.</target>
+      </segment>
+    </unit>
+    <unit id="a8200183-82ee-47e0-8fb3-74d806453269">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 5.0</source>
+        <target>Sürüm 5.0</target>
+      </segment>
+    </unit>
+    <unit id="5362fa7f-b53b-471f-a119-556d4c7195db">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Modernized add-on source code to make it compatible with NVDA 2021.1.</source>
+        <target>NVDA 2021.1 ile uyumlu hale getirmek için eklenti kaynak kodu modernize edildi.</target>
+      </segment>
+    </unit>
+    <unit id="01067cce-9614-4c4a-95bc-f3d184c5eca7">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Resolved many coding style issues and potential bugs with Flake8.</source>
+        <target>Flake8 ile birçok kodlama stili sorunu ve olası hatalar çözüldü.</target>
+      </segment>
+    </unit>
+    <unit id="db92a919-fe20-4245-b416-a392b31ab3cb">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 4.0</source>
+        <target>Sürüm 4.0</target>
+      </segment>
+    </unit>
+    <unit id="324c5621-08b6-4c9d-a80e-62705b539067">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>NVDA 2019.3 ve sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="fd73f3be-9566-4465-947d-a175600111b0">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Golden Cursor settings dialog has been replaced by Golden Cursor settings panel.</source>
+        <target>Altın İmleç ayarları iletişim kutusu, Altın İmleç ayarları paneli ile değiştirildi.</target>
+      </segment>
+    </unit>
+    <unit id="6724a9c4-5436-46e8-a2ef-68c79b244ea9">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 3.3</source>
+        <target>Sürüm 3.3</target>
+      </segment>
+    </unit>
+    <unit id="13530c65-4d84-4635-8fdd-1bbcdef24424">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>Gelecekteki NVDA sürümlerini desteklemek için dahili değişiklikler.</target>
+      </segment>
+    </unit>
+    <unit id="69bc898e-c86c-45b9-b71a-a28ba767f049">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 3.2</source>
+        <target>Sürüm 3.2</target>
+      </segment>
+    </unit>
+    <unit id="17abe10c-e547-4da1-a3ba-52df80a431ad">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is compatible with NVDA 2018.3 (wxPython 4).</source>
+        <target>Eklenti, NVDA 2018.3 (wxPython 4) ile uyumludur.</target>
+      </segment>
+    </unit>
+    <unit id="c65c97ba-eb4f-438c-b815-c3f85f94374e">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 3.0</source>
+        <target>Sürüm 3.0</target>
+      </segment>
+    </unit>
+    <unit id="8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>If using NVDA 2018.2, add-on settings will be found in new multi-category settings screen under "Golden Cursor" category.</source>
+        <target>NVDA 2018.2 kullanılıyorsa, "Altın İmleç" kategorisi altındaki yeni çoklu kategori ayarları ekranında eklenti ayarları bulunacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="0038d7cc-9f53-4970-9e17-36391618d548">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2.1</source>
+        <target>Sürüm 2.1</target>
+      </segment>
+    </unit>
+    <unit id="0b901509-15b6-4a59-8a76-e2e3af929914">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed unicode decode error when trying to delete tag name.</source>
+        <target>Etiket adını silmeye çalışırken sabit unicode kod çözme hatası düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="26fe813a-0291-4917-ab4d-a4e9b2fa5a3a">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Prevent Multiple Instances When Opening various add-on Dialogs.</source>
+        <target>Eklentiyle ilgili birden fazla iletişim kutusu açılabilme sorunu düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="da0fe932-d7dc-440c-bc4e-b170d6eb029c">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved appearance of mouse positions list and jump to position dialogs.</source>
+        <target>Fare konumları listesi ve konum atlama iletişim kutularıyla ilgili iyileştirmeler.</target>
+      </segment>
+    </unit>
+    <unit id="254856eb-9f1f-48ef-9c0a-08c508ee0626">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 2.0</source>
+        <target>Sürüm 2.0</target>
+      </segment>
+    </unit>
+    <unit id="218fa153-4f62-4519-bb89-701d5d1c8a1c">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2017.3 and later.</source>
+        <target>NVDA 2017.3 ve sonraki bir sürümü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="ba033211-f087-4e36-b3bc-b14b548d7fc5">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Position file format is incompatible with 1.x versions. If 1.x position format is found, old positions will be migrated to the new format during installation.</source>
+        <target>Konum dosyası formatı 1.x sürümleriyle uyumlu değil. 1.x pozisyon formatı bulunursa, kurulum sırasında eski pozisyonlar yeni formata taşınacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="bcfa2ce2-5aeb-4245-bef6-808070ee9673">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added a new Golden Cursor settings dialog in NVDA's Preferences menu to configure mouse movement unit and announcement of mouse positions as mouse moves.</source>
+        <target>Fare hareket birimini yapılandırmak ve fare hareket ettikçe fare konumlarının duyurusunu yapmak için NVDA Tercihler menüsüne yeni bir Altın İmleç ayarları iletişim kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="833f731f-13cc-4ab7-9724-62eafe535fd5">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Various messages from this add-on has changed.</source>
+        <target>Bu eklentiden gelen çeşitli mesajlar değişti.</target>
+      </segment>
+    </unit>
+    <unit id="b9536c7b-9147-41a8-a00a-03047bdb7174">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When toggling various settings, toggle tone will no longer be heard.</source>
+        <target>Çeşitli ayarlar arasında geçiş yapılırken geçiş tonu artık duyulmayacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="cd25d8f3-40d2-4800-bce0-9cf539162ace">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>You can now enter mouse arrows mode where you can move the mouse by pressing just arrow keys.</source>
+        <target>Artık sadece ok tuşlarına basarak fareyi hareket ettirebileceğiniz fare okları moduna girebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes to positions list dialog, including new name (now called Mouse Positions) and layout, displaying mouse coordinates for a label, and showing the name of the active app as part of the title.</source>
+        <target>Yeni ad (artık Fare Konumları olarak adlandırılır) ve düzen, bir etiket için fare koordinatlarını görüntüleme ve etkin uygulamanın adını başlığın bir parçası olarak gösterme dahil olmak üzere konum listesi iletişim kutusundaki değişiklikler.</target>
+      </segment>
+    </unit>
+    <unit id="eac7aa87-4c13-4822-8a0a-ce1eeee9335c">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>From Mouse Positions dialog, pressing Enter on a saved label will move the mouse to the saved location.</source>
+        <target>Fare Konumları iletişim kutusundan, kaydedilmiş bir etiket üzerinde Enter'a basmak, fareyi kaydedilen konuma hareket ettirecektir.</target>
+      </segment>
+    </unit>
+    <unit id="2617084b-c0b2-4a52-a52e-d593d59a7394">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When renaming a mouse position, an error dialog will be shown if a label with the same name as the new name exists.</source>
+        <target>Bir fare konumunu yeniden adlandırırken, yeni adla aynı ada sahip bir etiket varsa bir hata iletişim kutusu gösterilecektir.</target>
+      </segment>
+    </unit>
+    <unit id="c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When deleting or clearing mouse positions, you must now answer Yes before positions are deleted and/or cleared.</source>
+        <target>Fare konumlarını silerken veya temizlerken, konumlar silinmeden ve/veya temizlenmeden önce şimdi Evet yanıtını vermelisiniz.</target>
+      </segment>
+    </unit>
+    <unit id="3a80f7ef-b313-40a5-9390-f18272a44692">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes to mouse jump feature, including a new name (now called New mouse position) and ability to enter X and Y coordinates separately or by using up or down arrow keys.</source>
+        <target>Yeni bir ad (artık Yeni fare konumu olarak adlandırılıyor) ve X ve Y koordinatlarını ayrı ayrı veya yukarı veya aşağı ok tuşlarını kullanarak girme yeteneği dahil olmak üzere fare atlama özelliğinde yapılan değişiklikler.</target>
+      </segment>
+    </unit>
+    <unit id="4d8c641e-1831-4cec-8e84-c6832a35192a">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The dialog shown when saving the current mouse position now shows coordinates for current mouse location.</source>
+        <target>Geçerli fare konumu kaydedilirken gösterilen iletişim kutusu artık geçerli fare konumu için koordinatları gösteriyor.</target>
+      </segment>
+    </unit>
+    <unit id="384815f4-abcf-4381-a393-a6d83b42c84b">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When saving positions, resolved an issue where NvDA may play error tones if the positions folder does not exist.</source>
+        <target>Konumları kaydederken, konumlar klasörü yoksa NVDA'nın hata sesi çalması sorunu çözüldü.</target>
+      </segment>
+    </unit>
+    <unit id="a8d38ec7-07f7-48b7-b135-43ba18184b95">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.4</source>
+        <target>Sürüm 1.4</target>
+      </segment>
+    </unit>
+    <unit id="72b25cd6-bdd1-4786-be35-908cc39f896b">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Removed win32api dependency to make it compatible with past and future versions of NVDA.</source>
+        <target>Eklentiyi NVDA'nın geçmiş ve gelecekteki sürümleriyle uyumlu hale getirmek için win32api bağımlılığı kaldırıldı.</target>
+      </segment>
+    </unit>
+    <unit id="9e5afa78-f771-4839-a29a-51b11dd59e98">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.0</source>
+        <target>Sürüm 1.0</target>
+      </segment>
+    </unit>
+    <unit id="463ca87d-2ad4-42a5-888f-9e7ce9321446">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial release.</source>
+        <target>İlk sürüm.</target>
+      </segment>
+    </unit>
+    <unit id="4ff4542a-307c-4b6c-82b8-08a3d2472fbb">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=gc</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=gc</target>
+      </segment>
+    </unit>
+    <unit id="395f75c1-07e4-4989-b546-3dd96e59eadd">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</source>
+        <target>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

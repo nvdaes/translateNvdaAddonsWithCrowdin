@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="sayProductNameAndVersion.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/sayProductNameAndVersion/sayProductNameAndVersion.md">
+    <skeleton>
+* $(ID:0e1d9466-bbde-4d36-bfe7-c3545b3e51ce)
+* $(ID:9e6fe757-bc4b-4354-9fc8-b22da1df3525)
+* $(ID:6b32299b-6edd-4bfd-8bd5-e68338b8c940)
+
+$(ID:5484484e-f967-405c-8dba-a3443babab17)
+
+* $(ID:8844cb2c-ed18-4038-b9d9-38593e1477b8)
+* $(ID:5bb5f0de-46a5-4f3a-913f-ceb0aa40c9a5)
+* $(ID:afec4a12-ec6d-49da-bc6c-1e63945c67ca)
+
+$(ID:e30c9302-3be2-44af-8c3b-ad429bd6a8dd)
+
+$(ID:09a6ac62-9976-4aa6-a182-497165c5de14)
+
+$(ID:4803f6b4-5d52-40f4-98f9-891cd598df32)
+
+### $(ID:19adc63d-4da6-4cd8-a478-7b4b5e85711f)
+
+* $(ID:2418dfac-9a4f-4b4c-9dbf-d090e3a2cf31)
+* $(ID:46a72a7f-8f08-46c4-9151-a73f5c1971ba)
+
+$(ID:9e9caf64-2bb4-4f68-9aa7-f8658664ef26)
+
+$(ID:ab371340-21aa-459d-aa0e-82b745e44230)
+
+$(ID:c0fc3201-00a7-483a-950f-ae7044255423)
+</skeleton>
+    <unit id="0e1d9466-bbde-4d36-bfe7-c3545b3e51ce">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Luke Davis &lt;XLTechie@newanswertech.com&gt;, Patrick ZAJDA &lt;patrick@zajda.fr&gt;</source>
+        <target>Yazarlar: Luke Davis &lt;XLTechie@newanswertech.com&gt;, Patrick ZAJDA &lt;patrick@zajda.fr&gt;</target>
+      </segment>
+    </unit>
+    <unit id="9e6fe757-bc4b-4354-9fc8-b22da1df3525">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2017.3 through 2025.X</source>
+        <target>NVDA uyumluluğu: 2017.3'ten 2025.X'e</target>
+      </segment>
+    </unit>
+    <unit id="6b32299b-6edd-4bfd-8bd5-e68338b8c940">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[kararlı sürümü][1] indir</target>
+      </segment>
+    </unit>
+    <unit id="5484484e-f967-405c-8dba-a3443babab17">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="translated">
+        <source>This [NVDA](https://nvaccess.org/) add-on adds a shortcut to announce product name and version of the foreground application, or copies this information to the clipboard.</source>
+        <target>Bu [NVDA](https://nvaccess.org/) eklentisi, ürün adını ve ön plandaki uygulamanın sürümünü duyurmak ya da bu bilgiyi panoya kopyalamak için bir kısayol ekler .</target>
+      </segment>
+    </unit>
+    <unit id="8844cb2c-ed18-4038-b9d9-38593e1477b8">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>English shortcut: `NVDA+shift+v`</source>
+        <target>İngilizce kısayol: `NVDA+shift+v`</target>
+      </segment>
+    </unit>
+    <unit id="5bb5f0de-46a5-4f3a-913f-ceb0aa40c9a5">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Press it twice to copy product name and version to the clipboard.</source>
+        <target>Ürün adını ve sürümünü panoya kopyalamak için iki kez basın.</target>
+      </segment>
+    </unit>
+    <unit id="afec4a12-ec6d-49da-bc6c-1e63945c67ca">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Press it three times to copy only the version to the clipboard.</source>
+        <target>Yalnızca sürümü panoya kopyalamak için üç kez basın.</target>
+      </segment>
+    </unit>
+    <unit id="e30c9302-3be2-44af-8c3b-ad429bd6a8dd">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="translated">
+        <source>This shortcut may be remapped in the Tools category of NVDA's Input Gestures.</source>
+        <target>Bu kısayol, NVDA'nın Girdi Hareketlerinin Araçlar kategorisinde yeniden eşlenebilir.</target>
+      </segment>
+    </unit>
+    <unit id="09a6ac62-9976-4aa6-a182-497165c5de14">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="translated">
+        <source>If you like this add-on and are willing to help others decide whether it is useful, please leave a [review][3].</source>
+        <target>Bu eklentiyi beğendiyseniz ve başkalarının bunun yararlı olup olmadığına karar vermesine yardımcı olmak istiyorsanız, lütfen bir [inceleme bırakın][3].</target>
+      </segment>
+    </unit>
+    <unit id="4803f6b4-5d52-40f4-98f9-891cd598df32">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="translated">
+        <source>For change history, please read the [changelog][2].</source>
+        <target>Değişiklik geçmişi için lütfen [değişiklik günlüğünü][2] okuyun.</target>
+      </segment>
+    </unit>
+    <unit id="19adc63d-4da6-4cd8-a478-7b4b5e85711f">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Tips</source>
+        <target>İpuçları</target>
+      </segment>
+    </unit>
+    <unit id="2418dfac-9a4f-4b4c-9dbf-d090e3a2cf31">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>To find out the Windows version with this add-on, you can focus on any Windows component (such as desktop, the start menu, the run dialog, etc.), and press the shortcut key. Note, that this does not give you the release version name, such as "23H3". Instead it gives you something closer to the build version, as you would get from the second line of the "`winver`" command.</source>
+        <target>Bu eklentinin Windows sürümünü öğrenmek için herhangi bir Windows bileşenine (masaüstü, başlat menüsü, çalıştır iletişim kutusu vb.) odaklanabilir ve kısayol tuşuna basabilirsiniz. Bunun size "23H3" gibi yayın sürümü adını vermediğini unutmayın. Bunun yerine, "winver" komutunun ikinci satırından alacağınız gibi, size derleme sürümüne daha yakın bir şey verir.</target>
+      </segment>
+    </unit>
+    <unit id="46a72a7f-8f08-46c4-9151-a73f5c1971ba">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>To get the NVDA version, open any NVDA dialog or menu, and press this add-on's shortcut key. For example, press `NVDA+n` to open the NVDA menu, then press `NVDA+shift+v`, then press `escape` to leave the menu.</source>
+        <target>NVDA sürümünü edinmek için herhangi bir NVDA iletişim kutusunu veya menüsünü açın ve bu eklentinin kısayol tuşuna basın. Örneğin, NVDA menüsünü açmak için 'NVDA+n' tuşuna basın, ardından 'NVDA+shift+v' tuşuna basın ve ardından menüden çıkmak için 'escape' tuşuna basın.</target>
+      </segment>
+    </unit>
+    <unit id="9e9caf64-2bb4-4f68-9aa7-f8658664ef26">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://www.nvaccess.org/addonStore/legacy?file=sayProductNameAndVersion</source>
+        <target>[1]: https://www.nvaccess.org/addonStore/legacy?file=sayProductNameAndVersion</target>
+      </segment>
+    </unit>
+    <unit id="ab371340-21aa-459d-aa0e-82b745e44230">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://github.com/opensourcesys/sayProductNameAndVersion/blob/master/changelog.md#readme</source>
+        <target>[2]: https://github.com/opensourcesys/sayProductNameAndVersion/blob/master/changelog.md#readme</target>
+      </segment>
+    </unit>
+    <unit id="c0fc3201-00a7-483a-950f-ae7044255423">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+      </notes>
+      <segment state="translated">
+        <source>[3]: https://github.com/nvaccess/addon-datastore/discussions/2683</source>
+        <target>[3]: https://github.com/nvaccess/addon-datastore/discussions/2683</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

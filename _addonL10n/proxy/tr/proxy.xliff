@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="proxy.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/proxy/proxy.md">
+    <skeleton>
+# $(ID:5b99f340-3d25-4ce9-89c7-2c810daa118e)
+
+* $(ID:ccba0ee5-5843-4a70-8c7c-8ffc75b1ff51)
+* $(ID:6a638498-7b8d-4649-8aed-43b5667d7af7)
+* $(ID:70c8216e-27f1-4b66-aeef-e48d0b1a7f62)
+
+$(ID:df19a283-3127-4fd3-9191-d619bf716f4c)
+
+## $(ID:a19dab22-df99-485c-9301-26e8a4986d9f)
+
+* $(ID:65cfd4e5-67a7-45dc-a9b5-4a279602786c)
+* $(ID:738de692-c065-4023-89ce-cda39b990f78)
+* $(ID:b74bdedf-51f8-4f48-8992-ae5ac110d519)
+* $(ID:25fff3bc-c40d-448b-b002-73ff8e3fbd37)
+
+## $(ID:fedd3be2-ffb9-4ecd-a29e-583c684d6f07)
+
+$(ID:78b214ed-36ac-4b55-b97e-b86beea6b2ee)
+
+* $(ID:717216b8-fc31-407b-93e0-cf150c20fc16)
+* $(ID:b64a44a0-a3ba-4d42-a93d-69efc6409a19)
+* $(ID:13da9ae1-8643-4425-97c8-9916cbf0effb)
+* $(ID:ddf248f7-6a5e-4069-a745-51849d38211e)
+
+$(ID:d5d73b6b-d3ef-4c9e-ae0b-5699dbb3919a)
+
+* $(ID:a27c735a-60d2-47d2-9566-5d544e394cee)
+* $(ID:4e027fa3-beb7-44ee-b6c2-3909a5393816)
+
+$(ID:f2c039c0-fc3e-452b-a769-95f1ea33b575)
+
+## $(ID:e23a6614-1d36-402a-9f0b-b58a43054f3f)
+
+* $(ID:3a4f656f-1133-4a40-8735-183fdc85b1f4)
+* $(ID:9c4b2da3-0ea9-4e0a-b61c-f9228f566fc8)
+* $(ID:9fa9f0e9-500f-4e2a-990c-5991c64e2b39)
+* $(ID:58261f70-3d71-4d66-aa8c-14388c59a479)
+* $(ID:82bc6134-1164-4df1-8019-39c458092e1b)
+* $(ID:0e75e02a-dfa2-41b5-9557-5dff0dcff6cf)
+
+## $(ID:553122ee-8703-4aad-847d-33f88aee05d6)
+
+### $(ID:236addf0-80fa-4961-84f3-0ece193c12a3)
+
+* $(ID:0be69541-4286-483b-8c49-3f4e325d4d66)
+* $(ID:dff1a2bc-31b3-433a-9911-617bcd618c9b)
+* $(ID:52823b83-f397-4fb6-ac71-b25db389020f)
+
+### $(ID:f11c9aea-63dd-4d5a-9951-fb9246952c2e)
+
+* $(ID:519337d7-2c68-4133-81b0-83b07918551b)
+* $(ID:44db5682-5a32-4377-8d1b-697bdb67b6f2)
+* $(ID:6e6546a9-d96d-4ad3-974b-285d9cae26c1)
+* $(ID:6510f795-ba7a-4203-9302-5c684894c75d)
+
+### $(ID:b3b52269-0149-4bd4-bca3-fa97d611bf81)
+
+* $(ID:a9485a66-beaa-473c-9ad1-4a8326da0b90)
+
+$(ID:1b27b9a5-6c05-4d85-ac5b-cc0e1991064d)
+
+$(ID:3d2cad47-1350-4c9c-bb32-c4ad3fa1b69f)
+</skeleton>
+    <unit id="5b99f340-3d25-4ce9-89c7-2c810daa118e">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Proxy support for NVDA</source>
+        <target>NVDA için Proxy Desteği</target>
+      </segment>
+    </unit>
+    <unit id="ccba0ee5-5843-4a70-8c7c-8ffc75b1ff51">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: José Manuel Delicado</source>
+        <target>Yazar: José Manuel Delicado</target>
+      </segment>
+    </unit>
+    <unit id="6a638498-7b8d-4649-8aed-43b5667d7af7">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2023.3.4 and beyond</source>
+        <target>NVDA uyumluluğu: 2023.3.4 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="70c8216e-27f1-4b66-aeef-e48d0b1a7f62">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[kararlı sürümü indir][1]</target>
+      </segment>
+    </unit>
+    <unit id="df19a283-3127-4fd3-9191-d619bf716f4c">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on allows the NVDA screen reader to connect to the Internet through one or more proxy servers. To make it possible, it applies various patches to the standard Python library or modifies certain environment variables, depending on the chosen configuration. You will be able to update NVDA and their add-ons automatically from your corporate environment and even perform remote sessions, provided that your organization proxy server allows it.</source>
+        <target>Bu eklenti, NVDA ekran okuyucusunun bir veya daha fazla proxy sunucusu aracılığıyla İnternet'e bağlanmasına olanak tanır. Bunu mümkün kılmak için, standart Python kitaplığına çeşitli yamalar uygular veya seçilen konfigürasyona bağlı olarak belirli ortam değişkenlerini değiştirir. NVDA'yı ve eklentilerini kurumsal ortamınızdan otomatik olarak güncelleyebilecek ve hatta kuruluş proxy sunucunuzun izin vermesi koşuluyla uzak oturumlar gerçekleştirebileceksiniz.</target>
+      </segment>
+    </unit>
+    <unit id="a19dab22-df99-485c-9301-26e8a4986d9f">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Features</source>
+        <target>Özellikler</target>
+      </segment>
+    </unit>
+    <unit id="65cfd4e5-67a7-45dc-a9b5-4a279602786c">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for various proxy server types: http, socks4 and socks5.</source>
+        <target>Çeşitli proxy sunucu türleri için destek: http, çorap4 ve çorap5.</target>
+      </segment>
+    </unit>
+    <unit id="738de692-c065-4023-89ce-cda39b990f78">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Ability to redirect all traffic through the proxy server or only specific traffic (http, https, ftp).</source>
+        <target>Tüm trafiği proxy sunucusu veya yalnızca belirli trafik (http, https, ftp) üzerinden yeniden yönlendirme yeteneği.</target>
+      </segment>
+    </unit>
+    <unit id="b74bdedf-51f8-4f48-8992-ae5ac110d519">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Ability to redirect all traffic through a proxy server and, after that, redirect specific traffic through other servers (nested proxies).</source>
+        <target>Tüm trafiği bir proxy sunucusu üzerinden yeniden yönlendirme ve ardından belirli trafiği diğer sunucular (iç içe geçmiş proxy'ler) üzerinden yeniden yönlendirme yeteneği.</target>
+      </segment>
+    </unit>
+    <unit id="25fff3bc-c40d-448b-b002-73ff8e3fbd37">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Profile switch and config reset aware: if you usually work with a portable copy of NVDA, you can create various profiles for different environments (home, work, office1, office2) and manually activate them.</source>
+        <target>Profil değiştirme ve yapılandırma sıfırlama farkındalığı: Genellikle NVDA'nın taşınabilir bir kopyasıyla çalışıyorsanız, farklı ortamlar (ev, iş, ofis1, ofis2) için çeşitli profiller oluşturabilir ve bunları manuel olarak etkinleştirebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="fedd3be2-ffb9-4ecd-a29e-583c684d6f07">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Usage</source>
+        <target>Kullanım</target>
+      </segment>
+    </unit>
+    <unit id="78b214ed-36ac-4b55-b97e-b86beea6b2ee">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on adds a new category to the NVDA settings dialog called "Proxy". In this category, you will find four settings groups. The first one allows you to configure a general proxy for all traffic. The other groups allow you to configure proxy servers only for specific protocols. All groups have the following fields:</source>
+        <target>Bu eklenti, NVDA Ayarları iletişim kutusuna "Proxy" adlı yeni bir kategori ekler. Bu kategoride dört ayar grubu bulacaksınız. Birincisi, tüm trafik için genel bir proxy yapılandırmanıza izin verir. Diğer gruplar Proxy sunucularını yalnızca belirli protokoller için yapılandırmanıza izin verir. Tüm grupların aşağıdaki alanları vardır:</target>
+      </segment>
+    </unit>
+    <unit id="717216b8-fc31-407b-93e0-cf150c20fc16">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Host: hostname or ip address of the proxy server. Leave empty to disable that particular proxy.</source>
+        <target>Ana bilgisayar: proxy sunucusunun ana bilgisayar adı veya ip adresi. Söz konusu proxy'yi devre dışı bırakmak için boş bırakın.</target>
+      </segment>
+    </unit>
+    <unit id="b64a44a0-a3ba-4d42-a93d-69efc6409a19">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Port: server port.</source>
+        <target>Bağlantı noktası: sunucu bağlantı noktası.</target>
+      </segment>
+    </unit>
+    <unit id="13da9ae1-8643-4425-97c8-9916cbf0effb">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Username: optional. User name for server autentication.</source>
+        <target>Kullanıcı adı: isteğe bağlı. Sunucu yetkilendirmesi için kullanıcı adı.</target>
+      </segment>
+    </unit>
+    <unit id="ddf248f7-6a5e-4069-a745-51849d38211e">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Password: optional. Password for server autentication. Note that password is not required for socks4 servers.</source>
+        <target>Şifre: isteğe bağlı. Sunucu yetkilendirmesi için parola. Socks4 sunucuları için şifre gerekmediğini unutmayın.</target>
+      </segment>
+    </unit>
+    <unit id="d5d73b6b-d3ef-4c9e-ae0b-5699dbb3919a">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+      </notes>
+      <segment state="translated">
+        <source>In addition to the previous fields, the following options are available in the first settings group:</source>
+        <target>Önceki alanlara ek olarak, ilk ayarlar grubunda aşağıdaki seçenekler mevcuttur:</target>
+      </segment>
+    </unit>
+    <unit id="a27c735a-60d2-47d2-9566-5d544e394cee">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>SOCKS proxy type: socks4, socks5 or http can be selected.</source>
+        <target>SOCKS proxy türü: socks4, socks5 veya http seçilebilir.</target>
+      </segment>
+    </unit>
+    <unit id="4e027fa3-beb7-44ee-b6c2-3909a5393816">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Use proxy for dns requests if possible: when this checkbox is checked, hostnames or domain names will be directly sent to and resolved on the proxy server. When it is unchecked, names will be resolved locally and the server will receive only the destination ip address. Note that not all socks4 proxy servers support this option.</source>
+        <target>Mümkünse dns istekleri için proxy kullan: Bu onay kutusu işaretlendiğinde, ana bilgisayar adları veya alan adları doğrudan proxy sunucusuna gönderilir ve burada çözümlenir. İşareti kaldırıldığında, isimler yerel olarak çözülecek ve sunucu sadece hedef ip adresini alacaktır. Tüm stock4 proxy sunucularının bu seçeneği desteklemediğini unutmayın.</target>
+      </segment>
+    </unit>
+    <unit id="f2c039c0-fc3e-452b-a769-95f1ea33b575">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+      </notes>
+      <segment state="translated">
+        <source>Tipically, most users will only have to configure the first settings group. If you don't know your proxy details, ask your organization network administrator for more information.</source>
+        <target>Genellikle çoğu kullanıcının yalnızca ilk ayar grubunu yapılandırması gerekir. Proxy ayrıntılarınızı bilmiyorsanız, daha fazla bilgi için kuruluş ağ yöneticinize danışın.</target>
+      </segment>
+    </unit>
+    <unit id="e23a6614-1d36-402a-9f0b-b58a43054f3f">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Limitations</source>
+        <target>Sınırlamalar</target>
+      </segment>
+    </unit>
+    <unit id="3a4f656f-1133-4a40-8735-183fdc85b1f4">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Very limited IPV6 support.</source>
+        <target>Çok sınırlı IPV6 desteği.</target>
+      </segment>
+    </unit>
+    <unit id="9c4b2da3-0ea9-4e0a-b61c-f9228f566fc8">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>UDP traffic is not supported on all proxy servers.</source>
+        <target>UDP trafiği tüm proxy sunucularında desteklenmez.</target>
+      </segment>
+    </unit>
+    <unit id="9fa9f0e9-500f-4e2a-990c-5991c64e2b39">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>External DLL libraries won't respect the settings configured in this add-on.</source>
+        <target>Harici DLL kitaplıkları bu eklentide yapılandırılan ayarlara uymaz.</target>
+      </segment>
+    </unit>
+    <unit id="58261f70-3d71-4d66-aa8c-14388c59a479">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Only basic autentication is supported for http proxy servers. Digest autentication is not supported.</source>
+        <target>Http proxy sunucuları için yalnızca temel kimlik doğrulama desteklenir. Özet kimlik doğrulaması desteklenmiyor.</target>
+      </segment>
+    </unit>
+    <unit id="82bc6134-1164-4df1-8019-39c458092e1b">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>In order to redirect all traffic (including https connections) through an http proxy, the server must support the CONNECT http method.</source>
+        <target>Tüm trafiği (https bağlantıları dahil) bir http proxy üzerinden yeniden yönlendirmek için sunucunun CONNECT http yöntemini desteklemesi gerekir.</target>
+      </segment>
+    </unit>
+    <unit id="0e75e02a-dfa2-41b5-9557-5dff0dcff6cf">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>A "direct connection" mode can't be configured. If you disable a specific proxy, the system default will be used instead.</source>
+        <target>Bir "doğrudan bağlantı" modu yapılandırılamaz. Belirli bir proxy'yi devre dışı bırakırsanız, bunun yerine sistem varsayılanı kullanılır.</target>
+      </segment>
+    </unit>
+    <unit id="553122ee-8703-4aad-847d-33f88aee05d6">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changelog</source>
+        <target>Değişiklik Günlüğü</target>
+      </segment>
+    </unit>
+    <unit id="236addf0-80fa-4961-84f3-0ece193c12a3">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.2</source>
+        <target>Sürüm 1.2</target>
+      </segment>
+    </unit>
+    <unit id="0be69541-4286-483b-8c49-3f4e325d4d66">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>NVDA 2023.1 ile uyumlu.</target>
+      </segment>
+    </unit>
+    <unit id="dff1a2bc-31b3-433a-9911-617bcd618c9b">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>For security reasons, minimum NVDA version is set to 2022.4.</source>
+        <target>Güvenlik sebeplerinden dolayı minimum NVDA sürümü 2022.4'e ayarlanmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="52823b83-f397-4fb6-ac71-b25db389020f">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Çeviriler güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="f11c9aea-63dd-4d5a-9951-fb9246952c2e">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.1</source>
+        <target>Sürüm 1.1</target>
+      </segment>
+    </unit>
+    <unit id="519337d7-2c68-4133-81b0-83b07918551b">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2022.1.</source>
+        <target>NVDA 2022.1 ile uyumlu.</target>
+      </segment>
+    </unit>
+    <unit id="44db5682-5a32-4377-8d1b-697bdb67b6f2">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>For security reasons, minimum NVDA version is set to 2021.3.</source>
+        <target>Güvenlik sebeplerinden dolayı minimum NVDA sürümü 2021.1'e ayarlanmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="6e6546a9-d96d-4ad3-974b-285d9cae26c1">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Patch socket.getaddrinfo function when "Use proxy for dns requests if possible" checkbox is checked and a general proxy has been configured.</source>
+        <target>"Mümkünse dns istekleri için proxy kullan" onay kutusu işaretlendiğinde ve genel bir proxy yapılandırıldığında socket.getaddrinfo işlevini yama.</target>
+      </segment>
+    </unit>
+    <unit id="6510f795-ba7a-4203-9302-5c684894c75d">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Çeviriler güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="b3b52269-0149-4bd4-bca3-fa97d611bf81">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.0</source>
+        <target>Sürüm 1.0</target>
+      </segment>
+    </unit>
+    <unit id="a9485a66-beaa-473c-9ad1-4a8326da0b90">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial release.</source>
+        <target>İlk sürüm.</target>
+      </segment>
+    </unit>
+    <unit id="1b27b9a5-6c05-4d85-ac5b-cc0e1991064d">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+      </notes>
+      <segment state="translated">
+        <source>[[!tag dev stable]]</source>
+        <target>[[!tag dev stable]]</target>
+      </segment>
+    </unit>
+    <unit id="3d2cad47-1350-4c9c-bb32-c4ad3fa1b69f">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=nvdaproxy</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=nvdaproxy</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

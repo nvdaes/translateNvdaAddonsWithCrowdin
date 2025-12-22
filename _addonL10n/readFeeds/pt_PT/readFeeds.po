@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 06:51+0000\n"
+"PO-Revision-Date: 2025-12-15 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: readFeeds.pot\n"
+"X-Crowdin-File-ID: 232\n"
+
+#. Translators: message presented when feeds cannot be reported.
+#: addon/globalPlugins/readFeeds/__init__.py:50
+msgid "Unable to refresh feed. Check your Internet conectivity or that the specified feed address is correct."
+msgstr "Não é possível atualizar o feed. Verifique a sua conetividade com a Internet ou se o endereço de feed especificado está correto."
+
+#. Translators: Message presented when feeds have been copied.
+#: addon/globalPlugins/readFeeds/__init__.py:136
+msgid "Feeds copied"
+msgstr "Feeds copiados"
+
+#. Translators: label of error dialog shown when cannot copy feeds folder.
+#: addon/globalPlugins/readFeeds/__init__.py:142
+#: addon/globalPlugins/readFeeds/__init__.py:163
+msgid "Folder not copied"
+msgstr "Pasta Não copiada"
+
+#. Translators: title of error dialog shown when cannot copy feeds folder.
+#: addon/globalPlugins/readFeeds/__init__.py:144
+#: addon/globalPlugins/readFeeds/__init__.py:165
+msgid "Copy Error"
+msgstr "Erro ao copiar"
+
+#. Translators: Message presented when feeds have been restored.
+#: addon/globalPlugins/readFeeds/__init__.py:157
+msgid "Feeds restored"
+msgstr "RSS recuperados"
+
+#. Translators: Title of a dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:187
+msgid "Feeds: {}"
+msgstr "Feeds: {}"
+
+#. Translators: Label of a dialog (message translated in NVDA's core in different contexts).
+#: addon/globalPlugins/readFeeds/__init__.py:193
+msgid "&Filter by:"
+msgstr "&Filtrar por:"
+
+#. Translators: The label of a button to open the list of articles of a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:221
+msgid "List of &articles..."
+msgstr "Lista de &artigos..."
+
+#. Translators: The label of a button to open a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:237
+msgid "&Open feed"
+msgstr "&Abrir alimentação"
+
+#. Translators: The label of a button to open a feed as HTML.
+#: addon/globalPlugins/readFeeds/__init__.py:241
+msgid "Open feed as &HTML"
+msgstr "Abrir o feed como &HTML"
+
+#. Translators: The label of a button to copy the feed URL.
+#: addon/globalPlugins/readFeeds/__init__.py:245
+msgid "Cop&y feed address"
+msgstr "Endereço de alimentação Cop&y"
+
+#. Translators: The label of a button to add a new feed.
+#: addon/globalPlugins/readFeeds/__init__.py:249
+msgid "&New..."
+msgstr "&Novo..."
+
+#. Translators: The label of a button to rename a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:253
+msgid "&Rename..."
+msgstr "&Rename..."
+
+#. Translators: The label of a button to delete a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:257
+msgid "&Delete..."
+msgstr "&apagar..."
+
+#. Translators: The label of a button to set a feed as default.
+#: addon/globalPlugins/readFeeds/__init__.py:261
+msgid "S&et default"
+msgstr "S&et por defeito"
+
+#. Translators: The label of a button to import feeds from OPML.
+#: addon/globalPlugins/readFeeds/__init__.py:265
+msgid "&Import feeds from OPML file..."
+msgstr "&importar feeds do ficheiro OPML..."
+
+#. Translators: The label of a button to save feeds to OPML file.
+#: addon/globalPlugins/readFeeds/__init__.py:269
+msgid "&Save feeds to OPML file..."
+msgstr "&guardar feeds para ficheiro OPML..."
+
+#. Translators: The label of a button to open the settings dialog for readFeeds.
+#: addon/globalPlugins/readFeeds/__init__.py:273
+msgid "&Preferences..."
+msgstr "&Preferências."
+
+#. Translators: Message presented when a feed cannot be added.
+#: addon/globalPlugins/readFeeds/__init__.py:303
+#, python-format
+msgid "Cannot add feed: %s"
+msgstr "Não é possível adicionar um feed: %s"
+
+#. Translators: error message.
+#: addon/globalPlugins/readFeeds/__init__.py:305
+msgid "Error"
+msgstr "Erro"
+
+#. Translators: the label of a message box dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:382
+msgid "Do you want to copy feed address to the clipboard?\n"
+"{}"
+msgstr "Pretende copiar o endereço do feed para a área de transferência?\n"
+"{}"
+
+#. Translators: the title of a message box dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:385
+msgid "Copy feed address"
+msgstr "Copiar endereço de alimentação"
+
+#. Translators: Label of a dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:396
+msgid "Address of a new feed:"
+msgstr "Endereço de um novo feed:"
+
+#. Translators: The title of a dialog to create a new feed.
+#: addon/globalPlugins/readFeeds/__init__.py:398
+msgid "New feed"
+msgstr "Novo feed"
+
+#. Translators: The confirmation prompt displayed when the user requests to delete a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:416
+msgid "Are you sure you want to delete this feed? This cannot be undone."
+msgstr "Tem a certeza de que pretende apagar este feed? Isto não pode ser anulado."
+
+#. Translators: The label of a field to enter a new name for a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:449
+msgid "New name:"
+msgstr "Novo nome:"
+
+#. Translators: The title of a dialog to rename a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:451
+msgid "Rename feed"
+msgstr "Mudar o nome do feed"
+
+#. Translators: Label for a file dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:475
+msgid "Open OPML file"
+msgstr "Abrir ficheiro OPML"
+
+#. Translators: Wildcards for a file dialog
+#: addon/globalPlugins/readFeeds/__init__.py:477
+msgid "OPML files (*.opml)|*.opml"
+msgstr "Ficheiros OPML (*.opml)|*.opml"
+
+#. Translators: Label of a button on the Feeds dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:504
+msgid "Save As"
+msgstr "Guardar como"
+
+#. Translators: The label of the articles list in the articles dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:529
+msgid "List of articles"
+msgstr "Lista de artigos"
+
+#. Translators: Presented when the current article does not have an associated title.
+#: addon/globalPlugins/readFeeds/__init__.py:535
+#: addon/globalPlugins/readFeeds/__init__.py:709
+#: addon/globalPlugins/readFeeds/__init__.py:817
+msgid "Unable to locate article title."
+msgstr "Não foi possível localizar o título do artigo."
+
+#. Translators: The label of a button to open the selected article of a feed.
+#: addon/globalPlugins/readFeeds/__init__.py:553
+msgid "Open &web page of selected article."
+msgstr "Abrir a página &Web do artigo seleccionado."
+
+#. Translators: The label of a button to show information of a feed article.
+#: addon/globalPlugins/readFeeds/__init__.py:560
+msgid "&About article..."
+msgstr "&Sobre o artigo..."
+
+#. Translators: the label of a message box dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:583
+msgid "{}\n"
+"{}\n"
+"Do you want to copy article title and link to the clipboard?"
+msgstr "{}\n"
+"{}\n"
+"Pretende copiar o título do artigo e a hiperligação para a área de transferência?"
+
+#. Translators: the title of a message box dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:586
+msgid "Article information"
+msgstr "Informações sobre o artigo"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:607
+msgid "&Search edit box after feeds list"
+msgstr "&Caixa de edição de pesquisa após a lista de feeds"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/readFeeds/__init__.py:612
+msgid "&Show articles Date"
+msgstr "&Mostrar dados dos artigos"
+
+#. Translators: Presented when the current article does not have an associated link.
+#: addon/globalPlugins/readFeeds/__init__.py:721
+msgid "Unable to locate article link."
+msgstr "Não foi possível localizar a hiperligação do artigo."
+
+#. Translators: Label of a checkbox to choose if date should be presented for each feed.
+#: addon/globalPlugins/readFeeds/__init__.py:805
+msgid "Show date"
+msgstr "Mostrar data"
+
+#. Translators: Label for a checkbox to show buttons for copying to clipboard.
+#: addon/globalPlugins/readFeeds/__init__.py:810
+msgid "Show buttons to copy"
+msgstr "Mostrar botões para copiar"
+
+#. Translators: Label for a button to copy to clipboard.
+#: addon/globalPlugins/readFeeds/__init__.py:821
+msgid "Copy"
+msgstr "Copiar"
+
+#. Translators: the name of a menu item.
+#: addon/globalPlugins/readFeeds/__init__.py:883
+msgid "&Feeds..."
+msgstr "&RSS."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:926
+msgid "Activates the Feeds dialog of Read Feeds."
+msgstr "Ativa a caixa de diálogo Feeds de Ler Feeds."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:933
+#, python-format
+msgid "Shows the %s settings."
+msgstr "Mostra as definições %s."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:954
+msgid "Refreshes the current feed and announces the most recent article title."
+msgstr "Actualiza o feed atual e anuncia o título do artigo mais recente."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:965
+msgid "Announces the title of the current article. Pressed two times, copies title and related link to the clipboard."
+msgstr "Anuncia o título do artigo atual. Se premir duas vezes, copia o título e a hiperligação relacionada para a área de transferência."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:984
+msgid "Announces the title of the next article."
+msgstr "Anuncia o título do próximo artigo."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:995
+msgid "Announces the title of the previous article."
+msgstr "Anuncia o título do artigo anterior."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:1006
+msgid "Announces article link, when pressed two times, opens related web page."
+msgstr "Anuncia o link do artigo, quando premido duas vezes, abre a página Web relacionada."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/readFeeds/__init__.py:1020
+msgid "Copies title and related link of the current article to the clipboard."
+msgstr "Copia o título e o link relacionado do artigo atual para a área de transferência."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Read Feeds"
+msgstr "Ler feeds"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Add-on for using NVDA as a feed reader."
+msgstr "Complemento para utilizar o NVDA como leitor de feeds."
+

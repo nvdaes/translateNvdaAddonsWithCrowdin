@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="pt">
+  <file id="eMule.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/eMule/eMule.md">
+    <skeleton>
+# $(ID:4c51f626-c7bf-43f7-85e5-519756d5fa13)
+
+*	$(ID:f0498ef6-d876-4093-b133-23e55e2f14d1)
+
+$(ID:007d06b8-0da3-4842-822e-a1e4026f803c)
+$(ID:9383c4fc-978a-4c1d-8a54-7f57bb2f5a3c)
+
+$(ID:62281a41-95d8-43e6-9057-9d5fb9cb7eeb)
+
+$(ID:ff4f241e-f864-4fa4-a112-69985480a00f)
+
+## $(ID:e7f4bc49-5fc3-4009-b301-9fdb0eb427d4)
+
+*	$(ID:79049133-756b-4ba3-8e0b-baa46e231377)
+*	$(ID:2fff1028-ec18-43b1-bbc6-7102161d1daa)
+*	$(ID:fff9c377-372a-4e28-9b86-a95e52aa3459)
+*	$(ID:082fd7e3-b6b1-4c44-a2af-21a8def963a5)
+*	$(ID:1102197f-f50c-42d8-bef0-ddf1722181c0)
+*	$(ID:c1d10092-c2d9-4f6d-b74e-d82e433ddf36)
+*	$(ID:d7ee4aea-d258-4905-bac9-6f9c7f849334)
+*	$(ID:87de6bf0-c516-454a-9de2-22fd0479b224)
+*	$(ID:9c29d60e-0f65-4cb0-9b1f-3d7c23c63064)
+*	$(ID:8e5b2f5f-de2b-4c46-922f-6f64610c8992)
+*	$(ID:7d460113-3d77-44ab-8df5-a85f1b203402)
+*	$(ID:f535f08c-a8b2-43a7-a567-b2d1189381d8)
+* $(ID:40f49bcf-6dc5-429b-806b-5ce98fa539e3)
+
+## $(ID:83cd940b-da46-4420-b922-43f5fde022ad)
+
+$(ID:dbab93f2-289f-4683-b5e3-202a861787e0)
+$(ID:dcddf9d4-2d79-495c-b682-9dd026c8c0ea)
+
+*	$(ID:f8bf7705-a449-4901-a905-76cec330e0a9)
+*	$(ID:3243ba93-7ed0-4e99-9386-f42af48a122e)
+*	$(ID:70c69f68-fff1-4cf8-8ada-0062be486a48)
+
+
+## $(ID:2843ddaa-9d5e-4c70-92dd-b9c9bc3e3c94)
+* $(ID:7a4ed7e1-b2ea-4025-8281-691755379311)
+* $(ID:8d47b523-ebed-4fd6-9035-06dbb04ac399)
+
+## $(ID:e6f5b5e2-dd58-4703-a375-e2cf723488e0)
+* $(ID:e1677d7d-812d-4d15-9972-30a510cc0ae3)
+
+## $(ID:34d74f72-e152-4b32-938a-3832e9f94249)
+*	$(ID:d81a8db8-3a96-42db-8ece-0056b31dd5de)
+
+## $(ID:594b135d-9954-48e2-9715-b6456cc7d14c)
+*	$(ID:c87502bc-2644-4610-92dc-0fc61ada11dc)
+
+## $(ID:07f8794b-55a1-4e4b-88e6-df4507d28ace)
+*	$(ID:951a4cab-458e-4f9a-a699-a98372bedead)
+
+## $(ID:403d1fcf-e2c9-4bf5-adfa-bb13f1b72169)
+*	 $(ID:bb638a1e-a2ac-4ea3-b9f6-f3cd5ee22432)
+
+## $(ID:c6591051-3103-42b5-b0e1-56cdcf743587)
+*	 $(ID:83f64583-4eb5-4ace-a0cf-9f42adf95683)
+
+## $(ID:1170f370-a8de-4291-886b-4cc1eed254d7)
+*	 $(ID:471588d1-4324-4f4f-9d2e-8624d313ab69)
+*	 $(ID:6bb73457-a4e4-4f3d-9d8a-5899682d54f1)
+*	 $(ID:cf071824-574d-47de-ad0d-9a8392316010)
+*	 $(ID:ee2ceb33-16d6-4554-89f1-311a4b33369f)
+
+## $(ID:9c5b48c6-91a0-4203-b578-3cfa233c0e24)
+*	 $(ID:dbab1f86-ba7b-4dc2-a131-e876ca3a0b42)
+*	 $(ID:5764edc5-94d5-4441-92f6-c91830353e14)
+
+## $(ID:752510fc-99e5-4806-9ed9-8670efca4c2c)
+*	 $(ID:6af26a6a-de87-4430-b7bd-a600bfd8428f)
+
+$(ID:9371b25b-2ae4-443b-8be8-b8bb56c8312c)
+</skeleton>
+    <unit id="4c51f626-c7bf-43f7-85e5-519756d5fa13">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>eMule #</source>
+        <target>eMule #</target>
+      </segment>
+    </unit>
+    <unit id="f0498ef6-d876-4093-b133-23e55e2f14d1">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: Noelia, Chris, Alberto.</source>
+        <target>Autores: Noelia, Chris, Alberto.</target>
+      </segment>
+    </unit>
+    <unit id="007d06b8-0da3-4842-822e-a1e4026f803c">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on helps to improve accessibility of eMule with nVDA.</source>
+        <target>Esse complemento ajuda a melhorar a acessibilidade do eMule com o nVDA.</target>
+      </segment>
+    </unit>
+    <unit id="9383c4fc-978a-4c1d-8a54-7f57bb2f5a3c">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>It also provides additional keyboard commands for moving in different windows and gives Useful information about eMule.</source>
+        <target>Ele também fornece comandos de teclado adicionais para movimentação em diferentes janelas e fornece informações úteis sobre o eMule.</target>
+      </segment>
+    </unit>
+    <unit id="62281a41-95d8-43e6-9057-9d5fb9cb7eeb">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="translated">
+        <source>It's based on the eMuleNVDASupport add-on, developed by the same author. You should uninstall that old add-on to use this one, since both have common keystrokes and features.</source>
+        <target>Ele é baseado no complemento eMuleNVDASupport, desenvolvido pelo mesmo autor. Você deve desinstalar esse complemento antigo para usar este, pois ambos têm teclas e recursos comuns.</target>
+      </segment>
+    </unit>
+    <unit id="ff4f241e-f864-4fa4-a112-69985480a00f">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+      </notes>
+      <segment state="translated">
+        <source>Tested on [eMule][1] 0.50a and 70b.</source>
+        <target>Testado no [eMule][1] 0.50a e 70b.</target>
+      </segment>
+    </unit>
+    <unit id="e7f4bc49-5fc3-4009-b301-9fdb0eb427d4">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Key Commands: ##</source>
+        <target>Teclas de atalho</target>
+      </segment>
+    </unit>
+    <unit id="79049133-756b-4ba3-8e0b-baa46e231377">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+h: Moves focus and mouse to main toolbar.</source>
+        <target>control+shift+h: Move o foco e o mouse para a barra de ferramentas principal.</target>
+      </segment>
+    </unit>
+    <unit id="2fff1028-ec18-43b1-bbc6-7102161d1daa">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+t: Reads the current window.</source>
+        <target>control+shift+t: Lê a janela atual.</target>
+      </segment>
+    </unit>
+    <unit id="fff9c377-372a-4e28-9b86-a95e52aa3459">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+n: Moves the focus to the Name field in the Find window.</source>
+        <target>control+shift+n: Move o foco para o campo Nome na janela Localizar.</target>
+      </segment>
+    </unit>
+    <unit id="082fd7e3-b6b1-4c44-a2af-21a8def963a5">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+p: In the Search window, moves focus and mouse to the list of search parameters, or edit field options.</source>
+        <target>control+shift+p: Na janela Pesquisar, move o foco e o mouse para a lista de parâmetros de pesquisa ou para as opções do campo de edição.</target>
+      </segment>
+    </unit>
+    <unit id="1102197f-f50c-42d8-bef0-ddf1722181c0">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+b: Move the focus to the list in the current window. For example usable in the Search window, downloads in Transfer window, etc.</source>
+        <target>control+shift+b: Move o foco para a lista na janela atual. Por exemplo, utilizável na janela Pesquisar, downloads na janela Transferir, etc.</target>
+      </segment>
+    </unit>
+    <unit id="c1d10092-c2d9-4f6d-b74e-d82e433ddf36">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+o: Move the focus to read-only edit boxes in the current window. For example the IRC received messages, available Servers, etc.</source>
+        <target>control+shift+o: Move o foco para caixas de edição somente leitura na janela atual. Por exemplo, as mensagens recebidas do IRC, os servidores disponíveis, etc.</target>
+      </segment>
+    </unit>
+    <unit id="d7ee4aea-d258-4905-bac9-6f9c7f849334">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+NVDA+f: If the caret is located in a read only edit box, opens a find dialog to use the commands for searching text available in NVDA.</source>
+        <target>control+NVDA+f: Se o cursor estiver localizado em uma caixa de edição somente leitura, abrirá uma caixa de diálogo de localização para usar os comandos de pesquisa de texto disponíveis no NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="87de6bf0-c516-454a-9de2-22fd0479b224">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+l: Moves the navigator object and mouse to the headers of the current list.</source>
+        <target>control+shift+l: Move o objeto do navegador e o mouse para os cabeçalhos da lista atual.</target>
+      </segment>
+    </unit>
+    <unit id="9c29d60e-0f65-4cb0-9b1f-3d7c23c63064">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+q: Reads the first object in the status bar; provides information about recent activity.</source>
+        <target>control+shift+q: lê o primeiro objeto na barra de status; fornece informações sobre a atividade recente.</target>
+      </segment>
+    </unit>
+    <unit id="8e5b2f5f-de2b-4c46-922f-6f64610c8992">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+w: Reads the second object of the status bar; contains information about files and users on the current server.</source>
+        <target>control+shift+w: Lê o segundo objeto da barra de status; contém informações sobre arquivos e usuários no servidor atual.</target>
+      </segment>
+    </unit>
+    <unit id="7d460113-3d77-44ab-8df5-a85f1b203402">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+e: Reads the third object of the status bar; useful to know the UpLoad/DownLoad speed.</source>
+        <target>control+shift+e: Lê o terceiro objeto da barra de status; útil para saber a velocidade de UpLoad/DownLoad.</target>
+      </segment>
+    </unit>
+    <unit id="f535f08c-a8b2-43a7-a567-b2d1189381d8">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>control+shift+r: Reads The fourth object of the status bar; reports on connecting of eD2K and Kad network.</source>
+        <target>control+shift+r: Lê O quarto objeto da barra de status; informa sobre a conexão do eD2K e da rede Kad.</target>
+      </segment>
+    </unit>
+    <unit id="40f49bcf-6dc5-429b-806b-5ce98fa539e3">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Not assigned: Toggles the usage of an alternative approach to read sliders.</source>
+        <target>Não atribuído: Alterna o uso de uma abordagem alternativa para ler os controles deslizantes.</target>
+      </segment>
+    </unit>
+    <unit id="83cd940b-da46-4420-b922-43f5fde022ad">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Managing columns. ##</source>
+        <target>Gerenciando colunas. ##</target>
+      </segment>
+    </unit>
+    <unit id="dbab93f2-289f-4683-b5e3-202a861787e0">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+      </notes>
+      <segment state="translated">
+        <source>When within a list, you can move the caret between the rows and columns using alt+control+ Arrows.</source>
+        <target>Em uma lista, você pode mover o cursor entre as linhas e colunas usando alt+control+ setas.</target>
+      </segment>
+    </unit>
+    <unit id="dcddf9d4-2d79-495c-b682-9dd026c8c0ea">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+      </notes>
+      <segment state="translated">
+        <source>In this Add-on the following key commands are also available:</source>
+        <target>Nesse complemento, os seguintes comandos principais também estão disponíveis:</target>
+      </segment>
+    </unit>
+    <unit id="f8bf7705-a449-4901-a905-76cec330e0a9">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>nvda+control+1-0: Reads the first 10 columns.</source>
+        <target>nvda+control+1-0: Lê as 10 primeiras colunas.</target>
+      </segment>
+    </unit>
+    <unit id="3243ba93-7ed0-4e99-9386-f42af48a122e">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>nvda+shift+1-0: Reads columns 11 to 20.</source>
+        <target>nvda+shift+1-0: Lê as colunas 11 a 20.</target>
+      </segment>
+    </unit>
+    <unit id="70c69f68-fff1-4cf8-8ada-0062be486a48">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>nvda+shift+C: Copies the contents of the last read column to the clipboard.</source>
+        <target>nvda+shift+C: copia o conteúdo da última coluna lida para a área de transferência.</target>
+      </segment>
+    </unit>
+    <unit id="2843ddaa-9d5e-4c70-92dd-b9c9bc3e3c94">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 20.0.0</source>
+        <target>Alterações para a versão 20.0.0</target>
+      </segment>
+    </unit>
+    <unit id="7a4ed7e1-b2ea-4025-8281-691755379311">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Some edit boxes and sliders are labelled, thanks to the [labelAutofinderCore project](https://github.com/ABuffEr/labelAutofinderCore) developed by Alberto Buffolino, one of the authors of this add-on.</source>
+        <target>Algumas caixas de edição e controles deslizantes são rotulados, graças ao projeto [labelAutofinderCore] (https://github.com/ABuffEr/labelAutofinderCore) desenvolvido por Alberto Buffolino, um dos autores desse complemento.</target>
+      </segment>
+    </unit>
+    <unit id="8d47b523-ebed-4fd6-9035-06dbb04ac399">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>A command (not assigned) has been added to toggle the usage of an alternative approach to read sliders (off by default).</source>
+        <target>Foi adicionado um comando (não atribuído) para alternar o uso de uma abordagem alternativa para ler os controles deslizantes (desativado por padrão).</target>
+      </segment>
+    </unit>
+    <unit id="e6f5b5e2-dd58-4703-a375-e2cf723488e0">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 7.0</source>
+        <target>Alterações para a versão 7.0</target>
+      </segment>
+    </unit>
+    <unit id="e1677d7d-812d-4d15-9972-30a510cc0ae3">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>Compatibilidade com NVDA 2023.1</target>
+      </segment>
+    </unit>
+    <unit id="34d74f72-e152-4b32-938a-3832e9f94249">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 6.0</source>
+        <target>Alterações para a versão 6.0</target>
+      </segment>
+    </unit>
+    <unit id="d81a8db8-3a96-42db-8ece-0056b31dd5de">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2022.1 or later.</source>
+        <target>Requer o NVDA 2022.1 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="594b135d-9954-48e2-9715-b6456cc7d14c">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 5.0</source>
+        <target>Alterações para a versão 5.0</target>
+      </segment>
+    </unit>
+    <unit id="c87502bc-2644-4610-92dc-0fc61ada11dc">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Compatible with NVDA 2021.1.</source>
+        <target>Compatível com o NVDA 2021.1.</target>
+      </segment>
+    </unit>
+    <unit id="07f8794b-55a1-4e4b-88e6-df4507d28ace">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.0 ##</source>
+        <target>Alterações para a versão 4.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="951a4cab-458e-4f9a-a699-a98372bedead">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>Requer NVDA 2019.3 ou superiores.</target>
+      </segment>
+    </unit>
+    <unit id="403d1fcf-e2c9-4bf5-adfa-bb13f1b72169">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.0 ##</source>
+        <target>Alterações para a versão 3.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="bb638a1e-a2ac-4ea3-b9f6-f3cd5ee22432">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>To search text in the readonly edit boxes,  the find dialog  can be used, such as nvda+control+f to activate the find dialog.</source>
+        <target>Para pesquisar texto nas caixas de edição somente leitura, a caixa de diálogo localizar pode ser usada, como nvda+control+f para ativar a caixa de diálogo localizar.</target>
+      </segment>
+    </unit>
+    <unit id="c6591051-3103-42b5-b0e1-56cdcf743587">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0 ##</source>
+        <target>Alterações para a versão 2.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="83f64583-4eb5-4ace-a0cf-9f42adf95683">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on help is available from the Add-ons Manager.</source>
+        <target>A ajuda do add-on está disponível no Add-ons Manager.</target>
+      </segment>
+    </unit>
+    <unit id="1170f370-a8de-4291-886b-4cc1eed254d7">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.2 ##</source>
+        <target>Alterações para a versão 1.2 ##</target>
+      </segment>
+    </unit>
+    <unit id="471588d1-4324-4f4f-9d2e-8624d313ab69">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>When moving to the IRC messages, the selected text is reported properly.</source>
+        <target>Ao passar para as mensagens do IRC, o texto selecionado é relatado corretamente.</target>
+      </segment>
+    </unit>
+    <unit id="6bb73457-a4e4-4f3d-9d8a-5899682d54f1">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>The keystroke used for moving to the Search results list has been generalized to be able to move focus to any available list in the current window.</source>
+        <target>O pressionamento de tecla usado para mover para a lista de resultados da pesquisa foi generalizado para poder mover o foco para qualquer lista disponível na janela atual.</target>
+      </segment>
+    </unit>
+    <unit id="cf071824-574d-47de-ad0d-9a8392316010">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>The command used to focus the IRC messages has been generalized to move to any read-only edit box, making it possible to review connection information in the Servers window.</source>
+        <target>O comando usado para focalizar as mensagens de IRC foi generalizado para ser movido para qualquer caixa de edição somente leitura, possibilitando a revisão das informações de conexão na janela Servidores.</target>
+      </segment>
+    </unit>
+    <unit id="ee2ceb33-16d6-4554-89f1-311a4b33369f">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>When moving mouse and focus to the toolbar, in some cases it was announced twice. This has been fixed.</source>
+        <target>Ao mover o mouse e o foco para a barra de ferramentas, em alguns casos ela era anunciada duas vezes. Isso foi corrigido.</target>
+      </segment>
+    </unit>
+    <unit id="9c5b48c6-91a0-4203-b578-3cfa233c0e24">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.1 ##</source>
+        <target>Alterações para a versão 1.1 ##</target>
+      </segment>
+    </unit>
+    <unit id="dbab1f86-ba7b-4dc2-a131-e876ca3a0b42">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed bug in eMule item under NVDA's help menu, when the user config folder name contains non latin characters.</source>
+        <target>Foi corrigido o erro no item do eMule no menu de ajuda do NVDA, quando o nome da pasta de configuração do usuário contém caracteres não latinos.</target>
+      </segment>
+    </unit>
+    <unit id="5764edc5-94d5-4441-92f6-c91830353e14">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>Shortcuts can now be reassigned using the NVDA gesture input dialog.</source>
+        <target>Os atalhos agora podem ser reatribuídos usando a caixa de diálogo de entrada de gestos do NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="752510fc-99e5-4806-9ed9-8670efca4c2c">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.0 ##</source>
+        <target>Alterações para 1.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="6af26a6a-de87-4430-b7bd-a600bfd8428f">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial version.</source>
+        <target>Versão inicial.</target>
+      </segment>
+    </unit>
+    <unit id="9371b25b-2ae4-443b-8be8-b8bb56c8312c">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: http://www.emule-project.net</source>
+        <target>[1]: http://www.emule-project.net</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

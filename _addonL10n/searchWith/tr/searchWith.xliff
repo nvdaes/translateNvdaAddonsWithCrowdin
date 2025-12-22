@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="searchWith.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/searchWith/searchWith.md">
+    <skeleton>
+# $(ID:159f7b40-dd96-4302-ac6e-8d596921a8bc)
+
+*	$(ID:f53a0049-ea25-4714-9eca-496a27a5660b)
+*	$(ID:20f61e23-1408-4924-96dc-541be953a480)
+*	$(ID:0b5a8415-d919-4bd0-9dbb-ca823ad1c8f4)
+
+$(ID:0601197f-d878-4b85-be09-61b10243e1cb)
+$(ID:803e3e61-7cdc-428d-8ed2-0ed450906379)
+$(ID:0f3e0a34-9f55-4916-8a75-6052ec07f3ff)
+$(ID:697e479c-4da0-4c3b-869a-fd4ebd204bab)
+$(ID:f4db7a46-11b2-4b83-a65a-31e21cf3bb4d)
+$(ID:0d8842ce-4b7d-4c8a-a4cd-4272579313bd)
+$(ID:4d1e20e1-c1dd-4363-b905-6eec5e542e8e)
+$(ID:9b103b45-10f0-456f-a6f3-3dd0418d24be)
+$(ID:0af57c0e-a138-48b1-844e-c1dfed57ab8a)
+$(ID:4d4cb0bb-efcd-4489-865b-75ab4a63a0f8)
+$(ID:425b70c4-184a-4a9f-98dd-d9d54490b522)
+
+## $(ID:5df1769a-e02a-477f-aec2-49f6f7024ab0)
+
+*	$(ID:feb875db-db5f-493d-9c21-5d368361c433)
+*	$(ID:eb59edd0-2dae-43c1-b82a-622109675e19)
+$(ID:caf5db40-acf7-41a9-9ee7-0df36cfaca78)
+*	$(ID:b6b066aa-d73e-435c-9203-a60db216b720)
+*	$(ID:958cd813-ec87-4538-860d-dd4a7459792a)
+$(ID:7bc698ea-ae5c-4e36-9510-0872f6e2f049)
+$(ID:d4b4343f-e0cc-4a41-b93d-d7737fb62455)
+*	$(ID:846a0aa4-6b2f-4858-941a-befd573189f5)
+$(ID:67dc1da6-4fab-4921-88a4-5a77f3f4106e)
+$(ID:3cdcc05f-f353-407d-b592-78502828c56f)
+$(ID:0d70211e-7384-471e-a494-69435526b48e)
+*	$(ID:c32bfd0e-6305-441a-b441-870667d39457)
+$(ID:8e9a3a9c-c197-41f8-ae49-4cf5d9955ece)
+$(ID:28ed314e-6c96-40c3-96a0-dba45063bb4f)
+*	$(ID:d56026e0-ce72-482d-8cc7-dc0abec0d4ae)
+$(ID:6cac3bc5-92de-4244-8171-76e3b0adb699)
+	*	$(ID:65701adb-51f0-4b28-8628-a0a5d11548d5)
+	*	$(ID:94933c4b-9824-4fe6-a21e-524f39415976)
+*	$(ID:031209ef-bfe3-4405-8a02-49b1ad512b10)
+*	$(ID:c483c1a8-968e-46c9-8d40-89502a240117)
+*	$(ID:0e7b6878-a597-4207-8fb1-b41565c7f20d)
+*	$(ID:f3f693aa-9e27-4f4a-bd17-1cafe24bc3c3)
+*	$(ID:d5d5e845-7ae9-4719-ac69-4c08b043986f)
+*	$(ID:dfee231e-07bd-4db9-a5e4-4a1c6ca7f894)
+$(ID:54591aba-e0b6-4d47-8f45-e7dd19a79666)
+$(ID:8ce6d66b-e110-4569-b433-f3953ac08d44)
+	1.	$(ID:2306fc3f-dd10-4437-89ee-792c1b78b22a)
+	2.	$(ID:c8470bfb-4bd4-4707-8040-711651fad767)
+	3.	$(ID:7e71b4c1-936a-40eb-b34e-fec2ea2c8586)
+*	$(ID:193ab8df-6ff4-4733-b212-8b07ac2f43e8)
+$(ID:d6f18bed-2336-4f37-88d0-2c454db21920)
+	*	$(ID:e18ef183-57bc-4ae0-b902-4f928cadb99d)
+	*	$(ID:d90cd077-da07-454c-9f56-e4d9451edc50)
+	*	$(ID:7006b882-28a8-43a9-b466-3f5a2b2c4cc3)
+$(ID:296eb87a-515a-432f-a6f6-8e3747e63008)
+*	$(ID:5d4a1b5c-299c-47f8-8592-ba8c6c0fc376)
+*	$(ID:b51c7e6c-be20-44a0-b07b-609f132c09de)
+*	$(ID:985fb075-9472-4348-ad36-2094ef5efc3b)
+$(ID:8dcf6bbf-f2e8-4ec5-9d68-c7d9cad84d54)
+$(ID:62f53a7f-eaa4-4b62-a778-8886c435c72a)
+$(ID:826eff45-3b70-4fd3-a997-377a13d2acce)
+
+### $(ID:0721f932-c3b2-4e6d-ba45-6dc2c89adc03)
+
+*	$(ID:c6792445-e16b-475b-b889-362681e246e3)
+*	$(ID:811f84e1-0e2e-487e-8a12-1a6e0f116357)
+
+### $(ID:cc97af76-6148-484b-a95c-5c87821812a7)
+
+*	$(ID:7e816fab-6e83-4f38-85d5-3cce98d462dd)
+*	$(ID:7f990f11-acaf-462d-af51-408f70f03e41)
+
+### $(ID:c71c06c2-6bc2-4ab4-85a6-87405b36ad24)
+
+*	$(ID:0fff0d7c-cc86-49d8-82cf-150a5feb6194)
+
+### $(ID:9fdac023-8ae3-4201-8f5a-6e9a97bea90d)
+
+*	$(ID:b75820dd-32d3-4cb7-ba39-0e160b0f3350)
+$(ID:a02a16d4-4f0e-4edc-ab94-de56abf3524e)
+*	$(ID:da0e96dd-d667-4563-8ede-64cc551c0078)
+
+### $(ID:63813905-af69-48ac-83df-977ba5d818dc)
+
+*	$(ID:008dcf6d-c357-483f-b0e1-721cccc56207)
+
+### $(ID:c7ef3fe9-031a-49ee-bcda-fb7a873475be)
+
+*	$(ID:f134b71c-0652-49f9-9f89-70901d2aea0c)
+*	$(ID:fb97adaa-61b2-4e9f-9785-cdead9da5aef)
+
+### $(ID:115cb36e-a729-43e2-bd65-033527581559)
+
+*	$(ID:dfbd5c46-35f6-4fea-b438-e41572f1fb00)
+
+### $(ID:ce9edf04-0f9d-4508-9aa2-f0f9dbfed230)
+
+*	$(ID:18799923-0c6e-43b1-b903-8aedc5cc5e08)
+*	$(ID:8f673ef9-d33b-4726-850f-0840a6388136)
+	*	$(ID:1792f8c3-22e7-421a-b4f9-007f80989985)
+	*	$(ID:a1b4420f-a56b-4a5d-9526-25e9b999cff8)
+
+### $(ID:34874889-f9c6-4a2d-8bbe-3597b3df980b)
+
+*	$(ID:05fbb907-6cd7-47f1-b192-168e0dc38d9d)
+*	$(ID:185480fa-a533-45de-a8fe-02a91cba6e69)
+
+### $(ID:7b9b2c50-a003-41b5-a208-33f1fa5eb231)
+
+*	$(ID:37c61550-8c42-4b3a-966a-8c7d563f508d)
+	*	$(ID:fab965c2-5e84-4650-945f-273d9d8d4d3d)
+	*	$(ID:46f31db3-a3d7-40de-95ef-468f5e74f252)
+*	$(ID:cd1a9d0c-d894-4cfa-a775-a17d14aa753b)
+
+### $(ID:2ee953c7-48a7-4b1d-9631-b7f22bf1c676)
+
+*	$(ID:e879dd81-a0be-47ff-bab7-143c38d32167)
+
+### $(ID:2a6ec839-74ec-4de9-8840-46378a35dda8)
+
+*	$(ID:e7d7c5bb-a429-476e-bc2d-5efaeaba4982)
+*	$(ID:5d7d0c64-ca7b-45b1-bf52-fc28cb3d3bca)
+
+### $(ID:bc9ebdc4-ab16-407b-a5ce-2b7c92ceabaa)
+
+*	$(ID:dcda6cd9-1ddc-484a-9cf8-f7421c5214a1)
+*	$(ID:e9038385-fb44-40d4-9f9b-ea96937da16d)
+
+### $(ID:9d16af83-771f-4d32-92e2-c5c37b3d4018)
+
+*	$(ID:ab43c107-840f-40f3-84fb-c599b6717850)
+*	$(ID:3af828cf-663f-4e17-9a6a-9e02f15b9ec8)
+
+### $(ID:4dab6dc3-8fa9-4606-a511-7adffdc4b3f7)
+
+*	$(ID:68d1afc6-7ecd-4af7-8aea-17f70f75681a)
+*	$(ID:f853886f-c601-4d5f-a080-d9b3abe83676)
+
+### $(ID:ca043b25-4487-468e-b883-6bf7216ee9f4)
+
+*	$(ID:a8641c22-dd8d-4b88-9573-eccbc6346445)
+
+### $(ID:6a8c305e-f585-4b71-98ce-2d50eec01123)
+
+*	$(ID:de7c457f-4942-49b9-9274-d53d1c84d11f)
+
+$(ID:101f223a-21a2-4156-9818-efce90a24413)
+</skeleton>
+    <unit id="159f7b40-dd96-4302-ac6e-8d596921a8bc">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Search With #</source>
+        <target>İle Ara #</target>
+      </segment>
+    </unit>
+    <unit id="f53a0049-ea25-4714-9eca-496a27a5660b">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Ibrahim Hamadeh</source>
+        <target>Yazar: Ibrahim Hamadeh</target>
+      </segment>
+    </unit>
+    <unit id="20f61e23-1408-4924-96dc-541be953a480">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Download [Stable version 2.5.3][1]</source>
+        <target>[Kararlı sürümü indir][1]</target>
+      </segment>
+    </unit>
+    <unit id="0b5a8415-d919-4bd0-9dbb-ca823ad1c8f4">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2019.3 and beyond</source>
+        <target>NVDA uyumluluğu: 2019.3 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="0601197f-d878-4b85-be09-61b10243e1cb">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>This addon helps you to search text, via various search engines.</source>
+        <target>Bu eklenti, çeşitli arama motorları aracılığıyla metin aramanıza yardımcı olur.</target>
+      </segment>
+    </unit>
+    <unit id="803e3e61-7cdc-428d-8ed2-0ed450906379">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="translated">
+        <source>Let no text selected, and press the gesture of the addon</source>
+        <target>Hiçbir metin seçili değilken, eklentinin hareketini kullanın</target>
+      </segment>
+    </unit>
+    <unit id="0f3e0a34-9f55-4916-8a75-6052ec07f3ff">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>A dialog will be displayed, with an edit box to enter a search query</source>
+        <target>Arama sorgusu girmek için düzenleme kutusu bulunan bir iletişim kutusu görüntülenir</target>
+      </segment>
+    </unit>
+    <unit id="697e479c-4da0-4c3b-869a-fd4ebd204bab">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+      </notes>
+      <segment state="translated">
+        <source>To search with Google press enter, or tab to search with other engines.</source>
+        <target>Google ile arama yapmak için enter tuşuna basın veya diğer motorlarla arama yapmak için sekme tuşuna basın.</target>
+      </segment>
+    </unit>
+    <unit id="f4db7a46-11b2-4b83-a65a-31e21cf3bb4d">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="translated">
+        <source>Or</source>
+        <target>Veya</target>
+      </segment>
+    </unit>
+    <unit id="0d8842ce-4b7d-4c8a-a4cd-4272579313bd">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+      </notes>
+      <segment state="translated">
+        <source>select some text and press once, a menu will be displayed with various search engines to choose.</source>
+        <target>bir metin seçin ve bir kez basın, seçebileceğiniz çeşitli arama motorlarının bulunduğu bir menü görüntülenecektir.</target>
+      </segment>
+    </unit>
+    <unit id="4d1e20e1-c1dd-4363-b905-6eec5e542e8e">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="translated">
+        <source>And while text is selected, you can press the gesture twice to search with Google directly.</source>
+        <target>Metin seçiliyken, doğrudan Google ile arama yapmak için harekete iki kez basabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="9b103b45-10f0-456f-a6f3-3dd0418d24be">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+      </notes>
+      <segment state="translated">
+        <source>The Default gesture for the addon is: NVDA+ Windows+ S.</source>
+        <target>Eklenti için varsayılan hareket: NVDA+ Windows+ S.</target>
+      </segment>
+    </unit>
+    <unit id="0af57c0e-a138-48b1-844e-c1dfed57ab8a">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="translated">
+        <source>If the keystroke do not work for you, or conflict with other keystroke,</source>
+        <target>Tuş vuruşu sizin için çalışmıyorsa veya diğer tuş vuruşlarıyla çakışıyorsa,</target>
+      </segment>
+    </unit>
+    <unit id="4d4cb0bb-efcd-4489-865b-75ab4a63a0f8">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+      </notes>
+      <segment state="translated">
+        <source>you can as always add a gesture or change the existent one going to :</source>
+        <target>her zaman olduğu gibi bir hareket ekleyebilir veya var olanı değiştirebilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="425b70c4-184a-4a9f-98dd-d9d54490b522">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA menu&gt;preferences&gt;inputGestures&gt;Search With category.</source>
+        <target>NVDA menüsü&gt;Tercihler&gt;Girdi Hareketleri&gt;İle Ara kategorisi.</target>
+      </segment>
+    </unit>
+    <unit id="5df1769a-e02a-477f-aec2-49f6f7024ab0">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Usage ##</source>
+        <target>Kullanım ##</target>
+      </segment>
+    </unit>
+    <unit id="feb875db-db5f-493d-9c21-5d368361c433">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>If you want to enter a search query, just press the addon gesture</source>
+        <target>Bir arama sorgusu girmek istiyorsanız, eklenti hareketine basın</target>
+      </segment>
+    </unit>
+    <unit id="eb59edd0-2dae-43c1-b82a-622109675e19">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>A dialog will be displayed, with an edit field to enter the search term.</source>
+        <target>Arama sorgusu girmek için düzenleme kutusu bulunan bir iletişim kutusu görüntülenir.</target>
+      </segment>
+    </unit>
+    <unit id="caf5db40-acf7-41a9-9ee7-0df36cfaca78">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="translated">
+        <source>Want to search with Google? just press enter</source>
+        <target>Google ile arama yapmak isterseniz sadece enter'a basın</target>
+      </segment>
+    </unit>
+    <unit id="b6b066aa-d73e-435c-9203-a60db216b720">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Otherwise tab to Other Engines button, and give it a space</source>
+        <target>Aksi takdirde Sekme tuşuna basarak Diğer Motorlar düğmesinin üzerine gelip boşluk tuşu ile etkinleştirin</target>
+      </segment>
+    </unit>
+    <unit id="958cd813-ec87-4538-860d-dd4a7459792a">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>A popup menu will show up, with various search engines to choose.</source>
+        <target>Seçebileceğiniz çeşitli arama motorlarının bulunduğu bir açılır menü görünecektir.</target>
+      </segment>
+    </unit>
+    <unit id="7bc698ea-ae5c-4e36-9510-0872f6e2f049">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+      </notes>
+      <segment state="translated">
+        <source>Yahoo, Bing, DuckDuckGo, and Youtube.</source>
+        <target>Yahoo, Bing, DuckDuckGo, ve Youtube.</target>
+      </segment>
+    </unit>
+    <unit id="d4b4343f-e0cc-4a41-b93d-d7737fb62455">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+      </notes>
+      <segment state="translated">
+        <source>This is the default menu, and you may modify it from addon's setting panel.</source>
+        <target>Bu varsayılan menüdür ve eklentinin ayar panelinden değiştirebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="846a0aa4-6b2f-4858-941a-befd573189f5">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Another way to use the addon, is by selecting some text</source>
+        <target>Eklentiyi kullanmanın başka bir yolu da bir metin seçmektir</target>
+      </segment>
+    </unit>
+    <unit id="67dc1da6-4fab-4921-88a4-5a77f3f4106e">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="translated">
+        <source>And on Pressing the addon's gesture, or any other you have assigned to it</source>
+        <target>Ve eklentinin hareketine veya ona atadığınız herhangi bir şeye basmak</target>
+      </segment>
+    </unit>
+    <unit id="3cdcc05f-f353-407d-b592-78502828c56f">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+      </notes>
+      <segment state="translated">
+        <source>a virtual menu will be displayed with various search engines</source>
+        <target>çeşitli arama motorlarının bulunduğu sanal bir menü görüntülenecektir</target>
+      </segment>
+    </unit>
+    <unit id="0d70211e-7384-471e-a494-69435526b48e">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+      </notes>
+      <segment state="translated">
+        <source>Either the default menu, or any other you have tailed to your needs.</source>
+        <target>Ya varsayılan menü ya da ihtiyaçlarınıza göre sıraladığınız herhangi bir menü.</target>
+      </segment>
+    </unit>
+    <unit id="c32bfd0e-6305-441a-b441-870667d39457">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Choose one and press enter, the default browser will open displaying search results.</source>
+        <target>Birini seçin ve Enter tuşuna basın, varsayılan tarayıcı arama sonuçlarını görüntüleyerek açar.</target>
+      </segment>
+    </unit>
+    <unit id="8e9a3a9c-c197-41f8-ae49-4cf5d9955ece">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+      </notes>
+      <segment state="translated">
+        <source>Or, if you want to search with Google directly</source>
+        <target>Veya Google ile doğrudan arama yapmak istiyorsanız</target>
+      </segment>
+    </unit>
+    <unit id="28ed314e-6c96-40c3-96a0-dba45063bb4f">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+      </notes>
+      <segment state="translated">
+        <source>press the gesture twice, and you are done.</source>
+        <target>harekete iki kez basın ve işiniz bitti.</target>
+      </segment>
+    </unit>
+    <unit id="d56026e0-ce72-482d-8cc7-dc0abec0d4ae">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Want to trigger search menu specifically for clipboard or last spoken text?</source>
+        <target>Özellikle pano veya son konuşulan metin için arama menüsünü tetiklemek ister misiniz?</target>
+      </segment>
+    </unit>
+    <unit id="6cac3bc5-92de-4244-8171-76e3b0adb699">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+      </notes>
+      <segment state="translated">
+        <source>You can from input gestures dialog, assigned a gesture for:</source>
+        <target>Girdi hareketleri iletişim kutusundan, şunlar için bir hareket atayabilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="65701adb-51f0-4b28-8628-a0a5d11548d5">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Trigger search menu for clipboard text, and pressed twice searches that text by Google directly.</source>
+        <target>Pano metni için arama menüsünü açar ve iki kez basıldığında bu metni doğrudan Google ile arar.</target>
+      </segment>
+    </unit>
+    <unit id="94933c4b-9824-4fe6-a21e-524f39415976">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Trigger search menu for last spoken text, and pressed twice searches that text by Google directly.</source>
+        <target>Son söylenen için arama menüsünü açar ve iki kez basıldığında bu metni doğrudan Google ile arar.</target>
+      </segment>
+    </unit>
+    <unit id="031209ef-bfe3-4405-8a02-49b1ad512b10">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Now if you ask, can I modify Search with menu?</source>
+        <target>Şimdi, İle Ara menüsünü yapılandırabilir miyim diye sorarsanız?</target>
+      </segment>
+    </unit>
+    <unit id="c483c1a8-968e-46c9-8d40-89502a240117">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Yes you  can do that from the setting panel,  and adjust the menu to fit to your mood and needs.</source>
+        <target>Evet bunu ayarlar panelinden yapabilir, menüyü de ruh halinize ve ihtiyaçlarınıza uyacak şekilde ayarlayabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="0e7b6878-a597-4207-8fb1-b41565c7f20d">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>You can from there, add to Search with menu, other available search engines</source>
+        <target>Oradan, İle Ara menüsüne ekle seçeneğinden diğer mevcut arama motorlarını ekleyebilirsiniz</target>
+      </segment>
+    </unit>
+    <unit id="f3f693aa-9e27-4f4a-bd17-1cafe24bc3c3">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>And you can if you like, remove an item from it, move item up, move item down, or return and set it to default state.</source>
+        <target>İsterseniz bir öğeyi kaldırabilir, öğeyi yukarı taşıyabilir, aşağı taşıyabilir veya geri dönüp varsayılan duruma ayarlayabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="d5d5e845-7ae9-4719-ac69-4c08b043986f">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>If you want these modifications to be permanent, you have to save configuration after wards.</source>
+        <target>Bu değişikliklerin kalıcı olmasını istiyorsanız, işlemden sonra yapılandırmayı kaydetmeniz gerekir.</target>
+      </segment>
+    </unit>
+    <unit id="dfee231e-07bd-4db9-a5e4-4a1c6ca7f894">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Want to search Google using other language options?</source>
+        <target>Diğer dil seçeneklerini kullanarak Google'da arama yapmak ister misiniz?</target>
+      </segment>
+    </unit>
+    <unit id="54591aba-e0b6-4d47-8f45-e7dd19a79666">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+      </notes>
+      <segment state="translated">
+        <source>Go to, Search With category in setting panels</source>
+        <target>Ayarlar panelinde İle Ara kategorisine gidin</target>
+      </segment>
+    </unit>
+    <unit id="8ce6d66b-e110-4569-b433-f3953ac08d44">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+      </notes>
+      <segment state="translated">
+        <source>From the cumbo box there, you can choose search Google either:</source>
+        <target>Oradaki açılır kutudan Google'da ara'yı seçebilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="2306fc3f-dd10-4437-89ee-792c1b78b22a">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: 	1.	</note>
+      </notes>
+      <segment state="translated">
+        <source>Using browser settings and language.</source>
+        <target>Tarayıcı ayarlarını ve dilini kullan.</target>
+      </segment>
+    </unit>
+    <unit id="c8470bfb-4bd4-4707-8040-711651fad767">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: 	2.	</note>
+      </notes>
+      <segment state="translated">
+        <source>Using NVDA language.</source>
+        <target>NVDA dilini kullan.</target>
+      </segment>
+    </unit>
+    <unit id="7e71b4c1-936a-40eb-b34e-fec2ea2c8586">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: 	3.	</note>
+      </notes>
+      <segment state="translated">
+        <source>Using windows language.</source>
+        <target>Windows dilini kullan.</target>
+      </segment>
+    </unit>
+    <unit id="193ab8df-6ff4-4733-b212-8b07ac2f43e8">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Now, you have the option to choose the default query in Search with dialog</source>
+        <target>Artık İle ara iletişim kutusunda varsayılan sorguyu seçme seçeneğiniz var</target>
+      </segment>
+    </unit>
+    <unit id="d6f18bed-2336-4f37-88d0-2c454db21920">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+      </notes>
+      <segment state="translated">
+        <source>from the Options for default query combo box in setting panel, you can choose either</source>
+        <target>ayar panelinde varsayılan sorgu açma kutusu seçeneklerinden ikisini de seçebilirsiniz</target>
+      </segment>
+    </unit>
+    <unit id="e18ef183-57bc-4ae0-b902-4f928cadb99d">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Leave blank</source>
+        <target>Boş bırak</target>
+      </segment>
+    </unit>
+    <unit id="d90cd077-da07-454c-9f56-e4d9451edc50">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Use clipboard text</source>
+        <target>Pano metnini kullan</target>
+      </segment>
+    </unit>
+    <unit id="7006b882-28a8-43a9-b466-3f5a2b2c4cc3">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Use last spoken text</source>
+        <target>Son konuşulan metni kullan</target>
+      </segment>
+    </unit>
+    <unit id="296eb87a-515a-432f-a6f6-8e3747e63008">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+      </notes>
+      <segment state="translated">
+        <source>And if clipboard or last spoken text is chosen, text in search box will be displayed selected, so that you can easily override it.</source>
+        <target>Pano veya son konuşulan metin seçilirse, ilgili metin arama kutusuna kendiliğinden eklenecektir. Böylece hızlıca arama yapabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="5d4a1b5c-299c-47f8-8592-ba8c6c0fc376">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Now let's choose the target language for translate engines, Google Translate and DeepL translator.</source>
+        <target>Şimdi çeviri motorları, Google Çeviri ve DeepL çevirmeni için hedef dili seçelim.</target>
+      </segment>
+    </unit>
+    <unit id="b51c7e6c-be20-44a0-b07b-609f132c09de">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Still in setting panel, under Translation engines group, there are two combo boxes, one for Google Translate and the other for DeepL Translator. Choose the target language you want for each of them and you are done.</source>
+        <target>Hala ayar panelinde, Çeviri motorları grubu altında, biri Google Çeviri ve diğeri DeepL Translator için olmak üzere iki açılır kutu bulunmaktadır. Her biri için istediğiniz hedef dili seçin ve işlem tamamdır.</target>
+      </segment>
+    </unit>
+    <unit id="985fb075-9472-4348-ad36-2094ef5efc3b">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Lastly, especially for advanced users</source>
+        <target>Son olarak, özellikle gelişmiş kullanıcılar için</target>
+      </segment>
+    </unit>
+    <unit id="8dcf6bbf-f2e8-4ec5-9d68-c7d9cad84d54">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+      </notes>
+      <segment state="translated">
+        <source>You can through a check box in setting panel, choose if you want to preserve your data folder upon installing a new version.</source>
+        <target>Ayarlar panelindeki bir onay kutusu aracılığıyla, yeni bir sürüm yükledikten sonra veri klasörünüzü korumak isteyip istemediğinizi seçebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="62f53a7f-eaa4-4b62-a778-8886c435c72a">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+      </notes>
+      <segment state="translated">
+        <source>This means that your data will be sustained, but added to it the newly entries in the new version.</source>
+        <target>Bu, verilerinizin korunacağı, ancak yeni sürümdeki yeni girişlerin ekleneceği anlamına gelir.</target>
+      </segment>
+    </unit>
+    <unit id="826eff45-3b70-4fd3-a997-377a13d2acce">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+      </notes>
+      <segment state="translated">
+        <source>And that's it, hope to search for good and find it, happy searching!</source>
+        <target>Ve işte bu, iyi şeyler aramanızı ve bulmanızı umuyoruz, mutlu aramalar!</target>
+      </segment>
+    </unit>
+    <unit id="0721f932-c3b2-4e6d-ba45-6dc2c89adc03">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.5.3 ###</source>
+        <target>2.5.3 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="c6792445-e16b-475b-b889-362681e246e3">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add DeepL translator to available engines.</source>
+        <target>Mevcut motorlara DeepL Çeviri eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="811f84e1-0e2e-487e-8a12-1a6e0f116357">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add two combo boxes in setting panel, to choose target language for Google translate and DeepL translator.</source>
+        <target>Google çeviri ve DeepL Çeviri için hedef dili seçmek üzere ayar paneline iki Açılabilir seçim kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="cc97af76-6148-484b-a95c-5c87821812a7">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.5 ###</source>
+        <target>2.5 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="7e816fab-6e83-4f38-85d5-3cce98d462dd">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Return the name of the addon to 'searchWith'(camel case).</source>
+        <target>Eklentinin adını ‘searchWith’ (camel case) olarak döndürür.</target>
+      </segment>
+    </unit>
+    <unit id="7f990f11-acaf-462d-af51-408f70f03e41">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add Google Scholar to available engines.</source>
+        <target>Google Akademik mevcut motorlar arasına eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="c71c06c2-6bc2-4ab4-85a6-87405b36ad24">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.4 ###</source>
+        <target>2.4 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="0fff0d7c-cc86-49d8-82cf-150a5feb6194">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Localization and documentation updates.</source>
+        <target>Yerelleştirme ve Belge güncellemeleri.</target>
+      </segment>
+    </unit>
+    <unit id="9fdac023-8ae3-4201-8f5a-6e9a97bea90d">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.3 ###</source>
+        <target>2.3 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="b75820dd-32d3-4cb7-ba39-0e160b0f3350">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Now choosing to preserve data from setting panel, does not means that you will not get the new data entries</source>
+        <target>Şimdi verileri ayarlar panelinden korumayı seçmek, yeni veri girişlerini alamayacağınız anlamına gelmez</target>
+      </segment>
+    </unit>
+    <unit id="a02a16d4-4f0e-4edc-ab94-de56abf3524e">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+      </notes>
+      <segment state="translated">
+        <source>but the new entries in the new version, will be merged and added to your old data file.</source>
+        <target>ancak yeni sürümdeki yeni girişler birleştirilecek ve eski veri dosyanıza eklenecektir.</target>
+      </segment>
+    </unit>
+    <unit id="da0e96dd-d667-4563-8ede-64cc551c0078">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Update last tested version to 2023.1 to comply with NVDA version 2023.1.</source>
+        <target>NVDA sürüm 2023.1 ile uyumlu hale gelecek şekilde güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="63813905-af69-48ac-83df-977ba5d818dc">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.2 ###</source>
+        <target>2.2 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="008dcf6d-c357-483f-b0e1-721cccc56207">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add localization and documentation updates.</source>
+        <target>Yerelleştirme ve belge güncellemeleri eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="c7ef3fe9-031a-49ee-bcda-fb7a873475be">
+      <notes>
+        <note appliesTo="source">line: 88</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0 ###</source>
+        <target>2.0 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="f134b71c-0652-49f9-9f89-70901d2aea0c">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Disable the addon in secure mode.</source>
+        <target>Eklenti güvenli modda devre dışı bırakıldı.</target>
+      </segment>
+    </unit>
+    <unit id="fb97adaa-61b2-4e9f-9785-cdead9da5aef">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Update last tested version to 2022.1, to comply with recent addon api version.</source>
+        <target>Son test edilen sürüm 2022.1'e güncellendi ve en son Eklenti API sürümüyle uyumlu hale getirildi.</target>
+      </segment>
+    </unit>
+    <unit id="115cb36e-a729-43e2-bd65-033527581559">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.9 ###</source>
+        <target>1.9 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="dfbd5c46-35f6-4fea-b438-e41572f1fb00">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Localization and documentation updates.</source>
+        <target>Yerelleştirme ve Belge güncellemeleri.</target>
+      </segment>
+    </unit>
+    <unit id="ce9edf04-0f9d-4508-9aa2-f0f9dbfed230">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.8 ###</source>
+        <target>1.8 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="18799923-0c6e-43b1-b903-8aedc5cc5e08">
+      <notes>
+        <note appliesTo="source">line: 99</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add a check box in setting panel, to let advanced users preserve their data folder.</source>
+        <target>İleri düzey kullanıcıların veri klasörlerini korumalarına izin vermek için ayar paneline bir onay kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="8f673ef9-d33b-4726-850f-0840a6388136">
+      <notes>
+        <note appliesTo="source">line: 100</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add two new entries in input gestures:</source>
+        <target>Girdi hareketlerine iki yeni komut eklendi:</target>
+      </segment>
+    </unit>
+    <unit id="1792f8c3-22e7-421a-b4f9-007f80989985">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>trigger search menu for clipboard text, press twice searches Google directly.</source>
+        <target>panodaki metin için arama menüsünü açar. İki kez basılırsa metin doğrudan Google'da aranır.</target>
+      </segment>
+    </unit>
+    <unit id="a1b4420f-a56b-4a5d-9526-25e9b999cff8">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Trigger search menu for last spoken text, press twice searches Google directly.</source>
+        <target>Son söylenen için arama menüsünü açar. İki kez basılırsa metin doğrudan Google'da aranır.</target>
+      </segment>
+    </unit>
+    <unit id="34874889-f9c6-4a2d-8bbe-3597b3df980b">
+      <notes>
+        <note appliesTo="source">line: 104</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.7 ###</source>
+        <target>1.7 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="05fbb907-6cd7-47f1-b192-168e0dc38d9d">
+      <notes>
+        <note appliesTo="source">line: 106</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Make a combo box in addon's setting, to choose an option for default query in search with dialog.</source>
+        <target>İle Ara iletişim kutusunda varsayılan sorgu için bir seçim kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="185480fa-a533-45de-a8fe-02a91cba6e69">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>You can select either Leave blank, Use clipboard text, or Use last spoken text.</source>
+        <target>Boş bırak, Pano metnini kullan veya Son konuşulan metni kullan'ı seçebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="7b9b2c50-a003-41b5-a208-33f1fa5eb231">
+      <notes>
+        <note appliesTo="source">line: 109</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.6 ###</source>
+        <target>1.6 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="37c61550-8c42-4b3a-966a-8c7d563f508d">
+      <notes>
+        <note appliesTo="source">line: 111</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add tew new sites or search engines:</source>
+        <target>Yeni siteler veya arama motorları ekleyin:</target>
+      </segment>
+    </unit>
+    <unit id="fab965c2-5e84-4650-945f-273d9d8d4d3d">
+      <notes>
+        <note appliesTo="source">line: 112</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>Google Translate</source>
+        <target>Google Çeviri</target>
+      </segment>
+    </unit>
+    <unit id="46f31db3-a3d7-40de-95ef-468f5e74f252">
+      <notes>
+        <note appliesTo="source">line: 113</note>
+        <note appliesTo="source">prefix: 	*	</note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA Issues On GitHub</source>
+        <target>GitHub'da NVDA sorunları</target>
+      </segment>
+    </unit>
+    <unit id="cd1a9d0c-d894-4cfa-a775-a17d14aa753b">
+      <notes>
+        <note appliesTo="source">line: 114</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Use script decorators, instead of traditional script gesture way.</source>
+        <target>Geleneksel komut dosyası hareketi yolu yerine komut dosyası dekoratörlerini kullanın.</target>
+      </segment>
+    </unit>
+    <unit id="2ee953c7-48a7-4b1d-9631-b7f22bf1c676">
+      <notes>
+        <note appliesTo="source">line: 116</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.5 ###</source>
+        <target>1.5 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="e879dd81-a0be-47ff-bab7-143c38d32167">
+      <notes>
+        <note appliesTo="source">line: 118</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Fixing a serious bug, by escaping special characters in the query string, before including it in the url.</source>
+        <target>URL'ye eklemeden önce sorgu dizesindeki özel karakterlerden kaçınarak ciddi bir hata düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="2a6ec839-74ec-4de9-8840-46378a35dda8">
+      <notes>
+        <note appliesTo="source">line: 120</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.4 ###</source>
+        <target>1.4 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="e7d7c5bb-a429-476e-bc2d-5efaeaba4982">
+      <notes>
+        <note appliesTo="source">line: 122</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add localization updates .</source>
+        <target>Yerelleştirme güncellemeleri eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="5d7d0c64-ca7b-45b1-bf52-fc28cb3d3bca">
+      <notes>
+        <note appliesTo="source">line: 123</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Remove some doc strings under script functions, not suitable be shown in input gestures.</source>
+        <target>Girdi hareketleri iletişim kutusunda, gösterilmeye uygun olmayan bazı belge dizeleri script fonksiyonlarının altından kaldırıldı.</target>
+      </segment>
+    </unit>
+    <unit id="bc9ebdc4-ab16-407b-a5ce-2b7c92ceabaa">
+      <notes>
+        <note appliesTo="source">line: 125</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.2 ###</source>
+        <target>1.2 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="dcda6cd9-1ddc-484a-9cf8-f7421c5214a1">
+      <notes>
+        <note appliesTo="source">line: 127</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add translations for Portuguese (Brazil), Portuguese (Portugal), and Turkish.</source>
+        <target>Portekizce (Brezilya), Portekizce (Portekiz) ve Türkçe için çeviriler eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="e9038385-fb44-40d4-9f9b-ea96937da16d">
+      <notes>
+        <note appliesTo="source">line: 128</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add translations for Chinese (Simplified, China)</source>
+        <target>Çince için çeviriler eklendi (Basitleştirilmiş, Çince)</target>
+      </segment>
+    </unit>
+    <unit id="9d16af83-771f-4d32-92e2-c5c37b3d4018">
+      <notes>
+        <note appliesTo="source">line: 130</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 0.7 ###</source>
+        <target>0.7 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="ab43c107-840f-40f3-84fb-c599b6717850">
+      <notes>
+        <note appliesTo="source">line: 132</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add more sites that could be added to menu, such as Stackoverflow, Stackexchange, GoogleBooks and others.</source>
+        <target>Stackoverflow, Stackexchange, GoogleBooks ve diğerleri gibi menüye eklenebilecek daha fazla site eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="3af828cf-663f-4e17-9a6a-9e02f15b9ec8">
+      <notes>
+        <note appliesTo="source">line: 133</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add the options to use last spoken text as default query, in search with dialog.</source>
+        <target>İletişim kutusuyla aramada, son konuşulan metni varsayılan sorgu olarak kullanma seçeneği eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="4dab6dc3-8fa9-4606-a511-7adffdc4b3f7">
+      <notes>
+        <note appliesTo="source">line: 135</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 0.4 ###</source>
+        <target>0.4 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="68d1afc6-7ecd-4af7-8aea-17f70f75681a">
+      <notes>
+        <note appliesTo="source">line: 137</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add a dialog if no text selected, to enter a search query.</source>
+        <target>Herhangi bir metin seçilmemişse, bir arama sorgusu girmek için bir iletişim kutusu eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="f853886f-c601-4d5f-a080-d9b3abe83676">
+      <notes>
+        <note appliesTo="source">line: 138</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Make possible to modify Search with menu from setting panel, to fit to user needs.</source>
+        <target>Kullanıcı ihtiyaçlarına göre ile Ara ayar panelinden menüyü deyiştirmek mümkün kılındı.</target>
+      </segment>
+    </unit>
+    <unit id="ca043b25-4487-468e-b883-6bf7216ee9f4">
+      <notes>
+        <note appliesTo="source">line: 140</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 0.3 ###</source>
+        <target>0.3 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="a8641c22-dd8d-4b88-9573-eccbc6346445">
+      <notes>
+        <note appliesTo="source">line: 142</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Add setting panel, giving more language options in Google search.</source>
+        <target>Google aramada daha fazla dil seçeneği sunan ayar paneli eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="6a8c305e-f585-4b71-98ce-2d50eec01123">
+      <notes>
+        <note appliesTo="source">line: 144</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 0.1 ###</source>
+        <target>0.1 için değişiklikler ###</target>
+      </segment>
+    </unit>
+    <unit id="de7c457f-4942-49b9-9274-d53d1c84d11f">
+      <notes>
+        <note appliesTo="source">line: 146</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="translated">
+        <source>Initial version</source>
+        <target>İlk sürüm</target>
+      </segment>
+    </unit>
+    <unit id="101f223a-21a2-4156-9818-efce90a24413">
+      <notes>
+        <note appliesTo="source">line: 148</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://github.com/ibrahim-s/searchWith/releases/download/2.5.3/searchWith-2.5.3.nvda-addon</source>
+        <target>[1]: https://github.com/ibrahim-s/searchWith/releases/download/2.5.3/searchWith-2.5.3.nvda-addon</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

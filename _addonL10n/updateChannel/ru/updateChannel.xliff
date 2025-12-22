@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ru">
+  <file id="updateChannel.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/updateChannel/updateChannel.md">
+    <skeleton>
+* $(ID:aac4233d-3214-4664-8094-43c287f8afbb)
+* $(ID:3f6251e8-dbed-4a73-8acb-a8906f524196)
+* $(ID:c36997a2-0960-4ff4-b50f-8c10aa6b6d5d)
+
+$(ID:c68d87e2-8821-4617-8a92-834dc50b58e5)
+
+## $(ID:839cf04c-d079-47b8-b041-45a97fef13df)
+
+$(ID:36c057e4-caf6-43e9-a517-e01706525677)
+
+* $(ID:c4b96476-94e9-48ca-8158-5010386fa112)
+* $(ID:3edf6e64-2de1-455b-aaf6-f39c405d5289)
+* $(ID:4af91d2d-93ce-4a58-a1f5-a1164c4eff4d)
+* $(ID:959ad8fa-eaf0-42d6-b60e-ea4e971f7375)
+* $(ID:d295c574-4d5f-4d2c-8357-8f7e6f2454e5)
+
+$(ID:677c00f8-c8ca-47f2-9b6e-c9ca58e77e76)
+
+* $(ID:a25f02b2-0c54-4c16-ab31-503330b8100e)
+* $(ID:25bd4e58-d786-4bb8-8cfd-73979c6c6791)
+
+## $(ID:a792e27a-182d-4d71-b916-6ce6366aab32)
+
+### $(ID:ed8307ee-d620-4e7f-b5ac-8dacad4839ce)
+
+* $(ID:54944219-62d8-4979-a3c8-321a58845d0f)
+* $(ID:a1fa5c4f-83d2-412b-a971-281cd71fee0c)
+* $(ID:b47e9328-b906-41fb-965b-bf0d28f5af2b)
+
+### $(ID:5031b322-c3d4-4fc8-ad5d-79f028098925)
+
+* $(ID:5ca1f71e-c7dc-4f2d-9f39-dd3a0651f45b)
+* $(ID:c03c2793-016d-4c2d-95c1-ea580515aaf0)
+
+### $(ID:592dee29-ceb9-4e70-a3a0-1b59a291c584)
+
+* $(ID:fde4d000-2fa3-4fb9-a8b9-ca4d75b5f1e3)
+* $(ID:1c1e2094-bb51-4d6d-b195-2ea3f3ec328d)
+* $(ID:4ffdb2aa-da16-45b7-ace9-ff43f7fead80)
+* $(ID:7f31cec6-7562-4f0d-9ef2-92733cbd1be0)
+
+### $(ID:b39055c3-174f-4d90-80f4-c9eb6be8c541)
+
+* $(ID:4bff76cc-c287-4ca3-ab42-a1de67bb724c)
+* $(ID:12065fea-3aaa-49f3-b18e-68ef435a683f)
+* $(ID:374ac0d6-ed27-46ec-a7c1-f2697c1f86a6)
+
+### $(ID:7128a1b4-d82e-4b9f-a78f-cf4ac289c697)
+
+* $(ID:5ad7b1b0-88b8-4b40-bbe2-0b306c669ffa)
+
+$(ID:f0698abc-1bbd-452a-9fb0-7d3f52f47f0b)
+
+$(ID:9efdd97f-9ce2-4df4-b3a1-331690cdd620)
+</skeleton>
+    <unit id="aac4233d-3214-4664-8094-43c287f8afbb">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Jose Manuel Delicado</source>
+        <target>Автор: Jose Manuel Delicado</target>
+      </segment>
+    </unit>
+    <unit id="3f6251e8-dbed-4a73-8acb-a8906f524196">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2022.4 and beyond</source>
+        <target>Совместимость с NVDA: 2022.4 и выше</target>
+      </segment>
+    </unit>
+    <unit id="c36997a2-0960-4ff4-b50f-8c10aa6b6d5d">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>Загрузить [стабильную версию][1]</target>
+      </segment>
+    </unit>
+    <unit id="c68d87e2-8821-4617-8a92-834dc50b58e5">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on allows you to download and install the latest NVDA version of the chosen type without visiting any webpage nor using your web browser. It is useful when, for example, you want to test new features in a NVDA snapshot and then return back to the most recent stable release. If you test regularly NVDA snapshots and you usually install them in your computer, you will save a lot of time with this add-on. If you prefer testing snapshots in portable mode keeping your installed copy of NVDA unchanged, this add-on is for you as well.</source>
+        <target>Это дополнение позволяет вам загружать и устанавливать последнюю версию NVDA выбранного типа, не посещая веб-страницы и не используя веб-браузер. Это полезно, когда, например, вы хотите протестировать новые функции в снимке NVDA, а затем вернуться к самой последней стабильной версии. Если вы регулярно тестируете снимки NVDA и обычно устанавливаете их на свой компьютер, вы сэкономите много времени с этим дополнением. Если вы предпочитаете тестировать снимки в переносном режиме, сохраняя установленную копию NVDA неизменной, это дополнение также для вас.</target>
+      </segment>
+    </unit>
+    <unit id="839cf04c-d079-47b8-b041-45a97fef13df">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Usage</source>
+        <target>Использование</target>
+      </segment>
+    </unit>
+    <unit id="36c057e4-caf6-43e9-a517-e01706525677">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>You can change the NVDA update channel by going to NVDA menu, Preferences, Settings, Update channel category. Once you choose the desired channel and press OK, wait until the next automatic update check or go to NVDA help menu and choose "Check for updates" option. For now, these are the available channels:</source>
+        <target>Вы можете изменить канал обновления NVDA, перейдя в меню NVDA, "Параметры", "Настройки", "Канал обновления". Выбрав нужный канал и нажав OK, дождитесь следующей автоматической проверки обновлений или перейдите в меню справки NVDA и выберите пункт "Проверить наличие обновлений". На данный момент доступны следующие каналы:</target>
+      </segment>
+    </unit>
+    <unit id="c4b96476-94e9-48ca-8158-5010386fa112">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Default: this is the default channel used by your NVDA version. Choosing this option means the same as disabling the add-on.</source>
+        <target>По умолчанию: это канал по умолчанию, используемый вашей версией NVDA. Выбор этой опции означает то же самое, что и отключение дополнения.</target>
+      </segment>
+    </unit>
+    <unit id="3edf6e64-2de1-455b-aaf6-f39c405d5289">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Stable: force update channel to stable. Useful when you want to return to a stable version from a snapshot.</source>
+        <target>Стабильный: заставить канал обновления стать стабильным. Полезно, когда вы хотите вернуться к стабильной версии из снимка.</target>
+      </segment>
+    </unit>
+    <unit id="4af91d2d-93ce-4a58-a1f5-a1164c4eff4d">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Rc and beta: this is the channel for beta releases. You will receive the first beta version once it is released. This channel allows you to update through betas and release candidates until you reach the next stable version.</source>
+        <target>Релиз-кандидат и бета-версия: это канал для бета-релизов. Вы получите первую бета-версию, как только она будет выпущена. Этот канал позволяет вам обновляться через бета-версии и Релиз-кандидат, пока вы не достигнете следующей стабильной версии.</target>
+      </segment>
+    </unit>
+    <unit id="959ad8fa-eaf0-42d6-b60e-ea4e971f7375">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alpha (snapshots): choose this option to update to the latest alpha. Alpha snapshots allows you to test new features, but they are quite unstable. Please, be careful.</source>
+        <target>Альфа (снапшоты): выберите этот вариант, чтобы обновить до последней альфа-версии. Альфа-снимки позволяют тестировать новые функции, но они довольно нестабильны. Пожалуйста, будьте осторожны.</target>
+      </segment>
+    </unit>
+    <unit id="d295c574-4d5f-4d2c-8357-8f7e6f2454e5">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Disable updates (not recommended): this option disables the update channel. If you check for updates an error message will be displayed. Remember that you can disable automatic updates from the General settings category. Use this option only with testing purposes.</source>
+        <target>Отключить обновления (не рекомендуется): этот параметр отключает канал обновления. Если вы проверите наличие обновлений, появится сообщение об ошибке. Помните, что вы можете отключить автоматические обновления в категории общих настроек. Используйте эту опцию только в целях тестирования.</target>
+      </segment>
+    </unit>
+    <unit id="677c00f8-c8ca-47f2-9b6e-c9ca58e77e76">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="final">
+        <source>Information about available updates for each channel will be retrieved in the background once the settings panel is opened. Press tab to navigate to a read only edit field, where you can see this information. This information will be dynamically updated when you change the update channel from the combo box. If there is an update available for the selected channel, one or two links will appear next to the edit field:</source>
+        <target>Информация о доступных обновлениях для каждого канала будет получена в фоновом режиме после открытия панели настроек. Нажмите клавишу Tab, чтобы перейти к полю редактирования только для чтения, где вы можете увидеть эту информацию. Эта информация будет динамически обновляться при изменении канала обновления из поля со списком. Если для выбранного канала доступно обновление, рядом с полем редактирования появятся одна или две ссылки:</target>
+      </segment>
+    </unit>
+    <unit id="a25f02b2-0c54-4c16-ab31-503330b8100e">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download: press spacebar on this link to open it in your web browser and download the latest installer.</source>
+        <target>Загрузить: нажмите пробел на этой ссылке, чтобы открыть ее в веб-браузере и загрузить последнюю версию установщика.</target>
+      </segment>
+    </unit>
+    <unit id="25bd4e58-d786-4bb8-8cfd-73979c6c6791">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>View changelog: press spacebar on this link to open the What's new document in your web browser. For some channels, this link won't be displayed.</source>
+        <target>Просмотр журнала изменений: нажмите пробел на этой ссылке, чтобы открыть документ Что нового в веб-браузере. Для некоторых каналов эта ссылка не будет отображаться.</target>
+      </segment>
+    </unit>
+    <unit id="a792e27a-182d-4d71-b916-6ce6366aab32">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changelog</source>
+        <target>Список изменений</target>
+      </segment>
+    </unit>
+    <unit id="ed8307ee-d620-4e7f-b5ac-8dacad4839ce">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.4</source>
+        <target>Версия 1.4</target>
+      </segment>
+    </unit>
+    <unit id="54944219-62d8-4979-a3c8-321a58845d0f">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="a1fa5c4f-83d2-412b-a971-281cd71fee0c">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>Совместимость с NVDA 2023.1.</target>
+      </segment>
+    </unit>
+    <unit id="b47e9328-b906-41fb-965b-bf0d28f5af2b">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For security reasons, minimum NVDA version is set to 2022.4.</source>
+        <target>В целях безопасности минимальная версия NVDA установлена на 2022.4.</target>
+      </segment>
+    </unit>
+    <unit id="5031b322-c3d4-4fc8-ad5d-79f028098925">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.3</source>
+        <target>Версия 1.3</target>
+      </segment>
+    </unit>
+    <unit id="5ca1f71e-c7dc-4f2d-9f39-dd3a0651f45b">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="c03c2793-016d-4c2d-95c1-ea580515aaf0">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug which prevented creating portable copies from alpha snapshots.</source>
+        <target>Исправлена ошибка, не позволявшая создавать переносные копии из альфа-версий.</target>
+      </segment>
+    </unit>
+    <unit id="592dee29-ceb9-4e70-a3a0-1b59a291c584">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.2</source>
+        <target>Версия 1.2</target>
+      </segment>
+    </unit>
+    <unit id="fde4d000-2fa3-4fb9-a8b9-ca4d75b5f1e3">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="1c1e2094-bb51-4d6d-b195-2ea3f3ec328d">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2022.1.</source>
+        <target>Совместимость с NVDA 2022.1.</target>
+      </segment>
+    </unit>
+    <unit id="4ffdb2aa-da16-45b7-ace9-ff43f7fead80">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For security reasons, minimum NVDA version is set to 2021.3.</source>
+        <target>В целях безопасности минимальная версия NVDA установлена на 2021.3.</target>
+      </segment>
+    </unit>
+    <unit id="7f31cec6-7562-4f0d-9ef2-92733cbd1be0">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Workaround for a bug in the NV Access server which caused version 2019.2.1 to be offered when updating from alpha to stable.</source>
+        <target>Обходной путь для ошибки на сервере NV Access, из-за которой предлагалась версия 2019.2.1 при обновлении с альфа-версии до стабильной.</target>
+      </segment>
+    </unit>
+    <unit id="b39055c3-174f-4d90-80f4-c9eb6be8c541">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.1</source>
+        <target>Версия 1.1</target>
+      </segment>
+    </unit>
+    <unit id="4bff76cc-c287-4ca3-ab42-a1de67bb724c">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed unsupported channels.</source>
+        <target>Удалены неподдерживаемые каналы.</target>
+      </segment>
+    </unit>
+    <unit id="12065fea-3aaa-49f3-b18e-68ef435a683f">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="374ac0d6-ed27-46ec-a7c1-f2697c1f86a6">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added information of currently available updates to the settings panel.</source>
+        <target>В панель настроек добавлена информация о доступных на данный момент обновлениях.</target>
+      </segment>
+    </unit>
+    <unit id="7128a1b4-d82e-4b9f-a78f-cf4ac289c697">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.0</source>
+        <target>Версия 1.0</target>
+      </segment>
+    </unit>
+    <unit id="5ad7b1b0-88b8-4b40-bbe2-0b306c669ffa">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>Первоначальная версия.</target>
+      </segment>
+    </unit>
+    <unit id="f0698abc-1bbd-452a-9fb0-7d3f52f47f0b">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+      </notes>
+      <segment state="final">
+        <source>[[!tag dev stable]]</source>
+        <target>[[!tag dev stable]]</target>
+      </segment>
+    </unit>
+    <unit id="9efdd97f-9ce2-4df4-b3a1-331690cdd620">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=updchannelselect</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=updchannelselect</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

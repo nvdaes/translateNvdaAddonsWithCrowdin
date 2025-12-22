@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="clipContentsDesigner.md" original="https://raw.githubusercontent.com/nvaccess/nvda/d855e6f22dff2a9197507a4634b3cd83924fd097/addons/clipContentsDesigner/clipContentsDesigner.md">
+    <skeleton>
+# $(ID:4c8d1be9-73a6-491a-a949-96258e35a98d)
+*	$(ID:18199327-3830-48d2-a80c-8bb62f8a69c6)
+
+$(ID:79ace965-e741-4972-9080-d9aa92b8f9ab)
+$(ID:b5cafb2a-3588-422b-b65b-f9bd54df720a)
+
+## $(ID:544d0723-5914-4744-afeb-f43bf70fcfc5)
+*	$(ID:3a92eeb1-0cb5-47ac-9a84-06cbdaff9769)
+*	$(ID:e55d9007-2c0d-461f-a89d-9ffb4871cb7a)
+*	 $(ID:648eb6b4-f932-436b-8162-5edbf81c3a78)
+*	 $(ID:e3fe5a8f-d523-44a4-b7b6-22ea76935396)
+*	 $(ID:66604071-7c2c-4ff6-a7f7-f066df4e55bd)
+
+
+## $(ID:d9a5e248-096b-452b-9889-e5027cf64bd0)
+
+$(ID:3dcda967-c8aa-40c5-9e59-b8a744c86c88)
+
+$(ID:9c2e49f9-8693-4258-9580-bf7f895d21e1)
+
+* $(ID:a64a2fce-7f48-4277-895a-543caf076d93)
+* $(ID:21e3ff61-d967-40ae-a945-5a68b02d76ee)
+* $(ID:af041fd6-fc6c-4bd7-8e1c-31c538300d37)
+* $(ID:bf49aa9b-8105-4a5d-8c1f-eb2d1280d31e)
+* $(ID:0f8e78cf-0276-415a-a76a-75618eb62bc9)
+* $(ID:23244838-39e3-40e7-9515-eda5e68cb37d)
+* $(ID:829de254-0b58-441f-b865-e7af0d5ee46c)
+
+$(ID:3a1cbbf7-71f2-4b49-b260-8e08e98de20b)
+
+*	$(ID:83cfc341-d3c2-4cbb-a5f4-af3df52faec2)
+* $(ID:d70c979b-5918-4ee3-8f81-78d33d8cd017)
+
+## $(ID:88d0b786-c4a1-4475-a2d9-66a8d116c664)
+* $(ID:e61c4a5f-52c6-410b-b712-6925ad01ac73)
+* $(ID:37bebb31-971e-49cc-9c2e-c99b411b6f65)
+
+
+## $(ID:9c55ce8d-b74a-4974-b0b4-99fec07f4bd0)
+* $(ID:9433de32-b015-4092-8ab9-06d134fdbc2f)
+
+## $(ID:0b21507b-7ab5-431c-9145-6062983dc1d5)
+* $(ID:c1bbdf35-b05c-4fb2-a14a-bbe03e3146ad)
+* $(ID:616704af-7512-4d25-b929-763e04ada094)
+
+## $(ID:060d9f80-282f-433a-81d5-2a2144d7992b)
+* $(ID:72049308-f2b9-4faa-88fc-77aea3c1ea8a)
+
+## $(ID:78218b39-6355-46b5-bd52-19cdf38c5854)
+* $(ID:110bdb90-c758-4778-b4b3-33e0c5042c8c)
+
+## $(ID:85b97a14-32a2-494e-8a2c-8f4d4f20c50c)
+* $(ID:ea8e78cb-99d8-45d0-98fc-46471c4ece6f)
+* $(ID:07239a63-5af2-47c5-9710-a5d29e5ae674)
+
+## $(ID:50fb8775-c1c0-4b20-8dd6-a5b9589dd6e4)
+* $(ID:94a82e45-6386-4414-8e62-e677ab5ca04a)
+
+## $(ID:a13e5fe7-eebc-42f8-842c-a7404857a8e4)
+* $(ID:f5744194-6939-4784-a8bc-a8ab1b314d95)
+* $(ID:c4860aa6-b8d9-4567-a56b-e76a43da5820)
+* $(ID:3e025161-5641-4d3c-8cb7-01601899924f)
+* $(ID:dff746de-0a37-4f30-bea6-b11682ff9ea1)
+* $(ID:1aaf8afc-1ca3-45cc-bc88-559fb97b13c5)
+
+## $(ID:1d04db62-25ab-4fa2-a0af-fadfa1e57f39)
+* $(ID:678b85a2-9ed9-4236-9564-bc140377e309)
+
+## $(ID:21fad360-d67b-43a6-a867-032e89938b69)
+* $(ID:013a9976-f480-4e32-8ddb-bd2fe80c1679)
+* $(ID:54139217-d47e-4294-b56f-667bd7d61ca4)
+
+## $(ID:9e7afd59-cede-4cc2-b15f-1160dba9f886)
+* $(ID:62667cb2-b188-4408-a1b2-deb6786d21de)
+* $(ID:ebdb8ab9-c832-4609-ba53-cbe7400b4d6a)
+
+## $(ID:6f8861cb-3966-4428-ae61-b99ca53101cc)
+
+* $(ID:78b03359-ba12-462f-bd22-398a772242b5)
+* $(ID:cc13963c-7b84-455e-a342-991c02162d7b)
+* $(ID:365287af-fc78-49e8-a8bb-22533eb5e8bd)
+
+## $(ID:ee18f2cf-6597-420f-aa6f-41e57a43cc7b)
+
+* $(ID:c846494d-195c-4886-92b2-2f91547ec976)
+* $(ID:7d2500a6-35d5-4b15-88e3-195ab692ae0e)
+
+## $(ID:9e36927a-fd90-4357-9985-925555857240)
+
+* $(ID:05c134d1-3545-46de-bd14-78c478af93a2)
+
+## $(ID:284b596a-5018-4bf6-85da-6d1abe65e5fc)
+
+*	 $(ID:d6266c16-fc02-4dc9-83bc-fc55c6ffdb91)
+*	$(ID:d9145e30-2209-4993-a276-36ecc21b3300)
+*	 $(ID:a46ad47d-8808-4d49-a16c-b220b4239647)
+*	$(ID:cf11d9ef-347d-410d-83af-1105ea5ce1bd)
+
+## $(ID:eb130246-33a8-42ef-94de-8f6b74b7e37d)
+
+*	$(ID:2c92441c-5174-407f-8a0d-9fd20555660b)
+*	$(ID:4351ba1f-b513-4406-b3f8-680e1b48a499)
+
+## $(ID:baf3972d-8d5f-4064-9537-a9c0c2e6844c)
+*	$(ID:37bdddc0-3282-4f6e-acd9-06b6f82e1d6d)
+*	$(ID:fa2424f0-eb04-4c0b-8523-a664ae14f873)
+
+## $(ID:70b962f3-e96e-4e76-9e10-7303864672a2)
+*	$(ID:51f081c0-780d-4468-97e6-7960edd48406)
+*	$(ID:4a64e4d5-2de2-4a05-a7e5-e665ad44fa92)
+*	$(ID:98be79b3-4c2a-42d3-8d11-e899f86ebc3d)
+*	$(ID:335e0dc7-8de4-42ea-bc2b-a37bc992e7b1)
+
+## $(ID:3e3844d1-6b9f-4c46-84cb-6ad26cbf82f9)
+*	$(ID:8459196f-8b1d-40d1-8611-236a7a8514ca)
+
+## $(ID:556177f1-82fe-4025-b0f9-87f193e2f5a1)
+*	$(ID:8c8ed892-b362-47ff-a66a-4bdb51c9f033)
+
+</skeleton>
+    <unit id="4c8d1be9-73a6-491a-a949-96258e35a98d">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Clip Contents Designer #</source>
+        <target>剪贴板内容编辑器 #</target>
+      </segment>
+    </unit>
+    <unit id="18199327-3830-48d2-a80c-8bb62f8a69c6">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Authors: Noelia, Abdel.</source>
+        <target>作者: Noelia、Abdel。</target>
+      </segment>
+    </unit>
+    <unit id="79ace965-e741-4972-9080-d9aa92b8f9ab">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on is used to add text to the clipboard, which can be useful when you want to join sections of text together ready for pasting.</source>
+        <target>此插件用于向剪贴板添加文本，当您希望将文本部分连接在一起以准备粘贴时，这可能很有用。</target>
+      </segment>
+    </unit>
+    <unit id="b5cafb2a-3588-422b-b65b-f9bd54df720a">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="final">
+        <source>The clipboard content can also be cleared an shown in browse mode.</source>
+        <target>剪贴板内容也可以清除或者用浏览模式逐字逐句查看。</target>
+      </segment>
+    </unit>
+    <unit id="544d0723-5914-4744-afeb-f43bf70fcfc5">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Keyboard commands ##</source>
+        <target>键盘快捷键 ##</target>
+      </segment>
+    </unit>
+    <unit id="3a92eeb1-0cb5-47ac-9a84-06cbdaff9769">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+windows+c: Add selected text, Unicode braille characters which represent MathML objects, or the string which has been marked with the review cursor, to the clipboard.</source>
+        <target>NVDA+windows+c: 将选定的文本，表示MathML对象的Unicode盲文字符或已使用浏览光标标记的字符串添加到剪贴板。</target>
+      </segment>
+    </unit>
+    <unit id="e55d9007-2c0d-461f-a89d-9ffb4871cb7a">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+windows+x: Clear clipboard contents.</source>
+        <target>NVDA+windows+x: 清除剪贴板内容。</target>
+      </segment>
+    </unit>
+    <unit id="648eb6b4-f932-436b-8162-5edbf81c3a78">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="final">
+        <source>Not assigned: Copies to (or cuts from) the clipboard, with the possibility of being asked for a previous confirmation.</source>
+        <target>未分配：复制到剪贴板（或从剪贴板剪切），可能需要事先确认。</target>
+      </segment>
+    </unit>
+    <unit id="e3fe5a8f-d523-44a4-b7b6-22ea76935396">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="final">
+        <source>Not assigned: Shows the clipboard text as HTML in browse mode, or announces if clipboard is empty or has contents which can't be presented in a browseable message, for instance if files or folders are been copied from Windows Explorer.</source>
+        <target>未分配：在浏览模式下以 HTML 格式显示剪贴板文本；若剪贴板为空或包含不可浏览内容（例如从 Windows 资源管理器复制的文件或文件夹），则会进行语音提示。</target>
+      </segment>
+    </unit>
+    <unit id="66604071-7c2c-4ff6-a7f7-f066df4e55bd">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="final">
+        <source>Not assigned: Shows the textual clipboard contents as plain text in browse mode, or announces if clipboard is empty or has contents which can't be presented in a browseable message, for instance if files or folders are been copied from Windows Explorer.</source>
+        <target>未分配：在浏览模式下以纯文本格式显示剪贴板文本；若剪贴板为空或包含不可浏览内容（例如从 Windows 资源管理器复制的文件或文件夹），则会进行语音提示。</target>
+      </segment>
+    </unit>
+    <unit id="d9a5e248-096b-452b-9889-e5027cf64bd0">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Clip Contents Designer settings ##</source>
+        <target>剪贴板内容编辑器设置 ##</target>
+      </segment>
+    </unit>
+    <unit id="3dcda967-c8aa-40c5-9e59-b8a744c86c88">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="final">
+        <source>This panel is available from NVDA's menu, Preferences submenu, Settings dialog.</source>
+        <target>此面板可通过 NVDA 菜单、选项子菜单、设置对话框访问。</target>
+      </segment>
+    </unit>
+    <unit id="9c2e49f9-8693-4258-9580-bf7f895d21e1">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+      </notes>
+      <segment state="final">
+        <source>It contains the following controls:</source>
+        <target>包含以下选项：</target>
+      </segment>
+    </unit>
+    <unit id="a64a2fce-7f48-4277-895a-543caf076d93">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Type the string to be used as a separator between contents added to the clipboard: Allows to set a separator which can be used to find the text segments once the entire added text is pasted.</source>
+        <target>输入用作剪贴板内容分隔符的字符串：可设置分隔符，用于在粘贴全部添加文本后定位文本段落。</target>
+      </segment>
+    </unit>
+    <unit id="21e3ff61-d967-40ae-a945-5a68b02d76ee">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Add text before clip data: It's also possible to choose if the added text will be appended or prepended.</source>
+        <target>在剪贴数据前添加文本：还可选择添加文本是追加至末尾还是插入至开头。</target>
+      </segment>
+    </unit>
+    <unit id="af041fd6-fc6c-4bd7-8e1c-31c538300d37">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Select the actions which require previous confirmation: You can choose, for each action available, if it should be performed inmediately or after confirmation. Available actions are: add text, clear clipboard, emulate copy and emulate cut.</source>
+        <target>选择需要预先确认的操作：您可为每个可用操作选择立即执行或确认后执行。可用操作包括：添加文本、清空剪贴板、模拟复制和模拟剪切。</target>
+      </segment>
+    </unit>
+    <unit id="bf49aa9b-8105-4a5d-8c1f-eb2d1280d31e">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Request confirmation before performing the selected actions when: You can select if confirmations will be requested always, just if text is contained in the clipboard, or if clipboard is not empty (for example if you've copied a file, not text).</source>
+        <target>在以下情况下执行选定操作前请求确认：可选择始终请求确认、仅当剪贴板包含文本时请求确认、或当剪贴板不为空时请求确认（例如复制了文件而非文本时）。</target>
+      </segment>
+    </unit>
+    <unit id="0f8e78cf-0276-415a-a76a-75618eb62bc9">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Format to show the clipboard text as HTML in browse mode: If you're learning HTML markup language, you may choose Preformatted text in HTML or HTML as shown in a web browser, to have an idea of how your HTML code will be rendered by NVDA in a browser. The difference between preformatted and conventional HTML is that the first option will preserve consecutive spaces and line breaks, and the second one will compact them.  For example, write some HTML tags like h1, h2, li, pre, etc., select and copy the text to clipboard, and use clipContentsDesigner add-on to show the text in a browseable message.</source>
+        <target>在浏览模式下以 HTML 格式显示剪贴板文本：若您正在学习 HTML 标记语言，可选择 HTML 预格式化文本或网页浏览器呈现的 HTML 格式，以了解 NVDA 在浏览器中渲染 HTML 代码的效果。预格式化与常规 HTML 的区别在于：前者会保留连续空格和换行符，后者则会压缩这些空白字符。例如编写 h1、h2、li、pre 等 HTML 标签，选中并复制文本到剪贴板后，使用此插件即可在浏览模式中查看效果。</target>
+      </segment>
+    </unit>
+    <unit id="23244838-39e3-40e7-9515-eda5e68cb37d">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Maximum number of characters when showing clipboard text in browse mode: Please, be aware that increasing this limit may produce issues if the clipboard contains large strings of text. The default limit is 100000 characters.</source>
+        <target>浏览模式下显示剪贴板文本的最大字符数：请注意，若剪贴板包含大段文本，提高此限制可能导致性能问题。默认限制为 100000 个字符。</target>
+      </segment>
+    </unit>
+    <unit id="829de254-0b58-441f-b865-e7af0d5ee46c">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Restore defaults.</source>
+        <target>恢复默认值。</target>
+      </segment>
+    </unit>
+    <unit id="3a1cbbf7-71f2-4b49-b260-8e08e98de20b">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="final">
+        <source>Notes:</source>
+        <target>注意:</target>
+      </segment>
+    </unit>
+    <unit id="83cfc341-d3c2-4cbb-a5f4-af3df52faec2">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Confirmations won't be requested when a message box of NVDA is still opened. In those cases, actions will be inmediately performed.</source>
+        <target>当NVDA消息框仍处于打开状态时，将不会请求确认。此类情况下操作将立即执行。</target>
+      </segment>
+    </unit>
+    <unit id="d70c979b-5918-4ee3-8f81-78d33d8cd017">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Emulate copy and emulate cut commands mean that, when these features are enabled, the add-on will take control of control+c and control+x. This will allow to select if a confirmation should be requested before performing the actions corresponding to these keystrokes.</source>
+        <target>模拟复制和模拟剪切命令意味着启用这些功能时，插件将接管 Ctrl+C 和 Ctrl+X 组合键。这可允许选择在执行这些按键对应操作前是否请求确认。</target>
+      </segment>
+    </unit>
+    <unit id="88d0b786-c4a1-4475-a2d9-66a8d116c664">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 46.0.0</source>
+        <target>版本 46.0.0</target>
+      </segment>
+    </unit>
+    <unit id="e61c4a5f-52c6-410b-b712-6925ad01ac73">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA will sanitize HTML in browseable messages.</source>
+        <target>NVDA 将在浏览模式消息中清理 HTML 内容。</target>
+      </segment>
+    </unit>
+    <unit id="37bebb31-971e-49cc-9c2e-c99b411b6f65">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a button to close browseable messages, in addition to the Escape key.</source>
+        <target>除 Esc 键外，新增可关闭浏览模式消息的按钮。</target>
+      </segment>
+    </unit>
+    <unit id="9c55ce8d-b74a-4974-b0b4-99fec07f4bd0">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 40.0.0</source>
+        <target>版本 40.0.0</target>
+      </segment>
+    </unit>
+    <unit id="9433de32-b015-4092-8ab9-06d134fdbc2f">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added support for Hebrew keyboard.</source>
+        <target>添加了对希伯来语键盘的支持。</target>
+      </segment>
+    </unit>
+    <unit id="0b21507b-7ab5-431c-9145-6062983dc1d5">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 22.0.0</source>
+        <target>版本 22.0.0</target>
+      </segment>
+    </unit>
+    <unit id="c1bbdf35-b05c-4fb2-a14a-bbe03e3146ad">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a button to restore defaults in the add-on settings panel.</source>
+        <target>在插件设置面板中添加了恢复默认值的按钮。</target>
+      </segment>
+    </unit>
+    <unit id="616704af-7512-4d25-b929-763e04ada094">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The add-on cannot be run in secure mode.</source>
+        <target>此插件无法在安全模式下运行。</target>
+      </segment>
+    </unit>
+    <unit id="060d9f80-282f-433a-81d5-2a2144d7992b">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 17.0</source>
+        <target>版本 17.0</target>
+      </segment>
+    </unit>
+    <unit id="72049308-f2b9-4faa-88fc-77aea3c1ea8a">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>与 NVDA 2023.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="78218b39-6355-46b5-bd52-19cdf38c5854">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 16.0</source>
+        <target>版本 16.0</target>
+      </segment>
+    </unit>
+    <unit id="110bdb90-c758-4778-b4b3-33e0c5042c8c">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Reqires NVDA 2022.1 or later.</source>
+        <target>要求 NVDA 2022.1 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="85b97a14-32a2-494e-8a2c-8f4d4f20c50c">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 15.0</source>
+        <target>版本 15.0</target>
+      </segment>
+    </unit>
+    <unit id="ea8e78cb-99d8-45d0-98fc-46471c4ece6f">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The command to add text to clipboard is again presented in the input gestures dialog.</source>
+        <target>将文本添加到剪贴板的命令再次出现在按键与手势对话框中。</target>
+      </segment>
+    </unit>
+    <unit id="07239a63-5af2-47c5-9710-a5d29e5ae674">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed gestures to copy and cut with Persian keyboard, thanks to Mohammadhosein Ghezelsofla.</source>
+        <target>修复了用波斯语键盘复制和剪切的手势，感谢 Mohammadhosein Ghezelsofla。</target>
+      </segment>
+    </unit>
+    <unit id="50fb8775-c1c0-4b20-8dd6-a5b9589dd6e4">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 14.0</source>
+        <target>版本 14.0</target>
+      </segment>
+    </unit>
+    <unit id="94a82e45-6386-4414-8e62-e677ab5ca04a">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2021.1.</source>
+        <target>与 NVDA 2021.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="a13e5fe7-eebc-42f8-842c-a7404857a8e4">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 13.0</source>
+        <target>版本 13.0</target>
+      </segment>
+    </unit>
+    <unit id="f5744194-6939-4784-a8bc-a8ab1b314d95">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed an issue in visual layout of the settings panel, thanks to Cyrille Bougot.</source>
+        <target>修复了设置面板的视觉布局问题，感谢 Cyrille Bougot。</target>
+      </segment>
+    </unit>
+    <unit id="c4860aa6-b8d9-4567-a56b-e76a43da5820">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Improved documentation.</source>
+        <target>文档改进。</target>
+      </segment>
+    </unit>
+    <unit id="3e025161-5641-4d3c-8cb7-01601899924f">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a Clip Contents Designer category to assign input gestures to all commands available for this add-on.</source>
+        <target>新增剪贴板内容编辑器分类，可在此分类为此插件的所有可用命令分配按键或手势。</target>
+      </segment>
+    </unit>
+    <unit id="dff746de-0a37-4f30-bea6-b11682ff9ea1">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed bugs when using emulate copy in browsers if focus mode is active.</source>
+        <target>修复了浏览器中启用焦点模式时使用模拟复制功能存在的错误。</target>
+      </segment>
+    </unit>
+    <unit id="1aaf8afc-1ca3-45cc-bc88-559fb97b13c5">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>You can assign different gestures to show the clipboard textual contents as raw text or formatted in HTML. The Format to show the clipboard text in the settings panel has being modified accordingly, to select the two options available for HTML format.</source>
+        <target>现可为以原始文本格式显示剪贴板文本内容和以 HTML 格式显示剪贴板文本内容分别分配不同快捷键。设置面板中的剪贴板文本显示格式选项已相应调整为两个 HTML 格式选项。</target>
+      </segment>
+    </unit>
+    <unit id="1d04db62-25ab-4fa2-a0af-fadfa1e57f39">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 12.0</source>
+        <target>版本 12.0</target>
+      </segment>
+    </unit>
+    <unit id="678b85a2-9ed9-4236-9564-bc140377e309">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed bugs when using emulate copy in applications like LibreOffice Writer.</source>
+        <target>修复了在 LibreOffice Writer 等应用程序中使用模拟复制时的错误。</target>
+      </segment>
+    </unit>
+    <unit id="21fad360-d67b-43a6-a867-032e89938b69">
+      <notes>
+        <note appliesTo="source">line: 70</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 11.0</source>
+        <target>版本11.0</target>
+      </segment>
+    </unit>
+    <unit id="013a9976-f480-4e32-8ddb-bd2fe80c1679">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Now it's possible to add text marked with the review cursor using standard commands of NVDA (NVDA+f9 and NVDA+f10). NVDA+windows+f9 is no longer used, for a better integration with the new NVDA+shift+f9 command.</source>
+        <target>现可通过 NVDA 标准命令（NVDA+F9 与 NVDA+F10）添加由查看光标标记的文本。NVDA+Windows+F9快捷键已被停用，以实现与新增 NVDA+Shift+F9 命令的更好整合。</target>
+      </segment>
+    </unit>
+    <unit id="54139217-d47e-4294-b56f-667bd7d61ca4">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>需要NVDA 2019.3或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="9e7afd59-cede-4cc2-b15f-1160dba9f886">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 10.0</source>
+        <target>版本10.0</target>
+      </segment>
+    </unit>
+    <unit id="62667cb2-b188-4408-a1b2-deb6786d21de">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug in the dialog used to show the clipboard text, when its title contains non latin characters.</source>
+        <target>修复了用于显示剪贴板文本的对话框中的错误，当其标题包含非拉丁字符时。</target>
+      </segment>
+    </unit>
+    <unit id="ebdb8ab9-c832-4609-ba53-cbe7400b4d6a">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug when using the emulate cut and copy features with an Arabic keyboard layout. This has been fixed by Abdel, added as an add-on author.</source>
+        <target>修复阿拉伯语键盘使用剪辑内容设计器的错误。已由Abdel修复，有插件作者添加。</target>
+      </segment>
+    </unit>
+    <unit id="6f8861cb-3966-4428-ae61-b99ca53101cc">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 9.0</source>
+        <target>版本9.0</target>
+      </segment>
+    </unit>
+    <unit id="78b03359-ba12-462f-bd22-398a772242b5">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added the possibility of showing the clipboard text in browse mode.</source>
+        <target>新增了在浏览模式下显示剪贴板文本的功能。</target>
+      </segment>
+    </unit>
+    <unit id="cc13963c-7b84-455e-a342-991c02162d7b">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added an option to choose if confirmations will be required if clipboard is not empty, for instance, if files or folders are been copied.</source>
+        <target>添加了一个选项，用于选择在剪贴板不为空时追加内容时是否需要确认，例如，剪贴板里面已有复制的文件或文件夹。</target>
+      </segment>
+    </unit>
+    <unit id="365287af-fc78-49e8-a8bb-22533eb5e8bd">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2018.4 or later.</source>
+        <target>需要NVDA 2018.4或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="ee18f2cf-6597-420f-aa6f-41e57a43cc7b">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 8.0 ##</source>
+        <target>版本8.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="c846494d-195c-4886-92b2-2f91547ec976">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The add-on settings are shown in the corresponding category of the NVDA Settings dialog.</source>
+        <target>插件设置显示在NVDA设置对话框的相应类别中。</target>
+      </segment>
+    </unit>
+    <unit id="7d2500a6-35d5-4b15-88e3-195ab692ae0e">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2018.2 or later.</source>
+        <target>需要NVDA 2018.2或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="9e36927a-fd90-4357-9985-925555857240">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 7.0</source>
+        <target>版本7.0</target>
+      </segment>
+    </unit>
+    <unit id="05c134d1-3545-46de-bd14-78c478af93a2">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In the dialog to configure the Emulate copy and Emulate cut functionalities at installation, if you choose no, the commands for these features will be removed, so that you can restore the normal behavior for control+c and control+x.</source>
+        <target>在安装时配置模拟复制和模拟剪切功能的对话框中，如果选择否，将删除这些功能的命令，以便您可以恢复control + c和control + x的正常行为。</target>
+      </segment>
+    </unit>
+    <unit id="284b596a-5018-4bf6-85da-6d1abe65e5fc">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 6.0</source>
+        <target>版本6.0</target>
+      </segment>
+    </unit>
+    <unit id="d6266c16-fc02-4dc9-83bc-fc55c6ffdb91">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="final">
+        <source>Added options to choose if available actions should be performed after confirmation.</source>
+        <target>新增选项：可选择是否需要在确认后执行可用操作。</target>
+      </segment>
+    </unit>
+    <unit id="d9145e30-2209-4993-a276-36ecc21b3300">
+      <notes>
+        <note appliesTo="source">line: 96</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Added Emulate copy and Emulate cut commands, which could be assigned from the Input gestures dialog.</source>
+        <target>新增模拟复制与模拟剪切命令，可通过按键与手势对话框分配快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="a46ad47d-8808-4d49-a16c-b220b4239647">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: *	 </note>
+      </notes>
+      <segment state="final">
+        <source>Added a dialog to configure the Emulate copy and Emulate cut functionalities at installation. This allows to add the control+c and control+x commands to copy and cut, and be asked if you want to replace the clipboard contents when pressing these keystrokes.</source>
+        <target>安装时新增模拟复制与模拟剪切功能配置对话框。此功能可添加 Ctrl+C 与 Ctrl+X 快捷键执行复制/剪切操作，并在触发这些快捷键时询问是否替换剪贴板内容。</target>
+      </segment>
+    </unit>
+    <unit id="cf11d9ef-347d-410d-83af-1105ea5ce1bd">
+      <notes>
+        <note appliesTo="source">line: 98</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Fixed documentation for script_add (Windows+NVDA+c).</source>
+        <target>修正了 script_add 脚本（Windows+NVDA+C 快捷键）的说明文档。</target>
+      </segment>
+    </unit>
+    <unit id="eb130246-33a8-42ef-94de-8f6b74b7e37d">
+      <notes>
+        <note appliesTo="source">line: 100</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0 ##</source>
+        <target>版本5.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="2c92441c-5174-407f-8a0d-9fd20555660b">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>The visual presentation of the dialog has been enhanced, adhering to the appearance of the dialogs shown in NVDA.</source>
+        <target>对话框的视觉呈现得到了增强，并且遵循NVDA中显示的对话框的外观。</target>
+      </segment>
+    </unit>
+    <unit id="4351ba1f-b513-4406-b3f8-680e1b48a499">
+      <notes>
+        <note appliesTo="source">line: 103</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2016.4 or later.</source>
+        <target>需要NVDA 2016.4或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="baf3972d-8d5f-4064-9537-a9c0c2e6844c">
+      <notes>
+        <note appliesTo="source">line: 105</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.0 ##</source>
+        <target>版本4.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="37bdddc0-3282-4f6e-acd9-06b6f82e1d6d">
+      <notes>
+        <note appliesTo="source">line: 106</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Add-on settings are managed from NVDA configuration, so that standard profiles can be used to save different separators, and it's not needed to copy the settings for importing at reinstallation.</source>
+        <target>插件设置由NVDA配置管理，因此标准配置文件可用于保存不同的分隔符，并且不需要在重新安装时复制导入设置。</target>
+      </segment>
+    </unit>
+    <unit id="fa2424f0-eb04-4c0b-8523-a664ae14f873">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Now it's possible to choose if the added text will be appended or prepended, using the Add text before clip data check box from the Clip Contents Designer settings dialog.</source>
+        <target>现在，可以使用“剪辑内容设计器”设置对话框中的“添加剪辑前数据”复选框，选择是添加还是添加文本。</target>
+      </segment>
+    </unit>
+    <unit id="70b962f3-e96e-4e76-9e10-7303864672a2">
+      <notes>
+        <note appliesTo="source">line: 109</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 3.0 ##</source>
+        <target>版本3.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="51f081c0-780d-4468-97e6-7960edd48406">
+      <notes>
+        <note appliesTo="source">line: 110</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Braille representation of MathML objects can be added to the clipboard if MathPlayer is installed.</source>
+        <target>如果安装了MathPlayer，则可以将MathML对象的盲文表示添加到剪贴板。</target>
+      </segment>
+    </unit>
+    <unit id="4a64e4d5-2de2-4a05-a7e5-e665ad44fa92">
+      <notes>
+        <note appliesTo="source">line: 111</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>If no separator is set, just a single line will be placed between the added text segments.</source>
+        <target>如果未设置分隔符，则只会在添加的文本段之间放置一行。</target>
+      </segment>
+    </unit>
+    <unit id="98be79b3-4c2a-42d3-8d11-e899f86ebc3d">
+      <notes>
+        <note appliesTo="source">line: 112</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>A shortcut can be assigned to open the Clip Contents Designer settings dialog.</source>
+        <target>可以指定快捷键来打开“剪辑内容设计器”设置对话框。</target>
+      </segment>
+    </unit>
+    <unit id="335e0dc7-8de4-42ea-bc2b-a37bc992e7b1">
+      <notes>
+        <note appliesTo="source">line: 113</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Added a check box in the settings dialog, for choosing if the separator should be copied to be imported when reinstalling the add-on.</source>
+        <target>在设置对话框中添加了一个复选框，用于选择是否应复制分隔符以在重新安装插件时导入。</target>
+      </segment>
+    </unit>
+    <unit id="3e3844d1-6b9f-4c46-84cb-6ad26cbf82f9">
+      <notes>
+        <note appliesTo="source">line: 115</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.0 ##</source>
+        <target>版本2.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="8459196f-8b1d-40d1-8611-236a7a8514ca">
+      <notes>
+        <note appliesTo="source">line: 116</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Hindi characters can be used as the separator between added contents.</source>
+        <target>印地语字符可以用作添加内容之间的分隔符。</target>
+      </segment>
+    </unit>
+    <unit id="556177f1-82fe-4025-b0f9-87f193e2f5a1">
+      <notes>
+        <note appliesTo="source">line: 118</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.0 ##</source>
+        <target>版本1.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="8c8ed892-b362-47ff-a66a-4bdb51c9f033">
+      <notes>
+        <note appliesTo="source">line: 119</note>
+        <note appliesTo="source">prefix: *	</note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>发布初始版本。</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

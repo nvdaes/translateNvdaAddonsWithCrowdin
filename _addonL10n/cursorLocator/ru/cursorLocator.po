@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 06:33+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: cursorLocator.pot\n"
+"X-Crowdin-File-ID: 224\n"
+
+#. Translators: Description of the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:48
+msgid "Configure {}"
+msgstr "Конфигурировать {}"
+
+#. Translators: Label for a group of Cursor Locator options.
+#: addon/globalPlugins/cursorLocator/__init__.py:55
+msgid "Line properties"
+msgstr "Свойства строки"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:63
+msgid "Report &line length:"
+msgstr "Сообщить &длину строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:69
+msgid "Ma&ximum number of beeps for start of line notification:"
+msgstr "Ма&ксимальное количество звуковых сигналов для оповещения о начале строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:75
+msgid "Max&imum number of beeps for end of line notification:"
+msgstr "Макс&имальное количество звуковых сигналов для оповещения о конце строки:"
+
+#. Translators: Label for a group of Cursor Locator options.
+#: addon/globalPlugins/cursorLocator/__init__.py:80
+msgid "Sound for start of line"
+msgstr "Звук для начала строки"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:88
+msgid "&Pitch of sound for start of line:"
+msgstr "&Высота звука начала строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:94
+msgid "L&ength of sound for start of line:"
+msgstr "Длительность звука &начала строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:99
+msgid "&Test sound for start of line"
+msgstr "&Проверка звука начала строки"
+
+#. Translators: Label for a group of Cursor Locator options.
+#: addon/globalPlugins/cursorLocator/__init__.py:104
+msgid "Sound for end of line"
+msgstr "Звук для конца строки"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:112
+msgid "P&itch of sound for end of line:"
+msgstr "В&ысота звука конца строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:118
+msgid "Le&ngth of sound for end of line:"
+msgstr "Длительность звука &конца строки:"
+
+#. Translators: Label for the Cursor Locator panel.
+#: addon/globalPlugins/cursorLocator/__init__.py:123
+msgid "Test s&ound for end of line"
+msgstr "Проверка &звука конца строки"
+
+#. Translators: Message presented in input mode.
+#: addon/globalPlugins/cursorLocator/__init__.py:160
+msgid "Shows the {} settings."
+msgstr "Показывает настройки {}."
+
+#. Translators: Message presented in input help mode.
+#: addon/globalPlugins/cursorLocator/__init__.py:200
+msgid "Reports the length of the current line."
+msgstr "Объявляет длину текущей строки."
+
+#. Translators: message to report line length.
+#: addon/globalPlugins/cursorLocator/__init__.py:214
+#, python-format
+msgid "Line length: %d"
+msgstr "Длина строки: %d"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Cursor Locator"
+msgstr "Локатор Курсора"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Reports cursor positions while typing on multiline edit controls."
+msgstr "Объявляет положение курсора при вводе текста в многострочных редактируемых элементах управления."
+

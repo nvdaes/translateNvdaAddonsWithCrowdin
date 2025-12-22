@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-31 09:38+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: eMule.pot\n"
+"X-Crowdin-File-ID: 194\n"
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:49
+msgid "Reads the specified column for the current list item."
+msgstr "Читает указанный столбец текущего элемента списка."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:61
+msgid "Copies the last read column of the selected list item to clipboard."
+msgstr "Копирует последний  прочитанный столбец выбранного элемента списка в буфер обмена."
+
+#. Translators: Message presented when the current column of the list item is copied to clipboard.
+#: addon/appModules/emule.py:76
+#, python-format
+msgid "%s copied to clipboard"
+msgstr "%s скопировано в буфер обмена"
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:177
+msgid "Moves the system focus and mouse to the main Tool Bar."
+msgstr "Перемещает системный фокус и мышь на главную панель инструментов."
+
+#. Translators: Message presented in input help mode.
+#. For instance: reads the search window, Statistics, IRC, etc.
+#: addon/appModules/emule.py:193
+msgid "Reports the current window."
+msgstr "Объявляет текущее окно."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:205
+msgid "Moves the system focus to the Name field of the Search window."
+msgstr "Перемещает системный фокус на поле Имя окна поиска."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:229
+msgid "Moves the system focus and mouse to the search parameters list or Edit field for each option, in the Search window."
+msgstr "Перемещает системный фокус и мышь к списку параметров поиска или полю редактирования для каждой опции окна поиска."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:257
+msgid "Moves the system focus to the first list in the current window. For example the results list in the Search window, downloads in Transfer, etc."
+msgstr "Перемещает системный фокус к первому списку в текущем окне. Например список результатов в окне поиска, загрузки в отдаче и т.д."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:283
+msgid "Moves the system focus to read-only edit boxes in the current window. For example the IRC received messages."
+msgstr "Перемещает системный фокус  к полям редактирования только для чтения в текущем окне. Например, входящие сообщения IRC."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:314
+msgid "Moves the navigator object and mouse to the current list headers."
+msgstr "Перемещает объект навигатора и мышь к текущим заголовкам списка."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:328
+msgid "Reports first object of the Status Bar."
+msgstr "Объявляет первый объект в строке состояния."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:338
+msgid "Reports second object of the Status Bar."
+msgstr "Объявляет второй объект в строке состояния."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:348
+msgid "Reports third object of the Status Bar."
+msgstr "Объявляет третий объект в строке состояния."
+
+#. Translators: Message presented in input help mode.
+#: addon/appModules/emule.py:358
+msgid "Reports fourth object of the Status Bar."
+msgstr "Объявляет четвёртый объект в строке состояния."
+
+#. Translators: Message resented in input help mode.
+#: addon/appModules/emule.py:368
+msgid "Toggles on and off the usage of an alternative approach to read sliders"
+msgstr "Переключает использование альтернативного подхода для чтения ползунков"
+
+#. Translators: Reported when usage of alternative approach for slides is on.
+#: addon/appModules/emule.py:376
+msgid "Use alternative approach to read slides on"
+msgstr "Альтернативный подход для чтения ползунков включён"
+
+#. Translators: Reported when usage of alternative approach for slides is off.
+#: addon/appModules/emule.py:378
+msgid "Use alternative approach to read slides off"
+msgstr "Альтернативный подход для чтения ползунков выключен"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "eMule"
+msgstr "eMule"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Improves eMule's accessibility with NVDA.\n"
+"eMule is a P2P program to search and share files.\n"
+"You can get more information about eMule at\n"
+"http://www.emule-project.net"
+msgstr "Улучшает доступность eMule с NVDA.\n"
+"eMule это P2P программа для поиска и обмена файлами.\n"
+"Вы можете получить более подробную информацию об eMule на \n"
+"https://www.emule-project.net"
+

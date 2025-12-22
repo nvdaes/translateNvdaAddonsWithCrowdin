@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="readme.md" original="https://raw.githubusercontent.com/nvdaaddons/SentenceNav/ade3a8d693c37a68828e255ac1fa70e9fb0c42b3/readme.md">
+    <skeleton>
+# $(ID:cee0eda1-8ea7-4944-ac0e-8016f586f766)
+$(ID:22c4e016-3368-49d2-8ebc-a5bdb0504833)
+
+$(ID:6efb07ed-28c2-47a8-8a97-f3dd45ad8456)
+## $(ID:789a486c-a4eb-4fb1-829e-db726e20e65d)
+* $(ID:ee9b0240-82f2-49d4-94b9-172862cc6ea5)
+* $(ID:755d0fd7-04bd-46f4-93f0-66bd8332fd33)
+* $(ID:bacd81ec-367d-4e85-bf1e-3a330d972cf8)
+* $(ID:569977c4-d615-44fe-97a6-01f527a16e72)
+* $(ID:8ac0048c-3533-4552-9dc3-8e8a46a92944)
+
+$(ID:fa4768b9-f7da-4a78-b522-9e1b47bf9c98)
+
+## $(ID:6a922143-343b-4292-9a4c-f4ee86e63793)
+* $(ID:fefaba08-86e6-45b8-ade3-66add2a50973)
+* $(ID:58017fdb-6a3a-4422-8c6f-c60db4a4678c)
+* $(ID:77f53d28-f311-4659-833b-85057c528bf6)
+
+## $(ID:701fc50e-be75-449b-8236-6ea703c7e66d)
+$(ID:95eced8f-c425-441d-aa3b-892c5eab0176)
+* $(ID:0eaeb366-9fc8-4a18-a07b-983f9d7bade7)
+* $(ID:b82206a7-3bb7-4c9e-90e5-da49cf4a989a)
+* $(ID:98bda378-950c-4064-b18d-94b676552f9c)
+* $(ID:c6324242-c4e7-40b4-a28f-3a6de75b2385)
+* $(ID:ca3adaf5-7258-4b42-9c9d-7cd5bb3269ca)
+* $(ID:973eca5a-72cc-48da-a973-c9b78eaf6e93)
+* $(ID:3272adc5-f2fe-40b3-b839-cb44c43f239c)
+
+$(ID:933b7259-7657-496d-95bb-747aa4ea7b65)
+* $(ID:c647788c-b2ce-44da-ad27-bbfb460bf0d0)
+* $(ID:818576c4-8ad7-4a4a-8353-64a0c0f71f18)
+* $(ID:4bfde1a0-af0c-4283-8e02-e99d519f1425)
+
+## $(ID:fd84fb76-66d6-44e7-b578-808a1772ae4b)
+* $(ID:7f901bef-510a-493c-b02c-7db062322a9d)
+* $(ID:10bd88d8-74e0-4598-ad2a-2d645add5ad9)
+
+## $(ID:08fc521d-b4dd-4196-a0f1-7c8cd8888442)
+$(ID:62043808-46e3-4011-b5c4-e1b7bd33b964)
+
+## $(ID:183286eb-ad1e-4516-8125-59e323026e24)
+* $(ID:92ef9f56-08ac-404c-ba05-2d86846f212a)
+* $(ID:efe499ce-5b05-4c80-a0a5-21e638c06584)
+
+
+</skeleton>
+    <unit id="cee0eda1-8ea7-4944-ac0e-8016f586f766">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>nvda-sentence-nav</source>
+        <target>nvda-sentence-nav</target>
+      </segment>
+    </unit>
+    <unit id="22c4e016-3368-49d2-8ebc-a5bdb0504833">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+      </notes>
+      <segment state="final">
+        <source>SentenceNav is an NVDA add-on that allows you to read text by sentences, as opposed to by paragraphs or words.</source>
+        <target>SentenceNav 是一个 NVDA 的插件，可以让您以句子为单位阅读文本，而不是按段落或单词。</target>
+      </segment>
+    </unit>
+    <unit id="6efb07ed-28c2-47a8-8a97-f3dd45ad8456">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+      </notes>
+      <segment state="final">
+        <source>Please note that "Jump to next  paragraph with text" feature has been move to [TextNav](http://github.com/mltony/nvda-text-nav/) add-on that needs to be installed separately.</source>
+        <target>注意，“跳转到下一段文本”的功能已移至 [TextNav](http://github.com/mltony/nvda-text-nav/) 插件，需要单独安装。</target>
+      </segment>
+    </unit>
+    <unit id="789a486c-a4eb-4fb1-829e-db726e20e65d">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Keystrokes</source>
+        <target>按键</target>
+      </segment>
+    </unit>
+    <unit id="ee9b0240-82f2-49d4-94b9-172862cc6ea5">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+Down: Go to next sentence.</source>
+        <target>Alt+Down：跳转到下一个句子。</target>
+      </segment>
+    </unit>
+    <unit id="755d0fd7-04bd-46f4-93f0-66bd8332fd33">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+Up: Go to previous sentence.</source>
+        <target>Alt+Up：跳转到上一个句子。</target>
+      </segment>
+    </unit>
+    <unit id="bacd81ec-367d-4e85-bf1e-3a330d972cf8">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Alt+S: Speak current sentence.</source>
+        <target>NVDA+Alt+S：读出当前句子。</target>
+      </segment>
+    </unit>
+    <unit id="569977c4-d615-44fe-97a6-01f527a16e72">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+Windows+Down: Go to next phrase.</source>
+        <target>Alt+Windows+Down：跳转到下一个短语。</target>
+      </segment>
+    </unit>
+    <unit id="8ac0048c-3533-4552-9dc3-8e8a46a92944">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+Windows+Up: Go to previous phrase.</source>
+        <target>Alt+Windows+Up：跳转到上一个短语。</target>
+      </segment>
+    </unit>
+    <unit id="fa4768b9-f7da-4a78-b522-9e1b47bf9c98">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+      </notes>
+      <segment state="final">
+        <source>Please note that "Jump to next  paragraph with text" feature has been move to [TextNav](http://github.com/mltony/nvda-text-nav/) add-on that needs to be installed separately.</source>
+        <target>注意，“跳转到下一段文本”的功能已移至 [TextNav](http://github.com/mltony/nvda-text-nav/) 插件，需要单独安装。</target>
+      </segment>
+    </unit>
+    <unit id="6a922143-343b-4292-9a4c-f4ee86e63793">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Notes and known issues</source>
+        <target>注释和已知问题</target>
+      </segment>
+    </unit>
+    <unit id="fefaba08-86e6-45b8-ade3-66add2a50973">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence markup is done by heuristic algorithms and is not 100% accurate. Expect SentenceNav to occasionally make mistakes, such as breaking a sentence where it's not supposed to be broken or the other way around - missing a border between two sentences and speaking them together.</source>
+        <target>句子标记由启发式算法完成，并非 100% 准确。在个别情况下 SentenceNav 可能会出错，例如，对不应该被拆分成两个句子的文本进行了拆分，或者相反而一次性读出了两个句子。</target>
+      </segment>
+    </unit>
+    <unit id="58017fdb-6a3a-4422-8c6f-c60db4a4678c">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Experimental support for Microsoft Word and WordPad has been added as of version 2.8.</source>
+        <target>自 2.8 版起添加了对 Microsoft Word 和 WordPad 的实验性支持。</target>
+      </segment>
+    </unit>
+    <unit id="77f53d28-f311-4659-833b-85057c528bf6">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence navigation keystrokes Alt+Up/Down might conflict with built-in keystrokes in applications. SentenceNav developers strive to resolve these conflicts whenever possible. However, if you encounter such a situation, a simple workaround is to press NVDA+F2 (Pass next key through), followed by the conflicting keystroke Alt+Up/Down to make sure that this keystroke would be processed by the application and not by SentenceNav.</source>
+        <target>句子导航的快捷键 Alt+Up/Down 可能与某些应用程序中的快捷键冲突。 SentenceNav 开发者尽可能解决这些冲突。但是，如果您遇到这种情况，一个简单的解决方法是按 NVDA+F2（忽略下一次 NVDA 按键），然后按 Alt+Up/Down 以确保把该按键传递给应用程序本身。</target>
+      </segment>
+    </unit>
+    <unit id="701fc50e-be75-449b-8236-6ea703c7e66d">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Algorithm</source>
+        <target>算法</target>
+      </segment>
+    </unit>
+    <unit id="95eced8f-c425-441d-aa3b-892c5eab0176">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+      </notes>
+      <segment state="final">
+        <source>SentenceNav uses a regular expression to find sentence boundaries. The regular expression is looking for:</source>
+        <target>SentenceNav 使用正则表达式来查找句子边界。正则表达式可以查找以下位置：</target>
+      </segment>
+    </unit>
+    <unit id="0eaeb366-9fc8-4a18-a07b-983f9d7bade7">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>One or more "Sentence breaker" punctuation marks, such as period, exclamation sign or question sign, followed immediately by one or more spaces.</source>
+        <target>一个或多个“断句”标点符号，例如句号、感叹号或问号，后面紧跟一个或多个空格。</target>
+      </segment>
+    </unit>
+    <unit id="b82206a7-3bb7-4c9e-90e5-da49cf4a989a">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence breakers can optionally be followed by one or more "Skippable" punctuation signs, such as closing parenthesis, or a quote.</source>
+        <target>断句后可以选择性跟随一个或多个“可跳过”标点符号，例如右括号或引用。</target>
+      </segment>
+    </unit>
+    <unit id="98bda378-950c-4064-b18d-94b676552f9c">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence breakers can optionally be followed by a Wikipedia-style reference, e.g. [4], or [citation needed].</source>
+        <target>断句后可以选择性跟随一个维基百科风格的参考，例如[4] 或 [citation needed]。</target>
+      </segment>
+    </unit>
+    <unit id="c6324242-c4e7-40b4-a28f-3a6de75b2385">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence breakers must not be preceded by any of the exceptional abbreviations, such as Dr., Mr., Prof., etc. Exceptional abbreviations are language-dependent. Exceptional abbreviations are defined as abreviations spelled with a period, which in most cases does not indicate the end of the sentence.</source>
+        <target>断句前不得有任何特殊缩写，例如 Dr.、Mr.、Prof. 等。往往特殊缩写取决于特定语言，多数情况下特殊缩写包含句号，但其并不表示句子的结束。</target>
+      </segment>
+    </unit>
+    <unit id="ca3adaf5-7258-4b42-9c9d-7cd5bb3269ca">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Sentence breakers must not be preceded by a single capital letter. This is to prevent sentences being broken at people's initials, such as George R. R. Martin. The list of capital letters is language-dependent.</source>
+        <target>断句前不得包含一个大写字母。这是为了防止因人名的首字母大写而错误的将其拆分为单独的句子，例如 George R. R. Martin。大写字母列表取决于特定语言。</target>
+      </segment>
+    </unit>
+    <unit id="973eca5a-72cc-48da-a973-c9b78eaf6e93">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alternatively, the regular expression can match one of the full-width sentence breakers. Full-width punctuation is used in some languages, like Chinese and Japanese and there is no requirement to be followed or preceded by anything to be counted as the boundary of sentences.</source>
+        <target>或者，正则表达式可以匹配全角断句。中文、日文等语言使用全角标点符号，无需句号前后包含特定字符来作为句子的边界。</target>
+      </segment>
+    </unit>
+    <unit id="3272adc5-f2fe-40b3-b839-cb44c43f239c">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alternatively, double new line counts as a sentence breaker.</source>
+        <target>双换行也算作断句符。</target>
+      </segment>
+    </unit>
+    <unit id="933b7259-7657-496d-95bb-747aa4ea7b65">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="final">
+        <source>Phrase detection is performed by another regular expression, that matches:</source>
+        <target>短语检测由另一个匹配的正则表达式完成：</target>
+      </segment>
+    </unit>
+    <unit id="c647788c-b2ce-44da-ad27-bbfb460bf0d0">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>One or more "phrase breakers" punctuation marks followed immediately by one or more spaces.</source>
+        <target>一个或多个“短语断句”符号后紧跟一个或多个空格。</target>
+      </segment>
+    </unit>
+    <unit id="818576c4-8ad7-4a4a-8353-64a0c0f71f18">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Or alternatively, one or more "fixed-width" phrase brakers, with no requirement of being followed by spaces.</source>
+        <target>一个或多个“短语断句”符号后无需跟随空格。</target>
+      </segment>
+    </unit>
+    <unit id="4bfde1a0-af0c-4283-8e02-e99d519f1425">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Or alternatively, double new line.</source>
+        <target>两个换行。</target>
+      </segment>
+    </unit>
+    <unit id="fd84fb76-66d6-44e7-b578-808a1772ae4b">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Other settings</source>
+        <target>其他设置</target>
+      </segment>
+    </unit>
+    <unit id="7f901bef-510a-493c-b02c-7db062322a9d">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Reconstruct sentences across multiple paragraphs: sentences can span across multiple paragraphs. This often happnes in malformed PDF documents, or in email messages written as plain text. With this combo box you can tell SentenceNav to try to identify those sentences and speak them correctly. Sometimes however, it would speak paragraphs together that are not meant to be sentences. In this case you can disable that feature.</source>
+        <target>跨段落重建句子：一个句子可以跨多个段落。这种情况常见于格式错误的 PDF 文档或以纯文本形式编写的电子邮件中。使用此组合框，您可以告诉 SentenceNav 尝试识别这些句子并正确读出。然而，有时它会错误的将不应该是同一个句子的段落识别为一个句子。在这种情况下，您可以禁用该功能。</target>
+      </segment>
+    </unit>
+    <unit id="10bd88d8-74e0-4598-ad2a-2d645add5ad9">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Disable SentenceNav in applications: You can disable SentenceNav in certain applications. For example, some applications use Alt+Down keystroke to perform other functions. This is a comma-separated blacklist of applications where sentence navigation will be disabled. If you are not sure what should be the name of your application, switch to that application, Press NVDA+Control+Z to open up NVDA console and type: "focus.appModule.appName" without quotes to obtain the name of current application.</source>
+        <target>在应用程序中禁用句子导航：您可以在某些应用程序中禁用 SentenceNav。例如，某些应用程序使用 Alt+Down 按键来执行其他功能。这是一个逗号分隔的应用程序黑名单，表示句子导航在这些应用程序中将被禁用。如果您不确定应用程序的名称，请切换到该应用程序，按 NVDA+Control+Z 打开 NVDA 控制台并键入：“focus.appModule.appName”（不带引号）以查看当前应用程序的名称。</target>
+      </segment>
+    </unit>
+    <unit id="08fc521d-b4dd-4196-a0f1-7c8cd8888442">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Source code</source>
+        <target>源代码</target>
+      </segment>
+    </unit>
+    <unit id="62043808-46e3-4011-b5c4-e1b7bd33b964">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+      </notes>
+      <segment state="final">
+        <source>Source code is available at &lt;http://github.com/mltony/nvda-sentence-nav&gt;.</source>
+        <target>源代码可在 &lt;http://github.com/mltony/nvda-sentence-nav&gt; 获取。</target>
+      </segment>
+    </unit>
+    <unit id="183286eb-ad1e-4516-8125-59e323026e24">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Downloads</source>
+        <target>下载</target>
+      </segment>
+    </unit>
+    <unit id="92ef9f56-08ac-404c-ba05-2d86846f212a">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Current stable version: [SentenceNav](https://github.com/mltony/nvda-sentence-nav/releases/latest/download/SentenceNav.nvda-addon)</source>
+        <target>当前稳定版本：[SentenceNav](https://github.com/mltony/nvda-sentence-nav/releases/latest/download/SentenceNav.nvda-addon)</target>
+      </segment>
+    </unit>
+    <unit id="efe499ce-5b05-4c80-a0a5-21e638c06584">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Last Python 2 version (compatible with NVDA 2019.2 and prior): [SentenceNav v2.5](https://github.com/mltony/nvda-sentence-nav/releases/download/v2.5/SentenceNav-2.5.nvda-addon)</source>
+        <target>最后一个 Python 2 版本（与 NVDA 2019.2 及之前版本兼容）：[SentenceNav v2.5](https://github.com/mltony/nvda-sentence-nav/releases/download/v2.5/SentenceNav-2.5.nvda-addon)</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="readme.md" original="https://raw.githubusercontent.com/nvdaaddons/dropbox/5e2b2e97821c45511644405fa417f94f8f2f5051/readme.md">
+    <skeleton>
+$(ID:363b0788-507c-42b6-b190-5e826bace687)
+
+* $(ID:46e9a93d-2d5b-4768-bfb4-d96bc5f0d4a8)
+* $(ID:b98bd391-d2a1-43d6-b68e-df26467888fd)
+
+$(ID:7a7086ca-3e0b-409c-9f36-7af4e949510c)
+
+* $(ID:4794e4a2-2a7c-4950-addb-531d0907a5ff)
+
+
+## $(ID:95cfe024-d074-42a3-82b4-dd1579c437c3)
+
+* $(ID:348fed1e-7899-400b-bba0-665bf33820dc)
+* $(ID:8b34ef73-477b-4ec2-a654-931edc2b6fe0)
+
+## $(ID:4c72a520-8cc1-4736-97de-28379e0b5b32)
+
+* $(ID:cd6932f5-f3b6-4154-b6c5-74d52d6aa194)
+
+## $(ID:ec9faa13-414d-4516-aa9a-9ad81f3ac5db)
+
+* $(ID:20a0fbf9-3330-4178-8144-9511f807b151)
+* $(ID:8038f074-94ba-470c-ab5c-d809731eae23)
+* $(ID:0ad4f5d9-73e7-4b4e-9e48-3bba4125e273)
+* $(ID:925cd3be-959e-403c-b7fa-23c94f89f82f)
+* $(ID:66d57af3-dc81-485a-abf1-11d7e928e726)
+
+## $(ID:68e52dc1-d5f6-45d1-9c6d-432e41d51e7a)
+
+* $(ID:ce635d2d-4679-4ea1-ae5c-3817989d4806)
+* $(ID:3e697832-99ea-4bb1-84ac-3469f86ff5b0)
+* $(ID:e3a4d557-f5d8-4779-946f-81bb7fcd5afb)
+* $(ID:bcaf7fcf-dbfe-436b-b8c7-21c331e78d14)
+* $(ID:129698ed-0d99-4718-bd71-1649f5c6d225)
+* $(ID:11e32a5f-c10a-4f51-a1a3-4ac21bf203c9)
+
+## $(ID:77819250-8b00-42e6-b3cc-642bba452e53)
+
+* $(ID:ef70a261-2700-48f9-a267-dba3825266ca)
+* $(ID:d63b09c0-7010-4f97-be76-cadb405262ba)
+* $(ID:6162947c-95a5-4ad8-ad2b-40aeb23d2916)
+* $(ID:307ad859-f47b-4b88-a4d1-d2fefede9a84)
+* $(ID:04198f45-72ce-4bd4-ba6a-37d445a5e9ae)
+
+## $(ID:3efb5dae-7d34-48fb-a379-1f53be2fa3b0)
+
+* $(ID:4cf2a6e7-79c9-4d09-88a5-a880a0dcc472)
+* $(ID:3b9feb4f-ecb7-4808-8755-193d22a2f250)
+* $(ID:afbb22a7-d1f8-4e64-8473-8838fa6cd3d3)
+* $(ID:78007499-30f5-4e85-8659-e7caf514232b)
+* $(ID:07a3e740-c6ac-4ba2-a4f5-5f105298480d)
+* $(ID:80f88a95-e4c1-4fc1-a0fe-faee0b64c328)
+
+## $(ID:cb4c46f7-0b5e-4429-b190-99fc0de0683c)
+
+* $(ID:bbdae875-af44-48e5-b5b9-c519f9f3e35f)
+* $(ID:16e9c7b9-2567-4527-87eb-d220c9b77543)
+
+## $(ID:11dc7447-d306-4a6d-af7a-d630b3a9ecad)
+
+* $(ID:cf12e459-5b5a-499c-9355-f5ea0c7ba83d)
+
+
+</skeleton>
+    <unit id="363b0788-507c-42b6-b190-5e826bace687">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+      </notes>
+      <segment state="translated">
+        <source>[[!meta title="dropbox"]]</source>
+        <target>[[!meta title="dropbox"]]</target>
+      </segment>
+    </unit>
+    <unit id="46e9a93d-2d5b-4768-bfb4-d96bc5f0d4a8">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: Patrick ZAJDA, Filaos and other contributors</source>
+        <target>Yazarlar: Patrick ZAJDA &lt;patrick@zajda.fr&gt;, Filaos ve diğer katkıda bulunanlar</target>
+      </segment>
+    </unit>
+    <unit id="b98bd391-d2a1-43d6-b68e-df26467888fd">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2019.1 or later</source>
+        <target>NVDA Uyumluluğu: 2019.1 veya üstü</target>
+      </segment>
+    </unit>
+    <unit id="7a7086ca-3e0b-409c-9f36-7af4e949510c">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>This plugin add a shortcut to announce Dropbox status or open the Dropbox systray menu when pressed once or twice respectively.</source>
+        <target>Bu eklenti, Dropbox durumunu bildirmek veya sırasıyla bir veya iki kez basıldığında Dropbox sistem tepsisi menüsünü açmak için bir kısayol ekler.</target>
+      </segment>
+    </unit>
+    <unit id="4794e4a2-2a7c-4950-addb-531d0907a5ff">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Shortcut: NVDA+Alt+D</source>
+        <target>Kısayol tuşu: NVDA+Alt+D</target>
+      </segment>
+    </unit>
+    <unit id="95cfe024-d074-42a3-82b4-dd1579c437c3">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.7 ##</source>
+        <target>4.7 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="348fed1e-7899-400b-bba0-665bf33820dc">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Compatibility with NVDA 2022.1</source>
+        <target>NVDA 2022.1 ile uyumlu</target>
+      </segment>
+    </unit>
+    <unit id="8b34ef73-477b-4ec2-a654-931edc2b6fe0">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Remove Dropbox app module as it causes issues with last Dropbox interface and Windows 8 is not supported by Microsoft</source>
+        <target>Son Dropbox arayüzünde sorunlara neden olduğu ve Windows 8 Microsoft tarafından desteklenmediği için Dropbox uygulama modülü kaldırıldı</target>
+      </segment>
+    </unit>
+    <unit id="4c72a520-8cc1-4736-97de-28379e0b5b32">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.6 ##</source>
+        <target>4.6 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="cd6932f5-f3b6-4154-b6c5-74d52d6aa194">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Specify NVDA 2021.1 compatibility</source>
+        <target>NVDA 2021.1 uyumluluğunu belirtir</target>
+      </segment>
+    </unit>
+    <unit id="ec9faa13-414d-4516-aa9a-9ad81f3ac5db">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.4 ##</source>
+        <target>4.4 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="20a0fbf9-3330-4178-8144-9511f807b151">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Python 3 compatibility</source>
+        <target>Python 3 uyumluluğu</target>
+      </segment>
+    </unit>
+    <unit id="8038f074-94ba-470c-ab5c-d809731eae23">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Use the last addon template</source>
+        <target>Son eklenti şablonu kullanıldı</target>
+      </segment>
+    </unit>
+    <unit id="0ad4f5d9-73e7-4b4e-9e48-3bba4125e273">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Repository change to be built with Appveyor</source>
+        <target>Appveyor ile oluşturulacak depo değişikliği</target>
+      </segment>
+    </unit>
+    <unit id="925cd3be-959e-403c-b7fa-23c94f89f82f">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed wrong and removed unused shortcuts in the documentation</source>
+        <target>Belgelerdeki yanlış ve kaldırılmış kullanılmayan kısayollar düzeltildi</target>
+      </segment>
+    </unit>
+    <unit id="66d57af3-dc81-485a-abf1-11d7e928e726">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Update the description in the documentation which still referenced the announcement of the version</source>
+        <target>Belgelerde sürüm bildirimine hala atıfta bulunan açıklama güncellendi</target>
+      </segment>
+    </unit>
+    <unit id="68e52dc1-d5f6-45d1-9c6d-432e41d51e7a">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.0 ##</source>
+        <target>4.0 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="ce635d2d-4679-4ea1-ae5c-3817989d4806">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Change Shift+NVDA+D behavior: if pressed once announce Dropbox status, twice open the context menu.</source>
+        <target>Shift+NVDA+D davranışını değiştir: bir kez basıldığında Dropbox durumunu duyur, iki kez basıldığında bağlam menüsünü aç.</target>
+      </segment>
+    </unit>
+    <unit id="3e697832-99ea-4bb1-84ac-3469f86ff5b0">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Translations update.</source>
+        <target>Çeviriler güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="e3a4d557-f5d8-4779-946f-81bb7fcd5afb">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed issues with windows 8 metro app.</source>
+        <target>Windows 8 Metro uygulamasıyla ilgili sorunlar düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="bcaf7fcf-dbfe-436b-b8c7-21c331e78d14">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Addon help is no longer available in the help menu, it's found in the addons manager instead.</source>
+        <target>Eklenti yardımı artık yardım menüsünde mevcut değil, bunun yerine eklenti yöneticisinde bulunuyor.</target>
+      </segment>
+    </unit>
+    <unit id="129698ed-0d99-4718-bd71-1649f5c6d225">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>As Dropbox changes his gui from version to version, all features for settings dialog were removed.</source>
+        <target>Dropbox gui'sini sürümden sürüme değiştirirken, ayarlar iletişim kutusunun tüm özellikleri kaldırıldı.</target>
+      </segment>
+    </unit>
+    <unit id="11e32a5f-c10a-4f51-a1a3-4ac21bf203c9">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Modified the shortcut to get dropbox status to Alt+NVDA+D to avoid conflict with audio ducking support.</source>
+        <target>Ses kısma desteğiyle çakışmayı önlemek için dropbox durumunu almak için kısayol Alt+NVDA+D olarak değiştirildi.</target>
+      </segment>
+    </unit>
+    <unit id="77819250-8b00-42e6-b3cc-642bba452e53">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.1 ##</source>
+        <target>3.1 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="ef70a261-2700-48f9-a267-dba3825266ca">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Use another way to get cancel button and page tab. Now we don't have to focus them before using shortcuts.</source>
+        <target>İptal düğmesini ve sayfa sekmesini başka bir şekilde kullanın. Artık kısayolları kullanmadan önce bunlara odaklanmamız gerekmiyor.</target>
+      </segment>
+    </unit>
+    <unit id="d63b09c0-7010-4f97-be76-cadb405262ba">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>When changing the active tab, the focus move to the tab page so when pressing tab, the first item of the tab is activated instead of staying to the previous used tab even if it is not activated anymore.</source>
+        <target>Etkin sekmeyi değiştirirken, odak sekme sayfasına geçer, böylece sekmeye basıldığında, artık etkin olmasa bile önceki sekmede kalmak yerine sekmenin ilk öğesi etkinleştirilir.</target>
+      </segment>
+    </unit>
+    <unit id="6162947c-95a5-4ad8-ad2b-40aeb23d2916">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>In the preferences dialog, it is now possible to press control+page up/down to switch between tabs. Control+tab and control+shift+tab still work.</source>
+        <target>Tercihler iletişim kutusunda, sekme sayfaları arasında dolaşmak için artık control+page up/down tuşlarına basabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="307ad859-f47b-4b88-a4d1-d2fefede9a84">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>All localized manifest files should now be OK.</source>
+        <target>Tüm yerelleştirilmiş manifest dosyaları artık sorunsuz olmalı.</target>
+      </segment>
+    </unit>
+    <unit id="04198f45-72ce-4bd4-ba6a-37d445a5e9ae">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Minor corrections.</source>
+        <target>Küçük düzeltmeler.</target>
+      </segment>
+    </unit>
+    <unit id="3efb5dae-7d34-48fb-a379-1f53be2fa3b0">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.0 ##</source>
+        <target>3.0 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="4cf2a6e7-79c9-4d09-88a5-a880a0dcc472">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Minor correction in the main manifest file (authors are correctly displayed).</source>
+        <target>Ana manifest dosyasında Küçük bir düzeltme (geliştiriciler doğru olarak gösteriliyor).</target>
+      </segment>
+    </unit>
+    <unit id="3b9feb4f-ecb7-4808-8755-193d22a2f250">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved context menu detection when pressing Shift+NVDA+D three times.</source>
+        <target>Üç kez NVDA+Shift+D tuşllarına basıldığında içerik menüsünün açılışıyla ilgili iyileştirmeler.</target>
+      </segment>
+    </unit>
+    <unit id="afbb22a7-d1f8-4e64-8473-8838fa6cd3d3">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The escape button now works (only when using Dropbox in the same language NVDA uses).</source>
+        <target>Escape butonu şimdi çalışıyor (sadece NVDA ve Dropbox aynı dil arayüzüyle kullanılıyorsa).</target>
+      </segment>
+    </unit>
+    <unit id="78007499-30f5-4e85-8659-e7caf514232b">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>A lot of corrections in the code.</source>
+        <target>Kodla ilgili çok sayıda düzeltme.</target>
+      </segment>
+    </unit>
+    <unit id="07a3e740-c6ac-4ba2-a4f5-5f105298480d">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added/updated documentations of all scripts.</source>
+        <target>Tüm komut dosyalarının belgeleri eklendi/güncellendi.</target>
+      </segment>
+    </unit>
+    <unit id="80f88a95-e4c1-4fc1-a0fe-faee0b64c328">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New languages: Arabic, Brazilian Portuguese, Czech, Dutch, Finnish, Galician, German, Hungarian, Japanese, Nepali, Polish, Russian, Spanish, Slovak, Tamil, Turkish.</source>
+        <target>Yeni diller: Arapça, Brezilya Portekizcesi, Çekçe, Flemenkçe, Fince, Galiçyaca, Almanca, Macarca, Japonca, Nepalce, Lehçe, Rusça, İspanyolca, Slovakça, Tamil, Türkçe.</target>
+      </segment>
+    </unit>
+    <unit id="cb4c46f7-0b5e-4429-b190-99fc0de0683c">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0 ##</source>
+        <target>2.0 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="bbdae875-af44-48e5-b5b9-c519f9f3e35f">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New languages: Italian</source>
+        <target>Yeni diller: İtalyanca</target>
+      </segment>
+    </unit>
+    <unit id="16e9c7b9-2567-4527-87eb-d220c9b77543">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Pressing the shortcut three times or more when already being in the context menu doesn't cause problem anymore.</source>
+        <target>Dropbox menüsü açıkken kısayol tuşuna üç defa ya da daha fazla basılması sorun oluşturmuyor.</target>
+      </segment>
+    </unit>
+    <unit id="11dc7447-d306-4a6d-af7a-d630b3a9ecad">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.0 ##</source>
+        <target>1.0 İçin Değişiklikler ##</target>
+      </segment>
+    </unit>
+    <unit id="cf12e459-5b5a-499c-9355-f5ea0c7ba83d">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial Release</source>
+        <target>İlk sürüm</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

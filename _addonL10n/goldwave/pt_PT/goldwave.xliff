@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="pt">
+  <file id="goldwave.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/goldwave/goldwave.md">
+    <skeleton>
+# $(ID:4cc3a0c4-a14b-4046-90c0-4a13d2940f09)
+
+* $(ID:b0d532f4-d4eb-484c-9c1a-ed9c62ea5a46)
+
+$(ID:dc760fac-b01c-4be3-a2de-589dc1875bce)
+
+## $(ID:399990ef-64cc-4365-84e0-32c320e6cae1)
+
+$(ID:34b957d8-e101-4a87-82e1-937cbe514ccd)
+
+* $(ID:3b8181ab-2197-4428-9174-bb51238a4857)
+* $(ID:dcb07bba-8291-4d79-86da-d3f9061b6883)
+* $(ID:cb71abac-a623-4531-a046-d8cc1db9c2c7)
+* $(ID:2d245afb-122b-4c23-b01b-856cacb3e375)
+* $(ID:9d8456ce-2899-4de4-a932-1532672c8cd3)
+* $(ID:e7fdd902-e7d8-401a-9d20-c6b6c57a26aa)
+
+$(ID:f0365957-40c8-47cd-a03a-4aae8bbb05ec)
+
+$(ID:208c4b18-922d-4fdb-b3a3-79cdae9e5b20)
+
+## $(ID:18e8b9c2-8cc7-4e75-a5c7-912d4ef462b2)
+
+### $(ID:dde2c675-81ef-4d9f-a082-7c25fd4485cb)
+
+* $(ID:5a2949e1-f1ff-4cd8-b697-5e00cc7abf6d)
+
+### $(ID:4091fe43-7b20-4c79-b914-2db6cbb4f1ee)
+
+* $(ID:40491383-919b-44d8-bdb5-109e7ec41556)
+* $(ID:1bc4a5b9-3199-4b87-b0e7-30e6c7eaa76a)
+
+### $(ID:dbff4101-deb8-407a-ae67-b1911f211736)
+
+* $(ID:ba6a969e-f835-44f1-bda7-b97b4d9811a3)
+
+### $(ID:8e6fbc62-f560-4c12-9ba4-c2845d727668)
+
+* $(ID:3d020aaf-fd3b-4775-a51c-76f0d82e4c25)
+* $(ID:e37e80db-41eb-498b-9a87-b76486c15811)
+
+### $(ID:e515a8a6-7ee3-410a-9567-0e9cc3e06889)
+
+* $(ID:08b33856-aff4-4512-8c1c-1949d03acc88)
+* $(ID:6b43bf4c-fe0d-4c5b-88bc-3810c35ffb22)
+* $(ID:0663a6e3-f7c9-477c-909f-26b069177e73)
+* $(ID:9760a23e-3195-4d55-8f0c-a687babd06f6)
+
+### $(ID:45ef9d03-21c9-419a-ae34-84e3eda228bf)
+
+* $(ID:ca6dbc5d-d23e-47e4-ae95-604ad3a2be79)
+* $(ID:ba3164d0-ad2d-42fe-bb20-5199605b3f6a)
+
+### $(ID:f1a86a0a-8756-4b91-befc-25ef5d57edc8)
+
+* $(ID:7619aec8-5e9d-45ab-8cf1-d5524a72690f)
+* $(ID:d1d2bce0-e82d-4aa6-b26e-4e51c8234580)
+
+### $(ID:5759cdad-941a-4a16-8e57-56ac24940a2f)
+
+* $(ID:7c07d51a-f429-46b6-a6f3-4b9a1aaae96b)
+* $(ID:232adec3-045f-4ee2-8f44-6d2f7c1cbf25)
+
+### $(ID:92091149-053d-470b-a5b7-100b82b28ab0)
+
+* $(ID:0e0a4997-fe95-406a-aaf0-39901ebd4708)
+* $(ID:0b1fe0a0-fd18-43ac-9242-350a455219c5)
+
+### $(ID:ba7c7c78-1eee-4d22-a82d-e7e3f7b4b313)
+
+* $(ID:91c780dc-99f2-4831-a9b0-e62ca298cd4e)
+
+### $(ID:1c5453ca-672b-47e9-ac0a-70215f2a5fbf)
+
+* $(ID:5439463f-f739-4ba9-990e-c58c75522d0e)
+
+### $(ID:80995cb7-4cc5-44b3-8878-dfc42e3d0ac9)
+
+* $(ID:5dc59e19-20ba-45c6-a016-baa964261153)
+* $(ID:1fa738b3-edc6-4d14-a659-b9997e6b2a46)
+
+### $(ID:2e9022f1-7866-4d9a-8f19-9626d0ccb5d0)
+
+* $(ID:c2903702-3502-4f28-a08c-b58b3ddaec20)
+
+### $(ID:7ebdd576-276e-4590-909c-913c9b1fe5d1)
+
+* $(ID:ddf029d8-e3d3-4cc2-954b-318ee56e9c04)
+* $(ID:96deac6a-7b4b-4f02-bdda-690a71d8e8e8)
+
+### $(ID:447478c0-8173-49c1-8bd1-f2a1448f899a)
+
+* $(ID:42c7cac5-2aa4-4a3a-bb86-bd9b0258b0b0)
+* $(ID:b8e055a5-87c1-4414-a254-aa826625c911)
+
+### $(ID:0a334cb7-6b51-4727-82a0-dea6098ec1be)
+
+* $(ID:7315bcdb-3967-4733-8e4b-b1acd28ebbca)
+
+### $(ID:3e235bf0-d5c0-41ff-adb6-5457ef1e9d16)
+
+* $(ID:d07b0c3a-7cf6-4ee1-af56-62e695563ffe)
+* $(ID:4f26dc98-3e70-4b96-bbac-bf8f35707f5b)
+
+### $(ID:66660037-25ca-4b0f-ae78-1d413d26d791)
+
+* $(ID:8480fbf2-7700-4fd9-8a88-0e956b5165e9)
+
+### $(ID:f604465f-ce6e-494d-83bd-f2a35a9e42d3)
+
+* $(ID:a776ec3c-8df1-4e37-a653-4c4055872e0f)
+* $(ID:90959162-3725-43b7-a30d-b9e59212d857)
+
+### $(ID:9674bbbc-3405-4d42-b714-3fb6ab4e0a18)
+
+* $(ID:c5df72c0-e24b-404c-ba49-cd77d8bc489c)
+* $(ID:1eed6df7-938d-418a-8f60-5346600e3680)
+
+### $(ID:75b04cdd-494a-4cbb-95ad-1653eebea094)
+
+* $(ID:39f97ca4-8435-400e-90a9-e6af931a37f8)
+* $(ID:1f462006-cd61-479f-a72b-6c2cd07ae36a)
+* $(ID:55b068a5-162d-4083-b431-4cf76f948166)
+* $(ID:54617f52-b344-4cbf-bf31-9b0142b45586)
+* $(ID:55177b96-1c00-482e-9d9a-d45e617ef502)
+
+### $(ID:16fc1b71-d573-46f4-97ff-a0f4dd3ec300)
+
+* $(ID:9b829272-f29f-4514-a7a1-0fda95f7f915)
+* $(ID:069f67ae-e364-4e78-b505-1b3c17480e2f)
+* $(ID:242a63be-be9a-4919-9b74-e50a08116d4f)
+
+### $(ID:ec21df78-a7d5-43db-acda-aa3f1dc53c51)
+
+* $(ID:eb8ce97b-9eb5-4857-9812-48f969b9fcfa)
+* $(ID:607e236e-b559-49ae-a7e6-6621d9db5314)
+* $(ID:0a2cff1c-30d6-4f89-928c-e9266aa339e3)
+* $(ID:79e43f4e-e76c-4f76-85d7-773ef9560343)
+* $(ID:fe69206d-9136-4ab5-af90-a9c16a52e481)
+
+### $(ID:f57c775e-87fe-4ed7-b382-f61d3187a09b)
+
+* $(ID:0aa20637-f440-4a08-91b7-66bfee2e501b)
+</skeleton>
+    <unit id="4cc3a0c4-a14b-4046-90c0-4a13d2940f09">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>GoldWave #</source>
+        <target>GoldWave #</target>
+      </segment>
+    </unit>
+    <unit id="b0d532f4-d4eb-484c-9c1a-ed9c62ea5a46">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: Joseph Lee, Day Garwood, NVDA contributors.</source>
+        <target>Autores: Joseph Lee, Day Garwood, colaboradores da NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="dc760fac-b01c-4be3-a2de-589dc1875bce">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="translated">
+        <source>This app module enhances access and usage of GoldWave audio editor.</source>
+        <target>Este módulo de aplicativo aprimora o acesso e o uso do editor de áudio GoldWave.</target>
+      </segment>
+    </unit>
+    <unit id="399990ef-64cc-4365-84e0-32c320e6cae1">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Shortcuts ##</source>
+        <target>Atalhos ##</target>
+      </segment>
+    </unit>
+    <unit id="34b957d8-e101-4a87-82e1-937cbe514ccd">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>All commands support speech on demand mode.</source>
+        <target>Todos os comandos suportam o modo de fala sob demanda.</target>
+      </segment>
+    </unit>
+    <unit id="3b8181ab-2197-4428-9174-bb51238a4857">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+Shift+P: Announces current track position.</source>
+        <target>Control+Shift+P: Anuncia a posição atual da trilha.</target>
+      </segment>
+    </unit>
+    <unit id="dcb07bba-8291-4d79-86da-d3f9061b6883">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+Shift+R: Announces remaining time for the currently editing track.</source>
+        <target>NVDA+Shift+R: Anuncia o tempo restante da trilha em edição no momento.</target>
+      </segment>
+    </unit>
+    <unit id="cb71abac-a623-4531-a046-d8cc1db9c2c7">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+1: Announces the channel you are editing.</source>
+        <target>Controle+NVDA+1: Anuncia o canal que está sendo editado.</target>
+      </segment>
+    </unit>
+    <unit id="2d245afb-122b-4c23-b01b-856cacb3e375">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+2: Announces the total length of the audio file.</source>
+        <target>Control+NVDA+2: Anuncia a duração total do arquivo de áudio.</target>
+      </segment>
+    </unit>
+    <unit id="9d8456ce-2899-4de4-a932-1532672c8cd3">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+3: announces a summary on audio selection information.</source>
+        <target>Control+NVDA+3: anuncia um resumo das informações de seleção de áudio.</target>
+      </segment>
+    </unit>
+    <unit id="e7fdd902-e7d8-401a-9d20-c6b6c57a26aa">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Control+NVDA+4: Announces the zoom level.</source>
+        <target>Control+NVDA+4: Anuncia o nível de zoom.</target>
+      </segment>
+    </unit>
+    <unit id="f0365957-40c8-47cd-a03a-4aae8bbb05ec">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+      </notes>
+      <segment state="translated">
+        <source>For more information about GoldWave and keyboard commands, refer to GoldWave Manual.</source>
+        <target>Para obter mais informações sobre o GoldWave e os comandos de teclado, consulte o Manual do GoldWave.</target>
+      </segment>
+    </unit>
+    <unit id="208c4b18-922d-4fdb-b3a3-79cdae9e5b20">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+      </notes>
+      <segment state="translated">
+        <source>Note: GoldWave 6 or later and Windows 10 or later is required.</source>
+        <target>Observação: é necessário o GoldWave 6 ou posterior e o Windows 10 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="18e8b9c2-8cc7-4e75-a5c7-912d4ef462b2">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes</source>
+        <target>Alterações</target>
+      </segment>
+    </unit>
+    <unit id="dde2c675-81ef-4d9f-a082-7c25fd4485cb">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.08.1</source>
+        <target>Versão 25.08.1</target>
+      </segment>
+    </unit>
+    <unit id="5a2949e1-f1ff-4cd8-b697-5e00cc7abf6d">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed bugs regarding position and selection time announcements.</source>
+        <target>Corrigidos erros relacionados aos anúncios de posição e tempo de seleção.</target>
+      </segment>
+    </unit>
+    <unit id="4091fe43-7b20-4c79-b914-2db6cbb4f1ee">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.07</source>
+        <target>Versão 25.07</target>
+      </segment>
+    </unit>
+    <unit id="40491383-919b-44d8-bdb5-109e7ec41556">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Made the add-on code more robust with help from Pyright (a Python static type checker).</source>
+        <target>Tornou o código do complemento mais robusto com a ajuda do Pyright (um verificador de tipos estáticos do Python).</target>
+      </segment>
+    </unit>
+    <unit id="1bc4a5b9-3199-4b87-b0e7-30e6c7eaa76a">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved audio selection, zoom level, and track position announcements in GoldWave 7.</source>
+        <target>Anúncios aprimorados de seleção de áudio, nível de zoom e posição da trilha no GoldWave 7.</target>
+      </segment>
+    </unit>
+    <unit id="dbff4101-deb8-407a-ae67-b1911f211736">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.04</source>
+        <target>Versão 25.04</target>
+      </segment>
+    </unit>
+    <unit id="ba6a969e-f835-44f1-bda7-b97b4d9811a3">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Removed command announcement mode, replaced with speech on demand mode. In speech on demand mode, GoldWave specific commands such as setting start marker will stay silent while informational commands such as audio position will be spoken.</source>
+        <target>Removido o modo de anúncio de comando, substituído pelo modo de fala sob demanda. No modo de fala sob demanda, os comandos específicos do GoldWave, como a definição do marcador de início, permanecerão em silêncio, enquanto os comandos informativos, como a posição do áudio, serão falados.</target>
+      </segment>
+    </unit>
+    <unit id="8e6fbc62-f560-4c12-9ba4-c2845d727668">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.02</source>
+        <target>Versão 25.02</target>
+      </segment>
+    </unit>
+    <unit id="3d020aaf-fd3b-4775-a51c-76f0d82e4c25">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2024.1 or later is required.</source>
+        <target>É necessário o NVDA 2024.1 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="e37e80db-41eb-498b-9a87-b76486c15811">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Restored limited support for Windows 8.1.</source>
+        <target>Suporte limitado restaurado para o Windows 8.1.</target>
+      </segment>
+    </unit>
+    <unit id="e515a8a6-7ee3-410a-9567-0e9cc3e06889">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 25.01</source>
+        <target>Versão 25.01</target>
+      </segment>
+    </unit>
+    <unit id="08b33856-aff4-4512-8c1c-1949d03acc88">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for GoldWave 7 (requires 64-bit Windows 10 or later).</source>
+        <target>Suporte para GoldWave 7 (requer Windows 10 de 64 bits ou posterior).</target>
+      </segment>
+    </unit>
+    <unit id="6b43bf4c-fe0d-4c5b-88bc-3810c35ffb22">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download links for add-on releases are no longer included in add-on documentation. You can download the add-on from NV Access add-on store.</source>
+        <target>Os links de download para versões de complemento não estão mais incluídos na documentação do complemento. Você pode fazer o download do complemento na loja de complementos do NV Access.</target>
+      </segment>
+    </unit>
+    <unit id="0663a6e3-f7c9-477c-909f-26b069177e73">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Switched linting tool from Flake8 to Ruff and reformatted add-on modules to better align with NVDA coding standards.</source>
+        <target>Mudança da ferramenta de linting do Flake8 para o Ruff e reformatação dos módulos complementares para melhor alinhamento com os padrões de codificação do NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="9760a23e-3195-4d55-8f0c-a687babd06f6">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Removed support for automatic add-on updates feature from Add-on Updater add-on.</source>
+        <target>Removido o suporte ao recurso de atualizações automáticas de complementos do complemento Add-on Updater.</target>
+      </segment>
+    </unit>
+    <unit id="45ef9d03-21c9-419a-ae34-84e3eda228bf">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 23.02</source>
+        <target>Versão 23.02</target>
+      </segment>
+    </unit>
+    <unit id="ca6dbc5d-d23e-47e4-ae95-604ad3a2be79">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2022.4 or later is required.</source>
+        <target>É necessário o NVDA 2022.4 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="ba3164d0-ad2d-42fe-bb20-5199605b3f6a">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows 10 21H2 (November 2021 Update/build 19044) or later is required.</source>
+        <target>É necessário o Windows 10 21H2 (atualização/compilação 19044 de novembro de 2021) ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="f1a86a0a-8756-4b91-befc-25ef5d57edc8">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 23.01</source>
+        <target>Versão 23.01</target>
+      </segment>
+    </unit>
+    <unit id="7619aec8-5e9d-45ab-8cf1-d5524a72690f">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2022.3 or later is required.</source>
+        <target>É necessário o NVDA 2022.3 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="d1d2bce0-e82d-4aa6-b26e-4e51c8234580">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows 10 or later is required as Windows 7, 8, and 8.1 are no longer supported by Microsoft as of January 2023.</source>
+        <target>É necessário ter o Windows 10 ou posterior, pois o Windows 7, 8 e 8.1 não serão mais suportados pela Microsoft a partir de janeiro de 2023.</target>
+      </segment>
+    </unit>
+    <unit id="5759cdad-941a-4a16-8e57-56ac24940a2f">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 22.03</source>
+        <target>Versão 22.03</target>
+      </segment>
+    </unit>
+    <unit id="7c07d51a-f429-46b6-a6f3-4b9a1aaae96b">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2021.3 or later is required.</source>
+        <target>É necessário o NVDA 2021.3 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="232adec3-045f-4ee2-8f44-6d2f7c1cbf25">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>A warning message will be displayed when attempting to install the add-on on Windows 7, 8, and 8.1.</source>
+        <target>Uma mensagem de aviso será exibida ao tentar instalar o complemento no Windows 7, 8 e 8.1.</target>
+      </segment>
+    </unit>
+    <unit id="92091149-053d-470b-a5b7-100b82b28ab0">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 21.10</source>
+        <target>Versão 21.10</target>
+      </segment>
+    </unit>
+    <unit id="0e0a4997-fe95-406a-aaf0-39901ebd4708">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA 2021.2 or later is required due to changes to NVDA that affects this add-on.</source>
+        <target>O NVDA 2021.2 ou posterior é necessário devido a alterações no NVDA que afetam esse complemento.</target>
+      </segment>
+    </unit>
+    <unit id="0b1fe0a0-fd18-43ac-9242-350a455219c5">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>In GoldWave 6.57 and later, NVDA will no longer repeat the name of the loaded file when pressing play/rewind/stop keys.</source>
+        <target>No GoldWave 6.57 e posterior, o NVDA não repetirá mais o nome do arquivo carregado ao pressionar as teclas de reprodução/retrocesso/parada.</target>
+      </segment>
+    </unit>
+    <unit id="ba7c7c78-1eee-4d22-a82d-e7e3f7b4b313">
+      <notes>
+        <note appliesTo="source">line: 70</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 21.06</source>
+        <target>Versão 21.06</target>
+      </segment>
+    </unit>
+    <unit id="91c780dc-99f2-4831-a9b0-e62ca298cd4e">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Resolved additional coding style issues and potential bugs with Flake8.</source>
+        <target>Resolvidos outros problemas de estilo de codificação e possíveis bugs com o Flake8.</target>
+      </segment>
+    </unit>
+    <unit id="1c5453ca-672b-47e9-ac0a-70215f2a5fbf">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.06</source>
+        <target>Versão 20.06</target>
+      </segment>
+    </unit>
+    <unit id="5439463f-f739-4ba9-990e-c58c75522d0e">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Resolved many coding style issues and potential bugs with Flake8.</source>
+        <target>Resolvidos vários problemas de estilo de codificação e possíveis bugs com o Flake8.</target>
+      </segment>
+    </unit>
+    <unit id="80995cb7-4cc5-44b3-8878-dfc42e3d0ac9">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.04</source>
+        <target>Versão 20.04</target>
+      </segment>
+    </unit>
+    <unit id="5dc59e19-20ba-45c6-a016-baa964261153">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added input help messages for remainig time command (NVDA+Shift+R).</source>
+        <target>Adição de mensagens de ajuda de entrada para o comando remainig time (NVDA+Shift+R).</target>
+      </segment>
+    </unit>
+    <unit id="1fa738b3-edc6-4d14-a659-b9997e6b2a46">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Toggle command announcement command (NVDA+Shift+C) will now show up under "GoldWave" category in NVDA's input gestures dialog.</source>
+        <target>O comando de anúncio de comando de alternância (NVDA+Shift+C) agora aparecerá na categoria "GoldWave" na caixa de diálogo de gestos de entrada do NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="2e9022f1-7866-4d9a-8f19-9626d0ccb5d0">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 20.01</source>
+        <target>Versão 20.01</target>
+      </segment>
+    </unit>
+    <unit id="c2903702-3502-4f28-a08c-b58b3ddaec20">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>Requer NVDA 2019.3 ou superiores.</target>
+      </segment>
+    </unit>
+    <unit id="7ebdd576-276e-4590-909c-913c9b1fe5d1">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 19.11</source>
+        <target>Versão 19.11</target>
+      </segment>
+    </unit>
+    <unit id="ddf029d8-e3d3-4cc2-954b-318ee56e9c04">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Windows 7 SP1, GoldWave 6.x, and NVDA 2019.1 or later is required.</source>
+        <target>É necessário o Windows 7 SP1, o GoldWave 6.x e o NVDA 2019.1 ou posterior.</target>
+      </segment>
+    </unit>
+    <unit id="96deac6a-7b4b-4f02-bdda-690a71d8e8e8">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added help message for sound window (accessible if Control Usage Assistant add-on is installed).</source>
+        <target>Adicionada mensagem de ajuda para a janela de som (acessível se o complemento Control Usage Assistant estiver instalado).</target>
+      </segment>
+    </unit>
+    <unit id="447478c0-8173-49c1-8bd1-f2a1448f899a">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 18.12</source>
+        <target>Versão 18.12</target>
+      </segment>
+    </unit>
+    <unit id="42c7cac5-2aa4-4a3a-bb86-bd9b0258b0b0">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA will no longer appear to do nothing or play error tones when performing certain GoldWave commands with command announcement set to off (this may result in odd behaviors in some cases).</source>
+        <target>O NVDA não parecerá mais não fazer nada ou reproduzir tons de erro ao executar determinados comandos do GoldWave com o anúncio de comando definido como desativado (isso pode resultar em comportamentos estranhos em alguns casos).</target>
+      </segment>
+    </unit>
+    <unit id="b8e055a5-87c1-4414-a254-aa826625c911">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>Alterações internas para dar suporte a futuras versões do NVDA.</target>
+      </segment>
+    </unit>
+    <unit id="0a334cb7-6b51-4727-82a0-dea6098ec1be">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 18.07</source>
+        <target>Versão 18.07</target>
+      </segment>
+    </unit>
+    <unit id="7315bcdb-3967-4733-8e4b-b1acd28ebbca">
+      <notes>
+        <note appliesTo="source">line: 99</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed an issue where leading zeroes would not be displayed when trying to obtain remaining time for a trakc.</source>
+        <target>Foi corrigido um problema em que os zeros à esquerda não eram exibidos quando se tentava obter o tempo restante de um trakc.</target>
+      </segment>
+    </unit>
+    <unit id="3e235bf0-d5c0-41ff-adb6-5457ef1e9d16">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 17.05</source>
+        <target>Versão 17.05</target>
+      </segment>
+    </unit>
+    <unit id="d07b0c3a-7cf6-4ee1-af56-62e695563ffe">
+      <notes>
+        <note appliesTo="source">line: 103</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added ability to provide debug information when NVDA is running with debug logging enabled (NVDA 2017.1 or later).</source>
+        <target>Foi adicionada a capacidade de fornecer informações de depuração quando o NVDA estiver em execução com o registro de depuração ativado (NVDA 2017.1 ou posterior).</target>
+      </segment>
+    </unit>
+    <unit id="4f26dc98-3e70-4b96-bbac-bf8f35707f5b">
+      <notes>
+        <note appliesTo="source">line: 104</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Traduções atualizadas.</target>
+      </segment>
+    </unit>
+    <unit id="66660037-25ca-4b0f-ae78-1d413d26d791">
+      <notes>
+        <note appliesTo="source">line: 106</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 16.12</source>
+        <target>Versão 16.12</target>
+      </segment>
+    </unit>
+    <unit id="8480fbf2-7700-4fd9-8a88-0e956b5165e9">
+      <notes>
+        <note appliesTo="source">line: 108</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Version scheme is now year.month instead of major.minor.</source>
+        <target>O esquema de versão agora é ano.mês em vez de maior.menor.</target>
+      </segment>
+    </unit>
+    <unit id="f604465f-ce6e-494d-83bd-f2a35a9e42d3">
+      <notes>
+        <note appliesTo="source">line: 110</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.0</source>
+        <target>Alterações para a versão 4.0</target>
+      </segment>
+    </unit>
+    <unit id="a776ec3c-8df1-4e37-a653-4c4055872e0f">
+      <notes>
+        <note appliesTo="source">line: 112</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on repository has moved to GitHub (now located at https://github.com/josephsl/goldwave).</source>
+        <target>O repositório de complementos foi transferido para o GitHub (agora localizado em https://github.com/josephsl/goldwave).</target>
+      </segment>
+    </unit>
+    <unit id="90959162-3725-43b7-a30d-b9e59212d857">
+      <notes>
+        <note appliesTo="source">line: 113</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Performance improvements when looking up information such as channel name and other status information.</source>
+        <target>Melhorias no desempenho ao procurar informações como o nome do canal e outras informações de status.</target>
+      </segment>
+    </unit>
+    <unit id="9674bbbc-3405-4d42-b714-3fb6ab4e0a18">
+      <notes>
+        <note appliesTo="source">line: 115</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.0</source>
+        <target>Alterações para a versão 3.0</target>
+      </segment>
+    </unit>
+    <unit id="c5df72c0-e24b-404c-ba49-cd77d8bc489c">
+      <notes>
+        <note appliesTo="source">line: 117</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added a command to announce remaining time for the current track (NVDA+Shift+R).</source>
+        <target>Foi adicionado um comando para anunciar o tempo restante da faixa atual (NVDA+Shift+R).</target>
+      </segment>
+    </unit>
+    <unit id="1eed6df7-938d-418a-8f60-5346600e3680">
+      <notes>
+        <note appliesTo="source">line: 118</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Slight improvements when announcing status information such as channel information.</source>
+        <target>Pequenas melhorias ao anunciar informações de status, como informações de canal.</target>
+      </segment>
+    </unit>
+    <unit id="75b04cdd-494a-4cbb-95ad-1653eebea094">
+      <notes>
+        <note appliesTo="source">line: 120</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0</source>
+        <target>Alterações para a versão 2.0</target>
+      </segment>
+    </unit>
+    <unit id="39f97ca4-8435-400e-90a9-e6af931a37f8">
+      <notes>
+        <note appliesTo="source">line: 122</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for GoldWave 6, including 64-bit version of GoldWave (see note above).</source>
+        <target>Suporte ao GoldWave 6, incluindo a versão de 64 bits do GoldWave (consulte a nota acima).</target>
+      </segment>
+    </unit>
+    <unit id="1f462006-cd61-479f-a72b-6c2cd07ae36a">
+      <notes>
+        <note appliesTo="source">line: 123</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on help can now be accessed from add-ons manager (NVDA 2014.3 and later).</source>
+        <target>A ajuda do complemento agora pode ser acessada no gerenciador de complementos (NVDA 2014.3 e posterior).</target>
+      </segment>
+    </unit>
+    <unit id="55b068a5-162d-4083-b431-4cf76f948166">
+      <notes>
+        <note appliesTo="source">line: 124</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA now announces selected channel if you press channel selection commands such as Control+Shift+L for the left channel.</source>
+        <target>O NVDA agora anuncia o canal selecionado se você pressionar comandos de seleção de canal, como Control+Shift+L para o canal esquerdo.</target>
+      </segment>
+    </unit>
+    <unit id="54617f52-b344-4cbf-bf31-9b0142b45586">
+      <notes>
+        <note appliesTo="source">line: 125</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Various issues with numeric edit fields such as censor field and time selector in mix dialog has been fixed, including selecting text, updating values and so on.</source>
+        <target>Vários problemas com campos de edição numérica, como o campo de censura e o seletor de tempo na caixa de diálogo de mixagem, foram corrigidos, incluindo a seleção de texto, a atualização de valores e assim por diante.</target>
+      </segment>
+    </unit>
+    <unit id="55177b96-1c00-482e-9d9a-d45e617ef502">
+      <notes>
+        <note appliesTo="source">line: 126</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Command announcement setting will be remembered when switching to other programs.</source>
+        <target>A configuração do anúncio de comando será lembrada ao alternar para outros programas.</target>
+      </segment>
+    </unit>
+    <unit id="16fc1b71-d573-46f4-97ff-a0f4dd3ec300">
+      <notes>
+        <note appliesTo="source">line: 128</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.2</source>
+        <target>Alterações para a versão 1.2</target>
+      </segment>
+    </unit>
+    <unit id="9b829272-f29f-4514-a7a1-0fda95f7f915">
+      <notes>
+        <note appliesTo="source">line: 130</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed an issue where NVDA had difficulty announcing some edit fields.</source>
+        <target>Foi corrigido um problema em que o NVDA tinha dificuldade para anunciar alguns campos de edição.</target>
+      </segment>
+    </unit>
+    <unit id="069f67ae-e364-4e78-b505-1b3c17480e2f">
+      <notes>
+        <note appliesTo="source">line: 131</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New and updated translations.</source>
+        <target>Traduções novas e atualizadas.</target>
+      </segment>
+    </unit>
+    <unit id="242a63be-be9a-4919-9b74-e50a08116d4f">
+      <notes>
+        <note appliesTo="source">line: 132</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Please note that due to recent changes in NVDA, audio selection and other status commands may not work as expected in some systems.</source>
+        <target>Observe que, devido a alterações recentes no NVDA, a seleção de áudio e outros comandos de status podem não funcionar como esperado em alguns sistemas.</target>
+      </segment>
+    </unit>
+    <unit id="ec21df78-a7d5-43db-acda-aa3f1dc53c51">
+      <notes>
+        <note appliesTo="source">line: 134</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.1</source>
+        <target>Alterações para a versão 1.1</target>
+      </segment>
+    </unit>
+    <unit id="eb8ce97b-9eb5-4857-9812-48f969b9fcfa">
+      <notes>
+        <note appliesTo="source">line: 136</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for message announcements in braille.</source>
+        <target>Suporte para anúncios de mensagens em braile.</target>
+      </segment>
+    </unit>
+    <unit id="607e236e-b559-49ae-a7e6-6621d9db5314">
+      <notes>
+        <note appliesTo="source">line: 137</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Audio selection summary is presented in languages other than English.</source>
+        <target>O resumo da seleção de áudio é apresentado em outros idiomas além do inglês.</target>
+      </segment>
+    </unit>
+    <unit id="0a2cff1c-30d6-4f89-928c-e9266aa339e3">
+      <notes>
+        <note appliesTo="source">line: 138</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>More command announcements added including cue position movement and delete/trim operations.</source>
+        <target>Foram adicionados mais anúncios de comando, incluindo o movimento da posição da deixa e operações de exclusão/aparagem.</target>
+      </segment>
+    </unit>
+    <unit id="79e43f4e-e76c-4f76-85d7-773ef9560343">
+      <notes>
+        <note appliesTo="source">line: 139</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed an issue in numeric edit fields such as various effects dialogs where nothing or wrong field name was announced.</source>
+        <target>Foi corrigido um problema em campos de edição numérica, como várias caixas de diálogo de efeitos, em que nada ou um nome de campo errado era anunciado.</target>
+      </segment>
+    </unit>
+    <unit id="fe69206d-9136-4ab5-af90-a9c16a52e481">
+      <notes>
+        <note appliesTo="source">line: 140</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New and updated translations.</source>
+        <target>Traduções novas e atualizadas.</target>
+      </segment>
+    </unit>
+    <unit id="f57c775e-87fe-4ed7-b382-f61d3187a09b">
+      <notes>
+        <note appliesTo="source">line: 142</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.0</source>
+        <target>Alterações para a versão 1.0</target>
+      </segment>
+    </unit>
+    <unit id="0aa20637-f440-4a08-91b7-66bfee2e501b">
+      <notes>
+        <note appliesTo="source">line: 144</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial version.</source>
+        <target>Versão inicial.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

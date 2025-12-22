@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fi">
+  <file id="winWizard.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/winWizard/winWizard.md">
+    <skeleton>
+# $(ID:53ea5e49-7f3c-40f8-ad01-53187298a36e)
+
+* $(ID:e43840df-f118-4f11-a2d9-b5980141528c)
+* $(ID:5bd6fef9-addb-412a-80e6-7aa4fc4b6fc5)
+
+$(ID:76d9fe7d-f8a4-4aa5-a501-76ca203d2329)
+$(ID:5106349c-2bde-4c14-a183-78a945e112f6)
+$(ID:757d8be0-69c6-4aae-928e-c21e17e7177a)
+
+## $(ID:b1c36715-6ed3-49d1-be20-39de88b9fcb1)
+$(ID:f2ab02f2-931f-4236-b06a-02d17f44bcfa)
+### $(ID:148b326f-b943-4bc1-8d08-ce40de558bf7)
+* $(ID:955cf1f2-8025-47c0-ae5b-0bea7509ff79)
+* $(ID:49c54755-4a00-4d67-a4a2-6060b563b0cc)
+* $(ID:1834675a-e883-45fe-8f88-f2645fa41f20)
+* $(ID:8d59c010-ac2e-416b-9bbc-e149f1844191)
+* $(ID:bff9a694-371f-4eb8-913c-3af9750f9137)
+* $(ID:242bc335-5855-4566-afcb-5587f0d155c5)
+
+### $(ID:e74d51ee-b97e-4897-ba81-f61559ca0aca)
+* $(ID:9bc602c8-969d-4301-9e9e-7f14c05c2d14)
+* $(ID:0c6572b4-513a-43aa-beb5-728a4baf84c6)
+
+### $(ID:304e7e40-530b-4493-9283-88fbbdf03b24)
+* $(ID:ac69376e-4eb8-461c-9ac4-8551ac6ad72c)
+* $(ID:038bb9d8-51e4-4c7d-a72c-50387d48d4f8)
+
+## $(ID:9ae4cec5-7bfb-46a9-96e5-b0f518a48796)
+
+### $(ID:1df7481e-9b41-4dc0-8e49-c1019c435c9c)
+
+* $(ID:957e3f99-44e4-4efd-b153-00a4ca3b69c1)
+* $(ID:909b1b79-b25b-4728-8f75-cd4c5b9fcde2)
+
+### $(ID:18857cbd-29cc-421a-8917-d9fff60964b9)
+
+* $(ID:3d324521-4eb9-42c1-9456-baed4d97cf3f)
+* $(ID:2f72cb9f-d136-469f-bb1b-03d4016a43b7)
+
+### $(ID:1c5492cc-0883-4d5d-a569-7371b3a7a2fe)
+
+* $(ID:6ea84d11-2038-4963-bb4d-e594d9fc1722)
+* $(ID:5b0e3395-9cd5-41ce-99f4-d1f8f02bcb67)
+
+### $(ID:5dbfd533-a1dd-4c5a-8d66-9c13324eadba)
+
+* $(ID:6fadb5e0-33f4-4c74-ba01-13eb92527b07)
+* $(ID:195b5dc6-bca1-48ee-958c-25d02b0934ca)
+* $(ID:a014613f-1879-45b7-8b04-0d3d00e9688d)
+
+### $(ID:6540b1ac-eff9-4c87-b394-92c13d9f7a07)
+
+* $(ID:f2fa5193-17f1-4514-8088-65eed316d2f9)
+
+### $(ID:c044a7e6-0d6d-4b25-8093-373b7b61fce9)
+
+* $(ID:7bd4a4a7-7ca3-4ab1-bce5-33b8b78a5c80)
+</skeleton>
+    <unit id="53ea5e49-7f3c-40f8-ad01-53187298a36e">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Win Wizard</source>
+        <target>Ikkunavelho</target>
+      </segment>
+    </unit>
+    <unit id="e43840df-f118-4f11-a2d9-b5980141528c">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Oriol Gómez, Łukasz Golonka, current maintenance by Jakub Lukowicz</source>
+        <target>Tekijät: Oriol Gómez, Łukasz Golonka, nykyinen ylläpitäjä Jakub Lukowicz</target>
+      </segment>
+    </unit>
+    <unit id="5bd6fef9-addb-412a-80e6-7aa4fc4b6fc5">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2019.3 and beyond</source>
+        <target>Yhteensopivuus: NVDA 2019.3 tai uudempi</target>
+      </segment>
+    </unit>
+    <unit id="76d9fe7d-f8a4-4aa5-a501-76ca203d2329">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on allows you to perform some operations on the focused window or the process associated with it.</source>
+        <target>Tämän lisäosan avulla voit suorittaa joitakin toimintoja aktiiviselle ikkunalle tai siihen liittyvälle prosessille.</target>
+      </segment>
+    </unit>
+    <unit id="5106349c-2bde-4c14-a183-78a945e112f6">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="final">
+        <source>When killing a process, or showing / hiding a window a confirmation beep is played when the action succeeds.</source>
+        <target>Kun prosessi lopetetaan tai ikkuna näytetään/piilotetaan, toiminnon onnistuessa kuuluu vahvistusääni.</target>
+      </segment>
+    </unit>
+    <unit id="757d8be0-69c6-4aae-928e-c21e17e7177a">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="final">
+        <source>If you find this annoying you can disable these beeps in the Win Wizard's settings panel available from NVDA's settings dialog.</source>
+        <target>Jos tämä tuntuu ärsyttävältä, voit poistaa äänen käytöstä Ikkunavelhon asetuspaneelista, joka löytyy NVDA:n asetusvalintaikkunasta.</target>
+      </segment>
+    </unit>
+    <unit id="b1c36715-6ed3-49d1-be20-39de88b9fcb1">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Keyboard commands:</source>
+        <target>Näppäinkomennot:</target>
+      </segment>
+    </unit>
+    <unit id="f2ab02f2-931f-4236-b06a-02d17f44bcfa">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="final">
+        <source>All these commands can be remapped from the Input gestures dialog in the Win Wizard category.</source>
+        <target>Voit muuttaa näitä komentoja Näppäinkomennot-valintaikkunan Ikkunavelho-kategoriasta.</target>
+      </segment>
+    </unit>
+    <unit id="148b326f-b943-4bc1-8d08-ce40de558bf7">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Hiding and showing hidden windows:</source>
+        <target>Ikkunoiden piilottaminen ja näyttäminen:</target>
+      </segment>
+    </unit>
+    <unit id="955cf1f2-8025-47c0-ae5b-0bea7509ff79">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+numbers from 1 to 0 - hides  currently focused window in the slot corresponding to the pressed number</source>
+        <target>NVDA+Win+Numerot 1-0: Piilottaa aktiivisen ikkunan painettua numeroa vastaavaan paikkaan.</target>
+      </segment>
+    </unit>
+    <unit id="49c54755-4a00-4d67-a4a2-6060b563b0cc">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+left arrow - moves to the previous stack of hidden windows.</source>
+        <target>NVDA+Win+Vasen nuoli: Siirtää edelliseen piilotettujen ikkunoiden pinoon.</target>
+      </segment>
+    </unit>
+    <unit id="1834675a-e883-45fe-8f88-f2645fa41f20">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+right arrow - moves to the next stack of hidden windows.</source>
+        <target>NVDA+Win+Oikea nuoli: Siirtää seuraavaan piilotettujen ikkunoiden pinoon.</target>
+      </segment>
+    </unit>
+    <unit id="8d59c010-ac2e-416b-9bbc-e149f1844191">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+Shift+h - hides the currently focused window in the first available slot</source>
+        <target>Win+Vaihto+H: Piilottaa aktiivisen ikkunan ensimmäiseen käytettävissä olevaan paikkaan.</target>
+      </segment>
+    </unit>
+    <unit id="bff9a694-371f-4eb8-913c-3af9750f9137">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+h - shows the last hidden window</source>
+        <target>NVDA+Win+H: Näyttää viimeksi piilotetun ikkunan.</target>
+      </segment>
+    </unit>
+    <unit id="242bc335-5855-4566-afcb-5587f0d155c5">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+Shift+l - shows the list of all hidden windows grouped by the stacks (please note that by default last hidden window is selected)</source>
+        <target>Win+Vaihto+L: Näyttää luettelon kaikista piilotetuista ikkunoista pinojen mukaan ryhmiteltyinä (viimeksi piilotettu ikkuna on oletusarvoisesti valittuna).</target>
+      </segment>
+    </unit>
+    <unit id="e74d51ee-b97e-4897-ba81-f61559ca0aca">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Managing processes:</source>
+        <target>Prosessien hallinta:</target>
+      </segment>
+    </unit>
+    <unit id="9bc602c8-969d-4301-9e9e-7f14c05c2d14">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+F4 - kills the process associated with the currently focused window</source>
+        <target>Win+F4: Lopettaa aktiiviseen ikkunaan liittyvän prosessin.</target>
+      </segment>
+    </unit>
+    <unit id="0c6572b4-513a-43aa-beb5-728a4baf84c6">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+p - opens dialog allowing you to set priority of the process associated with the currently focused window</source>
+        <target>NVDA+Win+P: Avaa valintaikkunan, jossa voit asettaa aktiiviseen ikkunaan liittyvän prosessin prioriteetin.</target>
+      </segment>
+    </unit>
+    <unit id="304e7e40-530b-4493-9283-88fbbdf03b24">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Miscellaneous  commands:</source>
+        <target>Sekalaiset komennot:</target>
+      </segment>
+    </unit>
+    <unit id="ac69376e-4eb8-461c-9ac4-8551ac6ad72c">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+TAB - switches between top level windows of the current program (useful in foobar2000, Back4Sure etc.)</source>
+        <target>NVDA+Win+Sarkain: Vaihtaa nykyisen ohjelman ylätason ikkunoiden välillä (hyödyllinen foobar2000:ssa, Back4Suressa jne.).</target>
+      </segment>
+    </unit>
+    <unit id="038bb9d8-51e4-4c7d-a72c-50387d48d4f8">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>CTRL+ALT+T - allows you to change title of the currently focused program</source>
+        <target>Ctrl+Alt+T: Mahdollistaa aktiivisen ohjelman ikkunan nimen muuttamisen.</target>
+      </segment>
+    </unit>
+    <unit id="9ae4cec5-7bfb-46a9-96e5-b0f518a48796">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes:</source>
+        <target>Muutokset:</target>
+      </segment>
+    </unit>
+    <unit id="1df7481e-9b41-4dc0-8e49-c1019c435c9c">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.7:</source>
+        <target>Muutokset versiossa 5.0.7:</target>
+      </segment>
+    </unit>
+    <unit id="957e3f99-44e4-4efd-b153-00a4ca3b69c1">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2025.1</source>
+        <target>Yhteensopiva NVDA 2025.1:n kanssa</target>
+      </segment>
+    </unit>
+    <unit id="909b1b79-b25b-4728-8f75-cd4c5b9fcde2">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Update translations</source>
+        <target>Käännöksiä päivitetty</target>
+      </segment>
+    </unit>
+    <unit id="18857cbd-29cc-421a-8917-d9fff60964b9">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.6:</source>
+        <target>Muutokset versiossa 5.0.6:</target>
+      </segment>
+    </unit>
+    <unit id="3d324521-4eb9-42c1-9456-baed4d97cf3f">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2024.1</source>
+        <target>Yhteensopiva NVDA 2024.1:n kanssa</target>
+      </segment>
+    </unit>
+    <unit id="2f72cb9f-d136-469f-bb1b-03d4016a43b7">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Update translations</source>
+        <target>Käännöksiä päivitetty</target>
+      </segment>
+    </unit>
+    <unit id="1c5492cc-0883-4d5d-a569-7371b3a7a2fe">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.5:</source>
+        <target>Muutokset versiossa 5.0.5:</target>
+      </segment>
+    </unit>
+    <unit id="6ea84d11-2038-4963-bb4d-e594d9fc1722">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2023.2</source>
+        <target>Yhteensopiva NVDA 2023.2:n kanssa</target>
+      </segment>
+    </unit>
+    <unit id="5b0e3395-9cd5-41ce-99f4-d1f8f02bcb67">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Update translations</source>
+        <target>Käännöksiä päivitetty</target>
+      </segment>
+    </unit>
+    <unit id="5dbfd533-a1dd-4c5a-8d66-9c13324eadba">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.4:</source>
+        <target>Muutokset versiossa 5.0.4:</target>
+      </segment>
+    </unit>
+    <unit id="6fadb5e0-33f4-4c74-ba01-13eb92527b07">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2022.1</source>
+        <target>Yhteensopiva NVDA 2022.1:n kanssa</target>
+      </segment>
+    </unit>
+    <unit id="195b5dc6-bca1-48ee-958c-25d02b0934ca">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>It is now possible to disable confirmation beeps in the add-ons settings panel</source>
+        <target>Vahvistusäänen käytöstä poistaminen on nyt mahdollista lisäosan asetuspaneelissa</target>
+      </segment>
+    </unit>
+    <unit id="a014613f-1879-45b7-8b04-0d3d00e9688d">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Update translations</source>
+        <target>Käännöksiä päivitetty</target>
+      </segment>
+    </unit>
+    <unit id="6540b1ac-eff9-4c87-b394-92c13d9f7a07">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.3:</source>
+        <target>Muutokset versiossa 5.0.3:</target>
+      </segment>
+    </unit>
+    <unit id="f2fa5193-17f1-4514-8088-65eed316d2f9">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2021.1</source>
+        <target>Yhteensopiva NVDA 2021.1:n kanssa</target>
+      </segment>
+    </unit>
+    <unit id="c044a7e6-0d6d-4b25-8093-373b7b61fce9">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 5.0.2:</source>
+        <target>Muutokset versiossa 5.0.2:</target>
+      </segment>
+    </unit>
+    <unit id="7bd4a4a7-7ca3-4ab1-bce5-33b8b78a5c80">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>First release available from the add-ons website</source>
+        <target>Ensimmäinen lisäosasivustolta saatavilla oleva versio</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

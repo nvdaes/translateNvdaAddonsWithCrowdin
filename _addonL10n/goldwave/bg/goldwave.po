@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 10:05+0000\n"
+"PO-Revision-Date: 2025-12-15 01:03\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: bg\n"
+"X-Crowdin-File: goldwave.pot\n"
+"X-Crowdin-File-ID: 180\n"
+
+#: addon/appModules/goldwave.py:36
+msgid "This is GoldWave's sound window. You can use GoldWave commands to listen to and edit sound files. See GoldWave help for details."
+msgstr "Това е прозорецът за звук на GoldWave. Можете да използвате командите на GoldWave, за да прослушвате и редактирате звукови файлове. Прегледайте помощната документация на GoldWave за допълнителна информация."
+
+#. Translators: Presented when audio track position information can not be located.
+#: addon/appModules/goldwave.py:89
+msgid "Track position not available"
+msgstr "Не е налична информация за текущата позиция в пистата"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:120
+msgid "Channel information unavailable"
+msgstr "Не е налична информация за канала"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:122
+msgid "mono"
+msgstr "Моно"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:124
+msgid "stereo"
+msgstr "Стерео"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:126
+msgid "left"
+msgstr "Ляв"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:128
+msgid "right"
+msgstr "Десен"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:130
+msgid "center"
+msgstr "център"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:132
+msgid "low frequency"
+msgstr "ниска честота"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:134
+msgid "back left"
+msgstr "заден ляв"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:136
+msgid "back right"
+msgstr "заден десен"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:138
+msgid "side left"
+msgstr "страничен ляв"
+
+#. Translators: One of the channel values when editing audio track in Goldwave.
+#: addon/appModules/goldwave.py:140
+msgid "side right"
+msgstr "страничен десен"
+
+#. Translators: Presented when multiple channels are selected (GoldWave 6 and higher).
+#: addon/appModules/goldwave.py:142
+msgid "Multiple channels selected"
+msgstr "избрани са няколко канала"
+
+#. Translators: Presented when all channels (3.1, 5.1, 7.1) are selected (GoldWave 6 and higher).
+#: addon/appModules/goldwave.py:144
+msgid "All channels selected"
+msgstr "Избрани са всички канали"
+
+#: addon/appModules/goldwave.py:235
+#, python-brace-format
+msgid "Start: {startMarkerPos}"
+msgstr "Начало: {startMarkerPos}"
+
+#: addon/appModules/goldwave.py:247
+#, python-brace-format
+msgid "Finish: {finishMarkerPos}"
+msgstr "Край: {finishMarkerPos}"
+
+#. Translators: Presented when selected audio is playing.
+#: addon/appModules/goldwave.py:256
+msgid "Play selection"
+msgstr "Възпроизвеждане на избраното"
+
+#. Translators: Presented when all parts of the audio track is selected.
+#: addon/appModules/goldwave.py:262
+msgid "Select All"
+msgstr "Избери всичко"
+
+#. Translators: A message in GoldWave when an audio cue is dropped at the current audio position.
+#: addon/appModules/goldwave.py:268
+msgid "Cue"
+msgstr "Вмъкване на показалец"
+
+#. Translators: Presented when audio cue is dropped at the start marker position.
+#: addon/appModules/goldwave.py:274
+msgid "Cue dropped at start marker"
+msgstr "Показалецът бе вмъкнат на позицията на маркера за начало"
+
+#. Translators: Presented when an audio cue is dropped at the finish marker position.
+#: addon/appModules/goldwave.py:280
+msgid "Cue dropped at finish marker"
+msgstr "Показалецът бе поставен на позицията на маркера за край"
+
+#. Translators: Presented when the start marker is moved to the next cue position.
+#: addon/appModules/goldwave.py:286
+msgid "Start marker at next cue"
+msgstr "Преместване на маркера за начало до следващия показалец"
+
+#. Translators: Presented when the start marker is moved to the next cue position.
+#: addon/appModules/goldwave.py:292
+msgid "Start marker at previous cue"
+msgstr "Преместване на маркера за начало до предишния показалец"
+
+#. Translators: Presented when the finish marker is moved to the next cue position.
+#: addon/appModules/goldwave.py:298
+msgid "Finish marker at next cue"
+msgstr "Преместване на маркера за край до следващия показалец"
+
+#. Translators: Presented when the start marker is moved to the next cue position.
+#: addon/appModules/goldwave.py:304
+msgid "Finish marker at previous cue"
+msgstr "Преместване на маркера за край до предишния показалец"
+
+#. Translators: Presented when audio selection is deleted.
+#: addon/appModules/goldwave.py:311
+msgid "deleted"
+msgstr "Изтрито"
+
+#. Translators: Presented when a track is playing in Goldwave.
+#: addon/appModules/goldwave.py:319
+msgid "play"
+msgstr "Възпроизвеждане"
+
+#. Translators: Presented when a track is rewinding in Goldwave.
+#: addon/appModules/goldwave.py:325
+msgid "rewind"
+msgstr "Превъртане назад"
+
+#. Translators: Presented when fast forwarding a track in Goldwave.
+#: addon/appModules/goldwave.py:331
+msgid "fast forward"
+msgstr "Превъртане напред"
+
+#. Translators: Presented when pausing a track in Goldwave.
+#: addon/appModules/goldwave.py:337
+msgid "pause"
+msgstr "Пауза"
+
+#. Translators: Presented when stopping a track in in Goldwave.
+#: addon/appModules/goldwave.py:343
+msgid "stop"
+msgstr "Спиране"
+
+#. Translators: Presented when starting recording in Goldwave.
+#: addon/appModules/goldwave.py:349
+msgid "record"
+msgstr "Записване"
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:355
+msgid "Announces the current audio position in seconds."
+msgstr "Съобщава в секунди текущата позиция в аудиопистата."
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:365
+msgid "Announces a summary on audio selection info such as selection duration."
+msgstr "Съобщава обобщена информация за аудио селекцията (например времетраенето й)."
+
+#: addon/appModules/goldwave.py:376
+msgid "Unable to obtain audio selection summary. Please close and reopen the audio track."
+msgstr "Не бе възможно получаването на информация за текущата аудио селекция. Моля затворете и отворете повторно аудио пистата."
+
+#. Translators: The audio selection summary message (example output: "0.00 to 1.00 (1.00)").
+#: addon/appModules/goldwave.py:381
+#, python-brace-format
+msgid "{audioSelectionStart} to {audioSelectionEnd} {audioSelectionLength}"
+msgstr "от {audioSelectionStart} до {audioSelectionEnd}, общо {audioSelectionLength}"
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:392
+msgid "Announces total length of the audio track."
+msgstr "Съобщава времетраенето на цялата аудио писта."
+
+#. Translators: Presented when there is no track length information.
+#: addon/appModules/goldwave.py:400
+msgid "Track length is unavailable. Please close and reopen the audio track."
+msgstr "Времетраенето на пистата не е налично. Моля затворете и отворете повторно аудио пистата."
+
+#: addon/appModules/goldwave.py:402
+#, python-brace-format
+msgid "Track length: {trackLength}"
+msgstr "Времетраене: {trackLength}"
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:406
+msgid "Announces remaining length of the audio track."
+msgstr "Съобщава оставащото времетраене от аудио пистата."
+
+#. Translators: An error message presented when remaining time cannot be anounced.
+#: addon/appModules/goldwave.py:414
+msgid "Cannot tell you remaining time for the current track"
+msgstr "Не може да се съобщи оставащото време за текущия запис"
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:427
+msgid "Announces the audio channel you are editing."
+msgstr "Съобщава редактирания от вас аудио канал."
+
+#. Translators: Presented to indicate the selected channel for the track
+#. (example output: "Selected channel: mono").
+#: addon/appModules/goldwave.py:441
+#, python-brace-format
+msgid "Selected channel: {audioChannel}"
+msgstr "Избран канал: {audioChannel}"
+
+#. Translators: Input help mode message for a Goldwave command.
+#: addon/appModules/goldwave.py:452
+msgid "Announces audio zoom level."
+msgstr "Съобщава нивото на мащабиране на пистата."
+
+#. Translators: Presented to indicate audio selection zoom level (example output: "Zoom level: 10.000").
+#: addon/appModules/goldwave.py:458
+#, python-brace-format
+msgid "Zoom level: {zoomLevel}"
+msgstr "Ниво на мащабиране: {zoomLevel}"
+
+#. Add-on summary/title, usually the user visible name of the add-on
+#. Translators: Summary/title for this add-on
+#. to be shown on installation and add-on information found in add-on store
+#: buildVars.py:21
+msgid "GoldWave"
+msgstr "GoldWave"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:24
+msgid "An add-on for enhancing access and usage of the GoldWave audio editor."
+msgstr "Добавка, разширяваща достъпността и ползваемостта на звуковия редактор GoldWave."
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:29
+msgid "* Fixed bugs regarding position and selection time announcements."
+msgstr "* Отстранени грешки, свързани с докладването на времевата позиция и селекцията."
+

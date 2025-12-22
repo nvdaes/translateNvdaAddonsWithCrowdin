@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 08:37+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: debugHelper.pot\n"
+"X-Crowdin-File-ID: 428\n"
+
+#. CONFIG
+#. In case you don't like "-- MARK <number> --" as your text. The number is represented by {0}.
+#. Translators: the message entered in the log, containing the mark and its sequence number (number represented by {0} placeholder)
+#: addon/globalPlugins/debugHelper.py:43
+#, python-brace-format
+msgid "-- MARK {0} --"
+msgstr "-- ОТМЕТКА {0} --"
+
+#. Translators: first is the NVDA Preferences menu item for the debugHelper settings dialog
+#. Translators: second is help text for the menu item
+#: addon/globalPlugins/debugHelper.py:63
+msgid "&Debug Helper..."
+msgstr "&Помощник по отладке..."
+
+#: addon/globalPlugins/debugHelper.py:63
+msgid "Debug Helper add-on settings"
+msgstr "Настройки дополнения помощника по отладке"
+
+#. Translators: a message telling the user that a mark has been inserted in the log, and giving its sequence number
+#: addon/globalPlugins/debugHelper.py:93
+#, python-brace-format
+msgid "Logging mark {0}!"
+msgstr "Отметка {0} записана в журнал!"
+
+#. Translators: input help message for a Debug Helper command
+#: addon/globalPlugins/debugHelper.py:99
+msgid "Inserts a mark line in the log to aid in debugging"
+msgstr "Вставляет строку с отметкой в журнал для облегчения отладки"
+
+#. Translators: This is the label for the Debug Helper settings category in NVDA Settings screen.
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: addon/globalPlugins/debugHelper.py:114 buildVars.py:17
+msgid "Debug Helper"
+msgstr "Помощник по отладке"
+
+#. Translators: The label for a setting in Debug Helper settings dialog to set blank lines inserted before marks
+#: addon/globalPlugins/debugHelper.py:119
+#: addon/globalPlugins/debugHelper.py:135
+msgid "Number of blank lines before each mark (can make marks easier to find with fast arrowing)"
+msgstr "Количество пустых строк перед каждой отметкой (может упростить поиск отметок с помощью быстрой прокрутки клавишами-стрелками)"
+
+#. Translators: The label for a setting in Debug Helper settings dialog to set blank lines inserted after marks
+#: addon/globalPlugins/debugHelper.py:121
+#: addon/globalPlugins/debugHelper.py:137
+msgid "Number of blank lines after each mark"
+msgstr "Количество пустых строк после каждой отметки"
+
+#. Translators: This is the label for the Debug Helper settings dialog (used in NVDA versions before settings category panel).
+#: addon/globalPlugins/debugHelper.py:130
+msgid "Debug Helper Settings"
+msgstr "Настройки помощника по отладке"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Makes debugging tasks easier for developers and others trying to solve problems.\n"
+"Inserts sequentially numbered mark lines in the log when you press NVDA+shift+F1, to make it easy to search for things, by \"tagging\" them.\n"
+"Contact me if you find it useful, and especially with feature ideas."
+msgstr "Упрощает задачи отладки для разработчиков и других лиц, пытающихся решить проблемы.\n"
+"При нажатии клавиш NVDA+shift+F1 в журнал добавляются последовательно пронумерованные строки с отметками, чтобы упростить поиск объектов, \"отмечая\" их.\n"
+"Свяжитесь со мной, если вы сочтёте это полезным, особенно если у вас есть идеи для новых функций."
+
