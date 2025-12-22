@@ -86,7 +86,7 @@ jobs:
           mkdir -p addon/doc/$langCode
           mv "$mdFile" addon/doc/$langCode\readme.md
           done
-          ls _R addon
+          ls -R addon
           git add addon/locale addon/doc
           if git diff --staged --quiet; then
           echo "Nothing added to commit."
