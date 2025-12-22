@@ -103,8 +103,8 @@ jobs:
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git checkout -b ${{ env.downloadTranslationsBranch }}
           git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
-          gh pr create --base ${{ env.GITHUB_DEFAULT_BRANCH }} --head ${{ env.downloadTranslationsBranch }}
+          gh pr create --base ${{ env.GITHUB_DEFAULT_BRANCH }} --head ${{ env.downloadTranslationsBranch }} \
           --title "Update tracked translations from Crowdin" \
           --body "This pull request updates translations to languages being tracked from Crowdin."
           gh pr merge ${{ env.downloadTranslationsBranch }} \
-          --squash --delete-branch --auto \
+          --squash --delete-branch --auto
