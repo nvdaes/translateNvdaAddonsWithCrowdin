@@ -78,9 +78,9 @@ jobs:
           [ -f "$poFile" ] || continue
           langCode=$(basename $(dirname $poFile))
           mkdir -p addon/locale/$langCode/LC_MESSAGES
-          mv $poFile "addon/locale/$langCode/LC_MESSAGES/${{ steps.getAddonInfo.outputs.addonId }}.po"
+          mv $poFile addon/locale/$langCode/LC_MESSAGES/nvda.po
           done
-          for mdFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md; do
+          for mdFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
           langCode=$(basename $(dirname $mdFile))
           [ -f "$mdFile" ] || continue
           mkdir -p addon/doc/$langCode
@@ -88,7 +88,7 @@ jobs:
           done
           git add addon/locale addon/doc
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
-          git push --set-upstream origin ${{ env.downloadTranslationsBranch }}
+          git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
