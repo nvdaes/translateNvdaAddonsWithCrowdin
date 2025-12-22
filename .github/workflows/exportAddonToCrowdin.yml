@@ -73,19 +73,19 @@ jobs:
         run: |
           git pull
           git checkout -b ${{ env.downloadTranslationsBranch }}
-          uv run _l10n/source/l10nUtil.py exportTranslations -o addonL10n
-          for poFile in "addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po"; do
+          uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
+          for poFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po"; do
           [ -f "$poFile" ] || continue
           echo "$poFile"
           langCode=$(basename $(dirname $poFile))
           mkdir -p addon/locale/$langCode/LC_MESSAGES
-          mv $poFile addon/locale/$langCode/LC_MESSAGES/nvda.po
+          mv "$poFile" addon/locale/$langCode/LC_MESSAGES
           done
-          for mdFile in "addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
+          for mdFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
           langCode=$(basename $(dirname $mdFile))
           [ -f "$mdFile" ] || continue
           mkdir -p addon/doc/$langCode
-          mv $mdFile addon/doc/$langCode/readme.md
+          mv "$mdFile" addon/doc/$langCode
           done
           git add .
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
