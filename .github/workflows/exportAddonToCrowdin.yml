@@ -72,12 +72,14 @@ jobs:
       - name: Download translations from Crowdin
         run: |
           uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
+          mkdir -p addon/locale
           for poFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po"; do
           [ -f "$poFile" ] || continue
           langCode=$(basename $(dirname $poFile))
           mkdir -p addon/locale/$langCode/LC_MESSAGES
           mv "$poFile" addon/locale/$langCode/LC_MESSAGES/nvda.po
           done
+          mkdir -p addon/doc
           for mdFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
           langCode=$(basename $(dirname $mdFile))
           [ -f "$mdFile" ] || continue
