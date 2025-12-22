@@ -81,7 +81,7 @@ jobs:
           mkdir -p addon/locale/$langCode/LC_MESSAGES
           mv $poFile addon/locale/$langCode/LC_MESSAGES/nvda.po
           done
-          for mdFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
+          for mdFile in "addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
           langCode=$(basename $(dirname $mdFile))
           [ -f "$mdFile" ] || continue
           mkdir -p addon/doc/$langCode
