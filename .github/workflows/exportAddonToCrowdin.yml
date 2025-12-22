@@ -71,24 +71,22 @@ jobs:
           fi
       - name: Download translations from Crowdin
         run: |
-          git pull
-          git checkout -b ${{ env.downloadTranslationsBranch }}
           uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
           for poFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po"; do
           [ -f "$poFile" ] || continue
-          echo "$poFile"
           langCode=$(basename $(dirname $poFile))
           mkdir -p addon/locale/$langCode/LC_MESSAGES
-          mv "$poFile" addon/locale/$langCode/LC_MESSAGES
+          mv "$poFile" addon/locale/$langCode/LC_MESSAGES/nvda.po
           done
           for mdFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md"; do
           langCode=$(basename $(dirname $mdFile))
           [ -f "$mdFile" ] || continue
           mkdir -p addon/doc/$langCode
-          mv "$mdFile" addon/doc/$langCode
+          mv "$mdFile" addon/doc/$langCode\readme.md
           done
-          git add .
+          git add addon/locale addon/doc
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
+          git checkout -b ${{ env.downloadTranslationsBranch }}
           git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
