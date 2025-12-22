@@ -7,7 +7,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 env:
-  crowdinProjectID: 780748
+  crowdinProjectID: ${{ vars.CROWDIN_ID }}
   crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
 jobs:
   build:
@@ -19,7 +19,6 @@ jobs:
         uses: actions/checkout@v6
         with:
           submodules: true
-          persist-credentials: true
       - name: "Set up Python"
         uses: actions/setup-python@v6
         with:
