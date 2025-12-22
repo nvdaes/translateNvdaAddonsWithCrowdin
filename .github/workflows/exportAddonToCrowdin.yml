@@ -86,10 +86,15 @@ jobs:
           mkdir -p addon/doc/$langCode
           mv "$mdFile" addon/doc/$langCode\readme.md
           done
+          ls _R addon
           git add addon/locale addon/doc
+          if git diff --staged --quiet; then
+          echo "Nothing added to commit."
+          else
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git checkout -b ${{ env.downloadTranslationsBranch }}
           git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
+          fi
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
