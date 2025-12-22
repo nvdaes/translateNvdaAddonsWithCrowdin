@@ -86,7 +86,7 @@ jobs:
           mkdir -p addon/doc/$langCode
           mv $mdFile addon/doc/$langCode/readme.md
           done
-          git add addon/locale addon/doc
+          git add .
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
       - name: Create Pull Request
