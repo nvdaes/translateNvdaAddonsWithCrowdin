@@ -77,12 +77,12 @@ jobs:
           for dir  in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*"; do
           langCode=$(basename $(dirname $dir))
           poFile="$dir/${{ steps.getAddonInfo.outputs.addonId }}.po"
-          [ -f "$poFile" ]
+          if [ -f "$poFile" ]; then
           mkdir -p addon/locale/$langCode/LC_MESSAGES
           mv "$poFile" addon/locale/$langCode/LC_MESSAGES/nvda.po
           fi
           mdFile="$dir/${{ steps.getAddonInfo.outputs.addonId }}.md"
-          [ -f "$mdFile" ]
+          if [ -f "$mdFile" ]; then
           mkdir -p addon/doc/$langCode
           mv "$mdFile" addon/doc/$langCode\readme.md
           fi
