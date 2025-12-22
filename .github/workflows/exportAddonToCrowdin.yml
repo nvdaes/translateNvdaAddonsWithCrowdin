@@ -86,6 +86,7 @@ jobs:
             mkdir -p addon/doc/$langCode
             mv $mdFile addon/doc/$langCode/readme.md
             done
+            ls -R _addonL10n
           git add addon/locale addon/doc
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git push --set-upstream origin env.downloadTranslationsBranch
