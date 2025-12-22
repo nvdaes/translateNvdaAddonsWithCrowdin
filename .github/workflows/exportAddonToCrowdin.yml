@@ -77,7 +77,7 @@ jobs:
           for dir in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*; do
           echo "Processing: $dir"
           if [ -d "$dir" ]; then
-          langCode=$(basename $(dirname "$dir"))
+          langCode=$(basename "$dir"))
           poFile="$dir/${{ steps.getAddonInfo.outputs.addonId }}.po"
           if [ -f "$poFile" ]; then
           mkdir -p "addon/locale/$langCode/LC_MESSAGES"
