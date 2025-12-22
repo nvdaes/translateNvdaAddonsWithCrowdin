@@ -1,21 +1,23 @@
-name: Export add-on to Crowdin
+name: Crowdin l10n
 
 on:
 
   workflow_dispatch:
+  schedule:
+    # Every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 env:
-  crowdinProjectID: ${{ vars.CROWDIN_ID }}
+  crowdinProjectID: 780748 
   crowdinAuthToken: ${{ secrets.CROWDIN_TOKEN }}
-  downloadTranslationsBranch: downloadL10n
+  downloadTranslationsBranch: l10n
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - name: Checkout add-on
         uses: actions/checkout@v6
@@ -101,13 +103,8 @@ jobs:
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
           git checkout -b ${{ env.downloadTranslationsBranch }}
           git push -f --set-upstream origin ${{ env.downloadTranslationsBranch }}
-          fi
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Update translations for ${{ steps.getAddonInfo.outputs.addonId }}
-          branch: env.downloadTranslationsBranch
-          title: Translations for ${{ steps.getAddonInfo.outputs.addonId }}
-          body: This PR includes the latest translations from Crowdin for the add-on ${{ steps.getAddonInfo.outputs.addonId }}.
-  
+          gh pr create --base ${{ env.GITHUB_DEFAULT_BRANCH }} --head ${{ env.downloadTranslationsBranch }}
+          --title "Update tracked translations from Crowdin" \
+          --body "This pull request updates translations to languages being tracked from Crowdin."
+          gh pr merge ${{ env.downloadTranslationsBranch }} \
+          --squash --delete-branch --auto \
