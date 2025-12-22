@@ -72,24 +72,23 @@ jobs:
       - name: Download translations from Crowdin
         run: |
           git pull
-          git checkout -b env.downloadTranslationsBranch
+          git checkout -b ${{ env.downloadTranslationsBranch }}
           uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
           for poFile in "_addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.po"; do
           [ -e "$poFile" ] || continue
-            langCode=$(basename $(dirname $poFile))
-            mkdir -p addon/locale/$langCode/LC_MESSAGES
-            mv $poFile "addon/locale/$langCode/LC_MESSAGES/${{ steps.getAddonInfo.outputs.addonId }}.po"
-            done
-            for mdFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md; do
-            langCode=$(basename $(dirname $mdFile))
+          langCode=$(basename $(dirname $poFile))
+          mkdir -p addon/locale/$langCode/LC_MESSAGES
+          mv $poFile "addon/locale/$langCode/LC_MESSAGES/${{ steps.getAddonInfo.outputs.addonId }}.po"
+          done
+          for mdFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/${{ steps.getAddonInfo.outputs.addonId }}.md; do
+          langCode=$(basename $(dirname $mdFile))
           [ -e "$mdFile" ] || continue
-            mkdir -p addon/doc/$langCode
-            mv $mdFile addon/doc/$langCode/readme.md
-            done
-            ls -R _addonL10n
+          mkdir -p addon/doc/$langCode
+          mv $mdFile addon/doc/$langCode/readme.md
+          done
           git add addon/locale addon/doc
           git commit -m "Update translations for ${{ steps.getAddonInfo.outputs.addonId }}"
-          git push --set-upstream origin env.downloadTranslationsBranch
+          git push --set-upstream origin ${{ env.downloadTranslationsBranch }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
