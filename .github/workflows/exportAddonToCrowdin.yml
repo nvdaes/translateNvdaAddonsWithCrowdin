@@ -73,7 +73,7 @@ jobs:
         run: |
           git push
           git checkout -b env.downloadTranslationsBranch
-          uv run utils/l10nUtil.py exportTranslations -o _addonL10n
+          uv run _l10n/source/l10nUtil.py exportTranslations -o _addonL10n
           for poFile in _addonL10n/${{ steps.getAddonInfo.outputs.addonId }}/*/nvda.po; do
             langCode=$(basename $(dirname $poFile))
             mkdir -p addons/locale/$langCode/LC_MESSAGES
