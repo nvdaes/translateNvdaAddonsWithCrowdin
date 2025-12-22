@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:26+0000\n"
+"PO-Revision-Date: 2025-12-15 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: systrayList.pot\n"
+"X-Crowdin-File-ID: 340\n"
+
+#. Translators: Input help mode message for system tray list command.
+#: addon/globalPlugins/systrayList/__init__.py:71
+msgid "Shows the list of buttons on the System Tray. If pressed twice quickly, shows the items on the taskbar."
+msgstr "시스템 트레이에 표시된 버튼을 나열합니다. 두 번 빨리 누르면 작업 표시줄에 표시된 항목들을 나열합니다."
+
+#: addon/globalPlugins/systrayList/__init__.py:76
+msgid "System Tray List"
+msgstr "시스템 트레이 목록"
+
+#: addon/globalPlugins/systrayList/__init__.py:76
+msgid "Icons on the System Tray:"
+msgstr "시스템 트레이에 표시된 아이콘:"
+
+#: addon/globalPlugins/systrayList/__init__.py:80
+msgid "Taskbar List"
+msgstr "작업 표시줄 목록"
+
+#: addon/globalPlugins/systrayList/__init__.py:80
+msgid "Icons of running applications on the taskbar:"
+msgstr "작업 표시줄에 표시된 실행중인 응용 프로그램 아이콘:"
+
+#. Translators: A button on the system tray list dialog to perform left mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:120
+msgid "&Left Click"
+msgstr "왼쪽 버튼 클릭 (&L)"
+
+#. Translators: A button in the system tray list dialog to perform left double mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:124
+msgid "Left &Double Click"
+msgstr "왼쪽 버튼 두번 클릭 (&D)"
+
+#. Translators: A button in the system tray list dialog to perform right mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:128
+msgid "&Right Click"
+msgstr "오른쪽 버튼 클릭 (&R)"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "SysTrayList"
+msgstr "시스템 트레이 목록"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Shows the list of buttons on the System Tray with NVDA+F11 once, twice shows running task lists."
+msgstr "NVDA+F11을 사용하여 시스템 트레이 목록을 알려줍니다. 두번 누르면 작업 표시줄 목록을 보여줍니다."
+

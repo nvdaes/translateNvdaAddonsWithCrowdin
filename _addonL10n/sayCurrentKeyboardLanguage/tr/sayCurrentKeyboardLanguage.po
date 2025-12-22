@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 07:39+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: sayCurrentKeyboardLanguage.pot\n"
+"X-Crowdin-File-ID: 392\n"
+
+#: addon/globalPlugins/sayKeyboardLanguage.py:63
+msgid "Gives the language of the keyboard in use. If pressed twice, gives the default language of the system."
+msgstr "Kullanılan klavyenin dilini söyler. İki kez basılırsa, sistemin varsayılan dilini söyler."
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "This addon provides a command to know the language of the keyboard in use, as well as the default language of the system"
+msgstr "Bu eklenti, kullanılan klavye dili ve varsayılan sistem dilini öğrenmek için bir komut sunar"
+

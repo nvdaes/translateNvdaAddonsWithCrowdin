@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="numpadNavMode.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/numpadNavMode/numpadNavMode.md">
+    <skeleton>
+# $(ID:3bfb78f8-0045-49f8-be75-23cfaa17fabf)
+
+* $(ID:1b4e7f21-28c9-4761-b61a-c1bf89e11eb3)
+* $(ID:ed6ec616-8ac7-45f5-a0dc-15a21a3e3784)
+
+$(ID:ee7903ed-2bdc-477b-b831-bfef34395590)
+
+### $(ID:10ac3995-1942-454c-87fc-ed66a9fba777)
+
+$(ID:d57e358d-6b34-4b5b-9fe0-a415b7de8720)
+$(ID:3629fe4c-44f9-4f81-9394-2509683c2120)
+
+$(ID:f81f450a-7ea1-4f21-a5ad-fae0bf13fe88)
+$(ID:70ac7384-d5b3-4f07-9113-44b690e53526)
+$(ID:bb0131ae-0615-4fd4-bf88-13771dd3d9e4)
+
+### $(ID:fb4cdce0-93aa-4100-bef5-c8fadc8884c9)
+
+$(ID:daa0909c-29a9-47df-ab06-dbef93a315fd)
+
+$(ID:7429396d-c0ef-4620-96ce-f0d7b5c150d8)
+
+$(ID:645518dc-3e5a-4a14-88e4-c4d0474c5baf)
+$(ID:e4e55cb0-3d90-4734-b958-372af2d6bf47)
+
+### $(ID:6f7569ef-5d41-49bb-85fa-5d7d17966e67)
+
+$(ID:781714a5-215a-46c4-90f1-522d2fbbcc37)
+
+$(ID:a99c6aeb-560d-4386-a0b5-c0e5539bfc09)
+$(ID:0f5ed609-636e-4fe7-8c73-45e84c3d2175)
+
+$(ID:171f7468-a21e-481d-9c09-19d1982f1a34)
+$(ID:4aea49bf-c66e-4d7d-8d0c-85c12d5c3362)
+$(ID:7db52638-c52b-4c70-a137-57edd7ca233d)
+
+#### $(ID:e2550133-e1a5-4db9-ac78-ff4696256399)
+
+$(ID:61ba945e-a9c7-4f61-a41c-93288c51c02f)
+* $(ID:6e20c488-f418-4d91-b962-fa3c9aeba3dd)
+* $(ID:27ada57a-816f-40ac-9eb0-e6622141dfc9)
+* $(ID:f2428b58-2ded-411a-b0bc-4ce9cd25a3d5)
+* $(ID:829b4b8c-b52e-47f7-8651-a5538a43cbb2)
+* $(ID:43390c9f-ff7f-46df-9393-ad159695ffd9)
+
+$(ID:d09f36d8-7856-4fd9-8e02-e5dd166ae1dd)
+
+$(ID:12180af6-7650-4e90-9446-3385eb4b3944)
+$(ID:f264e6ca-4d60-496d-9f14-d5336d2ba1dd)
+
+### $(ID:bafcb440-653a-4da0-8fe7-52f0040e80db)
+
+$(ID:d0f1fdd3-1334-4e78-9b90-2decd56008a9)
+$(ID:58ae6ba3-669a-4371-a4f2-444ed8cfe9de)
+
+### $(ID:8a685a51-53d2-4986-a974-03065c627a25)
+
+$(ID:38c9b4a8-e082-4bef-82ab-4d8320b0cb9d)
+$(ID:b364b9d3-4c8d-4a91-9ba5-40c742e8cd69)
+
+### $(ID:c3242bd6-4d30-4415-bb3e-4f7639940e44)
+
+$(ID:069e7422-8d57-42b8-a0cf-dc1d0c18acbc)
+
+* $(ID:513bec29-58c9-4c0b-9b4a-46c9a5110d41)
+* $(ID:75ae8100-2938-44f7-8686-bee2105f65d6)
+* $(ID:63472073-011a-4ed7-bc69-f896f1237b94)
+
+$(ID:9227d86a-6c50-4534-8eef-fcf45cba7699)
+$(ID:546ddd05-d737-4538-a8ad-0439ea0d5694)
+$(ID:0b312ea0-3667-4e47-a0f4-c875e365d470)
+$(ID:3ca916c6-bdfe-4f87-a048-231bf811a786)
+</skeleton>
+    <unit id="3bfb78f8-0045-49f8-be75-23cfaa17fabf">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Numpad Nav Mode</source>
+        <target>Numaratör Gezinme Modu</target>
+      </segment>
+    </unit>
+    <unit id="1b4e7f21-28c9-4761-b61a-c1bf89e11eb3">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Luke Davis (Open Source Systems, Ltd.)</source>
+        <target>Yazar: Luke Davis (Open Source Systems, Ltd.)</target>
+      </segment>
+    </unit>
+    <unit id="ed6ec616-8ac7-45f5-a0dc-15a21a3e3784">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[Kararlı sürümü indir][1]</target>
+      </segment>
+    </unit>
+    <unit id="ee7903ed-2bdc-477b-b831-bfef34395590">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>Numpad Nav Mode is an [NVDA][2] add-on, which allows you to easily switch your keyboard's numpad between NVDA's navigation controls and the non-screenreader Windows navigation controls. This can be especially useful for users migrating from Jaws to NVDA. This add-on also gives granular control over the numlock key toggle, both when NVDA starts, and optionally in profiles.</source>
+        <target>Sayısal Tuş  Gezinme Modu, klavyenizin sayısal tuş takımını NVDA'nın gezinme kontrolleri ile ekran okuyucu olmayan Windows gezinme kontrolleri arasında kolayca değiştirmenize olanak tanıyan bir [NVDA][2] eklentisidir. Bu özellikle Jaws'tan NVDA'ya geçiş yapan kullanıcılar için yararlı olabilir. Bu eklenti aynı zamanda hem NVDA başladığında hem de isteğe bağlı olarak profillerde numlock tuşu geçişi üzerinde ayrıntılı kontrol sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="10ac3995-1942-454c-87fc-ed66a9fba777">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Navigation modes explanation and features</source>
+        <target>Gezinme modları açıklama ve özellikleri</target>
+      </segment>
+    </unit>
+    <unit id="d57e358d-6b34-4b5b-9fe0-a415b7de8720">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+      </notes>
+      <segment state="translated">
+        <source>The normal functions of the PC number pad, with numlock off, are: page up, page down, home, end, four-way arrow keys, and a delete key.</source>
+        <target>Numara kilidi kapalıyken PC sayısal tuş takımının normal işlevleri şunlardır: sayfa yukarı, sayfa aşağı, ana sayfa, son, dört yönlü ok tuşları ve bir silme tuşu.</target>
+      </segment>
+    </unit>
+    <unit id="3629fe4c-44f9-4f81-9394-2509683c2120">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="translated">
+        <source>But NVDA completely takes over the numpad, to provide review keys, mouse controls, and object navigation controls. This is true even in laptop keyboard mode, which also duplicates those functions on non-numpad keys.</source>
+        <target>Ancak NVDA, inceleme tuşları, fare kontrolleri ve nesne gezinme kontrolleri sağlamak için sayısal tuş takımını tamamen devralır. Bu, bu işlevleri sayısal tuş takımı olmayan tuşlarda da çoğaltan dizüstü bilgisayar klavye modunda bile geçerlidir.</target>
+      </segment>
+    </unit>
+    <unit id="f81f450a-7ea1-4f21-a5ad-fae0bf13fe88">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="translated">
+        <source>However some users do have a numpad on their laptop, and would prefer to use it for Windows navigation purposes (at least some of the time), especially because some laptops do not provide home, end, or other such keys.  That is where this add-on can help.</source>
+        <target>Bununla birlikte, bazı kullanıcıların dizüstü bilgisayarlarında bir sayısal tuş takımı vardır ve özellikle bazı dizüstü bilgisayarlarda ev, bitiş veya benzeri başka tuşlar bulunmadığından, bunu Windows gezinme amaçları için (en azından bazı zamanlar) kullanmayı tercih ederler. Bu eklentinin yardımcı olabileceği yer burasıdır. Ek olarak, bazı masaüstü kullanıcıları, örneğin JAWS'ta sayısal tuş takımının çalışmasına alışık olanlar, bazen bu eklentinin etkinleştirdiği normal NVDA tuşları yerine söz konusu klavye işlevleri için sayısal tuş takımını kullanmayı uygun bulabilir. Bu, bu eklentinin bazı eski kullanıcılarından özel bir özellik isteği olan, sonuna kadar okuma için popüler JAWS komutu NumpadInsert+Numpad2'yi içerir.</target>
+      </segment>
+    </unit>
+    <unit id="70ac7384-d5b3-4f07-9113-44b690e53526">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+      </notes>
+      <segment state="translated">
+        <source>Additionally, some desktop users, for example those used to the way the numpad works in JAWS, may sometimes find it convenient to use the numpad for those keyboard functions rather than the normal NVDA keys, which this add-on enables.</source>
+        <target>Ek olarak, bazı masaüstü kullanıcıları, örneğin sayısal tuş takımının JAWS'ta çalışma şekline alışkın olanlar, bazen bu klavye işlevleri için bu eklentinin etkinleştirdiği normal NVDA tuşları yerine sayısal tuş takımını kullanmayı uygun bulabilirler.</target>
+      </segment>
+    </unit>
+    <unit id="bb0131ae-0615-4fd4-bf88-13771dd3d9e4">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="translated">
+        <source>This includes the popular JAWS command NumpadInsert+Numpad2, for read to end, which was a specific feature request from some early users of this add-on.</source>
+        <target>Buna, bu eklentinin bazı ilk kullanıcılarından gelen belirli bir özellik isteği olan, sonuna kadar okuma için popüler JAWS komutu NumpadInsert+Numpad2 de dahildir.</target>
+      </segment>
+    </unit>
+    <unit id="fb4cdce0-93aa-4100-bef5-c8fadc8884c9">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>How it works</source>
+        <target>Nasıl çalışır</target>
+      </segment>
+    </unit>
+    <unit id="daa0909c-29a9-47df-ab06-dbef93a315fd">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+      </notes>
+      <segment state="translated">
+        <source>With numlock off, no matter what keyboard layout you are using, this add-on will let you press Alt+NVDA+NumpadPlus (which is usually the long key second up on the right), to quickly and easily switch between the normal NVDA navigation controls, and the classic Windows navigation controls. This key can be remapped under Input Gestures, in the Input section.</source>
+        <target>Numara kilidi kapalıyken, hangi klavye düzenini kullandığınızdan bağımsız olarak, bu eklenti, NVDA tuşları ve windows standart navigasyon tuşları arasında Alt+NVDA+NumpadPlus'a (genellikle sağda ikinci uzun tuştur) basarak hızlı ve kolay bir şekilde geçiş yapmanıza olanak tanır. Bu hareket, tercihler menüsünden Girdi Hareketleri iletişim kutusunda yeniden atanabilir.</target>
+      </segment>
+    </unit>
+    <unit id="7429396d-c0ef-4620-96ce-f0d7b5c150d8">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="translated">
+        <source>Note that this add-on doesn't disable the use of numpad insert as an NVDA modifier, if you have it set as such. If you want that feature, please let me know, although you can manually turn off numpad insert as a modifier in NVDA keyboard settings. It also doesn't change the NVDA function of numpad delete (key between zero and enter)--contact me if you desire this.</source>
+        <target>Eklenti numaratör insert tuşunun işlevine müdahale etmez. BU tuşu da NVDA tuşu olarak belirlediyseniz, windows standart navigasyonu modunda da aynı işlev için kullanmaya devam edebilirsiniz. Bu özelliği istiyorsanız, lütfen bana bildirin, ancak numaratör insert tuşunu NVDA tuşu olarak kullanmak istemiyorsanız halihazırda bunu NVDA ayarları klavye kategorisi altından yapabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="645518dc-3e5a-4a14-88e4-c4d0474c5baf">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="translated">
+        <source>If you would prefer to have NVDA start with the Windows nav mode active by default, you can configure that in NVDA configuration.  Go to NVDA's preferences, then settings, and find the Numpad Nav Mode settings panel.  There you will be able to select a checkbox to turn Windows Nav Mode on by default when you start NVDA.</source>
+        <target>NVDA'nın varsayılan olarak Windows gezinme modu etkin başlamasını tercih ederseniz, bunu NVDA ayarlarında yapılandırabilirsiniz. NVDA'nın tercihler menüsü, ayarlar iletişim kutusunda  Sayısal Tuş Takımı Modu (numaratör gezinme modu) kategorisini bulun ve NVDA'yı başlattığınızda Windows gezinme Modunu varsayılan olarak etkinleştir onay kutusunu işaretleyin.</target>
+      </segment>
+    </unit>
+    <unit id="e4e55cb0-3d90-4734-b958-372af2d6bf47">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+      </notes>
+      <segment state="translated">
+        <source>To get there quickly, press NVDA+N, P, S, then N one or more times until you hear "Numpad Nav Mode".</source>
+        <target>Oraya hızlı bir şekilde ulaşmak için, "Sayısal Tuş Takımı Gezinme Modu" sözlerini duyana kadar NVDA+N, T, l ve ardından S tuşlarına bir veya daha fazla kez basın.</target>
+      </segment>
+    </unit>
+    <unit id="6f7569ef-5d41-49bb-85fa-5d7d17966e67">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Numlock features</source>
+        <target>Numara kilidi özellikleri</target>
+      </segment>
+    </unit>
+    <unit id="781714a5-215a-46c4-90f1-522d2fbbcc37">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+      </notes>
+      <segment state="translated">
+        <source>By default, nothing is done with the numlock key.</source>
+        <target>Varsayılan olarak, numara kilidi tuşuyla hiçbir şey yapılmaz.</target>
+      </segment>
+    </unit>
+    <unit id="a99c6aeb-560d-4386-a0b5-c0e5539bfc09">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+      </notes>
+      <segment state="translated">
+        <source>However, if you share your computer with a sighted user who prefers that numlock always be turned on, but you like having it off so that the numpad works with NVDA, you may want the numlock to automatically turned off when NVDA starts.</source>
+        <target>Ancak, bilgisayarınızı Numara kilidinin her zaman açık olmasını tercih eden gören bir kullanıcıyla paylaşıyorsanız, fakat Sayısal Tuş takımının NVDA ile çalışması için onu kapatmaktan hoşlanıyorsanız, NVDA başladığında Numara kilidinin otomatik olarak kapatılmasını isteyebilirsiniz. Alternatif olarak, çok fazla veri girebilir ve bu nedenle NVDA'yı başlattığınızda Numara kilidinin her zaman açık olmasını tercih edebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="0f5ed609-636e-4fe7-8c73-45e84c3d2175">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+      </notes>
+      <segment state="translated">
+        <source>Alternatively, you may enter a lot of data, and so prefer the numlock to always be on when you start NVDA.</source>
+        <target>Alternatif olarak, çok fazla veri girebilir ve bu nedenle NVDA'yı başlattığınızda numara kilidinin her zaman açık olmasını tercih edebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="171f7468-a21e-481d-9c09-19d1982f1a34">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+      </notes>
+      <segment state="translated">
+        <source> Go to NVDA menu, Preferences, Settings, Numpad Nav Mode, and use the "state of numlock when NVDA starts or profile loads" selector. This has three options. The first, "do not change", is the default, and won't touch the numlock. It will be in whatever state it was in before NVDA started.</source>
+        <target> NVDA menüsü, Tercihler, Ayarlar, Sayısal Tuş Takımı Moduna gidin ve "NVDA başladığında veya profil yüklendiğinde numara kilidiğ durumu" seçicisini kullanın. Bunun üç seçeneği vardır. İlki, "değiştirme", varsayılandır ve numara kilidine dokunmaz. NVDA başlamadan önce hangi durumdaysa o durumda kalacaktır. İkinci seçenek, NVDA başladığında Numara kilidini her zaman kapatacak olan "Numara kilidini kapat" seçeneğidir. Üçüncü seçenek olan "Numara Kilidini Aç" NVDA başladığında numara kilidi kapalıysa açacaktır. İkinci veya üçüncü seçeneklerden birini seçerseniz, NVDA'dan çıktığınızda numara kilidi daha önce hangi durumdaysa o duruma geri getirilecektir. Örneğin, "Numara kilidini kapat" seçeneğini seçip ve NVDA'yı başlattığınızda numara kilidi açıksa: NVDA'yı kullanırken kapatılacak, ancak NVDA'dan çıktığınızda tekrar açılacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="4aea49bf-c66e-4d7d-8d0c-85c12d5c3362">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+      </notes>
+      <segment state="translated">
+        <source>The second option, is "turn numlock off", which will always turn the numlock off when NVDA starts. The third option, "Turn numlock on", will turn the numlock on if it was off when NVDA started.</source>
+        <target>İkinci seçenek, NVDA başladığında numara kilidini her zaman kapatacak olan "numara kilidini kapat"tır. Üçüncü seçenek olan "Numara kilidini aç", NVDA başlatıldığında kapalıysa numara kilidini açacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="7db52638-c52b-4c70-a137-57edd7ca233d">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+      </notes>
+      <segment state="translated">
+        <source>If you choose either the second or third option, the numlock will be restored to whatever state it was in before, when you exit NVDA. For example, if you choose "Turn numlock off", and numlock was on when you started NVDA: it will be turned off while you use NVDA, but will be turned back on when you exit NVDA.</source>
+        <target>İkinci veya üçüncü seçeneği seçerseniz, NVDA'dan çıktığınızda numara kilidi daha önce bulunduğu duruma geri yüklenecektir. Örneğin, "Numara kilidini kapat" seçeneğini seçerseniz ve NVDA'yı başlattığınızda numara kilidi açıksa: NVDA'yı kullanırken kapanacak, ancak NVDA'dan çıktığınızda tekrar açılacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="e2550133-e1a5-4db9-ac78-ff4696256399">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: #### </note>
+      </notes>
+      <segment state="translated">
+        <source>Advanced use cases</source>
+        <target>Gelişmiş kullanım durumları</target>
+      </segment>
+    </unit>
+    <unit id="61ba945e-a9c7-4f61-a41c-93288c51c02f">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+      </notes>
+      <segment state="translated">
+        <source>If you use NVDA's powerful configuration profiles, and you would like the numlock to automatically turn on when you enter certain profiles, do the following:</source>
+        <target>NVDA'nın güçlü yapılandırma profillerini kullanıyorsanız ve belirli profillere girdiğinizde numara kilidinin otomatik olarak açılmasını istiyorsanız, aşağıdakileri yapın:</target>
+      </segment>
+    </unit>
+    <unit id="6e20c488-f418-4d91-b962-fa3c9aeba3dd">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>While in the "normal profile", go to the Numpad Nav Mode settings panel described above. Check the box for "Initial numlock state is configuration profile dependent". This option is unchecked by default.</source>
+        <target>"Normal profil"deyken, yukarıda açıklanan Sayısal tuş takımı Gezinme Modu ayarları paneline gidin. "İlk numlock durumu yapılandırma profiline bağlıdır" kutusunu işaretleyin. Bu seçenek varsayılan olarak işaretli değildir.</target>
+      </segment>
+    </unit>
+    <unit id="27ada57a-816f-40ac-9eb0-e6622141dfc9">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select OK.</source>
+        <target>Tamam'ı seçin.</target>
+      </segment>
+    </unit>
+    <unit id="f2428b58-2ded-411a-b0bc-4ce9cd25a3d5">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Change to the profile where you want numlock to be always turned off or on.</source>
+        <target>Numara kilidinin her zaman kapalı veya açık olmasını istediğiniz profile geçin.</target>
+      </segment>
+    </unit>
+    <unit id="829b4b8c-b52e-47f7-8651-a5538a43cbb2">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Go back to the Numpad Nav Mode settings panel, and select the option to Turn numlock off or on, as you prefer.</source>
+        <target>Sayısal Tuş Takımı Gezinme Modu ayarları paneline geri dönün ve tercihinize göre numara kilidini kapatma veya açma seçeneğini seçin.</target>
+      </segment>
+    </unit>
+    <unit id="43390c9f-ff7f-46df-9393-ad159695ffd9">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Then select OK. Now, whenever you enter this profile, the numlock will automatically change to the desired state.</source>
+        <target>Ardından Tamam'ı seçin. Şimdi, bu profile her girdiğinizde, numara kilidi otomatik olarak istenen duruma geçecektir.</target>
+      </segment>
+    </unit>
+    <unit id="d09f36d8-7856-4fd9-8e02-e5dd166ae1dd">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+      </notes>
+      <segment state="translated">
+        <source>Note that this is a new feature, and I don't know if anyone has use for this feature. If you find one, please send an email or open [an issue][3], to let me know how you have found to make use of it.</source>
+        <target>Bu yeni bir özellik ve bu özelliği kullanan var mı bilmiyorum. Eğer bir tane bulursanız, lütfen bir e-posta gönderin veya [bir sorun][3] dosyasını açarak onu nasıl kullanabileceğinizi bulduğunuzu bana bildirin.</target>
+      </segment>
+    </unit>
+    <unit id="12180af6-7650-4e90-9446-3385eb4b3944">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+      </notes>
+      <segment state="translated">
+        <source>Or, better yet, leave a [review][4] for the add-on, and comment on it there!</source>
+        <target>Veya daha da iyisi, eklenti için bir [inceleme][4] bırakın ve orada yorum yapın! Bu özelliği kullansanız da kullanmasanız da incelemeler çok faydalıdır!</target>
+      </segment>
+    </unit>
+    <unit id="f264e6ca-4d60-496d-9f14-d5336d2ba1dd">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+      </notes>
+      <segment state="translated">
+        <source>Reviews are very helpful, whether or not you use that feature.</source>
+        <target>Bu özelliği kullansanız da kullanmasanız da incelemeler çok yararlıdır.</target>
+      </segment>
+    </unit>
+    <unit id="bafcb440-653a-4da0-8fe7-52f0040e80db">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>New features</source>
+        <target>Yeni özellikler</target>
+      </segment>
+    </unit>
+    <unit id="d0f1fdd3-1334-4e78-9b90-2decd56008a9">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+      </notes>
+      <segment state="translated">
+        <source>I encourage you to post an [issue][3], or email with any feature suggestions, or other use cases that I haven't listed here, or just to let me know you find the add-on useful!</source>
+        <target>Bir [sorun][3] yayınlamanızı, herhangi bir özellik önerisini veya burada listelemediğim diğer kullanım örneklerini e-postayla göndermenizi ya da eklentiyi yararlı bulduğunuzu bana bildirmenizi öneririm! Ancak yukarıda da belirtildiği gibi, eğer faydalı bulursanız lütfen bir [inceleme][4]  bırakın!</target>
+      </segment>
+    </unit>
+    <unit id="58ae6ba3-669a-4371-a4f2-444ed8cfe9de">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+      </notes>
+      <segment state="translated">
+        <source>But as mentioned above, if you do find it useful, please leave a [review][4].</source>
+        <target>Ancak yukarıda belirtildiği gibi, yararlı bulursanız, lütfen bir [inceleme][4] bırakın.</target>
+      </segment>
+    </unit>
+    <unit id="8a685a51-53d2-4986-a974-03065c627a25">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>History</source>
+        <target>Geçmiş</target>
+      </segment>
+    </unit>
+    <unit id="38c9b4a8-e082-4bef-82ab-4d8320b0cb9d">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on was the direct result of requests I've heard from users over the years, and a GitHub discussion in [#9549](https://github.com/nvaccess/nvda/issues/9549). With thanks to @Qchristensen and @feerrenrut.</source>
+        <target>Bu eklenti, yıllar boyunca kullanıcılardan duyduğum isteklerin ve [#9549](https://github.com/nvaccess/nvda/issues/9549) adresindeki GitHub tartışmasının doğrudan sonucuydu. @Qchristensen ve @feerrenrut'a teşekkürler. Numara kilidi özelliklerinin temel uygulaması, Noelia Ruiz (@GitHub'da nvdaes) ve diğerleri tarafından eski NumLock Manager eklentisinden ödünç alınmıştır. İzin alınarak kullanılmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="b364b9d3-4c8d-4a91-9ba5-40c742e8cd69">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+      </notes>
+      <segment state="translated">
+        <source>The basic implementation of the numlock features was borrowed from the legacy NumLock Manager add-on, by Noelia Ruiz (@nvdaes on GitHub), and others. Used with permission.</source>
+        <target>Numara kilidi özelliklerinin temel uygulaması, Noelia Ruiz (@nvdaes on GitHub) ve diğerleri tarafından geliştirilen eski NumLock Manager eklentisinden alınmıştır. İzin alınarak kullanılmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="c3242bd6-4d30-4415-bb3e-4f7639940e44">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Changelog</source>
+        <target>Değişiklik günlüğü</target>
+      </segment>
+    </unit>
+    <unit id="069e7422-8d57-42b8-a0cf-dc1d0c18acbc">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+      </notes>
+      <segment state="translated">
+        <source>(This changelog is incomplete. See Git log for full details.)</source>
+        <target>(Bu değişiklik günlüğü eksik. Tüm ayrıntılar için Git günlüğüne bakın.)</target>
+      </segment>
+    </unit>
+    <unit id="513bec29-58c9-4c0b-9b4a-46c9a5110d41">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>24.1.0: NVDA 2024.X compatibility.</source>
+        <target>24.1.0: NVDA 2024.X uyumluluğu.</target>
+      </segment>
+    </unit>
+    <unit id="75ae8100-2938-44f7-8686-bee2105f65d6">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>23.1.0: Added numlock management features. Better logging. Improved config profile handling (WIP).</source>
+        <target>23.1.0: Numara kilidi yönetim özellikleri eklendi. Daha iyi günlük kaydı. Geliştirilmiş yapılandırma profili işleme (WIP).</target>
+      </segment>
+    </unit>
+    <unit id="63472073-011a-4ed7-bc69-f896f1237b94">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>23.0: NVDA 2023.X compatibility.</source>
+        <target>23.0: NVDA 2023.X uyumluluğu.</target>
+      </segment>
+    </unit>
+    <unit id="9227d86a-6c50-4534-8eef-fcf45cba7699">
+      <notes>
+        <note appliesTo="source">line: 70</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://www.nvaccess.org/addonStore/legacy?file=numpadNavMode</source>
+        <target>[1]: https://www.nvaccess.org/addonStore/legacy?file=numpadNavMode</target>
+      </segment>
+    </unit>
+    <unit id="546ddd05-d737-4538-a8ad-0439ea0d5694">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://nvaccess.org/</source>
+        <target>[2]: https://nvaccess.org/</target>
+      </segment>
+    </unit>
+    <unit id="0b312ea0-3667-4e47-a0f4-c875e365d470">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+      </notes>
+      <segment state="translated">
+        <source>[3]: https://github.com/opensourcesys/numpadNavMode/issues/new</source>
+        <target>[3]: https://github.com/opensourcesys/numpadNavMode/issues/new</target>
+      </segment>
+    </unit>
+    <unit id="3ca916c6-bdfe-4f87-a048-231bf811a786">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+      </notes>
+      <segment state="translated">
+        <source>[4]: https://github.com/nvaccess/addon-datastore/discussions/2630</source>
+        <target>[4]: https://github.com/nvaccess/addon-datastore/discussions/2630</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

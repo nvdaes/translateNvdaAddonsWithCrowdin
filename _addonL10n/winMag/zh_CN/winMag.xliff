@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="winMag.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/winMag/winMag.md">
+    <skeleton>
+# $(ID:f4fc561d-9f20-4dc8-b41e-b1934bde3a62)
+
+* $(ID:6b682c16-efc6-4bc3-80cb-3449453b01e6)
+* $(ID:49093e4a-830d-4cbb-a29a-2fac6d22635b)
+
+$(ID:702a890d-1df8-4d88-bbbd-40367fc3af5d)
+
+
+## $(ID:bab3a949-5fd4-4a24-a291-a8ff236ba4bb)
+
+* $(ID:18785b95-48dc-4a08-93e7-2e36046de3eb)
+* $(ID:2b9d172d-be0e-4018-8eb0-d2b2aba0c82b)
+* $(ID:a95c662e-d1e5-4a05-9189-ad638c874faf)
+* $(ID:d77e6931-e2d7-471e-a2c6-e17a25c442a0)
+* $(ID:27f9bf85-ebc2-46c3-953e-844c1ca43c86)
+
+## $(ID:118f4c75-342a-4af1-a683-737d750eafa8)
+
+$(ID:c033bc9f-195b-48ca-9f28-b897289e60f0)
+$(ID:7e25da45-9232-423d-80db-758c3bef4ed9)
+$(ID:881930db-552c-4881-8524-f9c92c890edc)
+
+$(ID:a30d767b-63ca-4d66-a9f2-19fdc5b4e308)
+$(ID:e7c177be-2b51-4feb-a5ed-fb482b443ab5)
+
+$(ID:f9173fda-baf7-4f37-bed4-2262f5c6695b)
+
+* $(ID:2aa67ca5-9a91-45e2-aaf6-df70451e369b)
+  
+    * $(ID:73b8da53-c4fa-4bae-8ed1-e3ae2d0cf20c)
+    * $(ID:abf1da5a-48d2-4afb-9f02-b91ff5510394)
+    * $(ID:2cafce02-768c-415f-abb8-dec407e9bd2e)
+  
+$(ID:a06faaf0-3bee-42ae-9f86-65fea44994c6)
+
+* $(ID:eb9e595f-765a-4a88-891a-fcb526d04ae2)
+$(ID:3f0f14e3-7d0b-4545-bdf5-b2fafb2bd574)
+$(ID:d5ffe83e-32b2-4dca-9515-f5a068cce69c)
+* $(ID:14c32d71-a4f7-468c-8e86-aeac0656c43a)
+* $(ID:c59e2557-4fe8-4823-ab2e-13f0440a6cd8)
+$(ID:b08c1890-c8ba-4d94-a668-972f4712fc38)
+* $(ID:72dd0f18-5fe7-4157-b002-84eeb7b5839d)
+$(ID:20ef10e2-2680-4a16-b982-1060cc9a15c8)
+* $(ID:b676194a-11be-4504-8703-e32d9f9a6c32)
+$(ID:01586c61-a0b3-4d7c-b3af-8519700d87a7)
+* $(ID:ace19e51-9adc-436a-a806-0fee7cbb881f)
+$(ID:b2a7d510-b467-44d2-83e5-0e5f72e0b1f8)
+* $(ID:a79238bc-359e-46c2-a5f2-93e33641fffc)
+$(ID:59b3388a-547a-4ad6-a90a-532352843b49)
+$(ID:ca3e4b72-38bb-4e89-9b66-e26116c768f2)
+$(ID:28e7cabb-82d6-4aa5-a524-e4b88da85923)
+$(ID:8fcfe2f5-1753-4b5c-8e3f-e268bc76bdd2)
+* $(ID:9f233014-6626-4046-bfc7-25caa6e4d779)
+$(ID:eb803520-90d2-4854-9f8c-58c1954dfe3b)
+  
+    * $(ID:d3709a73-269c-4ceb-9656-a9ab2c640f52)
+$(ID:13c8a0d1-3c6d-4d9e-8c19-8258e8fdd6da)
+$(ID:9c1bd987-8d9e-4170-ba5e-36f7d5c11cc5)
+$(ID:ec9d6568-9460-4b1b-9dda-f211e03e032d)
+    * $(ID:53c2b398-c825-437e-ad02-e98cb98b6be0)
+$(ID:230109fd-276f-4618-9d2d-e53716bc7db5)
+$(ID:7dcb2688-b30d-4978-adce-f9fd98a6699a)
+$(ID:94cf34ef-d749-48f8-a77c-c21e8743f676)
+    * $(ID:702c5d3a-63e6-409d-b95b-359d7332f1e7)
+$(ID:668812ca-b3ff-4bad-8a3a-6d6e768a5083)
+
+* $(ID:7d2dd3fc-9c38-4cc2-b900-492d7816cc5d)
+$(ID:40c1a3aa-c43c-4679-a0aa-ed36930334d9)
+* $(ID:fc433b6f-6844-4e14-9d41-0df0be694e55)
+$(ID:7e7bf630-4fc3-455f-90cb-5dcc6aba1e14)
+
+## $(ID:70a779c8-7dc2-4b88-8597-afe10a653353)
+
+$(ID:9ccb2fc3-4f7a-4076-ac99-6b7692c53e76)
+
+* $(ID:a8d1ecd0-b495-4ec8-b273-08210fdce177)
+* $(ID:4eb9e20b-3079-4452-9e4d-e8150aeec807)
+
+$(ID:d397ffeb-3ae8-41d5-b5ce-bfab2f452a68)
+
+* $(ID:6aaea199-8a09-459e-aec6-ac4fd2e5da43)
+* $(ID:9290dc3e-5041-4f1a-90bd-7dea452da7ce)
+* $(ID:5dbbf7cd-31ff-448e-9634-1009c9d6daba)
+* $(ID:3dc6cfa4-33d5-4047-8b25-3cd47fabe01c)
+$(ID:b463767f-55b6-4400-9ac7-bbef112aa691)
+* $(ID:e3368237-94d7-4387-b318-c7d087cc42d3)
+* $(ID:82f0bad6-59d7-4f3a-a16a-9548c2f061e5)
+* $(ID:6605b489-537e-4d00-a404-169855c30f5a)
+* $(ID:f94176f9-e0fd-4039-934c-abd19364e50c)
+* $(ID:6c50bddf-4dc9-4b91-bb6c-08f554757554)
+$(ID:de71ac84-37d1-491f-9eb9-14f1a5c562e2)
+* $(ID:bdee81f6-90d4-4669-9464-151f64489c59)
+* $(ID:3d2b4c0e-0c6b-443b-82e1-848a5505a5a9)
+* $(ID:a36f351b-f02a-4b12-bb80-4ab9c5f6b209)
+$(ID:2271d98b-2ba2-41b8-a5ae-d95342ae704c)
+* $(ID:7c184d00-6271-46e9-bf61-c849c5a6a63b)
+* $(ID:73a271a5-73b4-4d54-9e8c-fc840d5c8404)
+
+$(ID:3c0b9f7e-74fd-4017-aa49-b05237b3da73)
+$(ID:abdd5d1f-85f8-48a5-875f-dfd327ac8cb0)
+$(ID:eae71714-2cfa-4460-9829-401ebc07763b)
+
+
+## $(ID:e7f18262-4f16-4972-94a1-fc3f311af338)
+
+$(ID:ef6f1c23-8629-4830-ae9d-3986af0d08cb)
+
+* $(ID:e7a27a10-ef6d-4036-adb3-e47ffeca9882)
+* $(ID:129fdaff-59ae-44a1-b350-6bc0436ea5d3)
+* $(ID:c5d77e4f-15ea-41a3-aebc-dd74d1de44e0)
+* $(ID:f2743ee9-0873-423f-a693-9c1e8875d871)
+* $(ID:1bdb4520-e839-43de-b46e-a5861c72e2a8)
+* $(ID:05adc6e9-3108-47f5-ac41-7afa48cb5304)
+* $(ID:c0a6e0c0-0443-4716-aa6b-3a3ea00c79c3)
+* $(ID:df66f831-c97e-4cd2-b01f-7be4106d7126)
+* $(ID:1c78b8e0-6a2c-4567-9bcd-6df65d75ff59)
+* $(ID:7fab24e8-7d87-48e0-ad2d-8ce6b1a66c14)
+$(ID:fde47660-8eeb-4aa2-9e68-cc0d09899cef)
+* $(ID:2332352a-4502-4b22-af84-4dba9133ef6b)
+* $(ID:9ba343db-43e8-4a86-b4fa-cbd0296fb2b7)
+
+$(ID:85cc11b2-3ca3-463e-82b4-7b5bdc9400e0)
+
+* $(ID:110b6bcc-35be-4dfe-b31c-ab35e21d3471)
+* $(ID:e405101a-b508-4c30-a9ae-a38f83e60c30)
+* $(ID:2608584e-d376-4d3c-95b0-60d25a37cf5a)
+* $(ID:6d68fe30-f8b9-4d6a-b425-267ef3fdb7d1)
+
+$(ID:c3ad1ecf-4db5-45d9-9933-8f29aca328ec)
+
+
+## $(ID:df21f122-7aa3-43a4-9a47-80c4a9968d51)
+
+* $(ID:ac77b78c-c618-4eba-9f66-f8290aa39b5a)
+$(ID:8c3d619c-8952-4aad-8fdc-aa83e33f65df)
+$(ID:c16c4fa0-2fed-477d-854b-65a664d1c409)
+$(ID:f10fa5a2-b257-4a86-b073-226e2f9e1ff6)
+* $(ID:ab480287-f5ce-4474-b55a-269e2896e147)
+$(ID:2ce72394-b9fe-45c4-b0d1-92e7d1f3db2b)
+$(ID:07900a82-b969-4fac-9b0d-00b18000f332)
+$(ID:bb14aea3-8248-446e-9331-892bec9920ab)
+  
+    * $(ID:cb584d89-f1da-4050-a7e5-dd8b4af8712e)
+    * $(ID:280c6e23-0ac0-41d5-9681-86b8efed64dd)
+    * $(ID:87de00e4-5e6d-471b-89bd-dd95e35403f5)
+
+* $(ID:e23e8a40-d369-4ed8-9dad-71712c70300c)
+
+    * $(ID:88168134-f4b7-4e03-a112-ca49c9c85ee4)
+    * $(ID:2d9890cf-a56c-40ed-bc65-418461fa9f30)
+
+* $(ID:4e33e8a8-b63e-4a1b-bc03-c86724494833)
+$(ID:416d9206-03be-47cb-a440-2fe240aa6c9b)
+* $(ID:49c3e073-ce51-4b25-96db-9370c6e062f1)
+
+
+## $(ID:f9939d6d-aaf4-452a-8773-6877335f8277)
+
+### $(ID:0b24bcb5-fb71-4ac5-bc91-d5fbb02d5761)
+
+* $(ID:c6c4f6a5-718f-4434-8469-dd285c3918a2)
+
+### $(ID:831b7f14-3344-454f-a582-59c59cf24476)
+
+* $(ID:abcc47ec-aa10-4cec-90ca-49fd12ad3cd1)
+* $(ID:fa661658-216d-43dd-8d5e-59323bced1ae)
+
+### $(ID:1f7a8d4c-be8b-481d-8cbe-4cd33fcea360)
+
+* $(ID:b291f5bd-12c7-4e98-9cbc-07ec25bc961c)
+
+### $(ID:9d280415-3b04-4677-a4c1-fe0e3121171a)
+
+* $(ID:cc5953e0-f487-4603-9590-2397f0a49932)
+
+### $(ID:ddf48be9-32b2-4a8c-b127-a24f310bdebb)
+
+* $(ID:2e9a2d16-aac8-4d98-ad52-744e5c9f4189)
+* $(ID:970b40dd-6171-4686-9a7b-fb209eb1e649)
+* $(ID:45109429-9a36-4c7e-ae74-7ff58505cd57)
+
+### $(ID:0883df44-46a6-4b09-8ac9-7da4a41f0778)
+
+* $(ID:b6531038-166b-4004-8d9e-135e19f9ea30)
+* $(ID:59ecad64-a7b7-4224-ace8-27cc487bce79)
+
+### $(ID:b1eb7f86-baaa-4c88-8481-bd9e6ee84cb0)
+
+* $(ID:3b151d33-ebf4-4027-82d2-53281b58cc9e)
+$(ID:3aa80691-8abd-4334-8bd9-a1beb8f9dca5)
+* $(ID:49d8ad6c-56ed-4f84-90e5-e7de84f83751)
+
+### $(ID:eff03ac4-d181-4448-9b74-d592c42377e6)
+
+* $(ID:3688c910-87d2-410e-bc27-79a9d968d72e)
+* $(ID:09bd500a-d8f3-4c82-8129-a8f2c8a20f8f)
+
+### $(ID:b60290f0-e81e-42f7-a7ae-7f86a285548f)
+
+* $(ID:2ed6ed20-4022-4f44-8d39-79ca01f93cc7)
+* $(ID:bbeff57e-bf1a-4099-abe1-f2c1b966805e)
+* $(ID:08c85645-cfb4-47da-923e-daca885cdcbe)
+
+### $(ID:3b053b23-b1a7-47b4-a79d-689962480bb5)
+
+* $(ID:cddd608c-61fb-4c95-b1ee-4f8dbee1cbc1)
+* $(ID:c6b506bc-87d0-46a4-88c3-8cf744269dbd)
+$(ID:aa0c1bbb-ec48-49c3-b2c2-df7922f99b06)
+* $(ID:1ffb460e-b03e-4ecd-b703-8f53064691ee)
+* $(ID:885256a0-8551-4323-899f-0ae0ede82356)
+* $(ID:3a7e6883-b194-4b8a-b83c-ca07d05c138e)
+* $(ID:7ced98e2-55b5-4ad4-8852-63f53527bcbc)
+* $(ID:95836fc6-efa6-434c-b56c-e66c783cc467)
+* $(ID:101922f1-d92f-4d06-a815-26bf41f2d506)
+
+### $(ID:32871658-73f9-4c21-8f5a-033949177e63)
+
+* $(ID:ef29d9aa-57c3-4d24-839f-cfde5f80a00e)
+* $(ID:e5565202-4a89-41cb-9dac-c4dfc8be6b61)
+* $(ID:fd9f0712-77ab-4131-a81f-6c4b2fc23bcc)
+* $(ID:5514851e-c0ca-4177-9338-b661374e62c5)
+* $(ID:97cd2c56-16a1-401a-b83a-38a9df7f54e5)
+* $(ID:aae7ffc2-6c3a-4b1f-ad12-f68575a69b16)
+* $(ID:4c6e4ed0-05d7-4bf6-8687-52d16bf37c5e)
+* $(ID:e5087d17-f39c-4e02-9966-7a72bb593c1b)
+* $(ID:72a2d9b9-baf8-427a-bda4-dad2f867265c)
+
+### $(ID:22e974fb-1286-41de-873c-13a4563af5f9)
+
+* $(ID:7ef80a5c-eb64-47ac-9b39-c978038bd4e8)
+
+### $(ID:4d844147-42b2-4e24-a5ef-0a91eed30da3)
+
+* $(ID:2a6865e4-7a85-41d3-a125-3935cb8947ed)
+
+$(ID:e553bd7d-cfa1-45bc-bd96-0bf5a53afa99)
+
+$(ID:72d71f68-dea1-4ac8-bd8a-5b25a8cf6d07)
+
+$(ID:0fec7f2d-6d07-4afa-ae8f-ccd7b45bd13e)
+
+$(ID:ebe4ad36-ccbf-4552-af84-df388f0f3e48)
+
+$(ID:36d495c9-3487-4a07-884d-7272c7804d07)
+
+$(ID:ebb8fe0f-c15a-4457-a428-5df67e99767d)
+
+$(ID:ef68a0c3-64a2-452f-9dbc-2d367ef1095d)
+</skeleton>
+    <unit id="f4fc561d-9f20-4dc8-b41e-b1934bde3a62">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Windows Magnifier</source>
+        <target>Windows 放大镜插件</target>
+      </segment>
+    </unit>
+    <unit id="6b682c16-efc6-4bc3-80cb-3449453b01e6">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Cyrille Bougot</source>
+        <target>作者：Cyrille Bougot</target>
+      </segment>
+    </unit>
+    <unit id="49093e4a-830d-4cbb-a29a-2fac6d22635b">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2019.2.1 and beyond</source>
+        <target>NVDA 兼容性：2019.2.1 及以上版本</target>
+      </segment>
+    </unit>
+    <unit id="702a890d-1df8-4d88-bbbd-40367fc3af5d">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on improves the use of Windows Magnifier with NVDA.</source>
+        <target>此插件增强了 NVDA 使用 Windows 放大镜时的体验。</target>
+      </segment>
+    </unit>
+    <unit id="bab3a949-5fd4-4a24-a291-a8ff236ba4bb">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Features</source>
+        <target>功能特性</target>
+      </segment>
+    </unit>
+    <unit id="18785b95-48dc-4a08-93e7-2e36046de3eb">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Allows to report the result of some native Magnifier and color filtering keyboard commands.</source>
+        <target>允许读出某些放大镜原有快捷键和颜色滤镜快捷键的结果。</target>
+      </segment>
+    </unit>
+    <unit id="2b9d172d-be0e-4018-8eb0-d2b2aba0c82b">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Allows to reduce the cases where table navigation commands conflict with Magnifier's commands.</source>
+        <target>允许减少表格导航快捷键与放大镜快捷键的冲突。</target>
+      </segment>
+    </unit>
+    <unit id="a95c662e-d1e5-4a05-9189-ad638c874faf">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adds some keyboard shortcuts to toggle various native options of the Magnifier.</source>
+        <target>添加一些键盘快捷键来切换放大镜的各种原生选项。</target>
+      </segment>
+    </unit>
+    <unit id="d77e6931-e2d7-471e-a2c6-e17a25c442a0">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Allow to save and restore the configuration parameters of the Magnifier.</source>
+        <target>允许保存和恢复放大镜的配置参数。</target>
+      </segment>
+    </unit>
+    <unit id="27f9bf85-ebc2-46c3-953e-844c1ca43c86">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Adds some extra features that are not provided by Windows Magnifier (mouse to view, Magnifier window not on top)</source>
+        <target>添加一些 Windows 放大镜未提供的额外功能（移动鼠标至视图、放大镜窗口不置顶）。</target>
+      </segment>
+    </unit>
+    <unit id="118f4c75-342a-4af1-a683-737d750eafa8">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Settings</source>
+        <target>设置</target>
+      </segment>
+    </unit>
+    <unit id="c033bc9f-195b-48ca-9f28-b897289e60f0">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+      </notes>
+      <segment state="final">
+        <source>The setting panel of Windows Magnifier add-on allows to configure how NVDA reacts to native Windows Magnifier commands.</source>
+        <target>Windows 放大镜插件的设置面板允许配置 NVDA 如何响应原生的 Windows 放大镜命令。</target>
+      </segment>
+    </unit>
+    <unit id="7e25da45-9232-423d-80db-758c3bef4ed9">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+      </notes>
+      <segment state="final">
+        <source>You may want to have more or less commands reported according to what you are able to see.</source>
+        <target>根据您的视力情况，您可能希望或多或少地接收读出命令结果。</target>
+      </segment>
+    </unit>
+    <unit id="881930db-552c-4881-8524-f9c92c890edc">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="final">
+        <source>The panel also contains an option to modify the behaviour of Windows Magnifier control window.</source>
+        <target>该面板还包含一个选项，用于修改 Windows 放大镜控制窗口的行为。</target>
+      </segment>
+    </unit>
+    <unit id="a30d767b-63ca-4d66-a9f2-19fdc5b4e308">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="final">
+        <source>This panel may be opened choosing Preferences -&gt; Settings in the NVDA menu and then selecting the Windows Magnifier category in the Settings window.</source>
+        <target>可以通过在 NVDA 菜单中选择“选项”-&gt;“设置”，然后在设置窗口中选择“Windows 放大镜”类别来打开此面板。</target>
+      </segment>
+    </unit>
+    <unit id="e7c177be-2b51-4feb-a5ed-fb482b443ab5">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+      </notes>
+      <segment state="final">
+        <source>The keyboard shortcut NVDA+Windows+O then O also allows to open this settings panel directly.</source>
+        <target>也可按键盘快捷键 NVDA+Windows+O, O 直接打开此设置面板。</target>
+      </segment>
+    </unit>
+    <unit id="f9173fda-baf7-4f37-bed4-2262f5c6695b">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+      </notes>
+      <segment state="final">
+        <source>The panel contains the following options:</source>
+        <target>该面板包含以下选项：</target>
+      </segment>
+    </unit>
+    <unit id="2aa67ca5-9a91-45e2-aaf6-df70451e369b">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report view moves: controls what is reported when you move the view with Control+Alt+Arrows commands. The three options are:</source>
+        <target>提示试图移动：控制使用 Ctrl+Alt+光标键移动视图时如何给出提示。包括三个选项：</target>
+      </segment>
+    </unit>
+    <unit id="73b8da53-c4fa-4bae-8ed1-e3ae2d0cf20c">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Off: Nothing is reported.</source>
+        <target>关闭：不提示任何内容。</target>
+      </segment>
+    </unit>
+    <unit id="abf1da5a-48d2-4afb-9f02-b91ff5510394">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>With speech: a speech message indicates the position of the zoomed view on the dimension the view is being moved.</source>
+        <target>语音：用语音在视图移动时提示视图缩放范围的位置。</target>
+      </segment>
+    </unit>
+    <unit id="2cafce02-768c-415f-abb8-dec407e9bd2e">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>With tones: a tone is played and its pitch indicates the position of the zoomed view on the dimension the view is being moved.</source>
+        <target>提示音：在视图移动时播放，且用音高提示视图缩放范围的位置。</target>
+      </segment>
+    </unit>
+    <unit id="a06faaf0-3bee-42ae-9f86-65fea44994c6">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+      </notes>
+      <segment state="final">
+        <source>  This option does not affect docked view mode.</source>
+        <target>  此选项不影响停靠视图模式。</target>
+      </segment>
+    </unit>
+    <unit id="eb9e595f-765a-4a88-891a-fcb526d04ae2">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report screen edges: controls what is reported when you reach the edges of the screen while moving the view with Control+Alt+Arrows commands.</source>
+        <target>提示屏幕边缘：控制当您使用 Ctrl+Alt+光标键移动视图到达屏幕边缘时如何给出提示。</target>
+      </segment>
+    </unit>
+    <unit id="3f0f14e3-7d0b-4545-bdf5-b2fafb2bd574">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+      </notes>
+      <segment state="final">
+        <source>  The three options are: Off, With speech and With tones.</source>
+        <target>  包括三个选项：关闭、语音和提示音。</target>
+      </segment>
+    </unit>
+    <unit id="d5ffe83e-32b2-4dca-9515-f5a068cce69c">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+      </notes>
+      <segment state="final">
+        <source>  This option does not affect docked view mode.</source>
+        <target>  此选项不影响停靠视图模式。</target>
+      </segment>
+    </unit>
+    <unit id="14c32d71-a4f7-468c-8e86-aeac0656c43a">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Volume of the tones reporting the position of the view: allows to define the volume of the tones if you have selected to report view moves or screen edges with tones.</source>
+        <target>提示视图位置的提示音音量：如果您选择了使用提示音提示视图移动或屏幕边缘，允许定义提示音的音量。</target>
+      </segment>
+    </unit>
+    <unit id="c59e2557-4fe8-4823-ab2e-13f0440a6cd8">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report turn on or off:</source>
+        <target>读出打开或关闭：</target>
+      </segment>
+    </unit>
+    <unit id="b08c1890-c8ba-4d94-a668-972f4712fc38">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, the Magnifier's state is reported when you use Windows++ or Windows+Escape commands to turn it on or off.</source>
+        <target>  如果选中，当您使用 Windows++ 或 Windows+Esc 打开或关闭放大镜时，会读出其状态。</target>
+      </segment>
+    </unit>
+    <unit id="72dd0f18-5fe7-4157-b002-84eeb7b5839d">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report zoom:</source>
+        <target>读出缩放级别：</target>
+      </segment>
+    </unit>
+    <unit id="20ef10e2-2680-4a16-b982-1060cc9a15c8">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, the Magnifier's zoom level is reported when you use Windows++ or Windows+- zoom commands.</source>
+        <target>  如果选中，当您使用 Windows++ 或 Windows+- 缩放命令时，会读出放大镜的缩放级别。</target>
+      </segment>
+    </unit>
+    <unit id="b676194a-11be-4504-8703-e32d9f9a6c32">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report color inversion:</source>
+        <target>读出反色：</target>
+      </segment>
+    </unit>
+    <unit id="01586c61-a0b3-4d7c-b3af-8519700d87a7">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, the color inversion state is reported when you use the control+Alt+I toggle command.</source>
+        <target>  如果选中，当您使用 Ctrl+Alt+I 切换命令时，会读出反色状态。</target>
+      </segment>
+    </unit>
+    <unit id="ace19e51-9adc-436a-a806-0fee7cbb881f">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report view change:</source>
+        <target>读出视图更改：</target>
+      </segment>
+    </unit>
+    <unit id="b2a7d510-b467-44d2-83e5-0e5f72e0b1f8">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, the view type is reported when you use a command that changes the view type (Control+Alt+M, Control+Alt+F, Control+Alt+D, Control+Alt+L)</source>
+        <target>  如果选中，当您使用更改视图类型的快捷键（Ctrl+Alt+M、Ctrl+Alt+F、Ctrl+Alt+D、Ctrl+Alt+L）时，会读出视图类型。</target>
+      </segment>
+    </unit>
+    <unit id="a79238bc-359e-46c2-a5f2-93e33641fffc">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report lens or docked window resizing:</source>
+        <target>读出镜头或停靠窗口调整大小：</target>
+      </segment>
+    </unit>
+    <unit id="59b3388a-547a-4ad6-a90a-532352843b49">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, a message is reported when you use the resizing commands (Alt+Shift+Arrows).</source>
+        <target>  如果选中，当您使用调整大小快捷键（Alt+Shift+光标键）时，会给出反馈。</target>
+      </segment>
+    </unit>
+    <unit id="ca3e4b72-38bb-4e89-9b66-e26116c768f2">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+      </notes>
+      <segment state="final">
+        <source>  In docked window mode, the height or the width is reported.</source>
+        <target>  在停靠窗口模式下，会读出高度或宽度。</target>
+      </segment>
+    </unit>
+    <unit id="28e7cabb-82d6-4aa5-a524-e4b88da85923">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+      </notes>
+      <segment state="final">
+        <source>  In lens mode, the new dimension cannot be reported for now.</source>
+        <target>  在镜头模式下，目前无法读出新大小。</target>
+      </segment>
+    </unit>
+    <unit id="8fcfe2f5-1753-4b5c-8e3f-e268bc76bdd2">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+      </notes>
+      <segment state="final">
+        <source>  These resizing command do not seem to be available on all versions of Windows; if your Windows version does not support them, you should keep this option unchecked.</source>
+        <target>  这些调整大小的快捷键似乎并非在所有 Windows 版本上都可用；如果您的 Windows 版本不支持，您不应选中此选项。</target>
+      </segment>
+    </unit>
+    <unit id="9f233014-6626-4046-bfc7-25caa6e4d779">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In documents and list views, pass control+alt+arrows shortcuts to Windows Magnifier:</source>
+        <target>在文档和列表视图中，将 Ctrl+alt+光标键传递给 Windows 放大镜：</target>
+      </segment>
+    </unit>
+    <unit id="eb803520-90d2-4854-9f8c-58c1954dfe3b">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+      </notes>
+      <segment state="final">
+        <source>  There are three possible choices:</source>
+        <target>  有三种选择：</target>
+      </segment>
+    </unit>
+    <unit id="d3709a73-269c-4ceb-9656-a9ab2c640f52">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Never: The command is not passed to Windows Magnifier and standard NVDA table navigation can operate.</source>
+        <target>从不：快捷键不会传递给 Windows 放大镜，标准 NVDA 表格导航可以操作。</target>
+      </segment>
+    </unit>
+    <unit id="13c8a0d1-3c6d-4d9e-8c19-8258e8fdd6da">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+      </notes>
+      <segment state="final">
+        <source>      When used in documents out of a table, the Control+Alt+Arrow command reports a "Not in a table" error message.</source>
+        <target>      在表格外的文档中使用时，Ctrl+Alt+光标键会给出“不在表格的单元格中”的错误消息。</target>
+      </segment>
+    </unit>
+    <unit id="9c1bd987-8d9e-4170-ba5e-36f7d5c11cc5">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+      </notes>
+      <segment state="final">
+        <source>      This is the standard behaviour of NVDA without this add-on.</source>
+        <target>      这是未安装此插件时 NVDA 的标准行为。</target>
+      </segment>
+    </unit>
+    <unit id="ec9d6568-9460-4b1b-9dda-f211e03e032d">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+      </notes>
+      <segment state="final">
+        <source>      You can still use NVDA+Windows+O then arrows to move the magnified view.</source>
+        <target>      您仍然可以使用 NVDA+Windows+O 然后按光标键来移动放大视图。</target>
+      </segment>
+    </unit>
+    <unit id="53c2b398-c825-437e-ad02-e98cb98b6be0">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Only when not in table: In table or in list views, Control+Alt+Arrow commands perform standard table navigation.</source>
+        <target>仅当不在表格中时：在表格或列表视图中，Ctrl+Alt+光标键执行标准表格导航。</target>
+      </segment>
+    </unit>
+    <unit id="230109fd-276f-4618-9d2d-e53716bc7db5">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+      </notes>
+      <segment state="final">
+        <source>      When used in documents out of a table, Control+Alt+Arrow commands perform standard Magnifier view move commands.</source>
+        <target>      在表格外的文档中使用时，Ctrl+Alt+光标键执行标准放大镜视图移动命令。</target>
+      </segment>
+    </unit>
+    <unit id="7dcb2688-b30d-4978-adce-f9fd98a6699a">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+      </notes>
+      <segment state="final">
+        <source>      If you still want to move Windows Magnifier view while in table or in list view, you will need to press NVDA+F2 before using Control+Alt+Arrow commands or alternately use NVDA+Windows+O then arrows.</source>
+        <target>      如果您仍想在表格或列表视图中移动 Windows 放大镜视图，需要在按 Ctrl+Alt+光标键之前按下 NVDA+F2，或者使用 NVDA+Windows+O 然后按光标键。</target>
+      </segment>
+    </unit>
+    <unit id="94cf34ef-d749-48f8-a77c-c21e8743f676">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+      </notes>
+      <segment state="final">
+        <source>      This option is the best compromise if you want to use Control+Alt+Arrow for both Magnifier and table navigation.</source>
+        <target>      如果您想同时使用 Ctrl+Alt+光标键进行放大镜和表格导航，此选项是最佳折衷方案。</target>
+      </segment>
+    </unit>
+    <unit id="702c5d3a-63e6-409d-b95b-359d7332f1e7">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Always: Control+Alt+Arrow commands moves the Magnifier's view in any case.</source>
+        <target>总是：Ctrl+Alt+光标键在任何情况下都移动放大视图。</target>
+      </segment>
+    </unit>
+    <unit id="668812ca-b3ff-4bad-8a3a-6d6e768a5083">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+      </notes>
+      <segment state="final">
+        <source>      This option may be useful if you do not use Control+Alt+Arrow to navigate in table, e.g. because you have changed table navigation shortcuts in NVDA or because you exclusively use [Easy table navigator][5] add-on for table navigation.</source>
+        <target>      如果您不使用该快捷键进行表格导航（例如已更改 NVDA 表格导航快捷键或使用[简易表格导航器][5]插件），可选择此选项。</target>
+      </segment>
+    </unit>
+    <unit id="7d2dd3fc-9c38-4cc2-b900-492d7816cc5d">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Keep Windows Magnifier command window always on top:</source>
+        <target>保持 Windows 放大镜命令窗口始终置顶：</target>
+      </segment>
+    </unit>
+    <unit id="40c1a3aa-c43c-4679-a0aa-ed36930334d9">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+      </notes>
+      <segment state="final">
+        <source>  If unchecked, the Magnifier's control window will not be kept always on top of other windows.</source>
+        <target>  如果未选中，放大镜的控制窗口将不再保持置顶状态。</target>
+      </segment>
+    </unit>
+    <unit id="fc433b6f-6844-4e14-9d41-0df0be694e55">
+      <notes>
+        <note appliesTo="source">line: 70</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Report color filter</source>
+        <target>读出颜色滤镜</target>
+      </segment>
+    </unit>
+    <unit id="7e7bf630-4fc3-455f-90cb-5dcc6aba1e14">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+      </notes>
+      <segment state="final">
+        <source>  If checked, the used color filter is reported when you use the `Windows+Control+C` toggle command.</source>
+        <target>  如果选中，使用 `Windows+Ctrl+C` 切换颜色滤镜时将读出使用的滤镜。</target>
+      </segment>
+    </unit>
+    <unit id="70a779c8-7dc2-4b88-8597-afe10a653353">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Commands added by this add-on</source>
+        <target>此插件的额外命令</target>
+      </segment>
+    </unit>
+    <unit id="9ccb2fc3-4f7a-4076-ac99-6b7692c53e76">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+      </notes>
+      <segment state="final">
+        <source>In addition to native Magnifier commands, this add-on provide additional commands:</source>
+        <target>除了原生放大镜快捷键外，此插件还提供额外命令：</target>
+      </segment>
+    </unit>
+    <unit id="a8d1ecd0-b495-4ec8-b273-08210fdce177">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Commands that allow to control Magnifier's options without opening its configuration page.</source>
+        <target>允许在不打开其设置页面的情况下控制放大镜选项的命令。</target>
+      </segment>
+    </unit>
+    <unit id="4eb9e20b-3079-4452-9e4d-e8150aeec807">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Extra commands specific to this add-on.</source>
+        <target>此插件特有的额外命令。</target>
+      </segment>
+    </unit>
+    <unit id="d397ffeb-3ae8-41d5-b5ce-bfab2f452a68">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+      </notes>
+      <segment state="final">
+        <source>All these additional commands are accessible through the Magnifier layer command NVDA+Windows+O:</source>
+        <target>这些命令均可通过放大镜层命令 NVDA+Windows+O 访问：</target>
+      </segment>
+    </unit>
+    <unit id="6aaea199-8a09-459e-aec6-ac4fd2e5da43">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then C: Toggles on or off caret tracking.</source>
+        <target>NVDA+Windows+O, C:打开或关闭跟随文本光标。</target>
+      </segment>
+    </unit>
+    <unit id="9290dc3e-5041-4f1a-90bd-7dea452da7ce">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then F: Toggles on or off focus tracking.</source>
+        <target>NVDA+Windows+O, F：打开或关闭跟随键盘焦点。</target>
+      </segment>
+    </unit>
+    <unit id="5dbbf7cd-31ff-448e-9634-1009c9d6daba">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then M: Toggles on or off mouse tracking.</source>
+        <target>NVDA+Windows+O, M：打开或关闭跟随鼠标指针。</target>
+      </segment>
+    </unit>
+    <unit id="3dc6cfa4-33d5-4047-8b25-3cd47fabe01c">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then T: Toggles on or off tracking globally.</source>
+        <target>NVDA+Windows+O, T：打开或关闭跟随。</target>
+      </segment>
+    </unit>
+    <unit id="b463767f-55b6-4400-9ac7-bbef112aa691">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+      </notes>
+      <segment state="final">
+        <source>  When tracking is toggled on again, it is set to the last active tracking configuration before tracking was toggled off.</source>
+        <target>  当再次切换跟随开启时，它将设置为跟随关闭前的最后活动跟随配置。</target>
+      </segment>
+    </unit>
+    <unit id="e3368237-94d7-4387-b318-c7d087cc42d3">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then S: Toggles on or off smoothing.</source>
+        <target>NVDA+Windows+O, S：打开或关闭图像和文本的平滑边缘。</target>
+      </segment>
+    </unit>
+    <unit id="82f0bad6-59d7-4f3a-a16a-9548c2f061e5">
+      <notes>
+        <note appliesTo="source">line: 88</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then R: Switches between mouse pointer tracking modes (within the edge of the screen or centered on the screen); this feature is only available on Windows 10 build 17643 or higher.</source>
+        <target>NVDA+Windows+O, R：在保留鼠标指针模式之间切换，包括屏幕边缘内和在屏幕上居中（此功能仅适用于 Windows 10 build 17643 及以上版本）。</target>
+      </segment>
+    </unit>
+    <unit id="6605b489-537e-4d00-a404-169855c30f5a">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then X: Switches between text cursor tracking modes (within the edge of the screen or centered on the screen); this feature is only available on Windows 10 build 18894 or higher.</source>
+        <target>NVDA+Windows+O, X：在保留文本光标模式之间切换，包括屏幕边缘内和在屏幕上居中（此功能仅适用于 Windows 10 build 18894 及以上版本）。</target>
+      </segment>
+    </unit>
+    <unit id="f94176f9-e0fd-4039-934c-abd19364e50c">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then shift+P: Saves the current configuration parameters of the magnifier to NVDA's configuration.</source>
+        <target>NVDA+Windows+O, Shift+P：将放大镜的当前配置参数保存到 NVDA 的配置中。</target>
+      </segment>
+    </unit>
+    <unit id="6c50bddf-4dc9-4b91-bb6c-08f554757554">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then P: Restores the current configuration parameters of the magnifier from NVDA's configuration.</source>
+        <target>NVDA+Windows+O, P：从 NVDA 的配置中恢复放大镜的当前配置参数。</target>
+      </segment>
+    </unit>
+    <unit id="de71ac84-37d1-491f-9eb9-14f1a5c562e2">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+      </notes>
+      <segment state="final">
+        <source>  If no configuration parameters has been previously saved to NVDA's configuration, the default configuration parameters of Windows Magnifier are restored instead.</source>
+        <target>  如果之前没有配置参数保存到 NVDA 的配置中，则恢复 Windows 放大镜的默认配置参数。</target>
+      </segment>
+    </unit>
+    <unit id="bdee81f6-90d4-4669-9464-151f64489c59">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then Arrows: Move the magnified view.</source>
+        <target>NVDA+Windows+O, 光标键：移动放大视图。</target>
+      </segment>
+    </unit>
+    <unit id="3d2b4c0e-0c6b-443b-82e1-848a5505a5a9">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then V: Moves the mouse cursor in the center of the magnified view (command not available in docked view mode).</source>
+        <target>NVDA+Windows+O, V：将鼠标光标移动到放大视图的中心（此命令在停靠视图模式下不可用）。</target>
+      </segment>
+    </unit>
+    <unit id="a36f351b-f02a-4b12-bb80-4ab9c5f6b209">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then W: Switches on or off the mode allowing to keep Windows Magnifier's control window always on top of the other ones.</source>
+        <target>NVDA+Windows+O, W：切换是否允许 Windows 放大镜控制窗口始终置顶。</target>
+      </segment>
+    </unit>
+    <unit id="2271d98b-2ba2-41b8-a5ae-d95342ae704c">
+      <notes>
+        <note appliesTo="source">line: 96</note>
+      </notes>
+      <segment state="final">
+        <source>  This feature is only available for installed versions of NVDA.</source>
+        <target>  此功能仅适用于安装版 NVDA。</target>
+      </segment>
+    </unit>
+    <unit id="7c184d00-6271-46e9-bf61-c849c5a6a63b">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then O: Opens Windows Magnifier add-on settings.</source>
+        <target>NVDA+Windows+O, O：打开Windows 放大镜插件设置。</target>
+      </segment>
+    </unit>
+    <unit id="73a271a5-73b4-4d54-9e8c-fc840d5c8404">
+      <notes>
+        <note appliesTo="source">line: 98</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Windows+O then H: Displays help on Magnifier layer commands.</source>
+        <target>NVDA+Windows+O, H：显示放大镜命令的帮助。</target>
+      </segment>
+    </unit>
+    <unit id="3c0b9f7e-74fd-4017-aa49-b05237b3da73">
+      <notes>
+        <note appliesTo="source">line: 100</note>
+      </notes>
+      <segment state="final">
+        <source>There is no default direct gesture for each command, but you can attribute one normally in the input gesture dialog if you wish.</source>
+        <target>所有命令都没有默认快捷键，但如果需要，可以在“按键与首饰”对话框中为其单独分配。</target>
+      </segment>
+    </unit>
+    <unit id="abdd5d1f-85f8-48a5-875f-dfd327ac8cb0">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+      </notes>
+      <segment state="final">
+        <source>The same way, You can also modify or delete the Magnifier layer access gesture (NVDA+Windows+O).</source>
+        <target>同样，您也可以修改或删除放大镜层访问快捷键（NVDA+Windows+O）。</target>
+      </segment>
+    </unit>
+    <unit id="eae71714-2cfa-4460-9829-401ebc07763b">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+      </notes>
+      <segment state="final">
+        <source>Yet, you cannot modify the shortcut key of the Magnifier layer sub-commands.</source>
+        <target>但是，您不能修改放大镜层子命令的快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="e7f18262-4f16-4972-94a1-fc3f311af338">
+      <notes>
+        <note appliesTo="source">line: 105</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Magnifier's native commands</source>
+        <target>放大镜的原有快捷键</target>
+      </segment>
+    </unit>
+    <unit id="ef6f1c23-8629-4830-ae9d-3986af0d08cb">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+      </notes>
+      <segment state="final">
+        <source>The result of the following Magnifier native commands, or other Accessibility commands, may be reported by this add-on, according to its configuration:</source>
+        <target>根据您的设置，此插件会朗读以下放大镜原有快捷键或其他辅助功能快捷键按下时的状态信息：</target>
+      </segment>
+    </unit>
+    <unit id="e7a27a10-ef6d-4036-adb3-e47ffeca9882">
+      <notes>
+        <note appliesTo="source">line: 109</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Start Magnifier: Windows++ (on alpha-numeric keyboard or on numpad)</source>
+        <target>打开放大镜：Windows++</target>
+      </segment>
+    </unit>
+    <unit id="129fdaff-59ae-44a1-b350-6bc0436ea5d3">
+      <notes>
+        <note appliesTo="source">line: 110</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Quit Magnifier: Windows+Escape</source>
+        <target>关闭放大镜：Windows+Esc</target>
+      </segment>
+    </unit>
+    <unit id="c5d77e4f-15ea-41a3-aebc-dd74d1de44e0">
+      <notes>
+        <note appliesTo="source">line: 111</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Zoom in: Windows++ (on alpha-numeric keyboard or on numpad)</source>
+        <target>放大：Windows++</target>
+      </segment>
+    </unit>
+    <unit id="f2743ee9-0873-423f-a693-9c1e8875d871">
+      <notes>
+        <note appliesTo="source">line: 112</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Zoom out: Windows+- (on alpha-numeric keyboard or on numpad)</source>
+        <target>缩小：Windows+-</target>
+      </segment>
+    </unit>
+    <unit id="1bdb4520-e839-43de-b46e-a5861c72e2a8">
+      <notes>
+        <note appliesTo="source">line: 113</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Toggle color inversion: Control+Alt+I</source>
+        <target>打开或关闭反色：Ctrl+Alt+I</target>
+      </segment>
+    </unit>
+    <unit id="05adc6e9-3108-47f5-ac41-7afa48cb5304">
+      <notes>
+        <note appliesTo="source">line: 114</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Select the docked view: Control+Alt+D</source>
+        <target>切换到停靠视图：Ctrl+Alt+D</target>
+      </segment>
+    </unit>
+    <unit id="c0a6e0c0-0443-4716-aa6b-3a3ea00c79c3">
+      <notes>
+        <note appliesTo="source">line: 115</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Select the full screen view: Control+Alt+F</source>
+        <target>切换到全屏视图：Ctrl+Alt+F</target>
+      </segment>
+    </unit>
+    <unit id="df66f831-c97e-4cd2-b01f-7be4106d7126">
+      <notes>
+        <note appliesTo="source">line: 116</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Select the lens view: Control+Alt+L</source>
+        <target>切换到镜头视图：Ctrl+Alt+L</target>
+      </segment>
+    </unit>
+    <unit id="1c78b8e0-6a2c-4567-9bcd-6df65d75ff59">
+      <notes>
+        <note appliesTo="source">line: 117</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Cycle through the three view types: Control+Alt+M</source>
+        <target>在三种视图类型间循环切换：Ctrl+Alt+M</target>
+      </segment>
+    </unit>
+    <unit id="7fab24e8-7d87-48e0-ad2d-8ce6b1a66c14">
+      <notes>
+        <note appliesTo="source">line: 118</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Resize the lens with the keyboard: Shift+Alt+Left/Right/Up/DownArrow</source>
+        <target>用键盘调整镜头大小：Shift+Alt+左/右/上/下光标键</target>
+      </segment>
+    </unit>
+    <unit id="fde47660-8eeb-4aa2-9e68-cc0d09899cef">
+      <notes>
+        <note appliesTo="source">line: 119</note>
+      </notes>
+      <segment state="final">
+        <source>  Note: although this does not seem to be documented, this shortcut seems to have been withdrawn in recent Windows versions such as Windows 10 2004.</source>
+        <target>  注意：尽管这似乎没有文档记载，但此快捷键似乎在最近的 Windows 版本（如 Windows 10 2004）中已被取消。</target>
+      </segment>
+    </unit>
+    <unit id="2332352a-4502-4b22-af84-4dba9133ef6b">
+      <notes>
+        <note appliesTo="source">line: 120</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Move the magnified view: Control+Alt+Arrows</source>
+        <target>移动放大视图：Ctrl+Alt+光标键</target>
+      </segment>
+    </unit>
+    <unit id="9ba343db-43e8-4a86-b4fa-cbd0296fb2b7">
+      <notes>
+        <note appliesTo="source">line: 121</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Toggle color filters: `Windows+Control+C` (provided you have enabled this shortcut in [Windows Accessibility settings, Color Filters][9])</source>
+        <target>切换颜色滤镜：`Windows+Ctrl+C`（需在 [Windows 辅助功能设置，颜色滤镜][9] 中启用此快捷键）</target>
+      </segment>
+    </unit>
+    <unit id="85cc11b2-3ca3-463e-82b4-7b5bdc9400e0">
+      <notes>
+        <note appliesTo="source">line: 123</note>
+      </notes>
+      <segment state="final">
+        <source>Here is also a list of other Magnifier native commands, just for information:</source>
+        <target>下面是放大镜其他原有快捷键的列表，仅供参考：</target>
+      </segment>
+    </unit>
+    <unit id="110b6bcc-35be-4dfe-b31c-ab35e21d3471">
+      <notes>
+        <note appliesTo="source">line: 125</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+Alt+mouseScrollWheel: Zooms in and out using the mouse scroll wheel.</source>
+        <target>Ctrl+Alt+鼠标滚轮：使用鼠标滚轮放大和缩小。</target>
+      </segment>
+    </unit>
+    <unit id="e405101a-b508-4c30-a9ae-a38f83e60c30">
+      <notes>
+        <note appliesTo="source">line: 126</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+Windows+M: Opens the Magnifier's settings window.</source>
+        <target>Ctrl+Windows+M：打开放大镜设置。</target>
+      </segment>
+    </unit>
+    <unit id="2608584e-d376-4d3c-95b0-60d25a37cf5a">
+      <notes>
+        <note appliesTo="source">line: 127</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+Alt+R: Resizes the lens with the mouse.</source>
+        <target>Ctrl+Alt+R：使用鼠标调整镜头大小。</target>
+      </segment>
+    </unit>
+    <unit id="6d68fe30-f8b9-4d6a-b425-267ef3fdb7d1">
+      <notes>
+        <note appliesTo="source">line: 128</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+Alt+Space: Quickly shows the entire desktop when using full screen view.</source>
+        <target>Ctrl+Alt+空格键：在使用全屏视图时快速显示整个桌面。</target>
+      </segment>
+    </unit>
+    <unit id="c3ad1ecf-4db5-45d9-9933-8f29aca328ec">
+      <notes>
+        <note appliesTo="source">line: 130</note>
+      </notes>
+      <segment state="final">
+        <source>None of the Magnifier native commands can be modified.</source>
+        <target>您不能修改放大镜的原有快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="df21f122-7aa3-43a4-9a47-80c4a9968d51">
+      <notes>
+        <note appliesTo="source">line: 133</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Notes</source>
+        <target>注意</target>
+      </segment>
+    </unit>
+    <unit id="ac77b78c-c618-4eba-9f66-f8290aa39b5a">
+      <notes>
+        <note appliesTo="source">line: 135</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For computers equipped with an Intel graphic card, control+alt+arrow (left/right/up/down) are also shortcuts to modify the orientation of the screen.</source>
+        <target>对于配备英特尔显卡的计算机，Ctrl+Alt+光标键也是修改屏幕方向的快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="8c3d619c-8952-4aad-8fdc-aa83e33f65df">
+      <notes>
+        <note appliesTo="source">line: 136</note>
+      </notes>
+      <segment state="final">
+        <source>  These shortcut are enabled by default and conflict with Windows Magnifiers shortcuts to move the view.</source>
+        <target>  这些快捷键默认启用，并与 Windows 放大镜移动视图的快捷键冲突。</target>
+      </segment>
+    </unit>
+    <unit id="c16c4fa0-2fed-477d-854b-65a664d1c409">
+      <notes>
+        <note appliesTo="source">line: 137</note>
+      </notes>
+      <segment state="final">
+        <source>  You will need to disable them to be able to use them for the Magnifier.</source>
+        <target>  您需要禁用它们才能将其用于放大镜。</target>
+      </segment>
+    </unit>
+    <unit id="f10fa5a2-b257-4a86-b073-226e2f9e1ff6">
+      <notes>
+        <note appliesTo="source">line: 138</note>
+      </notes>
+      <segment state="final">
+        <source>  They can be disabled in the Intel control panel or in the Intel menu present in the system tray.</source>
+        <target>  可以在英特尔控制面板或系统托盘中的英特尔菜单中禁用它们。</target>
+      </segment>
+    </unit>
+    <unit id="ab480287-f5ce-4474-b55a-269e2896e147">
+      <notes>
+        <note appliesTo="source">line: 139</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Depending on your Windows version, Alt+Shift+Arrow are Windows Magnifier shortcuts to resize the magnified view (lens or docked).</source>
+        <target>根据您的 Windows 版本，Alt+Shift+光标键是 Windows 放大镜调整放大视图（镜头或停靠）大小的快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="2ce72394-b9fe-45c4-b0d1-92e7d1f3db2b">
+      <notes>
+        <note appliesTo="source">line: 140</note>
+      </notes>
+      <segment state="final">
+        <source>  When Magnifier is active (even in full screen mode), these shortcuts are captured by Magnifier and cannot be passed to the application, even if you press NVDA+F2 before.</source>
+        <target>  当放大镜处于活动状态时（即使在全屏模式下），这些快捷键会被放大镜捕获，无法传递给应用程序，即使您先按了 NVDA+F2。</target>
+      </segment>
+    </unit>
+    <unit id="07900a82-b969-4fac-9b0d-00b18000f332">
+      <notes>
+        <note appliesTo="source">line: 141</note>
+      </notes>
+      <segment state="final">
+        <source>  To use these shortcuts in the current application, you need to quit the Magnifier (Windows+Escape) and re-open it after (Windows++).</source>
+        <target>  要在当前应用程序中使用这些快捷键，需要关闭放大镜（Windows+Esc），然后重新打开（Windows++）。</target>
+      </segment>
+    </unit>
+    <unit id="bb14aea3-8248-446e-9331-892bec9920ab">
+      <notes>
+        <note appliesTo="source">line: 142</note>
+      </notes>
+      <segment state="final">
+        <source>  For example in MS word, to decrease title level:</source>
+        <target>  例如，在 Word 中降低标题级别：</target>
+      </segment>
+    </unit>
+    <unit id="cb584d89-f1da-4050-a7e5-dd8b4af8712e">
+      <notes>
+        <note appliesTo="source">line: 144</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Press Windows+Escape to quit Magnifier.</source>
+        <target>按 Windows+Esc 关闭放大镜。</target>
+      </segment>
+    </unit>
+    <unit id="280c6e23-0ac0-41d5-9681-86b8efed64dd">
+      <notes>
+        <note appliesTo="source">line: 145</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Press Alt+Shift+RightArrow to decrease current title level.</source>
+        <target>按 Alt+Shift+右光标键降低当前标题级别。</target>
+      </segment>
+    </unit>
+    <unit id="87de00e4-5e6d-471b-89bd-dd95e35403f5">
+      <notes>
+        <note appliesTo="source">line: 146</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>Press Windows++ to re-open the Magnifier.</source>
+        <target>按 Windows++ 重新打开放大镜。</target>
+      </segment>
+    </unit>
+    <unit id="e23e8a40-d369-4ed8-9dad-71712c70300c">
+      <notes>
+        <note appliesTo="source">line: 148</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For more information about Windows Magnifier's features and shortcuts, you may want to consult the following pages:</source>
+        <target>有关 Windows 放大镜功能和快捷键的更多信息，请查阅以下页面：</target>
+      </segment>
+    </unit>
+    <unit id="88168134-f4b7-4e03-a112-ca49c9c85ee4">
+      <notes>
+        <note appliesTo="source">line: 150</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>[Use Magnifier to make things on the screen easier to see](https://support.microsoft.com/en-us/help/11542/windows-use-magnifier-to-make-things-easier-to-see)</source>
+        <target>[使用放大镜使屏幕上的内容更易于查看](https://support.microsoft.com/zh-cn/help/11542/windows-use-magnifier-to-make-things-easier-to-see)</target>
+      </segment>
+    </unit>
+    <unit id="2d9890cf-a56c-40ed-bc65-418461fa9f30">
+      <notes>
+        <note appliesTo="source">line: 151</note>
+        <note appliesTo="source">prefix:     * </note>
+      </notes>
+      <segment state="final">
+        <source>[Windows keyboard shortcuts for accessibility][4]</source>
+        <target>[Windows 辅助功能键盘快捷键][4]</target>
+      </segment>
+    </unit>
+    <unit id="4e33e8a8-b63e-4a1b-bc03-c86724494833">
+      <notes>
+        <note appliesTo="source">line: 153</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>This add-on has not been tested in multi-screen environment and there are chances that some feature are not working in this environment.</source>
+        <target>此插件未在多显示器环境中测试，有可能某些功能在此环境中无法工作。</target>
+      </segment>
+    </unit>
+    <unit id="416d9206-03be-47cb-a440-2fe240aa6c9b">
+      <notes>
+        <note appliesTo="source">line: 154</note>
+      </notes>
+      <segment state="final">
+        <source>  If you are using multi-screen environment and want it to be supported, please contact me to have it implemented.</source>
+        <target>  如果您使用多显示器环境并希望获得支持，请与我联系以实施该功能。</target>
+      </segment>
+    </unit>
+    <unit id="49c3e073-ce51-4b25-96db-9370c6e062f1">
+      <notes>
+        <note appliesTo="source">line: 155</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>More generally, do not hesitate to contact me on the [GitHub page][3] of this add-on or directly by e-mail.</source>
+        <target>欢迎通过[GitHub 项目页][3]或邮件反馈问题与建议。</target>
+      </segment>
+    </unit>
+    <unit id="f9939d6d-aaf4-452a-8773-6877335f8277">
+      <notes>
+        <note appliesTo="source">line: 158</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Change log</source>
+        <target>更新日志</target>
+      </segment>
+    </unit>
+    <unit id="0b24bcb5-fb71-4ac5-bc91-d5fbb02d5761">
+      <notes>
+        <note appliesTo="source">line: 160</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 4.2</source>
+        <target>版本 4.2</target>
+      </segment>
+    </unit>
+    <unit id="c6c4f6a5-718f-4434-8469-dd285c3918a2">
+      <notes>
+        <note appliesTo="source">line: 162</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Magnifier or Color filtering commands will no longer fail if used for the first time with this add-on running.</source>
+        <target>首次使用此插件时运行放大镜或颜色滤镜命令将不再失败。</target>
+      </segment>
+    </unit>
+    <unit id="831b7f14-3344-454f-a582-59c59cf24476">
+      <notes>
+        <note appliesTo="source">line: 164</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 4.0</source>
+        <target>版本 4.0</target>
+      </segment>
+    </unit>
+    <unit id="abcc47ec-aa10-4cec-90ca-49fd12ad3cd1">
+      <notes>
+        <note appliesTo="source">line: 166</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The filter enabled by the toggle color filter command (`Windows+Control+C`) can now be reported; this toggle command should have been previously enabled in Windows Accessibility settings.</source>
+        <target>现在可以读出通过切换颜色滤镜快捷键（`Windows+Ctrl+C`）启用的滤镜；此快捷键应先在 Windows 辅助功能设置中启用。</target>
+      </segment>
+    </unit>
+    <unit id="fa661658-216d-43dd-8d5e-59323bced1ae">
+      <notes>
+        <note appliesTo="source">line: 167</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2025.1.</source>
+        <target>与 NVDA 2025.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="1f7a8d4c-be8b-481d-8cbe-4cd33fcea360">
+      <notes>
+        <note appliesTo="source">line: 169</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.7</source>
+        <target>版本 3.7</target>
+      </segment>
+    </unit>
+    <unit id="b291f5bd-12c7-4e98-9cbc-07ec25bc961c">
+      <notes>
+        <note appliesTo="source">line: 171</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2024.1.</source>
+        <target>与 NVDA 2024.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="9d280415-3b04-4677-a4c1-fe0e3121171a">
+      <notes>
+        <note appliesTo="source">line: 173</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.6</source>
+        <target>版本 3.6</target>
+      </segment>
+    </unit>
+    <unit id="cc5953e0-f487-4603-9590-2397f0a49932">
+      <notes>
+        <note appliesTo="source">line: 175</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed erroneous compatibility range.</source>
+        <target>修复了错误的兼容性范围。</target>
+      </segment>
+    </unit>
+    <unit id="ddf48be9-32b2-4a8c-b127-a24f310bdebb">
+      <notes>
+        <note appliesTo="source">line: 177</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.5</source>
+        <target>版本 3.5</target>
+      </segment>
+    </unit>
+    <unit id="2e9a2d16-aac8-4d98-ad52-744e5c9f4189">
+      <notes>
+        <note appliesTo="source">line: 179</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Prepares compatibility with NVDA 2024.1.</source>
+        <target>准备与 NVDA 2024.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="970b40dd-6171-4686-9a7b-fb209eb1e649">
+      <notes>
+        <note appliesTo="source">line: 180</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Addresses potential security issues related to [GHSA-xg6w-23rw-39r8][8] when using the add-on with older versions of NVDA. However, it is recommended to use NVDA 2023.3.3 or higher.</source>
+        <target>修复旧版 NVDA 使用时的潜在安全漏洞 [GHSA-xg6w-23rw-39r8][8]。但是，仍建议使用 NVDA 2023.3.3 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="45109429-9a36-4c7e-ae74-7ff58505cd57">
+      <notes>
+        <note appliesTo="source">line: 181</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Note: From now on, translation updates will not appear anymore in the change log.</source>
+        <target>注意：从现在起，翻译更新将不再出现在更新日志中。</target>
+      </segment>
+    </unit>
+    <unit id="0883df44-46a6-4b09-8ac9-7da4a41f0778">
+      <notes>
+        <note appliesTo="source">line: 183</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.4</source>
+        <target>版本 3.4</target>
+      </segment>
+    </unit>
+    <unit id="b6531038-166b-4004-8d9e-135e19f9ea30">
+      <notes>
+        <note appliesTo="source">line: 185</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The "move mouse to view" command works again</source>
+        <target>“移动鼠标至视图”命令再次工作</target>
+      </segment>
+    </unit>
+    <unit id="59ecad64-a7b7-4224-ace8-27cc487bce79">
+      <notes>
+        <note appliesTo="source">line: 186</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated localizations.</source>
+        <target>更新了本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="b1eb7f86-baaa-4c88-8481-bd9e6ee84cb0">
+      <notes>
+        <note appliesTo="source">line: 188</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.3</source>
+        <target>版本 3.3</target>
+      </segment>
+    </unit>
+    <unit id="3b151d33-ebf4-4027-82d2-53281b58cc9e">
+      <notes>
+        <note appliesTo="source">line: 190</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility reduced to NVDA 2019.2.1 and beyond.</source>
+        <target>兼容性提高到 NVDA 2019.2.1 及更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="3aa80691-8abd-4334-8bd9-a1beb8f9dca5">
+      <notes>
+        <note appliesTo="source">line: 191</note>
+      </notes>
+      <segment state="final">
+        <source>  The last compatible versions with NVDA 2018.3 are the [3.2][7] (partially compatible) and [1.1][6] (fully compatible)</source>
+        <target>  与 NVDA 2018.3 兼容的最后版本是 [3.2][7]（部分兼容）和 [1.1][6]（完全兼容）</target>
+      </segment>
+    </unit>
+    <unit id="49d8ad6c-56ed-4f84-90e5-e7de84f83751">
+      <notes>
+        <note appliesTo="source">line: 192</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug in the settings panel with NVDA 2019.2.1.</source>
+        <target>修复了 NVDA 2019.2.1 设置面板中的一个错误。</target>
+      </segment>
+    </unit>
+    <unit id="eff03ac4-d181-4448-9b74-d592c42377e6">
+      <notes>
+        <note appliesTo="source">line: 194</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.2</source>
+        <target>版本 3.2</target>
+      </segment>
+    </unit>
+    <unit id="3688c910-87d2-410e-bc27-79a9d968d72e">
+      <notes>
+        <note appliesTo="source">line: 196</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed the dev channel.</source>
+        <target>移除了开发通道。</target>
+      </segment>
+    </unit>
+    <unit id="09bd500a-d8f3-4c82-8129-a8f2c8a20f8f">
+      <notes>
+        <note appliesTo="source">line: 197</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated localizations.</source>
+        <target>更新本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="b60290f0-e81e-42f7-a7ae-7f86a285548f">
+      <notes>
+        <note appliesTo="source">line: 199</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.1</source>
+        <target>版本 3.1</target>
+      </segment>
+    </unit>
+    <unit id="2ed6ed20-4022-4f44-8d39-79ca01f93cc7">
+      <notes>
+        <note appliesTo="source">line: 201</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed an issue preventing the Magnifier's command window from being restored on top.</source>
+        <target>修复了阻止放大镜命令窗口恢复置顶的问题。</target>
+      </segment>
+    </unit>
+    <unit id="bbeff57e-bf1a-4099-abe1-f2c1b966805e">
+      <notes>
+        <note appliesTo="source">line: 202</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed an issue preventing the add-on to run on NVDA 2019.2.1.</source>
+        <target>修复了阻止插件在 NVDA 2019.2.1 上运行的问题。</target>
+      </segment>
+    </unit>
+    <unit id="08c85645-cfb4-47da-923e-daca885cdcbe">
+      <notes>
+        <note appliesTo="source">line: 203</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated localizations.</source>
+        <target>更新本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="3b053b23-b1a7-47b4-a79d-689962480bb5">
+      <notes>
+        <note appliesTo="source">line: 205</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.0</source>
+        <target>版本 3.0</target>
+      </segment>
+    </unit>
+    <unit id="cddd608c-61fb-4c95-b1ee-4f8dbee1cbc1">
+      <notes>
+        <note appliesTo="source">line: 207</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Pressing the zoom buttons in the Magnifier window (with the keyboard) now reports the new zoom level.</source>
+        <target>键盘操作放大镜窗口缩放按钮时会读出新的缩放级别。</target>
+      </segment>
+    </unit>
+    <unit id="c6b506bc-87d0-46a4-88c3-8cf744269dbd">
+      <notes>
+        <note appliesTo="source">line: 208</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The parameter controlling if Magnifier control window remains always on top is now stored in configuration;</source>
+        <target>控制放大镜控制窗口是否始终置顶的参数现在存储在配置中；</target>
+      </segment>
+    </unit>
+    <unit id="aa0c1bbb-ec48-49c3-b2c2-df7922f99b06">
+      <notes>
+        <note appliesTo="source">line: 209</note>
+      </notes>
+      <segment state="final">
+        <source>  this means that this parameter is remembered when restarting NVDA and can be enabled or not depending on the active profile.</source>
+        <target>  这意味着该参数在重启 NVDA 时会被保存，并且可以根据活动配置文件启用或禁用。</target>
+      </segment>
+    </unit>
+    <unit id="1ffb460e-b03e-4ecd-b703-8f53064691ee">
+      <notes>
+        <note appliesTo="source">line: 210</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug causing unexpected screen curtain de-activation when using move to view or move view commands.</source>
+        <target>修复了在使用“移动至视图”或“移动视图”命令时导致意外禁用黑屏的错误。</target>
+      </segment>
+    </unit>
+    <unit id="885256a0-8551-4323-899f-0ae0ede82356">
+      <notes>
+        <note appliesTo="source">line: 211</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Option alwaysOnTop setting will now be honoured also when changing magnification mode.</source>
+        <target>现在更改放大模式时也会遵循始终置顶设置。</target>
+      </segment>
+    </unit>
+    <unit id="3a7e6883-b194-4b8a-b83c-ca07d05c138e">
+      <notes>
+        <note appliesTo="source">line: 212</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added ability to save and restore Windows Magnifier's config in NVDA's config.</source>
+        <target>添加了在 NVDA 配置中保存和恢复 Windows 放大镜配置的功能。</target>
+      </segment>
+    </unit>
+    <unit id="7ced98e2-55b5-4ad4-8852-63f53527bcbc">
+      <notes>
+        <note appliesTo="source">line: 213</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2023.1.</source>
+        <target>与 NVDA 2023.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="95836fc6-efa6-434c-b56c-e66c783cc467">
+      <notes>
+        <note appliesTo="source">line: 214</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Clarify which type of tracking is re-enabled when tracking is toggled on again.</source>
+        <target>明确跟踪功能重新启用时的具体跟踪类型。</target>
+      </segment>
+    </unit>
+    <unit id="101922f1-d92f-4d06-a815-26bf41f2d506">
+      <notes>
+        <note appliesTo="source">line: 215</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated localizations.</source>
+        <target>更新本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="32871658-73f9-4c21-8f5a-033949177e63">
+      <notes>
+        <note appliesTo="source">line: 217</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 2.0</source>
+        <target>版本 2.0</target>
+      </segment>
+    </unit>
+    <unit id="ef29d9aa-57c3-4d24-839f-cfde5f80a00e">
+      <notes>
+        <note appliesTo="source">line: 219</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The view can be moved with arrows while in Windows Magnifier layer.</source>
+        <target>在 Windows 放大镜层命令中可以使用光标键移动视图。</target>
+      </segment>
+    </unit>
+    <unit id="e5565202-4a89-41cb-9dac-c4dfc8be6b61">
+      <notes>
+        <note appliesTo="source">line: 220</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Capability to keep the Magnifier commands Window always on top or not.</source>
+        <target>新增放大镜命令窗口置顶开关。</target>
+      </segment>
+    </unit>
+    <unit id="fd9f0712-77ab-4131-a81f-6c4b2fc23bcc">
+      <notes>
+        <note appliesTo="source">line: 221</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added "Report screen edges" feature.</source>
+        <target>添加了“读出屏幕边缘”功能。</target>
+      </segment>
+    </unit>
+    <unit id="5514851e-c0ca-4177-9338-b661374e62c5">
+      <notes>
+        <note appliesTo="source">line: 222</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Volume setting of tones when using move view commands.</source>
+        <target>可设置视图移动提示音音量。</target>
+      </segment>
+    </unit>
+    <unit id="97cd2c56-16a1-401a-b83a-38a9df7f54e5">
+      <notes>
+        <note appliesTo="source">line: 223</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Reporting view moves and mouse to view commands are now supported in Lens mode.</source>
+        <target>现在在镜头模式下支持读出视图移动和移动鼠标至视图命令。</target>
+      </segment>
+    </unit>
+    <unit id="aae7ffc2-6c3a-4b1f-ad12-f68575a69b16">
+      <notes>
+        <note appliesTo="source">line: 224</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2022.1.</source>
+        <target>与 NVDA 2022.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="4c6e4ed0-05d7-4bf6-8687-52d16bf37c5e">
+      <notes>
+        <note appliesTo="source">line: 225</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug that sometimes incorrectly reported that the Magnifier was not working upon script call.</source>
+        <target>修复了有时在脚本调用时提示放大镜未运行的错误。</target>
+      </segment>
+    </unit>
+    <unit id="e5087d17-f39c-4e02-9966-7a72bb593c1b">
+      <notes>
+        <note appliesTo="source">line: 226</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The release is now performed thanks to a GitHub action instead of appVeyor.</source>
+        <target>现在通过 GitHub Action 而非 appVeyor 发布。</target>
+      </segment>
+    </unit>
+    <unit id="72a2d9b9-baf8-427a-bda4-dad2f867265c">
+      <notes>
+        <note appliesTo="source">line: 227</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated localizations.</source>
+        <target>更新本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="22e974fb-1286-41de-873c-13a4563af5f9">
+      <notes>
+        <note appliesTo="source">line: 229</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.1</source>
+        <target>版本 1.1</target>
+      </segment>
+    </unit>
+    <unit id="7ef80a5c-eb64-47ac-9b39-c978038bd4e8">
+      <notes>
+        <note appliesTo="source">line: 231</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added localizations.</source>
+        <target>添加本地化翻译。</target>
+      </segment>
+    </unit>
+    <unit id="4d844147-42b2-4e24-a5ef-0a91eed30da3">
+      <notes>
+        <note appliesTo="source">line: 233</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.0</source>
+        <target>版本 1.0</target>
+      </segment>
+    </unit>
+    <unit id="2a6865e4-7a85-41d3-a125-3935cb8947ed">
+      <notes>
+        <note appliesTo="source">line: 235</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial release.</source>
+        <target>发布初始版本。</target>
+      </segment>
+    </unit>
+    <unit id="e553bd7d-cfa1-45bc-bd96-0bf5a53afa99">
+      <notes>
+        <note appliesTo="source">line: 237</note>
+      </notes>
+      <segment state="final">
+        <source>[3]: https://github.com/CyrilleB79/winMag</source>
+        <target>[3]: https://github.com/CyrilleB79/winMag</target>
+      </segment>
+    </unit>
+    <unit id="72d71f68-dea1-4ac8-bd8a-5b25a8cf6d07">
+      <notes>
+        <note appliesTo="source">line: 239</note>
+      </notes>
+      <segment state="final">
+        <source>[4]: https://support.microsoft.com/en-us/help/13810</source>
+        <target>[4]: https://support.microsoft.com/zh-cn/help/13810</target>
+      </segment>
+    </unit>
+    <unit id="0fec7f2d-6d07-4afa-ae8f-ccd7b45bd13e">
+      <notes>
+        <note appliesTo="source">line: 241</note>
+      </notes>
+      <segment state="final">
+        <source>[5]: https://addons.nvda-project.org/addons/easyTableNavigator.en.html</source>
+        <target>[5]: https://addons.nvda-project.org/addons/easyTableNavigator.zh_CN.html</target>
+      </segment>
+    </unit>
+    <unit id="ebe4ad36-ccbf-4552-af84-df388f0f3e48">
+      <notes>
+        <note appliesTo="source">line: 243</note>
+      </notes>
+      <segment state="final">
+        <source>[6]: https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon</source>
+        <target>[6]: https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon</target>
+      </segment>
+    </unit>
+    <unit id="36d495c9-3487-4a07-884d-7272c7804d07">
+      <notes>
+        <note appliesTo="source">line: 245</note>
+      </notes>
+      <segment state="final">
+        <source>[7]: https://github.com/CyrilleB79/winMag/releases/download/V3.2/winMag-3.2.nvda-addon</source>
+        <target>[7]: https://github.com/CyrilleB79/winMag/releases/download/V3.2/winMag-3.2.nvda-addon</target>
+      </segment>
+    </unit>
+    <unit id="ebb8fe0f-c15a-4457-a428-5df67e99767d">
+      <notes>
+        <note appliesTo="source">line: 247</note>
+      </notes>
+      <segment state="final">
+        <source>[8]: https://github.com/nvaccess/nvda/security/advisories/GHSA-xg6w-23rw-39r8#event-132994</source>
+        <target>[8]: https://github.com/nvaccess/nvda/security/advisories/GHSA-xg6w-23rw-39r8#event-132994</target>
+      </segment>
+    </unit>
+    <unit id="ef68a0c3-64a2-452f-9dbc-2d367ef1095d">
+      <notes>
+        <note appliesTo="source">line: 249</note>
+      </notes>
+      <segment state="final">
+        <source>[9]: https://support.microsoft.com/en-us/windows/make-windows-easier-to-see-c97c2b0d-cadb-93f0-5fd1-59ccfe19345d</source>
+        <target>[9]: https://support.microsoft.com/zh-cn/windows/make-windows-easier-to-see-c97c2b0d-cadb-93f0-5fd1-59ccfe19345d</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

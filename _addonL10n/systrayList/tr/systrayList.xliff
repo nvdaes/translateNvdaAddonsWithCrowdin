@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="systrayList.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/systrayList/systrayList.md">
+    <skeleton>
+# $(ID:da7e3c63-0866-4c2c-8df1-ed3160603cce)
+
+*   $(ID:96dd6819-4fb7-4573-994e-2c1ffe1faa09)
+*   $(ID:44e13f16-8c7e-43dc-9841-601dac0884aa)
+* $(ID:f6f279b1-6e7b-4f46-8c69-c1c78c89df9b)
+
+$(ID:e9d17125-8041-48dd-b880-1efc63da1339)
+
+$(ID:33abd30a-a0d9-4b1a-9c88-bb2392e852a0)
+
+## $(ID:eec1058a-8163-4da4-bf45-0adc6ba3d37c)
+
+* $(ID:0758c6e8-9480-43b7-b79e-8ef98ce71ab7)
+* $(ID:17ede025-24dd-48b1-917a-ccbb0e1e42d9)
+* $(ID:86f69164-1217-4e03-8e7d-5cb23a40ffa8)
+* $(ID:07bfa7c1-93d9-4d85-87a1-d1c304a82c20)
+
+## $(ID:f716a680-f839-409a-9d47-653ec64e7e86)
+
+* $(ID:63926829-78f6-402f-9f86-8d330df3e796)
+
+## $(ID:5095ed10-9683-4f22-a3e1-a94561ae373a)
+
+* $(ID:67d61174-c8e2-41bf-91a1-2870a3fcad37)
+
+## $(ID:c3d8ece1-1aa7-4aa6-ad98-5727549a2d4e)
+
+$(ID:24f7ed74-af8f-4010-a5c8-d5ce8b1ebb20)
+
+* $(ID:5460417f-8825-4b5b-8d4c-b7761855214e)
+
+## $(ID:3420de1a-cfa6-4a48-8c15-008c7932bf34)
+
+* $(ID:78394014-5474-4e87-894b-611b5b48d8f3)
+* $(ID:bf98968c-87b8-405b-acdd-4a18967aed7e)
+* $(ID:3d8febfb-691d-4da6-bba5-36cd8906938c)
+
+## $(ID:07d20543-1087-44c7-a26c-edc34fe80e8a)
+
+* $(ID:ba97735d-561e-40d6-b665-95f1213b8785)
+* $(ID:a33cbbd0-0094-4f86-8531-efd90c6e8066)
+* $(ID:4b2962ae-f073-4a41-a70b-5305f328030e)
+
+## $(ID:93a0a9e6-5a77-4b2e-963a-b18b436daa6d)
+
+* $(ID:7ea9d3ea-8492-4d65-96ff-138074711b4a)
+* $(ID:18e0d56e-d293-415f-ada4-ba4fbf776948)
+* $(ID:c5bc8073-466f-4b36-915a-ec57419b2981)
+* $(ID:0942adba-21bb-407c-bbfe-ae78233bfdd1)
+
+## $(ID:d9576f72-354d-4c8d-9a5c-980d0e7a6db3)
+
+* $(ID:838f14b7-455b-4643-afb3-7f0db7fa7a90)
+* $(ID:f42f968e-61f0-4070-8b88-e661a7716ebd)
+
+## $(ID:267c6381-a8ca-4c50-9556-9f0badc44e98)
+
+* $(ID:43fc9328-575f-48e8-9fa6-4290dd48d23d)
+
+## $(ID:a4519026-3286-445a-920e-3a54742d8b4e)
+
+* $(ID:f4f12f3d-9804-43e9-9610-cded2f98a93c)
+
+## $(ID:66ae4a57-7884-47c4-94a9-3855a7e8cd63)
+
+* $(ID:34a02078-d82c-434f-b3ee-79e2b67e3022)
+
+$(ID:c8523a09-3e57-4e12-8fb8-4193c25ac945)
+</skeleton>
+    <unit id="da7e3c63-0866-4c2c-8df1-ed3160603cce">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>systrayList #</source>
+        <target>sistem Tepsisi Listesi #</target>
+      </segment>
+    </unit>
+    <unit id="96dd6819-4fb7-4573-994e-2c1ffe1faa09">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: *   </note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: Rui Fontes, Rui Batista, Joseph Lee, NVDA Community contributors</source>
+        <target>Yazarlar: Rui Fontes, Rui Batista, Joseph Lee, NVDA Topluluğuna katkıda bulunanlar</target>
+      </segment>
+    </unit>
+    <unit id="44e13f16-8c7e-43dc-9841-601dac0884aa">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: *   </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[Kararlı sürümü indirin][1]</target>
+      </segment>
+    </unit>
+    <unit id="f6f279b1-6e7b-4f46-8c69-c1c78c89df9b">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2019.3 and beyond</source>
+        <target>NVDA uyumluluğu: 2019.3 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="e9d17125-8041-48dd-b880-1efc63da1339">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on allows you to read and activate icons on the system tray or the task bar, within a list box, for easy access and interaction to those items. With the add-on installed, press NVDA+f11 once for this dialog to pop-up with system tray elements, and press twice to display task bar elements, which are the currently running applications.</source>
+        <target>Bu eklenti, sistem tepsisindeki veya görev çubuğundaki simgeleri bir liste kutusu içinde okuyup etkinleştirmenize olanak tanıyarak bu öğelere kolay erişim ve etkileşim sağlar. Eklenti yüklüyken, bu iletişim kutusunun sistem tepsisi öğeleriyle açılması için NVDA+f11 tuşlarına bir kez basın ve çalışmakta olan uygulamalar olan görev çubuğu öğelerini görüntülemek için iki kez basın.</target>
+      </segment>
+    </unit>
+    <unit id="33abd30a-a0d9-4b1a-9c88-bb2392e852a0">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>Note that you can access the windows system tray in any screen reader software using the Windows+B, and the task bar by pressing Windows+T. This plugin is only useful to make the transition from JAWS for Windows smoother and to avoid some tooltips that may pop-up when cycling through the system tray with the windows keyboard means.</source>
+        <target>Windows sistem tepsisine Windows+B tuşlarını kullanarak herhangi bir ekran okuyucu yazılımında ve görev çubuğunda Windows+T tuşlarına basarak erişebileceğinizi unutmayın. Bu eklenti yalnızca Windows için JAWS'tan geçişi daha sorunsuz hale getirmek ve Windows klavye araçlarıyla sistem tepsisinde gezinirken ortaya çıkabilecek bazı araç ipuçlarından kaçınmak için kullanışlıdır.</target>
+      </segment>
+    </unit>
+    <unit id="eec1058a-8163-4da4-bf45-0adc6ba3d37c">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 4.0 2020-01-03 ##</source>
+        <target>4.0 için değişiklikler - 2020-01-03 ##</target>
+      </segment>
+    </unit>
+    <unit id="0758c6e8-9480-43b7-b79e-8ef98ce71ab7">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>NVDA 2019.3 veya sonraki sürümünü gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="17ede025-24dd-48b1-917a-ccbb0e1e42d9">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>No more support for Windows versions earlier than Windows 7 Service Pack 1.</source>
+        <target>Windows 7 Service Pack 1'den önceki Windows sürümleri artık desteklenmiyor.</target>
+      </segment>
+    </unit>
+    <unit id="86f69164-1217-4e03-8e7d-5cb23a40ffa8">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on has been renamed to "SysTrayList".</source>
+        <target>Eklentinin adı "SysTrayList" olarak değiştirildi.</target>
+      </segment>
+    </unit>
+    <unit id="07bfa7c1-93d9-4d85-87a1-d1c304a82c20">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Donation request dialog will no longer appear when installing or updating the add-on.</source>
+        <target>Eklentiyi yüklerken veya güncellerken bağış isteği iletişim kutusu artık görünmeyecek.</target>
+      </segment>
+    </unit>
+    <unit id="f716a680-f839-409a-9d47-653ec64e7e86">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.2 2018-12-24 ##</source>
+        <target>3.2 için değişiklikler - 2018-12-24##</target>
+      </segment>
+    </unit>
+    <unit id="63926829-78f6-402f-9f86-8d330df3e796">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>More code changes to support Python 3.</source>
+        <target>Python 3'ü desteklemek için daha fazla kod değişikliği.</target>
+      </segment>
+    </unit>
+    <unit id="5095ed10-9683-4f22-a3e1-a94561ae373a">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.1 2018-11-24 ##</source>
+        <target>3.1 için değişiklikler - 2018-11-24 ##</target>
+      </segment>
+    </unit>
+    <unit id="67d61174-c8e2-41bf-91a1-2870a3fcad37">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>Gelecekteki NVDA sürümlerini desteklemek için dahili değişiklikler.</target>
+      </segment>
+    </unit>
+    <unit id="c3d8ece1-1aa7-4aa6-ad98-5727549a2d4e">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 3.0 2018-10-25 ##</source>
+        <target>3.0 için değişiklikler - 2018-10-25 ##</target>
+      </segment>
+    </unit>
+    <unit id="24f7ed74-af8f-4010-a5c8-d5ce8b1ebb20">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+      </notes>
+      <segment state="translated">
+        <source>Support for Windows releases earlier than Windows 7 Service Pack 1 will end in 2019.</source>
+        <target>Windows 7 Service Pack 1'den önceki Windows sürümleri için destek 2019'da sona erecektir.</target>
+      </segment>
+    </unit>
+    <unit id="5460417f-8825-4b5b-8d4c-b7761855214e">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on is Python 3 compatible.</source>
+        <target>Eklenti Python 3 uyumludur.</target>
+      </segment>
+    </unit>
+    <unit id="3420de1a-cfa6-4a48-8c15-008c7932bf34">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 2.0 2017-05-20 ##</source>
+        <target>2.0 için değişiklikler - 2017-05-20 ##</target>
+      </segment>
+    </unit>
+    <unit id="78394014-5474-4e87-894b-611b5b48d8f3">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Systray/taskbar dialog is now centered on screen.</source>
+        <target>Sistem tepsisi/görev çubuğu iletişim kutusu artık ekranda ortalanmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="bf98968c-87b8-405b-acdd-4a18967aed7e">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed various user interface issues.</source>
+        <target>Çeşitli kullanıcı arayüz sorunları düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="3d8febfb-691d-4da6-bba5-36cd8906938c">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New and updated translations.</source>
+        <target>Yeni ve güncellenmiş çeviriler.</target>
+      </segment>
+    </unit>
+    <unit id="07d20543-1087-44c7-a26c-edc34fe80e8a">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.5 2015-mm-dd ##</source>
+        <target>1.5 için değişiklikler - 2015-mm-dd ##</target>
+      </segment>
+    </unit>
+    <unit id="ba97735d-561e-40d6-b665-95f1213b8785">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Corrected left/right click action.</source>
+        <target>Sağ / sol tık eylemi düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="a33cbbd0-0094-4f86-8531-efd90c6e8066">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add-on help is now available from add-ons manger.</source>
+        <target>Eklenti yardımı artık eklenti Mağazasından alınabilir.</target>
+      </segment>
+    </unit>
+    <unit id="4b2962ae-f073-4a41-a70b-5305f328030e">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Translation updates.</source>
+        <target>Çeviri güncellemeleri.</target>
+      </segment>
+    </unit>
+    <unit id="93a0a9e6-5a77-4b2e-963a-b18b436daa6d">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.4 - 2013-01-19 ##</source>
+        <target>1.4 için değişiklikler - 2013-01-19 ##</target>
+      </segment>
+    </unit>
+    <unit id="7ea9d3ea-8492-4d65-96ff-138074711b4a">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Requires NVDA 2012.3beta2 or greater.</source>
+        <target>NVDA 2012.3beta2 veya daha üst versiyonunu gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="18e0d56e-d293-415f-ada4-ba4fbf776948">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add donation request to installation procedure</source>
+        <target>Yükleme iletişim kutusuna bağış istemek için bir ekran eklendi</target>
+      </segment>
+    </unit>
+    <unit id="c5bc8073-466f-4b36-915a-ec57419b2981">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Implemented taskbar support</source>
+        <target>Görev çubuğu desteği uygulandı</target>
+      </segment>
+    </unit>
+    <unit id="0942adba-21bb-407c-bbfe-ae78233bfdd1">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New translations: Arabic, Bulgarian, Dutch, Finnish, Galician, Greek, Hungarian, Italian, Japanese, Korean, Nepali, Norwegian, Polish, Brazilian Portuguese, Russian, Slovak, Tamil, Traditional Chinese Hong Kong.</source>
+        <target>Yeni çeviriler:, Galiçyaca, Fince, Hollandaca, Bulgarca, Arapça, Lehçe, Norveççe, Nepal, Korece, Japonca, İtalyanca, Macarca, Yunanca Brezilya Portekizcesi, Rusça, Slovakça, Tamil, Geleneksel Çin Hong Kong.Yeni diller: Arabic, Dutch, Finnish, Galician, Greek, Hungarian, Italian, Japanese, Korean, Nepali, Polish, Brazilian Portuguese, Russian, Slovak, Tamil.</target>
+      </segment>
+    </unit>
+    <unit id="d9576f72-354d-4c8d-9a5c-980d0e7a6db3">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.3 - 2012-05-25 ##</source>
+        <target>1.3 için değişiklikler - 2012-05-25 ##</target>
+      </segment>
+    </unit>
+    <unit id="838f14b7-455b-4643-afb3-7f0db7fa7a90">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Converted to an add-on package</source>
+        <target>Eklenti paketi olarak derlendi</target>
+      </segment>
+    </unit>
+    <unit id="f42f968e-61f0-4070-8b88-e661a7716ebd">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>French and Turkish Translations.</source>
+        <target>Fransızca ve  Türkçe çeviriler.</target>
+      </segment>
+    </unit>
+    <unit id="267c6381-a8ca-4c50-9556-9f0badc44e98">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for  1.2 - 2012-04.25 ##</source>
+        <target>1.2  için değişiklikler- 2012-04.25 ##</target>
+      </segment>
+    </unit>
+    <unit id="43fc9328-575f-48e8-9fa6-4290dd48d23d">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Spanish and German translations. Thanks to all that contributed.</source>
+        <target>İspanyolca ve Almanca çeviriler. Katkıda bulunan herkese teşekkürler.</target>
+      </segment>
+    </unit>
+    <unit id="a4519026-3286-445a-920e-3a54742d8b4e">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.1 - 2012-03-20 ##</source>
+        <target>1.1  için değişiklikler- 2012-03-20 ##</target>
+      </segment>
+    </unit>
+    <unit id="f4f12f3d-9804-43e9-9610-cded2f98a93c">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Corrected a bug that was making it impossible to use the plugin when a gettext translation is not available</source>
+        <target>Kullanılan dille ilgili çeviri yapılmamışsa eklentinin çalışmasını engelleyen bir sorun düzeltildi</target>
+      </segment>
+    </unit>
+    <unit id="66ae4a57-7884-47c4-94a9-3855a7e8cd63">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changes for 1.0 - 2012-03-19 ##</source>
+        <target>1.0 için değişiklikler - 2012-03-19 ##</target>
+      </segment>
+    </unit>
+    <unit id="34a02078-d82c-434f-b3ee-79e2b67e3022">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Initial Release</source>
+        <target>İlk sürüm</target>
+      </segment>
+    </unit>
+    <unit id="c8523a09-3e57-4e12-8fb8-4193c25ac945">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: http://addons.nvda-project.org/files/get.php?file=st</source>
+        <target>[1]: http://addons.nvda-project.org/files/get.php?file=st</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

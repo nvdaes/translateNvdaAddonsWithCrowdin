@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="reviewCursorCopier.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/reviewCursorCopier/reviewCursorCopier.md">
+    <skeleton>
+# $(ID:8a3f7d36-c33b-45c7-a945-b75bcfd90c3c)
+
+* $(ID:3f66e0e8-f622-41c0-939f-30322dab4f58)
+* $(ID:2703893f-9485-4582-8bbb-5355bb27ef77)
+* $(ID:9ae351ee-a4d8-40c5-aa4a-9fb2cc6f8a2b)
+
+$(ID:e4902479-b8c7-4790-a7c0-fbdd368917e8)
+
+* $(ID:a4258658-e8cb-4ee7-89c9-57b85dd15ee3)
+* $(ID:04f95999-0d30-4601-bd21-ce115a7ccf42)
+* $(ID:edbdf7f8-b636-4650-8ba1-6523662e0150)
+* $(ID:d91dc9fb-8492-4c29-bf4e-08da22a1db06)
+* $(ID:b4293854-e7ed-4ee6-97f2-a9689cc9ad48)
+* $(ID:e5d52035-0e10-4b2a-9162-46f61710c99e)
+
+$(ID:998eb68d-0992-4d39-8248-9fe2c251e65d)
+
+## $(ID:22c2b34f-aaff-40b8-a758-faee3ccbba84)
+
+$(ID:7fcbf766-6607-4019-b5df-26a3b27e2699)
+
+$(ID:32305bb1-177d-4d47-9e5f-3c96e7e9875a)
+$(ID:b28c6ecd-27f2-4724-9ca3-2699fb12c26d)
+</skeleton>
+    <unit id="8a3f7d36-c33b-45c7-a945-b75bcfd90c3c">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Review Cursor Copier</source>
+        <target>İnceleme İmleci Kopyalayıcısı</target>
+      </segment>
+    </unit>
+    <unit id="3f66e0e8-f622-41c0-939f-30322dab4f58">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Tuukka Ojala &lt;tuukka.ojala@iki.fi&gt;</source>
+        <target>Yazar: Tuukka Ojala &lt;tuukka.ojala@iki.fi&gt;</target>
+      </segment>
+    </unit>
+    <unit id="2703893f-9485-4582-8bbb-5355bb27ef77">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [stable version][1]</source>
+        <target>[kararlı sürümü][1] indir</target>
+      </segment>
+    </unit>
+    <unit id="9ae351ee-a4d8-40c5-aa4a-9fb2cc6f8a2b">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [development version][2]</source>
+        <target>[geliştirme sürümü][2] indir</target>
+      </segment>
+    </unit>
+    <unit id="e4902479-b8c7-4790-a7c0-fbdd368917e8">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>This NVDA add-on provides various commands for copying the text under the review cursor to the clipboard. Currently, the following commands are implemented:</source>
+        <target>Bu NVDA eklentisi, inceleme imlecinin altındaki metni panoya kopyalamak için çeşitli komutlar sağlar. Şu anda, aşağıdaki komutlar uygulanmaktadır:</target>
+      </segment>
+    </unit>
+    <unit id="a4258658-e8cb-4ee7-89c9-57b85dd15ee3">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy the line under the review cursor</source>
+        <target>İnceleme imlecinin altındaki satırı kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="04f95999-0d30-4601-bd21-ce115a7ccf42">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy the word under the review cursor</source>
+        <target>İnceleme imlecinin altındaki kelimeyi kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="edbdf7f8-b636-4650-8ba1-6523662e0150">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy from the start of the current line to the review cursor</source>
+        <target>Geçerli satırın başından inceleme imlecine kadar olan kısmı kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="d91dc9fb-8492-4c29-bf4e-08da22a1db06">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy from the review cursor to the end of the current line</source>
+        <target>İnceleme imlecinden geçerli satırın sonuna kadar kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="b4293854-e7ed-4ee6-97f2-a9689cc9ad48">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy from the start of the current word to the review cursor</source>
+        <target>Geçerli kelimenin başından inceleme imlecine kadar olan kısmı kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="e5d52035-0e10-4b2a-9162-46f61710c99e">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Copy from the review cursor to the end of the current word</source>
+        <target>İnceleme imlecinden geçerli kelimenin sonuna kadar kopyalama</target>
+      </segment>
+    </unit>
+    <unit id="998eb68d-0992-4d39-8248-9fe2c251e65d">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+      </notes>
+      <segment state="translated">
+        <source>None of these commands have key bindings by default. Please use the input gestures dialog located under the NVDA settings menu to set them. All of the commands provided by this add-on can be found under the "text review" category. More information about setting and modifying input gestures can be found in the NVDA user guide.</source>
+        <target>Bu komutların hiçbiri varsayılan olarak herhangi bir tuşa atanmamıştır. Lütfen bunları ayarlamak için NVDA ayarları menüsünün altında bulunan girdi hareketleri iletişim kutusunu kullanın. Bu eklenti tarafından sağlanan tüm komutlar "metin incelemesi" kategorisi altında.</target>
+      </segment>
+    </unit>
+    <unit id="22c2b34f-aaff-40b8-a758-faee3ccbba84">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>License</source>
+        <target>Lisans</target>
+      </segment>
+    </unit>
+    <unit id="7fcbf766-6607-4019-b5df-26a3b27e2699">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+      </notes>
+      <segment state="translated">
+        <source>This work is licensed under the GNU General Public License, version 2.</source>
+        <target>Bu çalışma, GNU Genel Kamu Lisansı, sürüm 2 kapsamında lisanslanmıştır.</target>
+      </segment>
+    </unit>
+    <unit id="32305bb1-177d-4d47-9e5f-3c96e7e9875a">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=rccp</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=rccp</target>
+      </segment>
+    </unit>
+    <unit id="b28c6ecd-27f2-4724-9ca3-2699fb12c26d">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://addons.nvda-project.org/files/get.php?file=rccp-dev</source>
+        <target>[2]: https://addons.nvda-project.org/files/get.php?file=rccp-dev</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

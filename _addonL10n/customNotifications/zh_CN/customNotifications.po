@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 08:37+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: customNotifications.pot\n"
+"X-Crowdin-File-ID: 244\n"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:64
+#, python-format
+msgid "Shows the %s settings."
+msgstr "打开%s设置。"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:72
+#, python-format
+msgid "Toggles Truncate notifications option of %s."
+msgstr "切换%s的截取通知开关。"
+
+#. Translators: message presented when truncate notifications are disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:80
+msgid "Truncate notifications disabled"
+msgstr "禁用截取通知"
+
+#. Translators: message presented when truncate notifications are enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:84
+msgid "Truncate notifications enabled"
+msgstr "启用截取通知"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:88
+#, python-format
+msgid "Toggles speech option of %s."
+msgstr "切换%s的语音 开关。"
+
+#. Translators: message presented when customNotifications speech is disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:96
+#, python-format
+msgid "Speech disabled for %s"
+msgstr "禁用语音%s"
+
+#. Translators: message presented when customNotifications speech is enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:100
+#, python-format
+msgid "Speech enabled for %s"
+msgstr "启用语音%s"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/customNotifications/__init__.py:104
+#, python-format
+msgid "Toggles braille option of %s."
+msgstr "切换%s的盲文显示开关。"
+
+#. Translators: message presented when customNotifications braille is disabled.
+#: addon/globalPlugins/customNotifications/__init__.py:112
+#, python-format
+msgid "Braille disabled for %s"
+msgstr "禁用盲文显示%s"
+
+#. Translators: message presented when customNotifications braille is enabled.
+#: addon/globalPlugins/customNotifications/__init__.py:116
+#, python-format
+msgid "Braille enabled for %s"
+msgstr "启用盲文显示%s"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:27
+msgid "&Truncate notifications"
+msgstr "截取通知(&T)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:33
+msgid "Type the characters to be used as the &start limit of notifications"
+msgstr "截取通知的开始字符(&S)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:37
+msgid "Type the characters to be used as the end &limit of notifications"
+msgstr "截取通知的结束字符(&L)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:41
+msgid "Sele&ct output modes for notifications"
+msgstr "选择通知的输出模式(&C)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:44
+msgid "Speech"
+msgstr "语音"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:46
+msgid "Braille"
+msgstr "盲文"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:61
+msgid "Type the text to show a test &notification"
+msgstr "键入内容以测试通知显示方式(&N)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/customNotifications/gui.py:66
+msgid "&Show test notification"
+msgstr "测试(&E)"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Custom Notifications"
+msgstr "自定义通知"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Choose how NVDA should read toast notifications.\n"
+"You can read just the application which sent a toast, and choose if notifications are spoken, displayed in braille or both.\n"
+"This may  improve your experience with toast notifications and help you to keep your privacy."
+msgstr "该插件用于自定义toast通知。\n"
+"您可以选择阅读整个通知或仅阅读发送通知的应用程序，还可以配置单独使用语音或盲文，抑或同时用两者来呈现通知。\n"
+"它可能会改善您的toast通知体验，并帮助您保护隐私。"
+

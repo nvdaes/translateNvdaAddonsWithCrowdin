@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="rdAccess.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/rdAccess/rdAccess.md">
+    <skeleton>
+# $(ID:99d4c236-91d4-421f-8db0-dfa097a9288a)
+
+* $(ID:c9d66dad-8192-42bd-a200-2be98091586f)
+* $(ID:6791b8b5-c38c-4ab2-9341-8c46fc08f91b)
+* $(ID:c61c6c91-f2d7-4eca-9430-1c478ebd6d33)
+
+$(ID:664749b8-b378-4102-8c51-94ca82dd22c9)
+$(ID:cac00a86-c6dc-48dd-a331-4da3b030eea3)
+$(ID:d512214a-4afc-4802-b1b4-a7775641d5d3)
+
+## $(ID:42e784e6-f6e7-45f6-b1a0-3848fa6a0efd)
+
+* $(ID:f4be4f50-be89-4830-968e-e45d4ae79e1a)
+* $(ID:6262bb00-400e-44b5-b755-cc7c1007732c)
+* $(ID:e6078b26-693a-475f-b856-594719f35c9c)
+* $(ID:ac8a20d9-e4f0-4deb-b169-a7f25d0369b9)
+* $(ID:d1ac24ee-3796-42b7-9c50-6104f40ca9a9)
+* $(ID:1f00cfd3-d473-429d-9b76-060b9babb2c8)
+* $(ID:0618b047-42e4-484a-b958-792cad6ff173)
+* $(ID:25d360d0-63f0-4792-9c0f-b333ca728519)
+* $(ID:7fc9da3b-07e7-484f-b3e5-1ee69e3b3b6d)
+* $(ID:c4759237-dca5-4962-b1e2-c7730f3a6e14)
+
+## $(ID:d5ba1c10-ba10-4b4f-a81b-bc72c1c0c00f)
+
+### $(ID:714a1c07-257a-4909-8a55-1bba2e52d91d)
+
+* $(ID:b4fb5977-5203-47fe-a833-313d7d06ee12)
+* $(ID:5f840236-ec50-4923-a536-98b90d7921f4)
+* $(ID:7721d134-acb7-4189-88f3-b3201a79e107)
+* $(ID:5da75717-623c-4443-98f5-9e2b393cbad3)
+* $(ID:ed77b13a-9760-45c0-a1e6-0d81b04761e7)
+* $(ID:854afa57-d321-464d-bee7-c933bac0080f)
+
+### $(ID:a991faba-745f-47cc-a28b-aebfd67472d9)
+
+* $(ID:3744d327-a73d-4904-a191-212307d601da)
+* $(ID:5b11e2b5-c831-40fe-8946-c31f55c7b24b)
+* $(ID:59d7d534-36fe-4186-b2cf-ced01d073885)
+* $(ID:6bc44310-a9cd-451b-a391-942657dae183)
+* $(ID:5b46f868-e00a-4ecc-9faf-1c9ee6fb736b)
+* $(ID:03e8257b-bb3d-4789-a256-380513e36800)
+
+### $(ID:3dedaf58-900c-49ec-9c62-4ef513e84a9d)
+
+* $(ID:7f6beadd-3e35-44e7-9d4d-a6ef56a5d5c0)
+
+### $(ID:51f59536-b650-4571-b017-05b0b5152ebb)
+
+* $(ID:c04e964a-51da-400d-ab49-ba067673caf9)
+
+### $(ID:6ea83308-1df3-46fb-af45-1d8521501e8a)
+
+* $(ID:c2ed9026-6f12-4dfd-a9e9-d50f2c3f79b6)
+* $(ID:429fb648-e165-4a8c-9b71-742ad0d318b7)
+* $(ID:b6591485-6ccd-440d-a99d-7fc5ca8a5f57)
+* $(ID:a29fd033-ef50-47cf-90db-08c5f3b3e1db)
+
+### $(ID:3b6980e1-8ba6-4555-9bc7-abbe7a3d7bed)
+
+* $(ID:a89b668d-3462-427c-bda3-19b580f8c0a0)
+* $(ID:431db7a9-9391-4336-9162-f53d50d55c78)
+
+### $(ID:d1acae45-e05a-4242-ac35-dbba1db6f4a1)
+
+$(ID:59359f9a-a485-41f0-a4cb-f141915d54bb)
+
+## $(ID:44effe4c-f718-4842-baaa-267ba266ae2e)
+
+1. $(ID:4d1f1124-102a-4552-946e-9e0e305d226c)
+1. $(ID:f414c475-b7d2-4d6d-b6c7-d4178ddc05a4)
+1. $(ID:f04795f8-fa5e-4cc0-b4a5-60726ce7a960)
+
+## $(ID:25d62aa5-a287-4800-a2f2-6df29725c082)
+
+$(ID:1a2aa4cd-fadc-485f-909b-925991ea5575)
+$(ID:113c2065-d5b6-4652-8dbb-79e3817df64c)
+
+$(ID:894c9f83-41d2-406b-993b-8f4a3a707147)
+
+### $(ID:8d8c24fd-95d3-4306-828c-3e61542b5a45)
+
+$(ID:9ba2730a-0a21-4c34-8b3e-776c3c15d571)
+
+* $(ID:b05e69e9-b052-44a2-8e5d-4083a0cb5a5d)
+* $(ID:8a0aa58d-4233-4261-859f-97cd7b802ade)
+* $(ID:5d242353-762a-4695-8165-00456a810727)
+
+$(ID:cbee8c84-c9c8-4cab-af6f-57b9ebe83e63)
+
+### $(ID:c19c6be1-a82d-471a-9664-44341088a647)
+
+$(ID:ca016b87-b741-4211-8534-75ada46180f8)
+
+$(ID:b32287e6-5ccc-43b1-9311-7e4de133bcbb)
+
+### $(ID:02ef2175-294c-4dba-9ad3-1e5232de0b54)
+
+$(ID:2e1a0ca6-e321-479e-8b36-4db0cc2ca17a)
+
+### $(ID:8f3d4797-017d-4596-884a-f7fc721cc4d5)
+
+$(ID:d1d92ee7-c3a2-4134-abab-f7c5b5c7b584)
+
+$(ID:6c511d24-f361-4e02-96d8-401b9bf7ce1d)
+$(ID:98b7a6a0-38d7-49b6-893a-0e2868395ced)
+$(ID:3fc67fa5-b015-4909-9cf8-221cac1ef87b)
+
+$(ID:bf755d9e-d3ba-487d-a1da-4b28ff45a083)
+
+### $(ID:a3cc2a90-3305-402f-9468-763f0885b21c)
+
+$(ID:5092c629-e724-4879-90f4-87dc1811f42b)
+$(ID:eb852368-902f-4447-bc83-9a4c276506b6)
+$(ID:ce52ae63-aec8-490a-b7c3-a1d3f3d58954)
+
+### $(ID:4b24e244-d673-458c-bcdc-b95b44c6584b)
+
+$(ID:8d284964-1acd-49c9-8bd2-7d94c0c0f6bc)
+$(ID:59a0f0f3-42a3-4007-8caf-52a98d2716c3)
+
+$(ID:d6e6d28a-afe2-4c35-8ec5-a3b9355b7a16)
+
+* $(ID:8d52e80e-6cd0-49db-9f35-a88a7d494934)
+* $(ID:7b986b78-4400-45a4-9d35-d83cc2a82d3f)
+
+### $(ID:b060c165-cae1-4105-ad26-ce520e17443a)
+
+$(ID:50860d5c-1894-4c9a-a69c-e6ed47169acc)
+$(ID:460b0d91-a4b9-4fcb-bdfc-608dd3028dcc)
+
+* $(ID:e66afeab-35f6-4b13-adba-89788ecc6217)
+* $(ID:8d5fd063-0380-4042-8551-6c2abaa70247)
+* $(ID:c855a937-2531-49da-8d3b-1e959339e4ea)
+* $(ID:861fec0c-02ea-4d2b-9d00-c3a1687225fc)
+
+$(ID:d561ee9e-3f49-4cab-a9ca-c87fdb653b94)
+
+### $(ID:fc2ca954-44a3-4a09-8152-01e925ed01f8)
+
+$(ID:85380a2c-d7cb-4d6a-ab15-ee63f7030e76)
+$(ID:0eaf8a47-336c-4c2a-bda5-2071d927a55d)
+
+## $(ID:291efa30-f78e-43fa-b9fc-383d8a30e499)
+
+$(ID:91859d6e-2c88-4da3-8f78-59cb732f42c5)
+
+### $(ID:46954ad7-d11e-4c83-8253-ef04e4c3f4c6)
+
+1. $(ID:e97028c2-187b-4b56-b164-6edcbe7ccf93)
+1. $(ID:a99d4973-ac4b-4578-b196-65e5a09f8ac3)
+
+### $(ID:79d71a21-0ca4-4087-a0c4-eeab938182af)
+
+$(ID:52781da9-2037-49d9-a80f-796c9b0bd6d9)
+$(ID:b6b78cdd-abdb-4579-99f8-fdcf39d76257)
+
+$(ID:fc4d3ffc-ea14-461a-a08c-5a45aa4d4dd5)
+
+## $(ID:cf8ce8c3-1c6f-4195-816d-3251b697aba6)
+
+$(ID:2105b9be-d84e-4b9b-b577-bdb7844152bd)
+
+## $(ID:bef23c73-fd61-4f00-a124-624840ac0ca0)
+
+$(ID:498d4a6f-cc9a-4636-b4c7-196656bdbba7)
+$(ID:c5f663e1-0e74-4a4e-8915-54eb35cdec9f)
+
+$(ID:7a07865f-8612-44fa-861b-ec886e846b0b)
+
+$(ID:2af69767-099b-4d3f-877b-dc12ce3f5861)
+
+$(ID:73dd4480-f571-4eee-9ce0-86220e277da8)
+
+$(ID:5fd96f71-ef78-48b2-b631-d3d91101a0d4)
+
+$(ID:89a0af9c-cd34-436d-b706-2bec0c55d093)
+
+$(ID:affdc757-e264-4f69-b6d8-3279cd7e2197)
+
+$(ID:95e915fa-5396-43b1-9b65-ab5369924d60)
+</skeleton>
+    <unit id="99d4c236-91d4-421f-8db0-dfa097a9288a">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>RDAccess: Remote Desktop Accessibility</source>
+        <target>Uzak Masaüstü Erişilebilirliği</target>
+      </segment>
+    </unit>
+    <unit id="c9d66dad-8192-42bd-a200-2be98091586f">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Authors: [Leonard de Ruijter][1]</source>
+        <target>Yazarlar: [Leonard de Ruijter][1]</target>
+      </segment>
+    </unit>
+    <unit id="6791b8b5-c38c-4ab2-9341-8c46fc08f91b">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Download [latest stable version][2]</source>
+        <target>[En son kararlı sürümü indirin][2]</target>
+      </segment>
+    </unit>
+    <unit id="c61c6c91-f2d7-4eca-9430-1c478ebd6d33">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2024.1 and later</source>
+        <target>NVDA uyumluluğu: 2024.1 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="664749b8-b378-4102-8c51-94ca82dd22c9">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="translated">
+        <source>The RDAccess add-on (Remote Desktop Accessibility) adds support for Microsoft Remote Desktop, Citrix, Parallels RAS, or VMware Horizon remote sessions to NVDA.</source>
+        <target>RDAccess eklentisi (uzak masaüstü erişilebilirliği) Microsoft uzak masaüstü, citrix, paralellikler RAS veya VMware Horizon uzak oturumları için NVDA'ya destek ekler.</target>
+      </segment>
+    </unit>
+    <unit id="cac00a86-c6dc-48dd-a331-4da3b030eea3">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="translated">
+        <source>When installed on both the client and the server in NVDA, speech and braille generated on the server will be spoken and displayed in braille on the client machine.</source>
+        <target>NVDA'da hem istemciye hem de sunucuya kurulduğunda, sunucuda oluşturulan konuşma ve braille, istemci makinede braille olarak seslendirilecek ve görüntülenecektir.</target>
+      </segment>
+    </unit>
+    <unit id="d512214a-4afc-4802-b1b4-a7775641d5d3">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>This enables a user experience where managing a remote system feels as seamless as operating the local system.</source>
+        <target>Bu, uzak bir sistemi yönetmenin yerel sistemi çalıştırmak kadar sorunsuz hissettirdiği bir kullanıcı deneyimi sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="42e784e6-f6e7-45f6-b1a0-3848fa6a0efd">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Features</source>
+        <target>Özellikler</target>
+      </segment>
+    </unit>
+    <unit id="f4be4f50-be89-4830-968e-e45d4ae79e1a">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for Microsoft Remote Desktop (including Azure Virtual Desktop and Microsoft Cloud PC), Citrix, Parallels RAS, and VMware Horizon</source>
+        <target>Microsoft uzak masaüstü (Azure Virtual Masaüstü ve Microsoft Cloud PC dahil), Citrix ve VMware Horizon için destek</target>
+      </segment>
+    </unit>
+    <unit id="6262bb00-400e-44b5-b755-cc7c1007732c">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Speech and braille output</source>
+        <target>Konuşma ve braille çıktısı</target>
+      </segment>
+    </unit>
+    <unit id="e6078b26-693a-475f-b856-594719f35c9c">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Automatic detection of remote braille using NVDA's automatic braille display detection</source>
+        <target>NVDA'nın otomatik braille ekran algılamasını kullanarak uzaktan braille'in otomatik olarak algılanması</target>
+      </segment>
+    </unit>
+    <unit id="ac8a20d9-e4f0-4deb-b169-a7f25d0369b9">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Automatic detection of remote speech using a dedicated detection process that can be disabled in NVDA's settings dialog</source>
+        <target>NVDA'nın ayarlar iletişim kutusunda devre dışı bırakılabilen özel bir algılama işlemi kullanarak uzaktan konuşmanın otomatik olarak algılanması</target>
+      </segment>
+    </unit>
+    <unit id="d1ac24ee-3796-42b7-9c50-6104f40ca9a9">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for portable copies of NVDA running on a server (additional configuration required for Citrix)</source>
+        <target>Bir sunucuda çalışan NVDA'nın taşınabilir kopyaları için destek (Citrix için ek yapılandırma gerekli)</target>
+      </segment>
+    </unit>
+    <unit id="1f00cfd3-d473-429d-9b76-060b9babb2c8">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Full support for portable copies of NVDA running on a client (no additional administrative privileges required to install the add-on)</source>
+        <target>Bir istemcide çalışan taşınabilir NVDA kopyaları için tam destek (eklentiyi yüklemek için ek yönetici ayrıcalığı gerekmez)</target>
+      </segment>
+    </unit>
+    <unit id="0618b047-42e4-484a-b958-792cad6ff173">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Multiple active client sessions simultaneously</source>
+        <target>Aynı anda birden fazla aktif istemci oturumu</target>
+      </segment>
+    </unit>
+    <unit id="25d360d0-63f0-4792-9c0f-b333ca728519">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Remote desktop instantly available after NVDA start</source>
+        <target>Uzak masaüstü, NVDA başladıktan sonra anında kullanılabilir</target>
+      </segment>
+    </unit>
+    <unit id="7fc9da3b-07e7-484f-b3e5-1ee69e3b3b6d">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Ability to control specific synthesizer and braille display settings without leaving the remote session</source>
+        <target>Uzak oturumdan ayrılmadan belirli sentezleyici ve braille ekran ayarlarını kontrol etme yeteneği</target>
+      </segment>
+    </unit>
+    <unit id="c4759237-dca5-4962-b1e2-c7730f3a6e14">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Ability to use speech and braille from the user session when accessing secure desktops</source>
+        <target>Güvenli masaüstlerine erişirken kullanıcı oturumundan konuşma ve braille kullanabilme özelliği</target>
+      </segment>
+    </unit>
+    <unit id="d5ba1c10-ba10-4b4f-a81b-bc72c1c0c00f">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Changelog</source>
+        <target>Değişiklik günlüğü</target>
+      </segment>
+    </unit>
+    <unit id="714a1c07-257a-4909-8a55-1bba2e52d91d">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.6</source>
+        <target>Sürüm 1.6</target>
+      </segment>
+    </unit>
+    <unit id="b4fb5977-5203-47fe-a833-313d7d06ee12">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Documented and improved Parallels RAS support.</source>
+        <target>Belgelenmiş ve geliştirilmiş Parallels RAS desteği.</target>
+      </segment>
+    </unit>
+    <unit id="5f840236-ec50-4923-a536-98b90d7921f4">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The minimum compatible NVDA version is now 2025.1. Removed support for earlier versions.</source>
+        <target>En düşük uyumlu NVDA sürümü artık 2025.1'dir. Önceki sürümler için destek kaldırıldı.</target>
+      </segment>
+    </unit>
+    <unit id="7721d134-acb7-4189-88f3-b3201a79e107">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated RdPipe dependency.</source>
+        <target>Güncellenmiş RDPipe bağımlılığı.</target>
+      </segment>
+    </unit>
+    <unit id="5da75717-623c-4443-98f5-9e2b393cbad3">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added the ability to configure RdPipe log level.</source>
+        <target>RdPipe günlük seviyesini yapılandırma yeteneği eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="ed77b13a-9760-45c0-a1e6-0d81b04761e7">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added a viewer for the RdPipe log, available from the settings panel.</source>
+        <target>Ayarlar panelinde bulunan RdPipe günlüğü için bir görüntüleyici eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="854afa57-d321-464d-bee7-c933bac0080f">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved uninstall behavior (no longer raise errors or remove Citrix support when Citrix is not available).</source>
+        <target>Geliştirilmiş kaldırma davranışı (Citrix kullanılamadığında artık hata oluşturmuyor veya Citrix desteğini kaldırmıyor).</target>
+      </segment>
+    </unit>
+    <unit id="a991faba-745f-47cc-a28b-aebfd67472d9">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.5</source>
+        <target>Sürüm 1.5</target>
+      </segment>
+    </unit>
+    <unit id="3744d327-a73d-4904-a191-212307d601da">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Add the ability to create a debugging diagnostics report by means of a button in the RDAccess settings panel [#23](https://github.com/leonardder/rdAccess/pull/23).</source>
+        <target>Uzak Masaüstü Erişilebilirliği Ayar panelinde [#23](https://github.com/leonardder/rdaccess/pull/23) bir düğme aracılığıyla bir hata ayıklama teşhis raporu oluşturma olanağı eklendi.</target>
+      </segment>
+    </unit>
+    <unit id="5b11e2b5-c831-40fe-8946-c31f55c7b24b">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Support for multi-line braille displays in NVDA 2025.1 and newer [#19](https://github.com/leonardder/rdAccess/pull/13).</source>
+        <target>NVDA 2025.1 ve daha yeni sürümlerde çok satırlı braille ekranları için destek [#19](https://github.com/leonardder/rdAccess/pull/13).</target>
+      </segment>
+    </unit>
+    <unit id="59d7d534-36fe-4186-b2cf-ced01d073885">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>The minimum compatible NVDA version is now 2024.1. Removed support for earlier versions.</source>
+        <target>En düşük uyumlu NVDA sürümü artık 2024.1'dir. Önceki sürümler için destek kaldırıldı.</target>
+      </segment>
+    </unit>
+    <unit id="6bc44310-a9cd-451b-a391-942657dae183">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added client connection notifications [#25](https://github.com/leonardder/rdAccess/pull/25).</source>
+        <target>İstemci bağlantısı bildirimleri eklendi [#25](https://github.com/leonardder/rdAccess/pull/25).</target>
+      </segment>
+    </unit>
+    <unit id="5b46f868-e00a-4ecc-9faf-1c9ee6fb736b">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated RdPipe dependency.</source>
+        <target>Güncellenmiş RDPipe bağımlılığı.</target>
+      </segment>
+    </unit>
+    <unit id="03e8257b-bb3d-4789-a256-380513e36800">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Updated translations.</source>
+        <target>Güncellenmiş çeviriler.</target>
+      </segment>
+    </unit>
+    <unit id="3dedaf58-900c-49ec-9c62-4ef513e84a9d">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.4</source>
+        <target>Sürüm 1.4</target>
+      </segment>
+    </unit>
+    <unit id="7f6beadd-3e35-44e7-9d4d-a6ef56a5d5c0">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>New stable release.</source>
+        <target>Yeni kararlı sürüm.</target>
+      </segment>
+    </unit>
+    <unit id="51f59536-b650-4571-b017-05b0b5152ebb">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.3</source>
+        <target>Sürüm 1.3</target>
+      </segment>
+    </unit>
+    <unit id="c04e964a-51da-400d-ab49-ba067673caf9">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed broken braille display gestures.</source>
+        <target>Bozuk braille görüntüleme hareketleri düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="6ea83308-1df3-46fb-af45-1d8521501e8a">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.2</source>
+        <target>Sürüm 1.2</target>
+      </segment>
+    </unit>
+    <unit id="c2ed9026-6f12-4dfd-a9e9-d50f2c3f79b6">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Use [Ruff](https://github.com/astral-sh/ruff) as a formatter and linter. [#13](https://github.com/leonardder/rdAccess/pull/13).</source>
+        <target>[Ruff kullanın](https://github.com/astral-sh/ruff) as a formatter and linter. [#13](https://github.com/leonardder/rdAccess/pull/13).</target>
+      </segment>
+    </unit>
+    <unit id="429fb648-e165-4a8c-9b71-742ad0d318b7">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed an issue where NVDA on the client generates an error when pausing speech on the server.</source>
+        <target>Sunucudaki konuşmayı duraklatırken istemcideki NVDA'nın bir hata oluşturduğu bir sorun düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="b6591485-6ccd-440d-a99d-7fc5ca8a5f57">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Fixed support for `winAPI.secureDesktop.post_secureDesktopStateChange`.</source>
+        <target>`winAPI.secureDesktop.post_secureDesktopStateChange` desteği düzeltildi.</target>
+      </segment>
+    </unit>
+    <unit id="a29fd033-ef50-47cf-90db-08c5f3b3e1db">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Improved driver initialization on the server.</source>
+        <target>Sunucuda geliştirilmiş sürücü başlatma.</target>
+      </segment>
+    </unit>
+    <unit id="3b6980e1-8ba6-4555-9bc7-abbe7a3d7bed">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.1</source>
+        <target>Sürüm 1.1</target>
+      </segment>
+    </unit>
+    <unit id="a89b668d-3462-427c-bda3-19b580f8c0a0">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added support for NVDA 2023.3 style device registration for automatic detection of braille displays. [#11](https://github.com/leonardder/rdAccess/pull/11).</source>
+        <target>Braille ekranlarının otomatik olarak algılanması için NVDA 2023.3 stili cihaz kaydı desteği eklendi. [#11](https://github.com/leonardder/rdAccess/pull/11).</target>
+      </segment>
+    </unit>
+    <unit id="431db7a9-9391-4336-9162-f53d50d55c78">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Added support for NVDA 2024.1 Alpha `winAPI.secureDesktop.post_secureDesktopStateChange` extension point. [#12](https://github.com/leonardder/rdAccess/pull/12).</source>
+        <target>NVDA 2024.1 alfa `winAPI.secureDesktop.post_secureDesktopStateChange` uzatma noktası için destek eklendi. [#12](https://github.com/leonardder/rdAccess/pull/12).</target>
+      </segment>
+    </unit>
+    <unit id="d1acae45-e05a-4242-ac35-dbba1db6f4a1">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Version 1.0</source>
+        <target>Sürüm 1.0</target>
+      </segment>
+    </unit>
+    <unit id="59359f9a-a485-41f0-a4cb-f141915d54bb">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+      </notes>
+      <segment state="translated">
+        <source>Initial stable release.</source>
+        <target>İlk kararlı sürüm.</target>
+      </segment>
+    </unit>
+    <unit id="44effe4c-f718-4842-baaa-267ba266ae2e">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Getting Started</source>
+        <target>Başlarken</target>
+      </segment>
+    </unit>
+    <unit id="4d1f1124-102a-4552-946e-9e0e305d226c">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="translated">
+        <source>Install RDAccess on both a client and server copy of NVDA.</source>
+        <target>Uzak Masaüstü Erişilebilirliği eklentisini NVDA'nın hem istemci hem de sunucu kopyasına kurun.</target>
+      </segment>
+    </unit>
+    <unit id="f414c475-b7d2-4d6d-b6c7-d4178ddc05a4">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="translated">
+        <source>The remote system should automatically start speaking using the local speech synthesizer. If not, in the NVDA instance on the server, select the remote speech synthesizer from NVDA's synthesizer selection dialog.</source>
+        <target>Uzak sistem, yerel konuşma sentezleyicisini kullanarak otomatik olarak konuşmaya başlamalıdır. Değilse, sunucudaki NVDA örneğinde, NVDA'nın sentezleyici seçim iletişim kutusundan uzak konuşma sentezleyicisini seçin.</target>
+      </segment>
+    </unit>
+    <unit id="f04795f8-fa5e-4cc0-b4a5-60726ce7a960">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="translated">
+        <source>To use braille, enable automatic braille display detection using the braille display selection dialog.</source>
+        <target>Braille'i kullanmak için braille ekran seçimi iletişim kutusunu kullanarak otomatik braille ekran algılamayı etkinleştirin.</target>
+      </segment>
+    </unit>
+    <unit id="25d62aa5-a287-4800-a2f2-6df29725c082">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Configuration</source>
+        <target>Yapılandırma</target>
+      </segment>
+    </unit>
+    <unit id="1a2aa4cd-fadc-485f-909b-925991ea5575">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+      </notes>
+      <segment state="translated">
+        <source>After installation, the RDAccess add-on can be configured using NVDA's settings dialog, accessible from the NVDA Menu by choosing Preferences &gt; Settings...</source>
+        <target>Kurulumdan sonra, Uzak Masaüstü Erişilebilirliği eklentisi, NVDA Menüsünden Tercihler &gt; Ayarlar seçilerek erişilebilen NVDA'nın ayarlar iletişim kutusu kullanılarak yapılandırılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="113c2065-d5b6-4652-8dbb-79e3817df64c">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+      </notes>
+      <segment state="translated">
+        <source>Then, choose the Remote Desktop category.</source>
+        <target>Ardından, uzak masaüstü kategorisini seçin.</target>
+      </segment>
+    </unit>
+    <unit id="894c9f83-41d2-406b-993b-8f4a3a707147">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+      </notes>
+      <segment state="translated">
+        <source>This dialog contains the following settings:</source>
+        <target>Bu iletişim kutusu aşağıdaki ayarları içerir:</target>
+      </segment>
+    </unit>
+    <unit id="8d8c24fd-95d3-4306-828c-3e61542b5a45">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Enable Remote Desktop Accessibility for</source>
+        <target>Şunlar için uzak masaüstü erişilebilirliğini etkinleştir</target>
+      </segment>
+    </unit>
+    <unit id="9ba2730a-0a21-4c34-8b3e-776c3c15d571">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+      </notes>
+      <segment state="translated">
+        <source>This list of checkboxes controls the operating mode of the add-on. Choose between:</source>
+        <target>Bu onay kutuları listesi, eklentinin çalışma modunu kontrol eder. Aşağıdakiler arasında seçim yapabilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="b05e69e9-b052-44a2-8e5d-4083a0cb5a5d">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Incoming connections (Remote Desktop Server): Choose this option if the current instance of NVDA is running on a remote desktop server.</source>
+        <target>Gelen bağlantılar (Uzak Masaüstü Sunucusu): Geçerli NVDA örneği bir uzak masaüstü sunucusunda çalışıyorsa bu seçeneği seçin.</target>
+      </segment>
+    </unit>
+    <unit id="8a0aa58d-4233-4261-859f-97cd7b802ade">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Outgoing connections (Remote Desktop Client): Choose this option if the current instance of NVDA is running on a remote desktop client that connects to one or more servers.</source>
+        <target>Giden bağlantılar (Uzak Masaüstü İstemcisi): Geçerli NVDA örneği, bir veya daha fazla sunucuya bağlanan bir uzak masaüstü istemcisinde çalışıyorsa bu seçeneği seçin.</target>
+      </segment>
+    </unit>
+    <unit id="5d242353-762a-4695-8165-00456a810727">
+      <notes>
+        <note appliesTo="source">line: 88</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Secure Desktop pass-through: Choose this option if you want to use braille and speech from the user instance of NVDA when accessing the secure desktop. Note that for this to work, you need to make the RDAccess add-on available on the secure desktop copy of NVDA. For this, choose "Use currently saved settings during sign-in and on secure screens (requires administrator privileges)" in NVDA's general settings.</source>
+        <target>Güvenli Masaüstü geçişi: Güvenli masaüstüne erişirken NVDA'nın kullanıcı örneğinden Braille ve konuşma kullanmak istiyorsanız bu seçeneği belirleyin. Bunun çalışması için RDAccess eklentisini NVDA'nın güvenli masaüstü kopyasında kullanılabilir hale getirmeniz gerektiğini unutmayın. Bunun için NVDA'nın ayarlar Genel içerisinde "Oturum açma sırasında ve güvenli ekranlarda şu anda kayıtlı ayarları kullan (yönetici ayrıcalıkları gerektirir)" seçeneğini belirleyin.</target>
+      </segment>
+    </unit>
+    <unit id="cbee8c84-c9c8-4cab-af6f-57b9ebe83e63">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+      </notes>
+      <segment state="translated">
+        <source>To ensure a smooth start with the add-on, all options are enabled by default. However, you are encouraged to disable server or client mode as appropriate.</source>
+        <target>Eklenti ile sorunsuz bir başlangıç ​​sağlamak için tüm seçenekler varsayılan olarak etkinleştirilir. Ancak, uygun şekilde sunucu veya istemci modunu devre dışı bırakmaya teşvik edilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="c19c6be1-a82d-471a-9664-44341088a647">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Automatically Recover Remote Speech after Connection Loss</source>
+        <target>Bağlantı kesintisinden sonra uzak konuşmayı otomatik olarak kurtar</target>
+      </segment>
+    </unit>
+    <unit id="ca016b87-b741-4211-8534-75ada46180f8">
+      <notes>
+        <note appliesTo="source">line: 94</note>
+      </notes>
+      <segment state="translated">
+        <source>This option is only available in server mode. It ensures that the connection will automatically be re-established when the Remote Speech synthesizer is active and the connection is lost, similar to braille display auto-detection.</source>
+        <target>Bu seçenek yalnızca sunucu modunda mevcuttur. Uzaktan konuşma sentezleyicisi etkin olduğunda ve Braille ekran otomatik tespitine benzer şekilde bağlantı kaybolduğunda bağlantının otomatik olarak yeniden kurulmasını sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="b32287e6-5ccc-43b1-9311-7e4de133bcbb">
+      <notes>
+        <note appliesTo="source">line: 96</note>
+      </notes>
+      <segment state="translated">
+        <source>This option is enabled by default. It is strongly encouraged to leave this option enabled if the Remote Desktop server has no audio output.</source>
+        <target>Bu seçenek varsayılan olarak etkindir. Uzak Masaüstü sunucusunda ses çıkışı yoksa, bu seçeneği etkin bırakmanız kesinlikle önerilir.</target>
+      </segment>
+    </unit>
+    <unit id="02ef2175-294c-4dba-9ad3-1e5232de0b54">
+      <notes>
+        <note appliesTo="source">line: 98</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Allow Remote System to Control Driver Settings</source>
+        <target>Uzak Sistemin Sürücü Ayarlarını Kontrol Etmesine İzin Ver</target>
+      </segment>
+    </unit>
+    <unit id="2e1a0ca6-e321-479e-8b36-4db0cc2ca17a">
+      <notes>
+        <note appliesTo="source">line: 100</note>
+      </notes>
+      <segment state="translated">
+        <source>When enabled in the client, this option allows you to control driver settings (such as synthesizer voice and pitch) from the remote system. Changes made on the remote system will automatically reflect locally.</source>
+        <target>İstemcide etkinleştirildiğinde, bu seçenek sürücü ayarlarını (sentezleyici sesi ve perdesi gibi) uzak sistemden kontrol etmenizi sağlar. Uzak sistemde yapılan değişiklikler otomatik şekilde yerel olarak yansıtılacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="8f3d4797-017d-4596-884a-f7fc721cc4d5">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Persist Client Support When Exiting NVDA</source>
+        <target>NVDA kapatıldığında istemci desteğini sürdür</target>
+      </segment>
+    </unit>
+    <unit id="d1d92ee7-c3a2-4134-abab-f7c5b5c7b584">
+      <notes>
+        <note appliesTo="source">line: 104</note>
+      </notes>
+      <segment state="translated">
+        <source>This client option, available on installed copies of NVDA, ensures that the client portion of NVDA is loaded in your remote desktop client even when NVDA is not running.</source>
+        <target>NVDA'nın yüklü kopyalarında bulunan bu istemci seçeneği, NVDA çalışmadığında bile NVDA'nın istemci kısmının uzak masaüstü istemcinize yüklenmesini sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="6c511d24-f361-4e02-96d8-401b9bf7ce1d">
+      <notes>
+        <note appliesTo="source">line: 106</note>
+      </notes>
+      <segment state="translated">
+        <source>To use the client portion of RDAccess, changes need to be made in the Windows Registry.</source>
+        <target>Uzak Masaüstü Erişilebilirliği'nin istemci bölümünü kullanmak için Windows Kayıt Defteri'nde değişiklik yapılması gerekir.</target>
+      </segment>
+    </unit>
+    <unit id="98b7a6a0-38d7-49b6-893a-0e2868395ced">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+      </notes>
+      <segment state="translated">
+        <source>The add-on ensures that these changes are made under the profile of the current user, requiring no administrative privileges.</source>
+        <target>Eklenti, bu değişikliklerin mevcut kullanıcının profili altında yapılmasını sağlar ve yönetici ayrıcalığı gerektirmez.</target>
+      </segment>
+    </unit>
+    <unit id="3fc67fa5-b015-4909-9cf8-221cac1ef87b">
+      <notes>
+        <note appliesTo="source">line: 108</note>
+      </notes>
+      <segment state="translated">
+        <source>Therefore, NVDA can automatically apply the necessary changes when loaded and undo these changes when exiting NVDA, ensuring compatibility with portable versions of NVDA.</source>
+        <target>Bu nedenle, NVDA yüklendiğinde gerekli değişiklikleri otomatik olarak uygulayabilir ve NVDA'dan çıkarken bu değişiklikleri geri alabilir, böylece NVDA'nın taşınabilir sürümleriyle uyumluluk sağlanır.</target>
+      </segment>
+    </unit>
+    <unit id="bf755d9e-d3ba-487d-a1da-4b28ff45a083">
+      <notes>
+        <note appliesTo="source">line: 110</note>
+      </notes>
+      <segment state="translated">
+        <source>This option is disabled by default. However, if you are running an installed copy and you are the only user of the system, it is advised to enable this option for smooth operation when connecting to a remote system after NVDA starts.</source>
+        <target>Bu seçenek varsayılan olarak devre dışı bırakılır. Ancak, yüklü bir kopya çalıştırıyorsanız ve sistemin tek kullanıcısıysanız, NVDA başladıktan sonra uzak bir sisteme bağlanırken bu seçeneği düzgün çalışma için etkinleştirmeniz önerilir.</target>
+      </segment>
+    </unit>
+    <unit id="a3cc2a90-3305-402f-9468-763f0885b21c">
+      <notes>
+        <note appliesTo="source">line: 112</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Enable Default Remote Desktop Support</source>
+        <target>Varsayılan uzak masaüstü desteğini etkinleştir</target>
+      </segment>
+    </unit>
+    <unit id="5092c629-e724-4879-90f4-87dc1811f42b">
+      <notes>
+        <note appliesTo="source">line: 114</note>
+      </notes>
+      <segment state="translated">
+        <source>This option, enabled by default, ensures that the client portion of RDAccess is loaded in the Microsoft Remote Desktop client (mstsc) when starting NVDA.</source>
+        <target>Bu seçenek varsayılan olarak etkindir ve NVDA başlatılırken Uzak Masaüstü Erişilebilirliği'nin istemci kısmının Microsoft Uzak Masaüstü istemcisine (mstsc) yüklenmesini sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="eb852368-902f-4447-bc83-9a4c276506b6">
+      <notes>
+        <note appliesTo="source">line: 115</note>
+      </notes>
+      <segment state="translated">
+        <source>This is also required for VMware Horizon, Parallels RAS, Azure Virtual Desktop. etc.</source>
+        <target>Bu, VMware Horizon, Parallels RAS, Azure Virtual Desktop vb. için de gereklidir.</target>
+      </segment>
+    </unit>
+    <unit id="ce52ae63-aec8-490a-b7c3-a1d3f3d58954">
+      <notes>
+        <note appliesTo="source">line: 116</note>
+      </notes>
+      <segment state="translated">
+        <source>Changes made through this option will be automatically undone when exiting NVDA unless persistent client support is enabled.</source>
+        <target>Bu seçenek aracılığıyla yapılan değişiklikler, kalıcı istemci desteği etkinleştirilmediği sürece NVDA'dan çıkarken otomatik olarak geri alınacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="4b24e244-d673-458c-bcdc-b95b44c6584b">
+      <notes>
+        <note appliesTo="source">line: 118</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Enable Citrix Workspace Support</source>
+        <target>Citrix çalışma alanı desteğini etkinleştir</target>
+      </segment>
+    </unit>
+    <unit id="8d284964-1acd-49c9-8bd2-7d94c0c0f6bc">
+      <notes>
+        <note appliesTo="source">line: 120</note>
+      </notes>
+      <segment state="translated">
+        <source>This option, enabled by default, ensures that the client portion of RDAccess is loaded in the Citrix Workspace app when starting NVDA.</source>
+        <target>Bu seçenek varsayılan olarak etkindir ve NVDA başlatılırken Uzak Masaüstü Erişilebilirliği'nin istemci kısmının Citrix çalışma alanı uygulamasına yüklenmesini sağlar.</target>
+      </segment>
+    </unit>
+    <unit id="59a0f0f3-42a3-4007-8caf-52a98d2716c3">
+      <notes>
+        <note appliesTo="source">line: 121</note>
+      </notes>
+      <segment state="translated">
+        <source>Changes made through this option will be automatically undone when exiting NVDA unless persistent client support is enabled.</source>
+        <target>Bu seçenek aracılığıyla yapılan değişiklikler, kalıcı istemci desteği etkinleştirilmediği sürece NVDA'dan çıkarken otomatik olarak geri alınacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="d6e6d28a-afe2-4c35-8ec5-a3b9355b7a16">
+      <notes>
+        <note appliesTo="source">line: 123</note>
+      </notes>
+      <segment state="translated">
+        <source>This option is available only under the following conditions:</source>
+        <target>Bu seçenek yalnızca aşağıdaki durumlarda kullanılabilir:</target>
+      </segment>
+    </unit>
+    <unit id="8d52e80e-6cd0-49db-9f35-a88a7d494934">
+      <notes>
+        <note appliesTo="source">line: 125</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Citrix Workspace is installed. Note that the Windows Store version of the app is not supported due to limitations in the app itself.</source>
+        <target>Citrix çalışma alanı kurulmuşsa. Uygulamanın kendisindeki sınırlamalar nedeniyle uygulamanın Windows Mağazası sürümünün desteklenmediğini unutmayın.</target>
+      </segment>
+    </unit>
+    <unit id="7b986b78-4400-45a4-9d35-d83cc2a82d3f">
+      <notes>
+        <note appliesTo="source">line: 126</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>It is possible to register RDAccess under the current user context. After installing the app, you have to start a remote session once to enable this.</source>
+        <target>Geçerli kullanıcı bağlamı altında Uzak Masaüstü Erişilebilirliği'ni kaydetmek mümkündür. Uygulamayı yükledikten sonra, bunu mümkün kılmak için bir kez uzaktan oturum başlatmanız gerekir.</target>
+      </segment>
+    </unit>
+    <unit id="b060c165-cae1-4105-ad26-ce520e17443a">
+      <notes>
+        <note appliesTo="source">line: 128</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Notify of connection changes with</source>
+        <target>Bağlantı değişikliklerini şununla bildir</target>
+      </segment>
+    </unit>
+    <unit id="50860d5c-1894-4c9a-a69c-e6ed47169acc">
+      <notes>
+        <note appliesTo="source">line: 130</note>
+      </notes>
+      <segment state="translated">
+        <source>This combo box allows you to control notifications received when a remote system opens or closes the remote speech or braille connection.</source>
+        <target>Bu birleşik kutu, uzak bir sistem uzak konuşmayı veya Braille bağlantısını açtığında ya da kapattığında alınan bildirimleri kontrol etmenizi sağlar.  Aralarında seçim yapabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="460b0d91-a4b9-4fcb-bdfc-608dd3028dcc">
+      <notes>
+        <note appliesTo="source">line: 131</note>
+      </notes>
+      <segment state="translated">
+        <source>You can choose between:</source>
+        <target>Aralarında seçim yapabilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="e66afeab-35f6-4b13-adba-89788ecc6217">
+      <notes>
+        <note appliesTo="source">line: 133</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Off (No notifications)</source>
+        <target>Kapalı (bildirim yok)</target>
+      </segment>
+    </unit>
+    <unit id="8d5fd063-0380-4042-8551-6c2abaa70247">
+      <notes>
+        <note appliesTo="source">line: 134</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Messages (e.g. "Remote braille connected")</source>
+        <target>Mesajlar (örn. "Uzak Braille bağlı")</target>
+      </segment>
+    </unit>
+    <unit id="c855a937-2531-49da-8d3b-1e959339e4ea">
+      <notes>
+        <note appliesTo="source">line: 135</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Sounds (NVDA 2025.1+)</source>
+        <target>Sesler (NVDA 2025.1+)</target>
+      </segment>
+    </unit>
+    <unit id="861fec0c-02ea-4d2b-9d00-c3a1687225fc">
+      <notes>
+        <note appliesTo="source">line: 136</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Both messages and sounds</source>
+        <target>Hem mesajlar hem de sesler</target>
+      </segment>
+    </unit>
+    <unit id="d561ee9e-3f49-4cab-a9ca-c87fdb653b94">
+      <notes>
+        <note appliesTo="source">line: 138</note>
+      </notes>
+      <segment state="translated">
+        <source>Note that sounds are not available on NVDA versions older than 2025.1. Beeps will be used on older versions.</source>
+        <target>Seslerin 2025.1'den daha eski NVDA sürümlerinde mevcut olmadığını unutmayın. Bip sesleri eski sürümlerde kullanılacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="fc2ca954-44a3-4a09-8152-01e925ed01f8">
+      <notes>
+        <note appliesTo="source">line: 140</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Open diagnostics report</source>
+        <target>Tanılama raporunu aç</target>
+      </segment>
+    </unit>
+    <unit id="85380a2c-d7cb-4d6a-ab15-ee63f7030e76">
+      <notes>
+        <note appliesTo="source">line: 142</note>
+      </notes>
+      <segment state="translated">
+        <source>This button opens a browsable message with JSON output containing several diagnostics that can possibly aid in debugging.</source>
+        <target>Bu düğme, hata ayıklamaya yardımcı olabilecek çeşitli tanılamalar içeren JSON çıkışına sahip göz atılabilir bir ileti açar.</target>
+      </segment>
+    </unit>
+    <unit id="0eaf8a47-336c-4c2a-bda5-2071d927a55d">
+      <notes>
+        <note appliesTo="source">line: 143</note>
+      </notes>
+      <segment state="translated">
+        <source>When [filing an issue at GitHub][4], you might be asked to provide this report.</source>
+        <target>[GitHub'da bir sorun sunarken][4], bu raporu vermeniz istenebilir.</target>
+      </segment>
+    </unit>
+    <unit id="291efa30-f78e-43fa-b9fc-383d8a30e499">
+      <notes>
+        <note appliesTo="source">line: 145</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Citrix Specific Instructions</source>
+        <target>Citrix'e özgü talimatlar</target>
+      </segment>
+    </unit>
+    <unit id="91859d6e-2c88-4da3-8f78-59cb732f42c5">
+      <notes>
+        <note appliesTo="source">line: 147</note>
+      </notes>
+      <segment state="translated">
+        <source>There are important points to note when using RDAccess with the Citrix Workspace app:</source>
+        <target>Uzak Masaüstü Erişilebilirliği'ni Citrix çalışma alanı uygulamasıyla kullanırken dikkat edilmesi gereken bazı önemli noktalar vardır:</target>
+      </segment>
+    </unit>
+    <unit id="46954ad7-d11e-4c83-8253-ef04e4c3f4c6">
+      <notes>
+        <note appliesTo="source">line: 149</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Client-Side Requirements</source>
+        <target>İstemci tarafı gereksinimleri</target>
+      </segment>
+    </unit>
+    <unit id="e97028c2-187b-4b56-b164-6edcbe7ccf93">
+      <notes>
+        <note appliesTo="source">line: 151</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="translated">
+        <source>The Windows Store variant of the app is *not* supported.</source>
+        <target>Uygulamanın Windows Mağazası varyantı *desteklenmez*.</target>
+      </segment>
+    </unit>
+    <unit id="a99d4973-ac4b-4578-b196-65e5a09f8ac3">
+      <notes>
+        <note appliesTo="source">line: 152</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="translated">
+        <source>After installing Citrix Workspace, you need to start a remote session once to let RDAccess register itself. This occurs because the application copies system settings to user settings during the initial session setup. Following this, RDAccess can register itself under the current user context.</source>
+        <target>Citrix çalışma alanı'nı kurduktan sonra, Uzak Masaüstü Erişilebilirliği'nin kendisini kaydetmesine izin vermek için bir kez uzak oturum başlatmanız gerekir. Bunun nedeni, uygulamanın ilk defa oturum oluşturduğunda sistem yapılandırmasını kullanıcı yapılandırmasına kopyalamasıdır. Bundan sonra, Uzak Masaüstü Erişilebilirliği kendisini geçerli kullanıcı bağlamı altında kaydedebilir.</target>
+      </segment>
+    </unit>
+    <unit id="79d71a21-0ca4-4087-a0c4-eeab938182af">
+      <notes>
+        <note appliesTo="source">line: 154</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="translated">
+        <source>Server-Side Requirement</source>
+        <target>Sunucu tarafı gereksinimi</target>
+      </segment>
+    </unit>
+    <unit id="52781da9-2037-49d9-a80f-796c9b0bd6d9">
+      <notes>
+        <note appliesTo="source">line: 156</note>
+      </notes>
+      <segment state="translated">
+        <source>In Citrix Virtual Apps and Desktops 2109, Citrix enabled the so-called virtual channel allow list, restricting third-party virtual channels, including the channel required by RDAccess, by default.</source>
+        <target>Citrix Sanal Uygulamalar ve Masaüstleri 2109'da Citrix, sanal kanal izin verilenler listesini etkinleştirdi. Bu, Uzak Masaüstü gerektirdiği kanal da dahil olmak üzere üçüncü taraf sanal kanallarına varsayılan olarak izin verilmediği anlamına gelir.</target>
+      </segment>
+    </unit>
+    <unit id="b6b78cdd-abdb-4579-99f8-fdcf39d76257">
+      <notes>
+        <note appliesTo="source">line: 157</note>
+      </notes>
+      <segment state="translated">
+        <source>For more information, [see this Citrix blog post](https://www.citrix.com/blogs/2021/10/14/virtual-channel-allow-list-now-enabled-by-default/).</source>
+        <target>Daha fazla bilgi için, [Bu Citrix blog gönderisine bakın](https://www.citrix.com/blogs/2021/10/14/virtual-channel-allow-list-now-enabled-by-default/).</target>
+      </segment>
+    </unit>
+    <unit id="fc4d3ffc-ea14-461a-a08c-5a45aa4d4dd5">
+      <notes>
+        <note appliesTo="source">line: 159</note>
+      </notes>
+      <segment state="translated">
+        <source>Explicitly allowing the RdPipe channel required by RDAccess is not yet tested. For now, it is best to disable the allow list altogether. If your system administrator has concerns, feel free to [address the issue here][3].</source>
+        <target>Uzak Masaüstü Erişilebilirliği tarafından gerekli görülen RdPipe kanalına açıkça izin verilmesi henüz test edilmemiştir. Şimdilik, izin verilenler listesini tamamen devre dışı bırakmak muhtemelen en iyi seçeneğinizdir. Sistem yöneticiniz bundan memnun değilse, [özel konuya bir bildirim bırakın][3] çekinmeyin.</target>
+      </segment>
+    </unit>
+    <unit id="cf8ce8c3-1c6f-4195-816d-3251b697aba6">
+      <notes>
+        <note appliesTo="source">line: 161</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Issues and Contributing</source>
+        <target>Sorunlar ve katkıda bulunma</target>
+      </segment>
+    </unit>
+    <unit id="2105b9be-d84e-4b9b-b577-bdb7844152bd">
+      <notes>
+        <note appliesTo="source">line: 163</note>
+      </notes>
+      <segment state="translated">
+        <source>To report an issue or contribute, refer to [the issues page on Github][4].</source>
+        <target>Bir sorunu bildirmek veya katkıda bulunmak istiyorsanız [Github'daki sorunlar sayfasına][4] göz atın.</target>
+      </segment>
+    </unit>
+    <unit id="bef23c73-fd61-4f00-a124-624840ac0ca0">
+      <notes>
+        <note appliesTo="source">line: 165</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>External Components</source>
+        <target>Dış bileşenler</target>
+      </segment>
+    </unit>
+    <unit id="498d4a6f-cc9a-4636-b4c7-196656bdbba7">
+      <notes>
+        <note appliesTo="source">line: 167</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on relies on [RD Pipe][5], a library written in Rust backing the remote desktop client support.</source>
+        <target>Bu eklenti, uzak masaüstü istemci desteğini destekleyen trust ile yazılmış bir kütüphane olan [Rd Pipe](5) sürümüne dayanmaktadır.</target>
+      </segment>
+    </unit>
+    <unit id="c5f663e1-0e74-4a4e-8915-54eb35cdec9f">
+      <notes>
+        <note appliesTo="source">line: 168</note>
+      </notes>
+      <segment state="translated">
+        <source>RD Pipe is redistributed as part of this add-on under the terms of [version 3 of the GNU Affero General Public License][6].</source>
+        <target>RD Pipe, bu eklentinin bir parçası olarak [GNU Affero Genel Kamu Lisansı'nın 3. sürümü][6] koşulları altında yeniden dağıtılır.</target>
+      </segment>
+    </unit>
+    <unit id="7a07865f-8612-44fa-861b-ec886e846b0b">
+      <notes>
+        <note appliesTo="source">line: 170</note>
+      </notes>
+      <segment state="translated">
+        <source>[[!tag stable dev beta]]</source>
+        <target>[[!tag stable dev beta]]</target>
+      </segment>
+    </unit>
+    <unit id="2af69767-099b-4d3f-877b-dc12ce3f5861">
+      <notes>
+        <note appliesTo="source">line: 172</note>
+      </notes>
+      <segment state="translated">
+        <source>[1]: https://github.com/leonardder/</source>
+        <target>[1]: https://github.com/leonardder/</target>
+      </segment>
+    </unit>
+    <unit id="73dd4480-f571-4eee-9ce0-86220e277da8">
+      <notes>
+        <note appliesTo="source">line: 174</note>
+      </notes>
+      <segment state="translated">
+        <source>[2]: https://www.nvaccess.org/addonStore/legacy?file=rdAccess</source>
+        <target>[2]: https://www.nvaccess.org/addonStore/legacy?file=rdAccess</target>
+      </segment>
+    </unit>
+    <unit id="5fd96f71-ef78-48b2-b631-d3d91101a0d4">
+      <notes>
+        <note appliesTo="source">line: 176</note>
+      </notes>
+      <segment state="translated">
+        <source>[3]: https://github.com/leonardder/rdAccess/issues/1</source>
+        <target>[3]: https://github.com/leonardder/rdAccess/issues/1</target>
+      </segment>
+    </unit>
+    <unit id="89a0af9c-cd34-436d-b706-2bec0c55d093">
+      <notes>
+        <note appliesTo="source">line: 178</note>
+      </notes>
+      <segment state="translated">
+        <source>[4]: https://github.com/leonardder/rdAccess/issues</source>
+        <target>[4]: https://github.com/leonardder/rdAccess/issues</target>
+      </segment>
+    </unit>
+    <unit id="affdc757-e264-4f69-b6d8-3279cd7e2197">
+      <notes>
+        <note appliesTo="source">line: 180</note>
+      </notes>
+      <segment state="translated">
+        <source>[5]: https://github.com/leonardder/rd_pipe-rs</source>
+        <target>[5]: https://github.com/leonardder/rd_pipe-rs</target>
+      </segment>
+    </unit>
+    <unit id="95e915fa-5396-43b1-9b65-ab5369924d60">
+      <notes>
+        <note appliesTo="source">line: 182</note>
+      </notes>
+      <segment state="translated">
+        <source>[6]: https://github.com/leonardder/rd_pipe-rs/blob/master/LICENSE</source>
+        <target>[6]: https://github.com/leonardder/rd_pipe-rs/blob/master/LICENSE</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

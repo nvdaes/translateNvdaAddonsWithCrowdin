@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ru">
+  <file id="readme.md" original="https://raw.githubusercontent.com/nvdaaddons/dropbox/5e2b2e97821c45511644405fa417f94f8f2f5051/readme.md">
+    <skeleton>
+$(ID:363b0788-507c-42b6-b190-5e826bace687)
+
+* $(ID:46e9a93d-2d5b-4768-bfb4-d96bc5f0d4a8)
+* $(ID:b98bd391-d2a1-43d6-b68e-df26467888fd)
+
+$(ID:7a7086ca-3e0b-409c-9f36-7af4e949510c)
+
+* $(ID:4794e4a2-2a7c-4950-addb-531d0907a5ff)
+
+
+## $(ID:95cfe024-d074-42a3-82b4-dd1579c437c3)
+
+* $(ID:348fed1e-7899-400b-bba0-665bf33820dc)
+* $(ID:8b34ef73-477b-4ec2-a654-931edc2b6fe0)
+
+## $(ID:4c72a520-8cc1-4736-97de-28379e0b5b32)
+
+* $(ID:cd6932f5-f3b6-4154-b6c5-74d52d6aa194)
+
+## $(ID:ec9faa13-414d-4516-aa9a-9ad81f3ac5db)
+
+* $(ID:20a0fbf9-3330-4178-8144-9511f807b151)
+* $(ID:8038f074-94ba-470c-ab5c-d809731eae23)
+* $(ID:0ad4f5d9-73e7-4b4e-9e48-3bba4125e273)
+* $(ID:925cd3be-959e-403c-b7fa-23c94f89f82f)
+* $(ID:66d57af3-dc81-485a-abf1-11d7e928e726)
+
+## $(ID:68e52dc1-d5f6-45d1-9c6d-432e41d51e7a)
+
+* $(ID:ce635d2d-4679-4ea1-ae5c-3817989d4806)
+* $(ID:3e697832-99ea-4bb1-84ac-3469f86ff5b0)
+* $(ID:e3a4d557-f5d8-4779-946f-81bb7fcd5afb)
+* $(ID:bcaf7fcf-dbfe-436b-b8c7-21c331e78d14)
+* $(ID:129698ed-0d99-4718-bd71-1649f5c6d225)
+* $(ID:11e32a5f-c10a-4f51-a1a3-4ac21bf203c9)
+
+## $(ID:77819250-8b00-42e6-b3cc-642bba452e53)
+
+* $(ID:ef70a261-2700-48f9-a267-dba3825266ca)
+* $(ID:d63b09c0-7010-4f97-be76-cadb405262ba)
+* $(ID:6162947c-95a5-4ad8-ad2b-40aeb23d2916)
+* $(ID:307ad859-f47b-4b88-a4d1-d2fefede9a84)
+* $(ID:04198f45-72ce-4bd4-ba6a-37d445a5e9ae)
+
+## $(ID:3efb5dae-7d34-48fb-a379-1f53be2fa3b0)
+
+* $(ID:4cf2a6e7-79c9-4d09-88a5-a880a0dcc472)
+* $(ID:3b9feb4f-ecb7-4808-8755-193d22a2f250)
+* $(ID:afbb22a7-d1f8-4e64-8473-8838fa6cd3d3)
+* $(ID:78007499-30f5-4e85-8659-e7caf514232b)
+* $(ID:07a3e740-c6ac-4ba2-a4f5-5f105298480d)
+* $(ID:80f88a95-e4c1-4fc1-a0fe-faee0b64c328)
+
+## $(ID:cb4c46f7-0b5e-4429-b190-99fc0de0683c)
+
+* $(ID:bbdae875-af44-48e5-b5b9-c519f9f3e35f)
+* $(ID:16e9c7b9-2567-4527-87eb-d220c9b77543)
+
+## $(ID:11dc7447-d306-4a6d-af7a-d630b3a9ecad)
+
+* $(ID:cf12e459-5b5a-499c-9355-f5ea0c7ba83d)
+
+
+</skeleton>
+    <unit id="363b0788-507c-42b6-b190-5e826bace687">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+      </notes>
+      <segment state="final">
+        <source>[[!meta title="dropbox"]]</source>
+        <target>[[!meta title="dropbox"]]</target>
+      </segment>
+    </unit>
+    <unit id="46e9a93d-2d5b-4768-bfb4-d96bc5f0d4a8">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Authors: Patrick ZAJDA, Filaos and other contributors</source>
+        <target>Авторы: Patrick ZAJDA, Filaos и другие участники</target>
+      </segment>
+    </unit>
+    <unit id="b98bd391-d2a1-43d6-b68e-df26467888fd">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2019.1 or later</source>
+        <target>Совместимость с NVDA: 2019.1 или позднее</target>
+      </segment>
+    </unit>
+    <unit id="7a7086ca-3e0b-409c-9f36-7af4e949510c">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="final">
+        <source>This plugin add a shortcut to announce Dropbox status or open the Dropbox systray menu when pressed once or twice respectively.</source>
+        <target>Этот плагин добавляет горячую клавишу для объявления состояния DropBox или открытия меню системного лотка Dropbox при одинарном или двойном нажатии соответственно.</target>
+      </segment>
+    </unit>
+    <unit id="4794e4a2-2a7c-4950-addb-531d0907a5ff">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shortcut: NVDA+Alt+D</source>
+        <target>Горячая клавиша: NVDA+Alt+D</target>
+      </segment>
+    </unit>
+    <unit id="95cfe024-d074-42a3-82b4-dd1579c437c3">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.7 ##</source>
+        <target>Изменения в версии 4.7 ##</target>
+      </segment>
+    </unit>
+    <unit id="348fed1e-7899-400b-bba0-665bf33820dc">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatibility with NVDA 2022.1</source>
+        <target>Совместимость с NVDA 2022.1</target>
+      </segment>
+    </unit>
+    <unit id="8b34ef73-477b-4ec2-a654-931edc2b6fe0">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Remove Dropbox app module as it causes issues with last Dropbox interface and Windows 8 is not supported by Microsoft</source>
+        <target>Удалён модуль приложения Dropbox, поскольку он вызывает проблемы с последним интерфейсом Dropbox, а Windows 8 не поддерживается Microsoft</target>
+      </segment>
+    </unit>
+    <unit id="4c72a520-8cc1-4736-97de-28379e0b5b32">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.6 ##</source>
+        <target>Изменения в версии 4.6 ##</target>
+      </segment>
+    </unit>
+    <unit id="cd6932f5-f3b6-4154-b6c5-74d52d6aa194">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Specify NVDA 2021.1 compatibility</source>
+        <target>Указана совместимость с NVDA 2021.1</target>
+      </segment>
+    </unit>
+    <unit id="ec9faa13-414d-4516-aa9a-9ad81f3ac5db">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.4 ##</source>
+        <target>Изменения в версии 4.4 ##</target>
+      </segment>
+    </unit>
+    <unit id="20a0fbf9-3330-4178-8144-9511f807b151">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Python 3 compatibility</source>
+        <target>Совместимость с Python 3</target>
+      </segment>
+    </unit>
+    <unit id="8038f074-94ba-470c-ab5c-d809731eae23">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Use the last addon template</source>
+        <target>Используется последний шаблон дополнения</target>
+      </segment>
+    </unit>
+    <unit id="0ad4f5d9-73e7-4b4e-9e48-3bba4125e273">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Repository change to be built with Appveyor</source>
+        <target>Изменение репозитория для сборки с помощью Appveyor</target>
+      </segment>
+    </unit>
+    <unit id="925cd3be-959e-403c-b7fa-23c94f89f82f">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed wrong and removed unused shortcuts in the documentation</source>
+        <target>Исправлены неправильные и удалены неиспользуемые ярлыки в документации</target>
+      </segment>
+    </unit>
+    <unit id="66d57af3-dc81-485a-abf1-11d7e928e726">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Update the description in the documentation which still referenced the announcement of the version</source>
+        <target>Обновлено описание в документации, в которой всё еще есть ссылка на объявление версии</target>
+      </segment>
+    </unit>
+    <unit id="68e52dc1-d5f6-45d1-9c6d-432e41d51e7a">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.0 ##</source>
+        <target>Изменения в версии 4.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="ce635d2d-4679-4ea1-ae5c-3817989d4806">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Change Shift+NVDA+D behavior: if pressed once announce Dropbox status, twice open the context menu.</source>
+        <target>Изменилось поведение Shift+NVDA+D: однократное нажатие объявляет состояние Dropbox, двукратное - открывает контекстное меню.</target>
+      </segment>
+    </unit>
+    <unit id="3e697832-99ea-4bb1-84ac-3469f86ff5b0">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Translations update.</source>
+        <target>Обновлены переводы.</target>
+      </segment>
+    </unit>
+    <unit id="e3a4d557-f5d8-4779-946f-81bb7fcd5afb">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed issues with windows 8 metro app.</source>
+        <target>Исправлены проблемы с приложением Windows 8 Metro.</target>
+      </segment>
+    </unit>
+    <unit id="bcaf7fcf-dbfe-436b-b8c7-21c331e78d14">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Addon help is no longer available in the help menu, it's found in the addons manager instead.</source>
+        <target>Справка дополнения больше не доступна в меню справки, вместо этого она находится в менеджере дополнений.</target>
+      </segment>
+    </unit>
+    <unit id="129698ed-0d99-4718-bd71-1649f5c6d225">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>As Dropbox changes his gui from version to version, all features for settings dialog were removed.</source>
+        <target>Поскольку Dropbox изменяет свой графический интерфейс от версии к версии, все функции для настройки были удалены.</target>
+      </segment>
+    </unit>
+    <unit id="11e32a5f-c10a-4f51-a1a3-4ac21bf203c9">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Modified the shortcut to get dropbox status to Alt+NVDA+D to avoid conflict with audio ducking support.</source>
+        <target>Изменена горячая клавиша получения состояния Dropbox на Alt+NVDA+D, чтобы избежать конфликта с поддержкой приглушения звука.</target>
+      </segment>
+    </unit>
+    <unit id="77819250-8b00-42e6-b3cc-642bba452e53">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 3.1 ##</source>
+        <target>Изменения в версии 3.1 ##</target>
+      </segment>
+    </unit>
+    <unit id="ef70a261-2700-48f9-a267-dba3825266ca">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Use another way to get cancel button and page tab. Now we don't have to focus them before using shortcuts.</source>
+        <target>Использован другой способ получить кнопку отмены и вкладку страницы. Теперь нам не нужно сосредотачиваться перед тем, как использовать горячие клавиши.</target>
+      </segment>
+    </unit>
+    <unit id="d63b09c0-7010-4f97-be76-cadb405262ba">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When changing the active tab, the focus move to the tab page so when pressing tab, the first item of the tab is activated instead of staying to the previous used tab even if it is not activated anymore.</source>
+        <target>При изменении активной вкладки фокус перемещается на страницу вкладки, поэтому при нажатии вкладки первый элемент вкладки активируется вместо того, чтобы оставаться на предыдущей использованной вкладке, даже если она больше не активируется.</target>
+      </segment>
+    </unit>
+    <unit id="6162947c-95a5-4ad8-ad2b-40aeb23d2916">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In the preferences dialog, it is now possible to press control+page up/down to switch between tabs. Control+tab and control+shift+tab still work.</source>
+        <target>В диалоге настроек теперь можно нажимать control+page up/down, чтобы переключаться между вкладками. Control+tab и control+shift+tab всё ещё работают.</target>
+      </segment>
+    </unit>
+    <unit id="307ad859-f47b-4b88-a4d1-d2fefede9a84">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>All localized manifest files should now be OK.</source>
+        <target>Все локализованные манифестные файлы теперь должны быть в порядке.</target>
+      </segment>
+    </unit>
+    <unit id="04198f45-72ce-4bd4-ba6a-37d445a5e9ae">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Minor corrections.</source>
+        <target>Мелкие исправления.</target>
+      </segment>
+    </unit>
+    <unit id="3efb5dae-7d34-48fb-a379-1f53be2fa3b0">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 3.0 ##</source>
+        <target>Изменения в версии 3.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="4cf2a6e7-79c9-4d09-88a5-a880a0dcc472">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Minor correction in the main manifest file (authors are correctly displayed).</source>
+        <target>Незначительная поправка в основном файле манифеста (правильно отображаются авторы).</target>
+      </segment>
+    </unit>
+    <unit id="3b9feb4f-ecb7-4808-8755-193d22a2f250">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Improved context menu detection when pressing Shift+NVDA+D three times.</source>
+        <target>Улучшено обнаружение контекстного меню при нажатии Shift+NVDA+D три раза.</target>
+      </segment>
+    </unit>
+    <unit id="afbb22a7-d1f8-4e64-8473-8838fa6cd3d3">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The escape button now works (only when using Dropbox in the same language NVDA uses).</source>
+        <target>Клавиша Escape Теперь работает  (только тогда когда Dropbox используется на томже языке который использует NVDA).</target>
+      </segment>
+    </unit>
+    <unit id="78007499-30f5-4e85-8659-e7caf514232b">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>A lot of corrections in the code.</source>
+        <target>Множество исправлений в коде.</target>
+      </segment>
+    </unit>
+    <unit id="07a3e740-c6ac-4ba2-a4f5-5f105298480d">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added/updated documentations of all scripts.</source>
+        <target>Добавлена / обновлена документация всех скриптов.</target>
+      </segment>
+    </unit>
+    <unit id="80f88a95-e4c1-4fc1-a0fe-faee0b64c328">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>New languages: Arabic, Brazilian Portuguese, Czech, Dutch, Finnish, Galician, German, Hungarian, Japanese, Nepali, Polish, Russian, Spanish, Slovak, Tamil, Turkish.</source>
+        <target>Новые языки: Арабский, Бразильский Португальский, Чежский, Голландский, Финский, Галисийский, Немецкий, Венгерский, Японский, Непальский, Польский, Русский, Испанский, Словацкий, Тамильский, Турецкий.</target>
+      </segment>
+    </unit>
+    <unit id="cb4c46f7-0b5e-4429-b190-99fc0de0683c">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.0 ##</source>
+        <target>Изменения в версии 2.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="bbdae875-af44-48e5-b5b9-c519f9f3e35f">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>New languages: Italian</source>
+        <target>Новые языки: Итальянский</target>
+      </segment>
+    </unit>
+    <unit id="16e9c7b9-2567-4527-87eb-d220c9b77543">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Pressing the shortcut three times or more when already being in the context menu doesn't cause problem anymore.</source>
+        <target>Нажатие сочетания три или более раз , когда уже контекстное меню открыто, не вызывает более никаких проблем.</target>
+      </segment>
+    </unit>
+    <unit id="11dc7447-d306-4a6d-af7a-d630b3a9ecad">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.0 ##</source>
+        <target>Изменения в версии 1.0 ##</target>
+      </segment>
+    </unit>
+    <unit id="cf12e459-5b5a-499c-9355-f5ea0c7ba83d">
+      <notes>
+        <note appliesTo="source">line: 62</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial Release</source>
+        <target>Первоначальный Выпуск</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

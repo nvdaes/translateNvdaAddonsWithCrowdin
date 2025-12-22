@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 16:37+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: charInfo.pot\n"
+"X-Crowdin-File-ID: 296\n"
+
+#. Translators: Title on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:119
+msgid "Detailed character information"
+msgstr "Detaylı karakter bilgisi"
+
+#. Translators: Reported in the tables when no value is defined for a property of a specific character.
+#: addon/globalPlugins/charinfo/__init__.py:147
+msgid "[Not defined]"
+msgstr "[Tanımlanmamış]"
+
+#. Translators: Reported in the symbol and character description tables when no file corresponding to the row
+#. exists.
+#: addon/globalPlugins/charinfo/__init__.py:150
+msgid "[No file]"
+msgstr "[Dosya yok]"
+
+#. Translators: When speaking a missing character property
+#: addon/globalPlugins/charinfo/__init__.py:152
+msgid "No value"
+msgstr "Değer yok"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:217
+msgid "Character"
+msgstr "Karakter"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:219
+msgid "Name"
+msgstr "Ad"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:221
+msgid "CLDR name"
+msgstr "CLDR adı"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:223
+msgid "Decimal value"
+msgstr "Ondalık değer"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:225
+msgid "Hex value"
+msgstr "Onaltılık değer"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:227
+msgid "Category"
+msgstr "Kategori"
+
+#. Translators: A character attribute type in the Unicode table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:229
+msgid "Block"
+msgstr "Blok"
+
+#. Translators: A character attribute type in the MS font table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:243
+msgid "MS name"
+msgstr "MS adı"
+
+#. Translators: A character attribute type in the MS font table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:245
+msgid "MS Font"
+msgstr "MS yazı tipi"
+
+#. Translators: A character attribute type in the MS font table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:247
+msgid "Equivalent Unicode character name"
+msgstr "Denk gelen Unicode karakter adı"
+
+#. Translators: A character attribute type in the MS font table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:249
+msgid "Equivalent Unicode character hex value"
+msgstr "Denk gelen Unicode karakter onaltılık değeri"
+
+#. Translators: A character attribute type in the MS font table of the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:252
+msgid "Equivalent Unicode character decimal value"
+msgstr "Denk gelen Unicode karakter ondalık değeri"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:270
+msgid "Symbol description"
+msgstr "Sembol tanımı"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:275
+#, python-brace-format
+msgid "Symbol description in user file ({lang})"
+msgstr "Kullanıcı dosyasındaki sembol tanımı ({lang})"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:280
+#, python-brace-format
+msgid "Symbol description in locale file{langInfo}"
+msgstr "Dil dosyasındaki simge tanımı{langInfo}"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:285
+#, python-brace-format
+msgid "Symbol description in locale CLDR file{langInfo}"
+msgstr "CLDR Dil dosyasındaki sembol tanımı{langInfo}"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:290
+msgid "Symbol description in English file"
+msgstr "İngilizce dosyasında sembol tanımı"
+
+#. Translators: A symbol attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:295
+msgid "Symbol description in English CLDR file"
+msgstr "İngilizce CLDR dosyasında sembol tanımı"
+
+#. Translators: A character attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:309
+msgid "Character description"
+msgstr "Karakter tanımı"
+
+#. Translators: A character attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:312
+#, python-brace-format
+msgid "Character description{langInfo}"
+msgstr "Karakter tanımı{langInfo}"
+
+#. Translators: A character attribute type in the table on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:317
+msgid "Character description (English file)"
+msgstr "Karakter tanımı (İngilizce dosya)"
+
+#. Translators: A section name in the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:333
+msgid "Unicode"
+msgstr "Unicode"
+
+#. Translators: A section name in the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:335
+msgid "Microsoft font"
+msgstr "Microsoft yazı tipi"
+
+#. Translators: A section name in the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:337
+msgid "Symbol description in NVDA"
+msgstr "NVDA'daki sembol tanımı"
+
+#. Translators: A section name in the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:339
+msgid "Character description in NVDA"
+msgstr "NVDA'da karakter tanımı"
+
+#. Translators: Reported in the Unicode information table when the character does not belong to any block.
+#: addon/globalPlugins/charinfo/__init__.py:641
+msgid "No Block"
+msgstr "Blok Yok"
+
+#. Translators: The value of an option reported in symbol description section of the character info report.
+#: addon/globalPlugins/charinfo/__init__.py:807
+msgid "On"
+msgstr "Açık"
+
+#. Translators: The value of an option reported in symbol description section of the character info report.
+#: addon/globalPlugins/charinfo/__init__.py:810
+msgid "Off"
+msgstr "Kapalı"
+
+#. Translators: A column header on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:942
+msgid "Value"
+msgstr "Değer"
+
+#. Translators: A column title on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:945
+#, python-brace-format
+msgid "Character {numChar}"
+msgstr "Karakter {numChar}"
+
+#. Translators: A column title on the char info displayed message
+#: addon/globalPlugins/charinfo/__init__.py:950
+#: addon/globalPlugins/charinfo/__init__.py:970
+msgid "Attribute"
+msgstr "Özellik"
+
+#. Translators: A piece of text in the symbol description section of the character info report.
+#: addon/globalPlugins/charinfo/__init__.py:1013
+msgid "Options used to compute the symbol:"
+msgstr "Sembol hesaplamak için kullanılan seçenekler:"
+
+#. Translators: An option text in the symbol description section of the character info report.
+#: addon/globalPlugins/charinfo/__init__.py:1068
+msgid "Voice language"
+msgstr "Ses dili"
+
+#. Translators: An option text in the symbol description section of the character info report.
+#: addon/globalPlugins/charinfo/__init__.py:1076
+msgid "NVDA interface language"
+msgstr "NVDA arayüz dili"
+
+#. Translators: A part of the message presented in input help mode.
+#: addon/globalPlugins/charinfo/__init__.py:1300
+msgid ". Pressing four times presents a message with detailed information on this character."
+msgstr ". Dört kez basıldığında karakter hakkında detaylı bilgi gösterir."
+
+#. Translators: The message presented in input help mode.
+#: addon/globalPlugins/charinfo/__init__.py:1383
+msgid "Presents a message with detailed information on the character of the current navigator object where the review cursor is situated."
+msgstr "İnceleme imlecinin bulunduğu konumdaki nesne sunucusu karakteri hakkında ayrıntılı bilgi gösterir."
+
+#. Translators: The message presented in input help mode.
+#: addon/globalPlugins/charinfo/__init__.py:1394
+msgid "Presents a message with detailed information on the character at the position of the caret."
+msgstr "Düzenleme imlecinin konumunda bulunan karakter hakkında ayrıntılı bilgi gösterir."
+
+#. Translators: Reported when there is no caret
+#: addon/globalPlugins/charinfo/__init__.py:1410
+msgid "No caret"
+msgstr "Düzenleme imleci yok"
+
+#. Translators: The description of a command of this add-on.
+#: addon/globalPlugins/charinfo/__init__.py:1416
+msgid "Opens Character Information add-on settings"
+msgstr "Karakter Bilgisi eklenti ayarlarını açar"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:24
+msgid "Report the character"
+msgstr "Karakteri bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:26
+msgid "Report the character description"
+msgstr "Karakter tanımını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:28
+msgid "Report the character number"
+msgstr "Karakter numarasını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:30
+msgid "Display information on the character"
+msgstr "Karakterle ilgili bilgileri görüntüler"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:32
+msgid "Report the CLDR locale name of the character"
+msgstr "Karakterin CLDR yerel dildeki adını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:34
+msgid "Report the CLDR English name of the character"
+msgstr "Karakterin CLDR İngilizce adını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:36
+msgid "Report the locale name of the character"
+msgstr "Karakterin yerel dildeki adını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:38
+msgid "Report the English name of the character"
+msgstr "Karakterin İngilizce adını bildirir"
+
+#. Translators: An option in an action definition combobox Character Information setting panel.
+#: addon/globalPlugins/charinfo/ciGui.py:40
+msgid "Report Microsoft font proprietary character (name, font and equivalent Unicode name)"
+msgstr "Microsoft yazı tipinin özel karakterini bildirir (ad, yazı tipi ve eşdeğer Unicode adı)"
+
+#. Translators: This is the label for a group of action choices in the add-on's settings panel
+#: addon/globalPlugins/charinfo/ciGui.py:52
+msgid "Action for multiple presses of the report review character command"
+msgstr "Gözden geçirme karakteri bildirimi komutuna birden fazla basılması için eylem"
+
+#. Translators: This is the label for a checkbox in the Character Information settings panel.
+#: addon/globalPlugins/charinfo/ciGui.py:63
+msgid "Remember these action during character navigation"
+msgstr "Karakter gezintisi sırasında bu eylemleri hatırla"
+
+#. Translators: This is the label for the action definition comboboxes in the Character Information settings
+#. panel.
+#: addon/globalPlugins/charinfo/ciGui.py:70
+#, python-brace-format
+msgid "{n} presses:"
+msgstr "{n} defa basma:"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:25
+msgid "Character information"
+msgstr "Karakter bilgisi"
+
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:29
+msgid "This add-on allows to present in a message various information about a character.\n"
+"\t\tIt also allows to customize the information reported on a character when using review cursor character navigation commands or multiple presses of the review character command."
+msgstr "Bu eklenti, bir mesajda bir karakter hakkında çeşitli bilgiler sunulmasına imkan verir.\n"
+"\t\tAyrıca, gözden geçirme imleci karakter gezinme komutlarını kullanırken veya karakteri gözden geçir komutuna birden çok basıldığında bir karakter hakkında bildirilen bilgileri özelleştirmeye olanak tanır."
+

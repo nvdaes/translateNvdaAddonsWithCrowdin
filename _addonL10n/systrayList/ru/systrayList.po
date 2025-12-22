@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:26+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: systrayList.pot\n"
+"X-Crowdin-File-ID: 340\n"
+
+#. Translators: Input help mode message for system tray list command.
+#: addon/globalPlugins/systrayList/__init__.py:71
+msgid "Shows the list of buttons on the System Tray. If pressed twice quickly, shows the items on the taskbar."
+msgstr "Показывает список кнопок на системном лотке. При быстром двойном нажатии, показывает элементы на панели задач."
+
+#: addon/globalPlugins/systrayList/__init__.py:76
+msgid "System Tray List"
+msgstr "Список Системного Лотка"
+
+#: addon/globalPlugins/systrayList/__init__.py:76
+msgid "Icons on the System Tray:"
+msgstr "Значки Системного Лотка:"
+
+#: addon/globalPlugins/systrayList/__init__.py:80
+msgid "Taskbar List"
+msgstr "Список Панели Задач"
+
+#: addon/globalPlugins/systrayList/__init__.py:80
+msgid "Icons of running applications on the taskbar:"
+msgstr "Значки запущенных приложений на панели задач:"
+
+#. Translators: A button on the system tray list dialog to perform left mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:120
+msgid "&Left Click"
+msgstr "&Левый Щелчок"
+
+#. Translators: A button in the system tray list dialog to perform left double mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:124
+msgid "Left &Double Click"
+msgstr "Левый &Двойной Щелчок"
+
+#. Translators: A button in the system tray list dialog to perform right mouse click.
+#: addon/globalPlugins/systrayList/__init__.py:128
+msgid "&Right Click"
+msgstr "&Правый Щелчок"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "SysTrayList"
+msgstr "Список Системного Лотка"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Shows the list of buttons on the System Tray with NVDA+F11 once, twice shows running task lists."
+msgstr "При однократном нажатии NVDA+F11 показывает список кнопок на системном лотке, при двойном - список выполняемых задач."
+

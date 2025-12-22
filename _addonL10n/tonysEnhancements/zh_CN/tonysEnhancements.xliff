@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="tonysEnhancements.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/tonysEnhancements/tonysEnhancements.md">
+    <skeleton>
+# $(ID:6ebfb343-151a-446d-a8c9-a2b082c99915)
+$(ID:dd366ecb-96a8-4ed0-8f8c-3906fa6c2f07)
+
+$(ID:68df0d01-4285-43ee-b3ea-168ef6924b77)
+
+## $(ID:5297a34b-514b-4fc8-8dd6-315d92c22d8b)
+
+$(ID:c8a4260a-e190-430c-a2fc-7e5ee761872b)
+
+## $(ID:5d494d5c-4003-476a-b931-321372956b80)
+* $(ID:4c4b3a7a-bbd1-49d0-a885-748ee4892a8a)
+* $(ID:a49a94da-400d-4588-a88c-f0d6b93dfb3e)
+
+## $(ID:5fdc348a-9ec3-47c1-b083-93b17f6b21b8)
+
+$(ID:0a587ed5-208d-42d8-8250-6420a30b4cc6)
+$(ID:e43429d7-016e-4453-a7cd-efa00bb13d2e)
+$(ID:6c57a417-e09c-4634-9a25-b2395388b69e)
+
+## $(ID:088e133d-51bc-43fb-b756-723a2c5e0896)
+
+$(ID:d8d39a44-f7b1-4c01-8658-a5114a9479bc)
+
+## $(ID:b9e828bb-e4cd-4a4d-9854-c4fbc74e29e0)
+$(ID:617df4a3-08d1-4ee0-b951-18b43bfe1c67)
+
+## $(ID:19f02333-41ea-415d-865f-ac76d32605d5)
+
+$(ID:2707415e-2490-46cd-bd8c-660d2f00bec6)
+
+## $(ID:d34b0ac9-8bf5-43fc-bd63-2e0279c7ff24)
+
+$(ID:fec60573-71f4-4ed7-9134-99ef8eee0363)
+
+## $(ID:63e1588b-0ac2-4199-87f8-4728cfd1bfbe)
+
+$(ID:d2f0c71f-0e00-44ce-b71f-6612293405b1)
+
+$(ID:a300745b-efb4-454e-9a02-dff78c3cedd1)
+$(ID:bd23fc1e-ec49-49bc-969a-01b1a77043d9)
+$(ID:422eeb60-d8b2-48a9-b09b-7c4cf4719802)
+$(ID:5f970db9-96a8-4ca5-b136-9e001379f13b)
+$(ID:926b1179-b71b-4513-80f4-cc72e6666fa6)
+
+$(ID:fd02403e-a4a5-4d70-a40f-7484be0c2126)
+
+1. $(ID:fc3050d5-82e4-4607-85e0-3acb247c8204)
+2. $(ID:a82381c9-de87-456d-a312-cd0e7989f99a)
+3. $(ID:df7eade1-bf0e-4124-8c60-731d843e3cba)
+4. $(ID:c87895fa-5110-4a6c-8bea-195c48841584)
+
+## $(ID:0146a0b3-c534-4bb0-be75-7ec5c1f7bc8d)
+
+$(ID:6c7861cb-8a25-43dc-850d-3262c40eb420)
+
+## $(ID:e127e7a4-759d-471b-a832-8c55fb350a09)
+
+$(ID:6c12da67-42b5-4efd-badc-8770bd3f40e0)
+
+## $(ID:bd1b1526-1613-417f-9c35-9af344c59dea)
+
+$(ID:5d4a7fdf-912e-4574-8215-c4e6e84feeb2)
+
+* $(ID:c33835e4-d575-4dda-8355-7a88b6bcdec5)
+* $(ID:09b2f152-68d7-4baa-ab6d-cf73a3e4eb6b)
+* $(ID:cbc83779-606a-4c0b-a830-9382c784c0b8)
+* $(ID:79183ac6-d193-476a-9923-94eb9c10a3c4)
+* $(ID:ae71c7fc-40d7-49ab-8f85-65df532a6017)
+
+## $(ID:63f042d7-b908-4da0-adf0-11888cbfb882)
+
+$(ID:7692bb8a-5581-4880-a3f0-975861c0b15a)
+
+## $(ID:633ca850-29d5-44d6-888c-40f7a31d0b44)
+
+$(ID:bb313fcc-1cde-4c12-9aea-c4733890050a)
+
+## $(ID:fc742413-f231-440e-a84b-0dae55bac43b)
+
+* $(ID:a46d71b4-9029-4075-8327-4f6f24ea7f66)
+* $(ID:0e57326c-b8a0-437a-8d0e-146f94734d77)
+* $(ID:9d2939c9-4cf1-4069-b062-00a38b952baa)
+
+$(ID:39239e1b-5dc9-4dae-a072-ce2d0ec4634c)
+
+## $(ID:8fb2c9e3-b11d-4cc8-8ce5-5f33cad5fc5c)
+
+$(ID:6d7e61d1-4a2b-464e-914b-30f487df2c90)
+
+## $(ID:88487208-4585-44a4-83fa-d87b4c9fc41a)
+
+$(ID:4624f42f-74c2-4195-b177-71697864659d)
+
+$(ID:8620c947-89c4-4bbe-9fdb-117cc405b500)
+
+## $(ID:1fabfcd8-c9f1-4f34-9fdd-35b297328281)
+
+$(ID:ed7f5ca9-f558-493b-a0f5-858da628353c)
+
+$(ID:171c5deb-8cfc-484f-a74d-08a89039b170)
+
+## $(ID:e61a6df5-76ac-4049-996d-51cf9999959e)
+
+$(ID:68f7d67d-a234-402e-a739-41645ac1a906)
+
+## $(ID:2d45b713-e982-4676-9d3b-69082fed5f3d)
+
+$(ID:1da3dcdf-3002-445d-9f81-815c3d127ae2)
+</skeleton>
+    <unit id="6ebfb343-151a-446d-a8c9-a2b082c99915">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>nvda-tonys-enhancements</source>
+        <target>Tony 的增强 #</target>
+      </segment>
+    </unit>
+    <unit id="dd366ecb-96a8-4ed0-8f8c-3906fa6c2f07">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on contains a number of small improvements to NVDA screenreader, each of them too small to deserve a separate add-on.</source>
+        <target>该插件包含了对 NVDA 屏幕阅读器的众多小改进，每个改进都比较小，不值得单独开发一个插件。</target>
+      </segment>
+    </unit>
+    <unit id="68df0d01-4285-43ee-b3ea-168ef6924b77">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on is compatible with NVDA version 2024.2 or later</source>
+        <target>该插件与 NVDA 版本 2024.2 或更高版本兼容</target>
+      </segment>
+    </unit>
+    <unit id="5297a34b-514b-4fc8-8dd6-315d92c22d8b">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Downloads</source>
+        <target>下载</target>
+      </segment>
+    </unit>
+    <unit id="c8a4260a-e190-430c-a2fc-7e5ee761872b">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="final">
+        <source>Please install the latest version from NVDA add-on store.</source>
+        <target>请从 NVDA 插件商店安装最新版本。</target>
+      </segment>
+    </unit>
+    <unit id="5d494d5c-4003-476a-b931-321372956b80">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Enhanced table navigation commands</source>
+        <target>表格导航命令增强</target>
+      </segment>
+    </unit>
+    <unit id="4c4b3a7a-bbd1-49d0-a885-748ee4892a8a">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Control+digit - jump to 1st/2nd/3rd/... 10th column in the table.</source>
+        <target>NVDA+Control+数字 - 跳转到表中的第 1/2/3/...第 10 列。</target>
+      </segment>
+    </unit>
+    <unit id="a49a94da-400d-4588-a88c-f0d6b93dfb3e">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Alt+digit - jump to 1st/2nd/3rd/... 10th row in the table.</source>
+        <target>NVDA+Alt+数字 - 跳转到表中的第 1/2/3/...第 10 行。</target>
+      </segment>
+    </unit>
+    <unit id="5fdc348a-9ec3-47c1-b083-93b17f6b21b8">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Copying tables to clipboard</source>
+        <target>将表格复制到剪贴板</target>
+      </segment>
+    </unit>
+    <unit id="0a587ed5-208d-42d8-8250-6420a30b4cc6">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+      </notes>
+      <segment state="final">
+        <source>With the following shortcuts you can copy either the whole table or current row or current column in a formatted way, so that you can paste it as a table to rich text editors, such as Microsoft Word or WordPad.</source>
+        <target>使用以下快捷键，您可以以格式化方式复制整个表格或当前行或当前列，以便将其作为表格粘贴到富文本编辑器，例如 Microsoft Word 或写字板。</target>
+      </segment>
+    </unit>
+    <unit id="e43429d7-016e-4453-a7cd-efa00bb13d2e">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="final">
+        <source>- NVDA+Alt+T - shows popup menu with options to copy table or part of it.</source>
+        <target>- NVDA+Alt+T - 弹出一个菜单，其中包含复制表格或表格的一部分的选项。</target>
+      </segment>
+    </unit>
+    <unit id="6c57a417-e09c-4634-9a25-b2395388b69e">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+      </notes>
+      <segment state="final">
+        <source>There are also separate scripts for copying tables, rows, columns and cells, but they don't have keyboard shortcuts  assigned by default, custom keyboard shortcuts cfor them can be assigned in InputGestures dialog of NVDA.</source>
+        <target>还支持为复制表格、行、列和单元格单独设置快捷键，如有需要，请前往“按键与手势”对话框中进行设置。</target>
+      </segment>
+    </unit>
+    <unit id="088e133d-51bc-43fb-b756-723a2c5e0896">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Clipboard history</source>
+        <target>剪贴板历史记录</target>
+      </segment>
+    </unit>
+    <unit id="d8d39a44-f7b1-4c01-8658-a5114a9479bc">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+      </notes>
+      <segment state="final">
+        <source>As of NVDA v2024.4 built-in Windows clipboard history feature works poorly with NVDA. As a drop-in replacement, this add-on provides a fully accessible clipboard history feature. It is bound to `Windows+V` by default, so it replaces the built-in feature.</source>
+        <target>从 NVDA v2024.4 起，内置的 Windows 剪贴板历史记录功能在 NVDA 上运行不佳。作为替代，此插件提供了一个完全可访问的剪贴板历史记录功能。默认情况下，它绑定到 `Windows+V`，因此它取代了内置功能。</target>
+      </segment>
+    </unit>
+    <unit id="b9e828bb-e4cd-4a4d-9854-c4fbc74e29e0">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Automatic language switching</source>
+        <target>自动语言切换</target>
+      </segment>
+    </unit>
+    <unit id="617df4a3-08d1-4ee0-b951-18b43bfe1c67">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+      </notes>
+      <segment state="final">
+        <source>Allows to automatically switch the language of your synthesizer by character set. Refgular expression for every language can be configured in the preferences window for this add-on. Please make sure that your synthesizer supports all the languages you're interested in. Switching between two Latin-based languages or two languages whose character sets are similar is not supported at this time.</source>
+        <target>按字符集自动切换合成器的语言。可以在该插件的设置面板中配置每种语言的正则表达式。请确保您的合成器支持对应的语言。目前不支持在两种基于拉丁语的语言或两种字符集相似的语言之间切换。</target>
+      </segment>
+    </unit>
+    <unit id="19f02333-41ea-415d-865f-ac76d32605d5">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Quicksearch commands</source>
+        <target>快捷搜索命令</target>
+      </segment>
+    </unit>
+    <unit id="2707415e-2490-46cd-bd8c-660d2f00bec6">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="final">
+        <source>As of version v1.18, QuickSearch commands have been moved to [IndentNav add-on](https://github.com/mltony/nvda-indent-nav).</source>
+        <target>从 v1.18 开始，快捷搜索命令已移至 [缩进导航插件]</target>
+      </segment>
+    </unit>
+    <unit id="d34b0ac9-8bf5-43fc-bd63-2e0279c7ff24">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Suppress unwanted 'unselected' speech from NVDA</source>
+        <target>禁止 NVDA 朗读“未选择”</target>
+      </segment>
+    </unit>
+    <unit id="fec60573-71f4-4ed7-9134-99ef8eee0363">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+      </notes>
+      <segment state="final">
+        <source>Suppose you have some text selected in text editors. Then you press a key, such as Home, or UpArrow, that is supposed to take you to another part of the document. NVDA would announce 'unselected' and then speak the former selection, which can be inconvenient at times. This feature prevents NVDA from speaking formerly selected text in situations like this.</source>
+        <target>倘若您在文本编辑器中选中了一些文本。然后按一个键，例如“行首”或“上箭头”，光标位置发生改变。 NVDA 会先朗读“未选择”，然后读出先前选择的内容，有时候会带来一些不便。此功能可禁止该行为。</target>
+      </segment>
+    </unit>
+    <unit id="63e1588b-0ac2-4199-87f8-4728cfd1bfbe">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Dynamic keystrokes</source>
+        <target>动态按键</target>
+      </segment>
+    </unit>
+    <unit id="d2f0c71f-0e00-44ce-b71f-6612293405b1">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+      </notes>
+      <segment state="final">
+        <source>You can assign certain keystrokes to be dynamic. After issuing such a keystroke, NVDA will be checking currently focused window for any updates and if the line is updated, NVDA will speak it automatically. For example, certain keystrokes in text editors should be marked dynamic, such as Jump to bookmark, jump to another line and debugging keystrokes,such as step into/step over.</source>
+        <target>您可以将某些按键设置为动态按键。按下动态按键，NVDA 会检测当前聚焦的窗口是否有内容更新，如果该行已更新，NVDA 则会自动读出。例如，文本编辑器中的某些按键应设置为动态按键，例如跳转到书签、跳转到另一行和调试按键，例如单步执行/跳过。</target>
+      </segment>
+    </unit>
+    <unit id="a300745b-efb4-454e-9a02-dff78c3cedd1">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+      </notes>
+      <segment state="final">
+        <source>The format of dynamic keystrokes table is simple: every line contains a rule in the following format:</source>
+        <target>动态按键表的格式很简单：每行包含一条规则，格式如下：</target>
+      </segment>
+    </unit>
+    <unit id="bd23fc1e-ec49-49bc-969a-01b1a77043d9">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+      </notes>
+      <segment state="final">
+        <source>```</source>
+        <target>```</target>
+      </segment>
+    </unit>
+    <unit id="422eeb60-d8b2-48a9-b09b-7c4cf4719802">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+      </notes>
+      <segment state="final">
+        <source>appName keystroke</source>
+        <target>appName keystroke</target>
+      </segment>
+    </unit>
+    <unit id="5f970db9-96a8-4ca5-b136-9e001379f13b">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+      </notes>
+      <segment state="final">
+        <source>```</source>
+        <target>```</target>
+      </segment>
+    </unit>
+    <unit id="926b1179-b71b-4513-80f4-cc72e6666fa6">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+      </notes>
+      <segment state="final">
+        <source>where `appName` is the name of the application where this keystroke is marked dynamic (or `*` to b marked dynamic in all applications), and`keystroke` is a keystroke in NVDA format, for example, `control+alt+shift+pagedown`.</source>
+        <target>其中“appName”是启用动态按键的应用程序名称，如果希望该动态按键全局生效，使用 * 即可。“keystroke”是 NVDA 格式的按键，例如 `control+alt+shift+pageDown`。</target>
+      </segment>
+    </unit>
+    <unit id="fd02403e-a4a5-4d70-a40f-7484be0c2126">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+      </notes>
+      <segment state="final">
+        <source>In order to figure out appName for your application, do this:</source>
+        <target>如需或许应用程序的 appName，请按以下步骤操作：</target>
+      </segment>
+    </unit>
+    <unit id="fc3050d5-82e4-4607-85e0-3acb247c8204">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="final">
+        <source>Switch to your application.</source>
+        <target>切换到相应的应用程序。</target>
+      </segment>
+    </unit>
+    <unit id="a82381c9-de87-456d-a312-cd0e7989f99a">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: 2. </note>
+      </notes>
+      <segment state="final">
+        <source>Open NVDA Python Console by pressing NVDA+Shift+Z.</source>
+        <target>按 NVDA+Shift+Z 打开 NVDA Python 控制台。</target>
+      </segment>
+    </unit>
+    <unit id="df7eade1-bf0e-4124-8c60-731d843e3cba">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: 3. </note>
+      </notes>
+      <segment state="final">
+        <source>Type `focus.appModule.appName` and hit enter.</source>
+        <target>输入 `focus.appModule.appName` 并按回车键。</target>
+      </segment>
+    </unit>
+    <unit id="c87895fa-5110-4a6c-8bea-195c48841584">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: 4. </note>
+      </notes>
+      <segment state="final">
+        <source>Press F6 to go to output pane and find appName value in the last line.</source>
+        <target>按 F6 转到输出窗格并在最后一行找到 appName 的值。</target>
+      </segment>
+    </unit>
+    <unit id="0146a0b3-c534-4bb0-be75-7ec5c1f7bc8d">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Showing and hiding windows</source>
+        <target>隐显窗口</target>
+      </segment>
+    </unit>
+    <unit id="6c7861cb-8a25-43dc-850d-3262c40eb420">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+      </notes>
+      <segment state="final">
+        <source>As of version v1.18 show/hide commands have been moved to [Task Switcher add-on](https://github.com/mltony/nvda-task-switcher).</source>
+        <target>从 v1.18 版本开始，隐显窗口功能已移至[任务切换器插件](https://github.com/mltony/nvda-task-switcher)。</target>
+      </segment>
+    </unit>
+    <unit id="e127e7a4-759d-471b-a832-8c55fb350a09">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Beep when NVDA is busy</source>
+        <target>NVDA 忙碌时发出蜂鸣声</target>
+      </segment>
+    </unit>
+    <unit id="6c12da67-42b5-4efd-badc-8770bd3f40e0">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+      </notes>
+      <segment state="final">
+        <source>Check this option for NVDA to provide audio feedback when NVDA is busy. NVDA being busy does not necessarily indicate a problem with NVDA, but rather this is a signal to the user that any NVDA commands will not be processed immediately.</source>
+        <target>选中此选项，在 NVDA 忙碌时提供音频反馈。 NVDA 忙碌并不一定表明出现了故障，该状态表示不会及时处理用户的输入。</target>
+      </segment>
+    </unit>
+    <unit id="bd1b1526-1613-417f-9c35-9af344c59dea">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Application Volume adjustment</source>
+        <target>应用音量调节</target>
+      </segment>
+    </unit>
+    <unit id="5d4a7fdf-912e-4574-8215-c4e6e84feeb2">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+      </notes>
+      <segment state="final">
+        <source>This feature allows you to adjust the volume of NVDA and other applications independently. The following commands are available:</source>
+        <target>此功能允许您独立调整 NVDA 和其他应用的音量。以下命令可用：</target>
+      </segment>
+    </unit>
+    <unit id="c33835e4-d575-4dda-8355-7a88b6bcdec5">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Ctrl+PageUp: Increases the volume of NVDA.</source>
+        <target>NVDA+Ctrl+PageUp：增加 NVDA 的音量。</target>
+      </segment>
+    </unit>
+    <unit id="09b2f152-68d7-4baa-ab6d-cf73a3e4eb6b">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Ctrl+PageDown: Decreases the volume of NVDA.</source>
+        <target>NVDA+Ctrl+PageDown：降低 NVDA 的音量。</target>
+      </segment>
+    </unit>
+    <unit id="cbc83779-606a-4c0b-a830-9382c784c0b8">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Alt+PageUp: Increases the volume of other applications.</source>
+        <target>NVDA+Alt+PageUp：增加其他应用的音量。</target>
+      </segment>
+    </unit>
+    <unit id="79183ac6-d193-476a-9923-94eb9c10a3c4">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA+Alt+PageDown: Decreases the volume of other applications.</source>
+        <target>NVDA+Alt+PageDown：降低其他应用的音量。</target>
+      </segment>
+    </unit>
+    <unit id="ae71c7fc-40d7-49ab-8f85-65df532a6017">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Mute or unmute other applications: This command does not have a default gesture assigned. You can assign a custom one in NVDA's "Input Gestures" dialog.</source>
+        <target>静音或取消静音其他应用：此命令没有分配默认快捷键。您可以在 NVDA 的“按键与手势”对话框中分配一个自定义快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="63f042d7-b908-4da0-adf0-11888cbfb882">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Mute microphone</source>
+        <target>麦克风静音</target>
+      </segment>
+    </unit>
+    <unit id="7692bb8a-5581-4880-a3f0-975861c0b15a">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on provides a command for switching the microphone. There is no gesture assigned to this command by default, you can assign a gesture in NVDA's "Input Gestures" dialog if needed.</source>
+        <target>该插件提供了用于切换麦克风的命令。默认情况下没有为此命令分配快捷键，如果需要，您可以在 NVDA 的“输入手势”对话框中为该命令设置一个快捷键。</target>
+      </segment>
+    </unit>
+    <unit id="633ca850-29d5-44d6-888c-40f7a31d0b44">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Sound split</source>
+        <target>声音拆分</target>
+      </segment>
+    </unit>
+    <unit id="bb313fcc-1cde-4c12-9aea-c4733890050a">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+      </notes>
+      <segment state="final">
+        <source>This functionality has been merged into NVDA core and is available in NVDA v2024.2 or later.</source>
+        <target>此功能已被合并到 NVDA 核心，并在 NVDA v2024.2 或更高版本中可用。</target>
+      </segment>
+    </unit>
+    <unit id="fc742413-f231-440e-a84b-0dae55bac43b">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Enhanced mouse functions</source>
+        <target>鼠标功能增强</target>
+      </segment>
+    </unit>
+    <unit id="a46d71b4-9029-4075-8327-4f6f24ea7f66">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+NumPadDivide: Point mouse cursor at current object and click it.</source>
+        <target>Alt+数字键盘斜杠：将鼠标光标指向当前导航对象并单击。</target>
+      </segment>
+    </unit>
+    <unit id="0e57326c-b8a0-437a-8d0e-146f94734d77">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+NumPadMultiply: Point mouse cursor at current object and right mouse button click on it.</source>
+        <target>Alt+数字键盘 星号：将鼠标光标指向当前对象并单击右键。</target>
+      </segment>
+    </unit>
+    <unit id="9d2939c9-4cf1-4069-b062-00a38b952baa">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alt+NumPadDelete: Move mouse cursor out of the way to top left corner of the screen. This can be useful to prevent unwanted hover over windows in certain applications.</source>
+        <target>Alt+数字键盘删除：将鼠标光标移至屏幕左上角。可以解决在某些应用程序中鼠标被悬停在窗口上，导致不必要的鼠标朗读。</target>
+      </segment>
+    </unit>
+    <unit id="39239e1b-5dc9-4dae-a072-ce2d0ec4634c">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+      </notes>
+      <segment state="final">
+        <source>The functionality for mouse wheel scrolling has been merged into NVDA core and is available in NVDA v2024.3 or later.</source>
+        <target>鼠标滚轮滚动的功能已被合并到 NVDA 核心，并在 NVDA v2024.3 或更高版本中可用。</target>
+      </segment>
+    </unit>
+    <unit id="8fb2c9e3-b11d-4cc8-8ce5-5f33cad5fc5c">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Detecting insert mode in text editors</source>
+        <target>检测文本编辑器中的插入模式</target>
+      </segment>
+    </unit>
+    <unit id="6d7e61d1-4a2b-464e-914b-30f487df2c90">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+      </notes>
+      <segment state="final">
+        <source>If this option is enabled, NVDA will beep when it detects insert mode in text editors.</source>
+        <target>如果启用此选项，NVDA 在检测到文本编辑器中启用了插入模式时会发出蜂鸣声。</target>
+      </segment>
+    </unit>
+    <unit id="88487208-4585-44a4-83fa-d87b4c9fc41a">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Blocking double insert keystroke</source>
+        <target>禁止双击插入键</target>
+      </segment>
+    </unit>
+    <unit id="4624f42f-74c2-4195-b177-71697864659d">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+      </notes>
+      <segment state="final">
+        <source>In NVDA pressing Insert key twice in a row toggles insert mode in applications. However, sometimes it happens accidentally and it triggers insert mode. Since this is a special keystroke, it cannot be disabled in the settings. This add-on provides a way to block this keyboard shortcut. When double insert is blocked, insert mode can stil be toggled by pressing NVDA+F2 and then Insert.</source>
+        <target>在 NVDA 中，连续按两次 Insert 键可在应用程序中切换插入模式。然而，有时会因用户的误操作而开启插入模式。由于这是一个特殊的按键，因此无法在设置中禁用该行为。此插件提供了一种禁止双击插入键的方法。即使开启了禁止双击插入键，您仍然可以通过按 NVDA+F2 然后按插入键来切换插入模式。</target>
+      </segment>
+    </unit>
+    <unit id="8620c947-89c4-4bbe-9fdb-117cc405b500">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+      </notes>
+      <segment state="final">
+        <source>This option is disabled by default and must be enabled in the settings.</source>
+        <target>该选项默认处于禁用状态，必须在设置中启用。</target>
+      </segment>
+    </unit>
+    <unit id="1fabfcd8-c9f1-4f34-9fdd-35b297328281">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Blocking double Caps Lock keystroke</source>
+        <target>禁止双击大小写锁定键</target>
+      </segment>
+    </unit>
+    <unit id="ed7f5ca9-f558-493b-a0f5-858da628353c">
+      <notes>
+        <note appliesTo="source">line: 99</note>
+      </notes>
+      <segment state="final">
+        <source>In NVDA, when Caps Lock is set as an NVDA key, pressing it twice in a row toggles between uppercase and lowercase input modes. However, this can sometimes cause unintentional switching between these modes. Since this key’s behavior is unique and cannot be disabled through settings, this add-on offers a method to block this specific keyboard shortcut. When the double Caps Lock key press is blocked, you can still switch between uppercase and lowercase input modes by pressing NVDA+F2 followed by the Caps Lock key.</source>
+        <target>在 NVDA 中，当大小写锁定键作为 NVDA 键时，连续按两次大小写锁定键可切换大小写输入模式。然而，有时会因用户的误操作而意外切换。由于这是一个特殊的按键，因此无法在设置中禁用该行为。此插件提供了一种禁止双击大小写锁定键的方法。即使开启了禁止双击大小写锁定键，您仍然可以通过按 NVDA+F2 然后按大小写锁定键来切换大小写输入模式。</target>
+      </segment>
+    </unit>
+    <unit id="171c5deb-8cfc-484f-a74d-08a89039b170">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+      </notes>
+      <segment state="final">
+        <source>This option is disabled by default and must be enabled in the settings.</source>
+        <target>该选项默认处于禁用状态，必须在设置中启用。</target>
+      </segment>
+    </unit>
+    <unit id="e61a6df5-76ac-4049-996d-51cf9999959e">
+      <notes>
+        <note appliesTo="source">line: 103</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>System priority of NVDA process</source>
+        <target>NVDA进程的系统优先级</target>
+      </segment>
+    </unit>
+    <unit id="68f7d67d-a234-402e-a739-41645ac1a906">
+      <notes>
+        <note appliesTo="source">line: 105</note>
+      </notes>
+      <segment state="final">
+        <source>This allows to boost system priority of NVDA process, that might improve NVDA responsiveness, especially when CPU load is high.</source>
+        <target>该设置可以提高 NVDA 进程的系统优先级，从而有可能提高 NVDA 的响应能力，尤其是在 CPU 高负载运行时。</target>
+      </segment>
+    </unit>
+    <unit id="2d45b713-e982-4676-9d3b-69082fed5f3d">
+      <notes>
+        <note appliesTo="source">line: 107</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Fixing a bug when focus gets stuck in the taskbar when pressing Windows+Numbers</source>
+        <target>修复按 Windows+数字时焦点会卡在任务栏中的错误</target>
+      </segment>
+    </unit>
+    <unit id="1da3dcdf-3002-445d-9f81-815c3d127ae2">
+      <notes>
+        <note appliesTo="source">line: 109</note>
+      </notes>
+      <segment state="final">
+        <source>This feature has been removed as of version v1.18. If you need a more reliable task switching functionality, please consider using [Task Switcher add-on](https://github.com/mltony/nvda-task-switcher).</source>
+        <target>自 v1.18 版本起此功能已被删除。如果您需要更可靠的任务切换功能，请考虑使用[任务切换器插件](https://github.com/mltony/nvda-task-switcher)。</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

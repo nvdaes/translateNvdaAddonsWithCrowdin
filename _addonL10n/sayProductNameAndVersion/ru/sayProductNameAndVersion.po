@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 17:47+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: sayProductNameAndVersion.pot\n"
+"X-Crowdin-File-ID: 352\n"
+
+#. Translators: This is used when the name of the focused application cannot be found.
+#: addon/globalPlugins/sayProductNameAndVersion.py:39
+msgid "Application"
+msgstr "Приложение"
+
+#. Translators: this will be spoken if version information was not available.
+#: addon/globalPlugins/sayProductNameAndVersion.py:50
+msgid "Unable to get version info"
+msgstr "Не удалось получить информацию о версии"
+
+#. Translators: This is the message which will be spoken containing both the product name and version.
+#. {name} is the app name, {version} is the version.
+#: addon/globalPlugins/sayProductNameAndVersion.py:56
+#, python-brace-format
+msgid "{name} version {version}"
+msgstr "{name} версия {version}"
+
+#. Translators: This is the message announced when all information has been copied..
+#. {name} is the app name, {version} is the version.
+#: addon/globalPlugins/sayProductNameAndVersion.py:63
+#, python-brace-format
+msgid "Copied {name} {version} to the clipboard"
+msgstr "{name} версия {version} скопировано в буфер обмена"
+
+#. Translators: This is the message announced when all information hasn't been copied.
+#: addon/globalPlugins/sayProductNameAndVersion.py:69
+#: addon/globalPlugins/sayProductNameAndVersion.py:81
+msgid "Cannot copy version information to the clipboard."
+msgstr "Не удаётся скопировать информацию о версии в буфер обмена."
+
+#. Translators: This is the message announced when only the version has been copied..
+#. {version} is the version.
+#: addon/globalPlugins/sayProductNameAndVersion.py:76
+#, python-brace-format
+msgid "Copied {version} to the clipboard."
+msgstr "Версия {version} скопировано в буфер обмена."
+
+#. Translators: Input help mode message for say product name and version command.
+#: addon/globalPlugins/sayProductNameAndVersion.py:86
+msgid "Speaks the name and version of the application on which you are focused. Press twice to copy the information to the clipboard. Press three times to copy only the version number."
+msgstr "Объявляет название и версию приложения, которому принадлежит выделенное окно. При двойном нажатии копирует эту информацию в буфер обмена. При тройном нажатии копирует только номер версии."
+
+#. Add-on summary
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:21
+msgid "Say Product Name and Version"
+msgstr "Объявить название и версию продукта"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:24
+msgid "Speak the name and version of the application you are currently focused on, by pressing NVDA+Shift+v.\n"
+"Pressing twice will copy this information to the clipboard, to paste in bug reports, etc.\n"
+"Pressing three times copies only the version.\n"
+"The key can be remapped.\n"
+"Read help to find tips for hearing NVDA and Windows versions."
+msgstr "Произносит название и версию приложения, на котором вы в данный момент работаете, по нажатию NVDA+Shift+v.\n"
+"При двойном нажатии эта информация будет скопирована в буфер обмена для вставки в сообщения об ошибках и т.д.\n"
+"При тройном нажатии будет скопирована только версия приложения.\n"
+"Клавишу можно переназначить.\n"
+"Ознакомьтесь со справкой, чтобы найти советы по прослушиванию версий NVDA и Windows."
+

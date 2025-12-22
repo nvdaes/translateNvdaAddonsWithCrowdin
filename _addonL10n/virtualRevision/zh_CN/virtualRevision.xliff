@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="virtualRevision.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/virtualRevision/virtualRevision.md">
+    <skeleton>
+# $(ID:bfd18354-de3f-48cb-9a93-4b77ff3da2b0)
+
+* $(ID:421b6ac7-6b4c-4815-8dce-3a2e719ac9d6)
+* $(ID:0fbe4224-14bc-4c5e-b313-2356484b9bf3)
+* $(ID:a59eaa55-e054-493e-bf13-6b5e644d006e)
+* $(ID:172bf0da-2b75-43b0-b929-be2bfa3a678c)
+
+$(ID:5f8f0e6c-c4d0-45aa-8c63-a9efcef1d6a3)
+$(ID:f804b44d-0f64-4686-89dd-283aa026412d)
+
+## $(ID:69643ffc-6b2e-4676-8584-c7c6d54796d2)
+
+$(ID:19af4a4e-ae97-480b-bb3d-2155b1c84e22)
+$(ID:100618a6-cb4a-4f92-b2e3-4ea2dd455a66)
+$(ID:730521df-a6f8-4f74-93d7-09671e518ede)
+
+## $(ID:a94bb8d5-d29a-43c8-af3c-6aa0406428c2)
+
+* $(ID:1fd6c986-feb5-48e3-86ca-73ff3bd6ef0a)
+
+## $(ID:8aefa284-c7b9-4747-86aa-fa514c86c061)
+
+* $(ID:3fa93add-ea6b-45d3-ab16-5268deea40c6)
+
+## $(ID:6b21ecbc-2c01-4c82-9d02-0093732ba333)
+
+* $(ID:bbc4c6f4-aab4-47d2-bc62-dc3dce48882c)
+
+## $(ID:fafc0124-a19f-4eb4-b322-a7962b6c0ef8)
+
+* $(ID:a5601c9d-44ad-4608-941a-3a1ac171d02e)
+* $(ID:638c04a8-3f1a-4ab1-b7aa-692792d18e2d)
+* $(ID:4bd06c82-8409-42cc-a77a-d6521f3ca37d)
+
+## $(ID:8d4bd436-34da-4d6c-86ec-a62d78f17595)
+
+* $(ID:6a333a31-2657-47bb-b837-7a47d8764579)
+* $(ID:a17e58c1-3052-432d-b671-0e3002312a02)
+* $(ID:5bea37b2-9bd5-4393-8c5c-70e0850f5467)
+* $(ID:f81e9e2c-a4ff-4956-9ce5-e42425c08db3)
+* $(ID:8478d42e-0aaa-4f78-b0c2-420cc0c79211)
+* $(ID:7512eaff-c1c8-4585-b2ed-b34deb843194)
+* $(ID:666d07b0-690a-4064-9418-7b10cdf60a6c)
+
+## $(ID:f5314a3f-61a3-4dd8-9237-ad8935a16250)
+
+* $(ID:3228199e-e482-4b95-813d-c32da00bfbb8)
+
+## $(ID:5dba2171-2a11-4e14-b231-7f5d1b5cbeb2)
+
+* $(ID:e14c21c9-ea03-4bc5-8e7f-734b8766875a)
+
+## $(ID:bcd6ae04-eae6-4b2c-b88e-707a8d1bdf22)
+
+* $(ID:14b67bce-5dfd-479f-b412-5bb45aaba159)
+
+$(ID:42fa879d-144a-416e-a19a-706631b8e3b0)
+
+$(ID:8b729587-1aad-42e9-8087-f151e96d161f)
+
+</skeleton>
+    <unit id="bfd18354-de3f-48cb-9a93-4b77ff3da2b0">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Virtual Review</source>
+        <target>虚拟浏览</target>
+      </segment>
+    </unit>
+    <unit id="421b6ac7-6b4c-4815-8dce-3a2e719ac9d6">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Authors: Rui Batista and NVDA Addon Team</source>
+        <target>作者：Rui Batista 及 NVDA 插件团队</target>
+      </segment>
+    </unit>
+    <unit id="0fbe4224-14bc-4c5e-b313-2356484b9bf3">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>下载 [稳定版][1]</target>
+      </segment>
+    </unit>
+    <unit id="a59eaa55-e054-493e-bf13-6b5e644d006e">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [development version][2]</source>
+        <target>下载 [开发版][2]</target>
+      </segment>
+    </unit>
+    <unit id="172bf0da-2b75-43b0-b929-be2bfa3a678c">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2019.3 and beyond</source>
+        <target>NVDA 兼容性：2019.3 及以上版本</target>
+      </segment>
+    </unit>
+    <unit id="5f8f0e6c-c4d0-45aa-8c63-a9efcef1d6a3">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="final">
+        <source>This Addon allows NVDA users to review a Window content in a text box, similar to window virtualization of JAWS for Windows.</source>
+        <target>此插件允许 NVDA 用户在文本框中对窗口内容进行浏览，类似于 JAWS for Windows 的窗口虚拟化功能。</target>
+      </segment>
+    </unit>
+    <unit id="f804b44d-0f64-4686-89dd-283aa026412d">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>Note, however, that this is just a convenience for users and does not replace NVDA's excellent review modes and object navigation support.</source>
+        <target>请注意，此功能仅为用户提供便利，并不能替代 NVDA 卓越的浏览模式和对象导航支持。</target>
+      </segment>
+    </unit>
+    <unit id="69643ffc-6b2e-4676-8584-c7c6d54796d2">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Usage ##</source>
+        <target>使用方法 ##</target>
+      </segment>
+    </unit>
+    <unit id="19af4a4e-ae97-480b-bb3d-2155b1c84e22">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="final">
+        <source>Press NVDA+control+w to open the virtual revision Window.</source>
+        <target>按下 NVDA+Control+W 打开虚拟浏览窗口。</target>
+      </segment>
+    </unit>
+    <unit id="100618a6-cb4a-4f92-b2e3-4ea2dd455a66">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+      </notes>
+      <segment state="final">
+        <source>Then simply navigate the shown textbox as you do in any other text content.</source>
+        <target>随后即可像处理其他文本内容一样对显示的文本框进行导航。</target>
+      </segment>
+    </unit>
+    <unit id="730521df-a6f8-4f74-93d7-09671e518ede">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="final">
+        <source>You can press Escape to close the virtual revision window.</source>
+        <target>按 Escape 键可关闭虚拟浏览窗口。</target>
+      </segment>
+    </unit>
+    <unit id="a94bb8d5-d29a-43c8-af3c-6aa0406428c2">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 3.0</source>
+        <target>3.0 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="1fd6c986-feb5-48e3-86ca-73ff3bd6ef0a">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>需要 NVDA 2019.3 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="8aefa284-c7b9-4747-86aa-fa514c86c061">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.3</source>
+        <target>2.3 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="3fa93add-ea6b-45d3-ab16-5268deea40c6">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>支持未来 NVDA 版本的内部调整。</target>
+      </segment>
+    </unit>
+    <unit id="6b21ecbc-2c01-4c82-9d02-0093732ba333">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.2</source>
+        <target>2.2 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="bbc4c6f4-aab4-47d2-bc62-dc3dce48882c">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When windows are minimized or if the foreground window has no title, NVDA will record this fact when displaying virtual review window.</source>
+        <target>当窗口最小化或前景窗口无标题时，NVDA 将在显示虚拟浏览窗口时记录该状态。</target>
+      </segment>
+    </unit>
+    <unit id="fafc0124-a19f-4eb4-b322-a7962b6c0ef8">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.1</source>
+        <target>2.1 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="a5601c9d-44ad-4608-941a-3a1ac171d02e">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The title of the screen under virtual review will be included.</source>
+        <target>将包含被虚拟浏览屏幕的标题。</target>
+      </segment>
+    </unit>
+    <unit id="638c04a8-3f1a-4ab1-b7aa-692792d18e2d">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>It is now possible to review contents of Universal Windows Platform (UWP) apps in Windows 10 and most modern apps in Windows 8.x.</source>
+        <target>现可浏览 Windows 10 通用 Windows 平台（UWP）应用及 Windows 8.x 多数现代应用的内容。</target>
+      </segment>
+    </unit>
+    <unit id="4bd06c82-8409-42cc-a77a-d6521f3ca37d">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When obtaining screen contents for modern and universal apps, a beep will be heard to indicate when the virtual review window is ready.</source>
+        <target>获取现代应用和通用应用的内容时，会听到提示音表示虚拟浏览窗口已就绪。</target>
+      </segment>
+    </unit>
+    <unit id="8d4bd436-34da-4d6c-86ec-a62d78f17595">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.0</source>
+        <target>2.0 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="6a333a31-2657-47bb-b837-7a47d8764579">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>New name: Virtual Review.</source>
+        <target>新名称：虚拟浏览（Virtual Review）</target>
+      </segment>
+    </unit>
+    <unit id="a17e58c1-3052-432d-b671-0e3002312a02">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Due to changes in how content is shown, NVDA 2015.2 or later is required.</source>
+        <target>因内容展示方式变更，需要 NVDA 2015.2 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="5bea37b2-9bd5-4393-8c5c-70e0850f5467">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Thanks to new features in 2015.2 and later, you can now find text in virtualized windows.</source>
+        <target>借助 2015.2 及后续版本的新功能，现可在虚拟化窗口中查找文本。</target>
+      </segment>
+    </unit>
+    <unit id="f81e9e2c-a4ff-4956-9ce5-e42425c08db3">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed the add-on functionality with non-console window.</source>
+        <target>修复了非控制台窗口的插件功能。</target>
+      </segment>
+    </unit>
+    <unit id="8478d42e-0aaa-4f78-b0c2-420cc0c79211">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed useless blank lines at bottom of virtualized console window.</source>
+        <target>移除了虚拟化控制台窗口底部无用的空行。</target>
+      </segment>
+    </unit>
+    <unit id="7512eaff-c1c8-4585-b2ed-b34deb843194">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Some minor adjustments.</source>
+        <target>若干细微调整。</target>
+      </segment>
+    </unit>
+    <unit id="666d07b0-690a-4064-9418-7b10cdf60a6c">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Translations added.</source>
+        <target>新增翻译支持。</target>
+      </segment>
+    </unit>
+    <unit id="f5314a3f-61a3-4dd8-9237-ad8935a16250">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.2</source>
+        <target>1.2 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="3228199e-e482-4b95-813d-c32da00bfbb8">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Support virtualizing of console windows</source>
+        <target>支持控制台窗口虚拟化</target>
+      </segment>
+    </unit>
+    <unit id="5dba2171-2a11-4e14-b231-7f5d1b5cbeb2">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.1</source>
+        <target>1.1 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="e14c21c9-ea03-4bc5-8e7f-734b8766875a">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Converted virtual revision to an add-on.</source>
+        <target>将虚拟浏览转换为插件形式。</target>
+      </segment>
+    </unit>
+    <unit id="bcd6ae04-eae6-4b2c-b88e-707a8d1bdf22">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.0</source>
+        <target>1.0 版本变更</target>
+      </segment>
+    </unit>
+    <unit id="14b67bce-5dfd-479f-b412-5bb45aaba159">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial Release</source>
+        <target>初始版本</target>
+      </segment>
+    </unit>
+    <unit id="42fa879d-144a-416e-a19a-706631b8e3b0">
+      <notes>
+        <note appliesTo="source">line: 58</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: http://addons.nvda-project.org/files/get.php?file=VR</source>
+        <target>[1]: http://addons.nvda-project.org/files/get.php?file=VR</target>
+      </segment>
+    </unit>
+    <unit id="8b729587-1aad-42e9-8087-f151e96d161f">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+      </notes>
+      <segment state="final">
+        <source>[2]: http://addons.nvda-project.org/files/get.php?file=VR</source>
+        <target>[2]: http://addons.nvda-project.org/files/get.php?file=VR</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

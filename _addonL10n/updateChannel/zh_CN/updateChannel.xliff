@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="updateChannel.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/updateChannel/updateChannel.md">
+    <skeleton>
+* $(ID:aac4233d-3214-4664-8094-43c287f8afbb)
+* $(ID:3f6251e8-dbed-4a73-8acb-a8906f524196)
+* $(ID:c36997a2-0960-4ff4-b50f-8c10aa6b6d5d)
+
+$(ID:c68d87e2-8821-4617-8a92-834dc50b58e5)
+
+## $(ID:839cf04c-d079-47b8-b041-45a97fef13df)
+
+$(ID:36c057e4-caf6-43e9-a517-e01706525677)
+
+* $(ID:c4b96476-94e9-48ca-8158-5010386fa112)
+* $(ID:3edf6e64-2de1-455b-aaf6-f39c405d5289)
+* $(ID:4af91d2d-93ce-4a58-a1f5-a1164c4eff4d)
+* $(ID:959ad8fa-eaf0-42d6-b60e-ea4e971f7375)
+* $(ID:d295c574-4d5f-4d2c-8357-8f7e6f2454e5)
+
+$(ID:677c00f8-c8ca-47f2-9b6e-c9ca58e77e76)
+
+* $(ID:a25f02b2-0c54-4c16-ab31-503330b8100e)
+* $(ID:25bd4e58-d786-4bb8-8cfd-73979c6c6791)
+
+## $(ID:a792e27a-182d-4d71-b916-6ce6366aab32)
+
+### $(ID:ed8307ee-d620-4e7f-b5ac-8dacad4839ce)
+
+* $(ID:54944219-62d8-4979-a3c8-321a58845d0f)
+* $(ID:a1fa5c4f-83d2-412b-a971-281cd71fee0c)
+* $(ID:b47e9328-b906-41fb-965b-bf0d28f5af2b)
+
+### $(ID:5031b322-c3d4-4fc8-ad5d-79f028098925)
+
+* $(ID:5ca1f71e-c7dc-4f2d-9f39-dd3a0651f45b)
+* $(ID:c03c2793-016d-4c2d-95c1-ea580515aaf0)
+
+### $(ID:592dee29-ceb9-4e70-a3a0-1b59a291c584)
+
+* $(ID:fde4d000-2fa3-4fb9-a8b9-ca4d75b5f1e3)
+* $(ID:1c1e2094-bb51-4d6d-b195-2ea3f3ec328d)
+* $(ID:4ffdb2aa-da16-45b7-ace9-ff43f7fead80)
+* $(ID:7f31cec6-7562-4f0d-9ef2-92733cbd1be0)
+
+### $(ID:b39055c3-174f-4d90-80f4-c9eb6be8c541)
+
+* $(ID:4bff76cc-c287-4ca3-ab42-a1de67bb724c)
+* $(ID:12065fea-3aaa-49f3-b18e-68ef435a683f)
+* $(ID:374ac0d6-ed27-46ec-a7c1-f2697c1f86a6)
+
+### $(ID:7128a1b4-d82e-4b9f-a78f-cf4ac289c697)
+
+* $(ID:5ad7b1b0-88b8-4b40-bbe2-0b306c669ffa)
+
+$(ID:f0698abc-1bbd-452a-9fb0-7d3f52f47f0b)
+
+$(ID:9efdd97f-9ce2-4df4-b3a1-331690cdd620)
+</skeleton>
+    <unit id="aac4233d-3214-4664-8094-43c287f8afbb">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: Jose Manuel Delicado</source>
+        <target>作者： Jose Manuel Delicado</target>
+      </segment>
+    </unit>
+    <unit id="3f6251e8-dbed-4a73-8acb-a8906f524196">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2022.4 and beyond</source>
+        <target>NVDA 兼容性：2023.3.4 及更高版本</target>
+      </segment>
+    </unit>
+    <unit id="c36997a2-0960-4ff4-b50f-8c10aa6b6d5d">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>下载 [稳定版][1]</target>
+      </segment>
+    </unit>
+    <unit id="c68d87e2-8821-4617-8a92-834dc50b58e5">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on allows you to download and install the latest NVDA version of the chosen type without visiting any webpage nor using your web browser. It is useful when, for example, you want to test new features in a NVDA snapshot and then return back to the most recent stable release. If you test regularly NVDA snapshots and you usually install them in your computer, you will save a lot of time with this add-on. If you prefer testing snapshots in portable mode keeping your installed copy of NVDA unchanged, this add-on is for you as well.</source>
+        <target>此插件允许您下载并安装所选通道的最新 NVDA 版本，而无需访问任何网页或使用 Web 浏览器。例如，当您想要测试 NVDA 快照中的新功能，然后返回到最新的稳定版本时，此插件将很有用。如果您定期测试 NVDA 快照，并且通常将其安装在您的计算机中，则使用此插件可以节省大量时间。如果您喜欢在便携版中测试快照，并保持已安装的 NVDA 副本不变，则此插件也适合您。</target>
+      </segment>
+    </unit>
+    <unit id="839cf04c-d079-47b8-b041-45a97fef13df">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Usage</source>
+        <target>用法</target>
+      </segment>
+    </unit>
+    <unit id="36c057e4-caf6-43e9-a517-e01706525677">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>You can change the NVDA update channel by going to NVDA menu, Preferences, Settings, Update channel category. Once you choose the desired channel and press OK, wait until the next automatic update check or go to NVDA help menu and choose "Check for updates" option. For now, these are the available channels:</source>
+        <target>您可以通过转到 NVDA菜单、选项、设置、更新通道类别来更改NVDA更新通道。选择所需通道并点击“确定”后，等待下一次自动检查更新，或转到 NVDA 帮助菜单并选择“检查更新”选项。以下是可用的更新通道：</target>
+      </segment>
+    </unit>
+    <unit id="c4b96476-94e9-48ca-8158-5010386fa112">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Default: this is the default channel used by your NVDA version. Choosing this option means the same as disabling the add-on.</source>
+        <target>默认：这是您的 NVDA 版本使用的默认更新通道。选择此选项意味着与禁用此插件相同。</target>
+      </segment>
+    </unit>
+    <unit id="3edf6e64-2de1-455b-aaf6-f39c405d5289">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Stable: force update channel to stable. Useful when you want to return to a stable version from a snapshot.</source>
+        <target>稳定版：这是稳定版的默认更新通道。当您想从测试快照返回到稳定版本时很有用。</target>
+      </segment>
+    </unit>
+    <unit id="4af91d2d-93ce-4a58-a1f5-a1164c4eff4d">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Rc and beta: this is the channel for beta releases. You will receive the first beta version once it is released. This channel allows you to update through betas and release candidates until you reach the next stable version.</source>
+        <target>Rc（候选版）和 Beta（测试版）： ，第一个公开测试版发布后，您就会收到更新。该渠道可以让您从 Beta 版更新到 RC 候选版。</target>
+      </segment>
+    </unit>
+    <unit id="959ad8fa-eaf0-42d6-b60e-ea4e971f7375">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Alpha (snapshots): choose this option to update to the latest alpha. Alpha snapshots allows you to test new features, but they are quite unstable. Please, be careful.</source>
+        <target>Alpha（快照）：选择此选项可更新到最新的 Alpha。 Alpha 快照允许您测试新功能，但它们非常不稳定。请慎用。</target>
+      </segment>
+    </unit>
+    <unit id="d295c574-4d5f-4d2c-8357-8f7e6f2454e5">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Disable updates (not recommended): this option disables the update channel. If you check for updates an error message will be displayed. Remember that you can disable automatic updates from the General settings category. Use this option only with testing purposes.</source>
+        <target>禁用更新（不推荐）：此选项禁用更新通道。如果检查更新，将显示错误消息。请注意，您可以从“常规设置”类别禁用自动更新。此选项仅用于测试目的。</target>
+      </segment>
+    </unit>
+    <unit id="677c00f8-c8ca-47f2-9b6e-c9ca58e77e76">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="final">
+        <source>Information about available updates for each channel will be retrieved in the background once the settings panel is opened. Press tab to navigate to a read only edit field, where you can see this information. This information will be dynamically updated when you change the update channel from the combo box. If there is an update available for the selected channel, one or two links will appear next to the edit field:</source>
+        <target>打开设置面板后，将在后台检索有关每个通道的可用更新信息。按 Tab 导航到只读编辑框，您可以在其中查看此信息。当您从组合框中更改更新通道时，此信息将动态更新。如果所选通道有可用更新，则编辑框旁边将显示一个或两个链接：</target>
+      </segment>
+    </unit>
+    <unit id="a25f02b2-0c54-4c16-ab31-503330b8100e">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download: press spacebar on this link to open it in your web browser and download the latest installer.</source>
+        <target>下载：在此链接上按空格键可在您的 Web 浏览器中打开并下载最新的安装程序。</target>
+      </segment>
+    </unit>
+    <unit id="25bd4e58-d786-4bb8-8cfd-73979c6c6791">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>View changelog: press spacebar on this link to open the What's new document in your web browser. For some channels, this link won't be displayed.</source>
+        <target>查看更新日志：在此链接上按空格键可在您的 Web 浏览器中打开更新日志文档。对于某些通道，将不会显示此链接。</target>
+      </segment>
+    </unit>
+    <unit id="a792e27a-182d-4d71-b916-6ce6366aab32">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changelog</source>
+        <target>更新日志</target>
+      </segment>
+    </unit>
+    <unit id="ed8307ee-d620-4e7f-b5ac-8dacad4839ce">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.4</source>
+        <target>1.4 版</target>
+      </segment>
+    </unit>
+    <unit id="54944219-62d8-4979-a3c8-321a58845d0f">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>更新翻译。</target>
+      </segment>
+    </unit>
+    <unit id="a1fa5c4f-83d2-412b-a971-281cd71fee0c">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>兼容 NVDA 2023.1。</target>
+      </segment>
+    </unit>
+    <unit id="b47e9328-b906-41fb-965b-bf0d28f5af2b">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For security reasons, minimum NVDA version is set to 2022.4.</source>
+        <target>出于安全考虑，将兼容的最低 NVDA 版本设置为 2022.4。</target>
+      </segment>
+    </unit>
+    <unit id="5031b322-c3d4-4fc8-ad5d-79f028098925">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.3</source>
+        <target>1.3 版</target>
+      </segment>
+    </unit>
+    <unit id="5ca1f71e-c7dc-4f2d-9f39-dd3a0651f45b">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>更新翻译。</target>
+      </segment>
+    </unit>
+    <unit id="c03c2793-016d-4c2d-95c1-ea580515aaf0">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed a bug which prevented creating portable copies from alpha snapshots.</source>
+        <target>修复了无法从 alpha 快照创建便携版的错误。</target>
+      </segment>
+    </unit>
+    <unit id="592dee29-ceb9-4e70-a3a0-1b59a291c584">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.2</source>
+        <target>1.2版</target>
+      </segment>
+    </unit>
+    <unit id="fde4d000-2fa3-4fb9-a8b9-ca4d75b5f1e3">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>更新翻译。</target>
+      </segment>
+    </unit>
+    <unit id="1c1e2094-bb51-4d6d-b195-2ea3f3ec328d">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2022.1.</source>
+        <target>兼容 NVDA 2022.1。</target>
+      </segment>
+    </unit>
+    <unit id="4ffdb2aa-da16-45b7-ace9-ff43f7fead80">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For security reasons, minimum NVDA version is set to 2021.3.</source>
+        <target>出于安全考虑，将兼容的最低 NVDA 版本设置为 2021.3。</target>
+      </segment>
+    </unit>
+    <unit id="7f31cec6-7562-4f0d-9ef2-92733cbd1be0">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Workaround for a bug in the NV Access server which caused version 2019.2.1 to be offered when updating from alpha to stable.</source>
+        <target>解决了 NV Access 服务器中返回信息的一个错误，该错误导致从 alpha 版更新到稳定版时会更新为 2019.2.1。</target>
+      </segment>
+    </unit>
+    <unit id="b39055c3-174f-4d90-80f4-c9eb6be8c541">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.1</source>
+        <target>1.1 版</target>
+      </segment>
+    </unit>
+    <unit id="4bff76cc-c287-4ca3-ab42-a1de67bb724c">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed unsupported channels.</source>
+        <target>移除不支持的通道。</target>
+      </segment>
+    </unit>
+    <unit id="12065fea-3aaa-49f3-b18e-68ef435a683f">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated translations.</source>
+        <target>更新翻译。</target>
+      </segment>
+    </unit>
+    <unit id="374ac0d6-ed27-46ec-a7c1-f2697c1f86a6">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added information of currently available updates to the settings panel.</source>
+        <target>在设置面板中添加了当前可用更新的信息。</target>
+      </segment>
+    </unit>
+    <unit id="7128a1b4-d82e-4b9f-a78f-cf4ac289c697">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: ### </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.0</source>
+        <target>1.0 版</target>
+      </segment>
+    </unit>
+    <unit id="5ad7b1b0-88b8-4b40-bbe2-0b306c669ffa">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>初始版本。</target>
+      </segment>
+    </unit>
+    <unit id="f0698abc-1bbd-452a-9fb0-7d3f52f47f0b">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+      </notes>
+      <segment state="final">
+        <source>[[!tag dev stable]]</source>
+        <target>[[!tag dev stable]]</target>
+      </segment>
+    </unit>
+    <unit id="9efdd97f-9ce2-4df4-b3a1-331690cdd620">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=updchannelselect</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=updchannelselect</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

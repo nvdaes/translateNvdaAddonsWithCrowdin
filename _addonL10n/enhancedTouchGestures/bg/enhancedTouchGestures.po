@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-05 14:28+0000\n"
+"PO-Revision-Date: 2025-12-15 01:03\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: bg\n"
+"X-Crowdin-File: enhancedTouchGestures.pot\n"
+"X-Crowdin-File-ID: 210\n"
+
+#. Translators: The gestures category for this add-on in input gestures dialog (2013.3 or later).
+#. Add-on summary/title, usually the user visible name of the add-on
+#. Translators: Summary/title for this add-on
+#. to be shown on installation and add-on information found in add-on store
+#: addon/globalPlugins/enhancedTouchGestures.py:33 buildVars.py:21
+msgid "Enhanced Touch Gestures"
+msgstr "Подобрени сензорни жестове (Enhanced Touch Gestures)"
+
+#. Translators: input help message for Enhanced touch Gestures command.
+#: addon/globalPlugins/enhancedTouchGestures.py:250
+msgid "Toggles touch keyboard"
+msgstr "Показва или скрива сензорната клавиатура"
+
+#. Translators: message shown when touch keyboard button is not found.
+#: addon/globalPlugins/enhancedTouchGestures.py:264
+msgid "Cannot activate touch keyboard"
+msgstr "Не може да се задейства сензорната клавиатура"
+
+#. Translators: input help message for Enhanced touch Gestures command.
+#: addon/globalPlugins/enhancedTouchGestures.py:269
+msgid "Toggles voice dictation"
+msgstr "Задейства или спира гласовото въвеждане"
+
+#. Translators: message shown when dictation command is unavailable.
+#: addon/globalPlugins/enhancedTouchGestures.py:280
+msgid "Dictation is supported on Windows 10 Version 1709 or later"
+msgstr "Гласовото въвеждане се поддържа в Windows 10 версия 1709 или по-нови"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:24
+msgid "A suite of additional touch commands, including navigation and help commands.\n"
+"\tRequires a touch-enabled computer with Windows 8.1 or later with NVDA 2017.4 or later installed."
+msgstr "Комплект допълнителни сензорни команди, включително команди за табулация и помощ.\n"
+"\tИзисква компютър със сензорна поддръжка с Windows 8.1 или по-нова версия и NVDA 2017.4 или по-нова версия."
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:30
+msgid "* Made the add-on code more robust with help from Pyright (a Python static type checker)."
+msgstr "* Кодът на добавката е направен по-стабилен с помощта на Pyright (програма за проверка на статичен тип на Python)."
+

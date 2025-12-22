@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="beepKeyboard.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/beepKeyboard/beepKeyboard.md">
+    <skeleton>
+# $(ID:3de31c59-6cd5-4f97-8c38-1e8de8d51d7c)
+$(ID:d5ee4d19-4634-4461-87d4-f79727c596f4)
+
+$(ID:6f430b69-6528-4ef0-b545-b5890567f5af)
+
+$(ID:70c5ab43-9fdc-41d6-8eaf-95b6624d671a)
+
+## $(ID:e3bb9c4a-971e-46b9-995b-ed97bf670867)
+$(ID:601fbc0d-beea-44ba-a242-f128892a1f24)
+
+* $(ID:14de29d3-d37f-4a2f-bbae-a8c4085e1d43)
+* $(ID:21087029-3810-4b7a-97f5-70b68c0fbd83)
+* $(ID:3f1efd9d-3519-418d-8366-81b09cb83428)
+* $(ID:5d4b74a5-f1c3-462e-87f3-25d3d26c00bc)
+* $(ID:7d6c3b27-4f83-4649-9f26-b6afb6ff7a34)
+* $(ID:f084d7e8-af85-4c00-96e0-fb5c6b561981)
+## $(ID:ac61d917-21ff-4c3a-afd7-8308f8b67579)
+$(ID:d551a495-a5d1-4535-bfca-77d7b489b95a)
+
+## $(ID:6502334a-9b45-4adc-b5a5-efc22e8dd773)
+$(ID:76cf5185-83dd-43cd-a910-c50b1f32b717)
+
+## $(ID:ca1a6d1c-0b2b-4fca-8c78-14adcce918c8)
+$(ID:a200fedc-8059-4a32-aff1-47fd5fb1a63a)
+$(ID:b8cd602b-a2e3-4682-8ba5-e93190957340)
+$(ID:05321e2a-cda7-443e-a53c-c82b04ca6049)
+
+* $(ID:1e202b4e-613a-40b3-b5c7-76da7cc535cc)
+* $(ID:58c9c95c-e562-40d6-9c04-74dd97b871f2)
+* $(ID:8a1601ce-0680-4b44-a463-ef08543dafc6)
+* $(ID:de562650-6738-41b4-b0d4-772479bc9570)
+* $(ID:fff716b1-e8a8-4426-9e38-c22d21cb1146)
+* $(ID:27246a2a-bf82-46d8-95c1-6f8a73e0cea4)
+* $(ID:3a40b608-f435-48d4-8a95-1af6fe35a20e)
+* $(ID:e3267597-99fe-4071-a5df-4a53303af6a7)
+
+</skeleton>
+    <unit id="3de31c59-6cd5-4f97-8c38-1e8de8d51d7c">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep keyboard NVDA Add-on #</source>
+        <target>Sesli klavye #</target>
+      </segment>
+    </unit>
+    <unit id="d5ee4d19-4634-4461-87d4-f79727c596f4">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on allows the user to configure NVDA to beeps with some keyboard events.</source>
+        <target>Bu eklentiyle NVDA'yı bazı klavye tuşlarına basıldığında bip sesi çıkartmak üzere ayarlayabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="6f430b69-6528-4ef0-b545-b5890567f5af">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+      </notes>
+      <segment state="translated">
+        <source>Copyright (C) 2019 David CM &lt;dhf360@gmail.com&gt;</source>
+        <target>Telif hakkı (C) 2019 David CM &lt;dhf360@gmail.com&gt;</target>
+      </segment>
+    </unit>
+    <unit id="70c5ab43-9fdc-41d6-8eaf-95b6624d671a">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>This package is distributed under the terms of the GNU General Public License, version 2 or later.</source>
+        <target>Bu paket, GNU Genel Kamu Lisansı, sürüm 2 veya sonraki şartları altında dağıtılır.</target>
+      </segment>
+    </unit>
+    <unit id="e3bb9c4a-971e-46b9-995b-ed97bf670867">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Features</source>
+        <target>Özellikler</target>
+      </segment>
+    </unit>
+    <unit id="601fbc0d-beea-44ba-a242-f128892a1f24">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="translated">
+        <source>  This add-on provides the following features you can use to adapt NVDA keyboard behavior:</source>
+        <target>  Eklenti sayesinde NVDA'nın klavye davranışlarını değiştirmek için aşağıdaki özellikleri kullanabilirsiniz:</target>
+      </segment>
+    </unit>
+    <unit id="14de29d3-d37f-4a2f-bbae-a8c4085e1d43">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep for uppercases  when caps lock is on: if this feature is enabled, NVDA will beep when you typing an uppercase and caps lock is on. Don't make any more uppercase mistakes!</source>
+        <target>Büyük Harf Kilidi açıkken büyük harf yazıldığında bip sesi çıkar: Bu özellik etkinken capslock açıkken büyük harf yazarsanız NVDA bip sesi çıkarır. Büyük harf hatası yapmamış olursunuz!</target>
+      </segment>
+    </unit>
+    <unit id="21087029-3810-4b7a-97f5-70b68c0fbd83">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep for typed characters when shift is pressed: with this feature NVDA will beep if you type a character with shift key pressed.</source>
+        <target>Shift tuşu basılıyken karakter yazıldığında bip sesi çıkar: Shift tuşunu basılı tutarken karakter yazdığınızda NVDA bip sesi çıkarır.</target>
+      </segment>
+    </unit>
+    <unit id="3f1efd9d-3519-418d-8366-81b09cb83428">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep for toggle keys changes: with this feature, NVDA will beep higher if a toggle key goes on, and lower tone if it goes off. Please note that Windows has a toggle keis beep function built-in on Ease of Access Center. This native feature works well if you don't use laptop keyboard layout setting.</source>
+        <target>Açılıp kapanan tuşların durumu değiştiğinde bip sesi çıkar: Açılıp kapanan tuşlardan biri açılırsa NVDA daha ince bir bip sesi çıkarır, kapanırsa kalın bir bip sesi çıkarır.
+Windows'un erişim kolaylığı merkezinde bu tuşlar açılıp kapandığında ses çalmasına yarayan geçiş tuşları özelliği olduğunu unutmayın. Dizüstü klavye dizinini kullanmıyorsanız Windows'un özelliği iyi çalışır.</target>
+      </segment>
+    </unit>
+    <unit id="5d4b74a5-f1c3-462e-87f3-25d3d26c00bc">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Announce toggle keys changes: just when "Beep for toggle keys changes" is on. You can enable or disable NVDA to announce toggle key status.</source>
+        <target>Açılıp kapanan tuş değişikliklerini söyle: Açılıp kapanan tuşların durumu değiştiğinde bip sesi çıkar özelliği açıkken NVDA'nın açılıp kapanan tuşların durumunu söylemesini açıp kapatabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="7d6c3b27-4f83-4649-9f26-b6afb6ff7a34">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep for specified characters: NVDA will beep for all characters that you set in advanced settings.</source>
+        <target>Belirli karakterler yazıldığında bip sesi çıkar: Gelişmiş ayarlarda ayarladığınız tüm karakterler yazıldığında NVDA bip sesi çıkarır.</target>
+      </segment>
+    </unit>
+    <unit id="f084d7e8-af85-4c00-96e0-fb5c6b561981">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Disable beeping on password fields: this feature is enabled by default to aboid security risks. Disable it if you want to hear beeps on password fields.</source>
+        <target>Şifre alanlarında bip sesi çıkarma: Güvenlik risklerini önlemek için bu özellik varsayılan olarak açıktır. NVDA'nın şifre alanlarında bip sesi çıkarmasını istiyorsanız özelliği kapatabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="ac61d917-21ff-4c3a-afd7-8308f8b67579">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Requirements</source>
+        <target>Gereksinimler</target>
+      </segment>
+    </unit>
+    <unit id="d551a495-a5d1-4535-bfca-77d7b489b95a">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+      </notes>
+      <segment state="translated">
+        <source>  You need NVDA 2018.2 or later.</source>
+        <target>  NVDA 2018.2 veya üstü sürüm gerektirir.</target>
+      </segment>
+    </unit>
+    <unit id="6502334a-9b45-4adc-b5a5-efc22e8dd773">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Installation</source>
+        <target>Kurulum</target>
+      </segment>
+    </unit>
+    <unit id="76cf5185-83dd-43cd-a910-c50b1f32b717">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="translated">
+        <source>  Just install it as a NVDA add-on.</source>
+        <target>  Özelliği NVDA eklentisi olarak yükleyebilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="ca1a6d1c-0b2b-4fca-8c78-14adcce918c8">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Usage</source>
+        <target>Kullanım</target>
+      </segment>
+    </unit>
+    <unit id="a200fedc-8059-4a32-aff1-47fd5fb1a63a">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+      </notes>
+      <segment state="translated">
+        <source>  To enable or disable features, go to NVDA settings and select beep keyboard category. In that category you can configure all  supported features by this add-on.</source>
+        <target>  Özellikleri etkinleştirmek veya devre dışı bırakmak için NVDA ayarlarına gidin ve Sesli klavye kategorisini seçin. Bu kategoride, desteklenen tüm özellikleri bu eklentiyle yapılandırabilirsiniz.</target>
+      </segment>
+    </unit>
+    <unit id="b8cd602b-a2e3-4682-8ba5-e93190957340">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+      </notes>
+      <segment state="translated">
+        <source>  "Beep for uppercases  when caps lock is on" is enabled by default.</source>
+        <target>  "Büyük harf kilidi açıkken büyük harfler için bip sesi"  varsayılan olarak etkindir.</target>
+      </segment>
+    </unit>
+    <unit id="05321e2a-cda7-443e-a53c-c82b04ca6049">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+      </notes>
+      <segment state="translated">
+        <source>  If you need more settings, open the advanced settings dialog that contains the following options:</source>
+        <target>  Daha fazla ayarlama yapmak istiyorsanız aşağıdaki seçenekleri içeren gelişmiş ayarlar iletişim kutusunu kullanın:</target>
+      </segment>
+    </unit>
+    <unit id="1e202b4e-613a-40b3-b5c7-76da7cc535cc">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Ignored characters with shift pressed: all characters here will be ignored to beeping when shift is pressed. Escape Sequences are allowed, e.g. "\t" for tab, "\r" for carriage return.</source>
+        <target>Shift tuşu basılıyken yoksayılacak karakterler: Shift tuşu basılıyken bu karakterler yazılırsa NVDA bip sesi çıkarmayacaktır. Tab için "\t", satır başı için "\r" gibi kaçış dizileri de yazılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="58c9c95c-e562-40d6-9c04-74dd97b871f2">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Beep always for the following characters: set here all characters that you want NVDA beeps for. Escape Sequences are allowed, e.g. "\t" for tab, "\r" for carriage return.</source>
+        <target>Şu karakterler yazıldığında her zaman bip sesi çıkar: NVDA'nın her zaman bip sesi çıkarmasını istediğiniz karakterleri yazın. Tab için "\t", satır başı için "\r" gibi kaçış dizileri de yazılabilir.</target>
+      </segment>
+    </unit>
+    <unit id="8a1601ce-0680-4b44-a463-ef08543dafc6">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Select tone to configure: you can configure parameters for all tones. Select one here, and set the parameters in the next text boxes. When change selection, NVDA will beep for the current selected tone with the current parameters set in the dialog.</source>
+        <target>Ayarlamak için ses seçin: Tüm seslerin parametrelerini ayarlayabilirsiniz. Buradan sesi seçtikten sonra metin kutularından sesi ayarlayabilirsiniz. Seçiminizi değiştirdiğinizde yaptığınız ayarlarla seçtiğiniz sesi duyacaksınız.</target>
+      </segment>
+    </unit>
+    <unit id="de562650-6738-41b4-b0d4-772479bc9570">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Tone pitch: tone pitch for the current selected tone.</source>
+        <target>Ses kalınlığı: Seçtiğiniz sesin kalınlığını ayarlamanıza yarar.</target>
+      </segment>
+    </unit>
+    <unit id="fff716b1-e8a8-4426-9e38-c22d21cb1146">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Tone length: tone length for the current selected tone.</source>
+        <target>Ses uzunluğu: Seçtiğiniz sesin uzunluğunu ayarlamanıza yarar.</target>
+      </segment>
+    </unit>
+    <unit id="27246a2a-bf82-46d8-95c1-6f8a73e0cea4">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Tone volume: tone volume for the current selected tone.</source>
+        <target>Ses yüksekliği: Seçtiğiniz sesin yüksekliğini ayarlamanıza yarar.</target>
+      </segment>
+    </unit>
+    <unit id="3a40b608-f435-48d4-8a95-1af6fe35a20e">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Test tone: this button lets you to play a test with the current set parameters.</source>
+        <target>Sesi test et: Yaptığınız ayarlarla seçtiğiniz sesi dinlemenize yarar.</target>
+      </segment>
+    </unit>
+    <unit id="e3267597-99fe-4071-a5df-4a53303af6a7">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Press OK button to save settings or cancel to discard.</source>
+        <target>Ayarları kaydetmeden çıkmak için İptal, kaydetmek için Tamam tuşuna basın.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

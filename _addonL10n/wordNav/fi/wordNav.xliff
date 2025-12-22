@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fi">
+  <file id="wordNav.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/wordNav/wordNav.md">
+    <skeleton>
+# $(ID:88b08d3c-2347-4ecb-9654-090f159b299b)
+$(ID:2c8102bd-7b09-479d-b1d5-f58613e496c3)
+
+$(ID:0caa8245-27a7-4674-8e62-362a5920fb72)
+## $(ID:b0cc14c7-eea5-4531-aef0-413308042ce0)
+$(ID:882dadaf-5041-4c7d-a73e-d21936442631)
+
+$(ID:5ff05c20-45c1-4b2a-aed4-2d3939b0209d)
+$(ID:b1087ee2-6a7d-4c35-867a-fb18fb6195df)
+$(ID:0c93ad1f-bbe3-4db8-86de-e5ae60311b72)
+$(ID:e7ed8666-5b2b-4939-aa02-619e693ea0a8)
+$(ID:b3c7e035-490b-4806-809a-db2f385060db)
+
+$(ID:c0f491ca-74b3-49b7-8f54-993632a5846e)
+
+## $(ID:f0c8c671-b524-44fb-8c42-4de1634471dd)
+
+$(ID:bca29353-a437-49d1-bc22-91661c039dd5)
+
+* $(ID:e31efaa8-45f5-4ad4-a78b-515d0b44b4b5)
+
+$(ID:f4db2ba0-d114-48b3-896a-21d1e5ce72f3)
+
+* $(ID:0230fb3c-5722-493c-815c-797d46d23927)
+* $(ID:b4fdaa3b-bbe6-48e3-a8e1-82b667bf29b4)
+* $(ID:a41239fb-0536-4092-8679-a020dfb5255c)
+* $(ID:79af9d3d-e99a-4ca6-81e8-156165ae6f9a)
+* $(ID:b2892582-97bd-488d-a0c6-0cc6859569b4)
+
+## $(ID:983afb65-70bb-461d-a801-297a8c49efb5)
+
+$(ID:67c30481-9355-43b6-98b6-23c3fe86aa2a)
+$(ID:279f572a-0c5e-4b79-8394-63642f475430)
+
+##  $(ID:29b34072-9044-462c-b882-96ce6711aa41)
+
+$(ID:978b6bac-20db-4aab-a2fc-fb52598b6409)
+
+</skeleton>
+    <unit id="88b08d3c-2347-4ecb-9654-090f159b299b">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>nvda-word-nav</source>
+        <target>nvda-word-nav</target>
+      </segment>
+    </unit>
+    <unit id="2c8102bd-7b09-479d-b1d5-f58613e496c3">
+      <notes>
+        <note appliesTo="source">line: 3</note>
+      </notes>
+      <segment state="final">
+        <source>WordNav NVDA add-on improves built-in navigation  by word, as well as adds extra word navigation commands with different definition for the word. It also provides word selection commands.</source>
+        <target>Sananavigointi-lisäosa parantaa sisäänrakennettua sananavigointia sekä lisää ylimääräisiä komentoja, joilla voi siirtyä eri tavalla määritettyjen sanojen välillä. Lisäosassa on myös sananvalintakomentoja.</target>
+      </segment>
+    </unit>
+    <unit id="0caa8245-27a7-4674-8e62-362a5920fb72">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+      </notes>
+      <segment state="final">
+        <source>Most text editors support Control+LeftArrow/RightArrow commands for word navigation. However the definition of the word changes from one program to another. This is especially true of modern web-based text editors, such as Monaco. NVDA should know the definition of word in given program in order to speak words correctly. If NVDA doesn't know the exact definition, then either words are going to be skipped, or pronounced multiple times. Moreover, some web-based text editors position the cursor in the end of the word, instead of the beginning, making editing much harder for visually impaired users. In order to combat this problem I have created enhanced word navigation commands, that take the word definition from Notepad++ and they do not rely on program's definition of words, but rather parse lines into words on NVDA's side. The Control+LeftArrow/RightArrow gesture is not even sent to the program, thus ensuring the consistency of the speech.</source>
+        <target>Useimmat tekstieditorit tukevat Ctrl+Nuoli vasemmalle/oikealle -komentoja sananavigointia varten. Sanan määritelmä kuitenkin muuttuu ohjelmasta toiseen. Tämä pätee erityisesti nykyaikaisiin verkkopohjaisiin tekstieditoreihin, kuten Monaco. NVDA:n tulee tietää sanan määritelmä tietyssä ohjelmassa voidakseen puhua sanat oikein. Jos NVDA ei tiedä tarkkaa määritelmää, sanat joko ohitetaan tai ne puhutaan useita kertoja. Lisäksi jotkin verkkopohjaiset tekstieditorit sijoittavat kohdistimen sanan loppuun alun sijaan, mikä tekee muokkaamisesta paljon vaikeampaa näkövammaisille käyttäjille. Tämän ongelman torjumiseksi on luotu parannettuja sananavigointikomentoja, jotka ottavat sanamääritelmän Notepad++:sta eivätkä luota ohjelman sanamäärittelyyn vaan jäsentävät rivit sanoiksi NVDA:n sisällä. Ctrl+Nuoli vasemmalle/oikealle -komentoa ei edes lähetetä ohjelmalle, mikä varmistaa puheen johdonmukaisuuden.</target>
+      </segment>
+    </unit>
+    <unit id="b0cc14c7-eea5-4531-aef0-413308042ce0">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Word navigation and word definitions</source>
+        <target>Sananavigointi ja sanojen määritelmät</target>
+      </segment>
+    </unit>
+    <unit id="882dadaf-5041-4c7d-a73e-d21936442631">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="final">
+        <source>Currently WordNav supports five definitions of the word, assigned to different gestures:</source>
+        <target>Sananavigointi-lisäosa tukee tällä hetkellä viittä sanamääritelmää, joille on määritetty eri näppäinkomennot:</target>
+      </segment>
+    </unit>
+    <unit id="5ff05c20-45c1-4b2a-aed4-2d3939b0209d">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="final">
+        <source>- `Left Control+Arrows`: Notepad++ definition, that treats alphanumeric characters as words, and adjacent punctuation marks are also treated as words. This should be the most convenient word definition for the majority of users.</source>
+        <target>Vasen Ctrl+Nuolinäppäimet: Notepad++-määritelmä, joka käsittelee aakkosnumeerisia merkkejä ja vierekkäisiä välimerkkejä sanoina. Tämä sopii todennäköisesti parhaiten valtaosalle käyttäjistä.</target>
+      </segment>
+    </unit>
+    <unit id="b1087ee2-6a7d-4c35-867a-fb18fb6195df">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+      </notes>
+      <segment state="final">
+        <source>- `RightControl+Arrows`: Fine word definition splits `camelCaseIdentifiers` and `underscore_separated_identifiers` into separate parts, thus allowing the cursor to go into long identifiers.</source>
+        <target>`Oikea Ctrl+Nuolinäppäimet`: Tarkka sanamääritelmä jakaa `karavaaniTyyliset` sekä `alaviivalla_erotetut_merkkijonot` erillisiksi osiksi, mikä mahdollistaa kohdistimella liikkumisen pitkissä merkkijonoissa.</target>
+      </segment>
+    </unit>
+    <unit id="0c93ad1f-bbe3-4db8-86de-e5ae60311b72">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+      </notes>
+      <segment state="final">
+        <source>- `LeftControl+Windows+Arros`: Bulky word definition treats almost all punctuation symbols adjacent to text as part of a single word, therefore it would treat paths like `C:\directory\subdirectory\file.txt` as a single word.</source>
+        <target>`Vasen Ctrl+Win+Nuolinäppäimet`: Laaja sanamääritelmä käsittelee lähes kaikki tekstissä kiinni olevat välimerkit yhteen sanaan kuuluvina, jolloin esimerkiksi tiedostopolut kuten `C:\hakemisto\alihakemisto\tiedosto.txt` tulkitaan yhdeksi sanaksi.</target>
+      </segment>
+    </unit>
+    <unit id="e7ed8666-5b2b-4939-aa02-619e693ea0a8">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="final">
+        <source>- `RightControl+Windows+Arros`: Multiword definition, that groups several words together. The amount of words is configurable.</source>
+        <target>`Oikea Ctrl+Win+Nuolinäppäimet`: Monisanamääritelmä, joka ryhmittelee useita sanoja yhteen. Sanojen määrä on muutettavissa.</target>
+      </segment>
+    </unit>
+    <unit id="b3c7e035-490b-4806-809a-db2f385060db">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+      </notes>
+      <segment state="final">
+        <source>- Unassigned: custom regular expression word definition: allows user to define a custom regular expression for word boundaries.</source>
+        <target>Ei määritetty: Mukautetun sääntölausekkeen sanamääritelmällä käyttäjä voi määritellä sanan rajat mukautetun säännöllisen lausekkeen avulla.</target>
+      </segment>
+    </unit>
+    <unit id="c0f491ca-74b3-49b7-8f54-993632a5846e">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+      </notes>
+      <segment state="final">
+        <source>Gestures can be customized in WordNav settings panel.</source>
+        <target>Näppäinkomentoja on mahdollista muuttaa Sananavigoinnin asetuspaneelissa.</target>
+      </segment>
+    </unit>
+    <unit id="f0c8c671-b524-44fb-8c42-4de1634471dd">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Word selection</source>
+        <target>Sanan valitseminen</target>
+      </segment>
+    </unit>
+    <unit id="bca29353-a437-49d1-bc22-91661c039dd5">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+      </notes>
+      <segment state="final">
+        <source>Word selection is supported starting with WordNav v2.0. Just add `shift` modifier to any word navigation gestures to select words. There is also one extra gesture for word selection:</source>
+        <target>Sanan valitsemista tuetaan lisäosan versiosta 2.0 lähtien. Valitse sanoja lisäämällä mihin tahansa sananavigointikomentoon `Vaihto`-näppäin. Sanan valintaa varten on myös yksi lisäkomento:</target>
+      </segment>
+    </unit>
+    <unit id="e31efaa8-45f5-4ad4-a78b-515d0b44b4b5">
+      <notes>
+        <note appliesTo="source">line: 21</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>`control+shift+numpad1` and `control+windows+shift+numpad1` select word to the right similar to their `rightArrow` counterparts, but they also include trailing spaces into selection.</source>
+        <target>`Ctrl+Vaihto+Laskinnäppäimistön 1` ja `Ctrl+Win+Vaihto+Laskinnäppäimistön 1` valitsevat sanan kohdistimen oikealta puolelta samaan tapaan kuin niiden `oikeaa nuolinäppäintä` käyttävät vastineet, mutta ne sisällyttävät valintaan myös sanan jälkeiset välilyönnit.</target>
+      </segment>
+    </unit>
+    <unit id="f4db2ba0-d114-48b3-896a-21d1e5ce72f3">
+      <notes>
+        <note appliesTo="source">line: 23</note>
+      </notes>
+      <segment state="final">
+        <source>Please note, however, that currently used accessibility APIs have multiple issues related to word selection. Please get yourself familiar with the following list of issues and workarounds:</source>
+        <target>Huomioithan kuitenkin, että tällä hetkellä käytössä olevissa saavutettavuusrajapinnoissa on useita sanan valintaan liittyviä ongelmia. Tutustu seuraavaan luetteloon ongelmista ja niiden kiertotavoista:</target>
+      </segment>
+    </unit>
+    <unit id="0230fb3c-5722-493c-815c-797d46d23927">
+      <notes>
+        <note appliesTo="source">line: 25</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>UIA applications (e.g. Notepad, Visual Studio, Microsoft Word) don't support setting caret at the beginning of selection. In those  applications caret location is stored on WordNav side. As an adverse side effect, word navigation commands might not play well with line and paragraph selection commands (`shift+up/downArrow`, `control+shift+up/downArrow`) and results might be unpredictable. For convenience, character selection commands (`shift+left/rightArrow`) have been updated in WordNav for UIA applications and should work well.</source>
+        <target>UIA-sovellukset (esim. Muistio, Visual Studio ja Microsoft Word) eivät tue kohdistimen siirtämistä valinnan alkuun. Näissä sovelluksissa kohdistimen sijainti tallennetaan Sananavigoinnin puolella. Haittavaikutuksena on, että sananavigointikomennot eivät välttämättä toimi saumattomasti rivin- ja kappaleenvalintakomentojen kanssa (`Vaihto+Ylä/alanuoli`, `Ctrl+Vaihto+Ylä/alanuoli`), ja tulokset voivat olla ennakoimattomia. Käytännön syistä merkinvalintakomennot (`Vaihto+Vasen/oikea nuoli`) on päivitetty Sananavigoinnissa UIA-sovelluksia varten ja niiden pitäisi toimia hyvin.</target>
+      </segment>
+    </unit>
+    <unit id="b4fdaa3b-bbe6-48e3-a8e1-82b667bf29b4">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Basic single line Windows edit controls also don't allow to set the caret in front of selection, so the previous point also applies to them. This affects all single line edit boxes within NVDA.</source>
+        <target>Yksiriviset Windowsin perusmuokkaussäätimet eivät myöskään salli kohdistimen siirtämistä valinnan eteen, joten aiempi huomautus pätee myös niihin. Tämä vaikuttaa NVDA:ssa kaikkiin yksirivisiin muokkausruutuihin.</target>
+      </segment>
+    </unit>
+    <unit id="a41239fb-0536-4092-8679-a020dfb5255c">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>IAccessible2 doesn't provide a way to set selection spanning across multiple paragraphs. There is no known workaround for this issue. This affects rich multiline edit boxes in Chrome and Firefox, such as compose email text area in GMail and compose email window in Thunderbird.</source>
+        <target>IAccessible2 ei tarjoa tapaa asettaa valintaa, joka jakautuu useisiin kapppaleisiin. Tähän ongelmaan ei ole tunnettua kiertotietä. Tämä vaikuttaa Chromessa ja Firefoxissa muotoiltua tekstiä sisältäviin monirivisiin muokkauskenttiin, kuten sähköpostin kirjoitusalueeseen GMailissa ja viestinkirjoitusikkunaan Thunderbirdissä.</target>
+      </segment>
+    </unit>
+    <unit id="79af9d3d-e99a-4ca6-81e8-156165ae6f9a">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In notepad++ selection update messages come unreasonably slow. As a workaround, WordNav announces selection on NVDA side for word selection commands and silences late notifications for the following 0.5 seconds. As a result, if you press word selection command followed by another (e.g. character) selection command in quick succession, you might miss selection notification for the latter one if it came within 0.5 seconds from the last word selection command.</source>
+        <target>Notepad++:ssa valinnanpäivitysilmoitukset tulevat kohtuuttoman hitaasti. Ongelman kiertämiseksi Sananavigointi ilmoittaa valinnasta NVDA:n puolella sananvalintakomentojen yhteydessä ja hiljentää myöhästyneet ilmoitukset seuraavan 0,5 sekunnin ajaksi. Tämän seurauksena, jos painat sananvalintakomentoa ja sen jälkeen nopeasti toista komentoa (esim. merkin valitsemiseksi), saatat jäädä ilman valinnan ilmoitusta jälkimmäisestä komennosta, jos se tuli 0,5 sekunnin sisällä edellisestä sananvalintakomennosta.</target>
+      </segment>
+    </unit>
+    <unit id="b2892582-97bd-488d-a0c6-0cc6859569b4">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>In multiline edit boxes supporting TOM interface NVDA incorrectly identifies cursor location when selection is present. This has been fixed in nvaccess/nvda#16455, which is scheduled to be included in NVDA v2024.2 release. Before that release word selection commands won't work correctly in TOM edit boxes, such as NVDA log viewer.</source>
+        <target>NVDA tunnistaa virheellisesti kohdistimen sijainnin, kun tekstiä on valittuna TOM-rajapintaa tukevissa monirivisissä muokkauskentissä. Tämä on korjattu nvaccess/nvda#16455:ssa, joka on suunniteltu sisällytettäväksi NVDA:n 2024.2-versioon. Ennen tätä versiota sananvalintakomennot eivät toimi oikein TOM-muokkauskentissä, kuten NVDA:n lokintarkastelussa.</target>
+      </segment>
+    </unit>
+    <unit id="983afb65-70bb-461d-a801-297a8c49efb5">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Notes</source>
+        <target>Huomautuksia</target>
+      </segment>
+    </unit>
+    <unit id="67c30481-9355-43b6-98b6-23c3fe86aa2a">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+      </notes>
+      <segment state="final">
+        <source>- If you would like to use virtual desktops feature of Windows 10, please remember to disable Control+Windows+Arrows keyboard shortcuts either in WordNav Settings panel, or in NVDA Input gestures dialog.</source>
+        <target>Jos haluat käyttää Windows 10:n virtuaalityöpöytäominaisuutta, muista poistaa käytöstä Ctrl+Win+Nuoli-pikanäppäimet joko Sananavigoinnin asetuspaneelissa tai NVDA:n Näppäinkomennot-valintaikkunassa.</target>
+      </segment>
+    </unit>
+    <unit id="279f572a-0c5e-4b79-8394-63642f475430">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+      </notes>
+      <segment state="final">
+        <source>- Compatibility with VSCode requires NVDA add-on IndentNav v2.0 or later to be installed. Additionally, VSCode extension [Accessibility for NVDA IndentNav](https://marketplace.visualstudio.com/items?itemName=TonyMalykh.nvda-indent-nav-accessibility) must be installed in VSCode.</source>
+        <target>Yhteensopivuus VSCoden kanssa edellyttää, että Sisennysnavigointi-lisäosasta on asennettu versio 2.0 tai uudempi. Lisäksi VSCodeen on asennettava [Accessibility for NVDA IndentNav](https://marketplace.visualstudio.com/items?itemName=TonyMalykh.nvda-indent-nav-accessibility) -laajennus.</target>
+      </segment>
+    </unit>
+    <unit id="29b34072-9044-462c-b882-96ce6711aa41">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: ##  </note>
+      </notes>
+      <segment state="final">
+        <source>Downloads</source>
+        <target>Lataukset</target>
+      </segment>
+    </unit>
+    <unit id="978b6bac-20db-4aab-a2fc-fb52598b6409">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+      </notes>
+      <segment state="final">
+        <source>Please install the latest version from NVDA add-on store.</source>
+        <target>Asenna uusin versio NVDA:n lisäosakaupasta.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

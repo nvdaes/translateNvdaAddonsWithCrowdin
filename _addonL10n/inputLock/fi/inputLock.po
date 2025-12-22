@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 08:24+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: inputLock.pot\n"
+"X-Crowdin-File-ID: 424\n"
+
+#. TRANSLATORS: gesture description for Input gestures dialog
+#: addon/globalPlugins/inputLock.py:117
+msgid "Toggle input lock"
+msgstr "Ota syötönlukitus käyttöön tai poista se käytöstä"
+
+#. TRANSLATORS: message spoken when the input is locked
+#: addon/globalPlugins/inputLock.py:125
+msgid "Input locked"
+msgstr "Syöttö lukittu"
+
+#. TRANSLATORS: message spoken when the input is unlocked
+#: addon/globalPlugins/inputLock.py:132
+msgid "Input unlocked"
+msgstr "Syötön lukitus poistettu"
+
+#. TRANSLATORS: gesture description for Input gestures dialog
+#: addon/globalPlugins/inputLock.py:141
+msgid "Toggle mouse lock"
+msgstr "Ota hiiren lukitus käyttöön tai poista se käytöstä"
+
+#. TRANSLATORS: message spoken when the mouse is locked
+#: addon/globalPlugins/inputLock.py:148
+msgid "Mouse locked"
+msgstr "Hiiri lukittu"
+
+#. TRANSLATORS: message spoken when the mouse is unlocked
+#: addon/globalPlugins/inputLock.py:152
+msgid "Mouse unlocked"
+msgstr "Hiiren lukitus poistettu"
+
+#. TRANSLATORS: gesture description for Input gestures dialog
+#: addon/globalPlugins/inputLock.py:157
+msgid "Toggle touchpad lock"
+msgstr "Ota kosketuslevyn lukitus käyttöön tai poista se käytöstä"
+
+#. TRANSLATORS: message spoken when the touchpad lock is not supported
+#: addon/globalPlugins/inputLock.py:163
+msgid "not support"
+msgstr "Ei tueta"
+
+#. TRANSLATORS: message spoken when the touchpad is unlocked
+#: addon/globalPlugins/inputLock.py:168
+msgid "Touchpad unlocked"
+msgstr "Kosketuslevyn lukitus poistettu"
+
+#. TRANSLATORS: message spoken when the touchpad is locked
+#: addon/globalPlugins/inputLock.py:171
+msgid "Touchpad locked"
+msgstr "Kosketuslevy lukittu"
+
+#. TRANSLATORS: Settings dialog and/or panel title
+#: addon/globalPlugins/inputLock.py:176
+msgid "Input lock settings"
+msgstr "Syöttölukon asetukset"
+
+#. TRANSLATORS: block mouse at startup checkbox
+#: addon/globalPlugins/inputLock.py:182
+msgid "Block mouse when NVDA is started"
+msgstr "Estä hiiri NVDA:n käynnistyessä"
+
+#. TRANSLATORS: block also mouse clicks checkbox
+#: addon/globalPlugins/inputLock.py:187
+msgid "Block clicks when mouse is locked"
+msgstr "Estä napsautukset hiiren ollessa lukittuna"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:24
+msgid "Input lock"
+msgstr "Syöttölukko"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:27
+msgid " With this addon, you will be able to lock and unlock your input devices with a single gesture or key press.\n"
+"This gesture can be changed from Input Gestures dialog."
+msgstr "Tämän lisäosan avulla voidaan lukita syöttölaitteet tai avata niiden lukitus yhdellä näppäinkomennolla.\n"
+"Tätä komentoa on mahdollista muuttaa Syöttökomennot-valintaikkunasta."
+

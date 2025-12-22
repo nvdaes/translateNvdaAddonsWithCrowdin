@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 16:54+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: easyTableNavigator.pot\n"
+"X-Crowdin-File-ID: 312\n"
+
+#. Translators: input help mode message for Table Navigator toggle command.
+#: addon/globalPlugins/easyTableNavigator/__init__.py:102
+msgid "Toggles table navigation layer on or off. When active, arrow keys can be used to navigate between cells"
+msgstr "Ottaa käyttöön taulukossa liikkumisen komentokerroksen tai poistaa sen käytöstä. Kun se on käytössä, nuolinäppäimiä voidaan käyttää solujen välillä liikkumiseen."
+
+#. Translators: command category for the add-on.
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: addon/globalPlugins/easyTableNavigator/__init__.py:104 buildVars.py:17
+msgid "Easy Table Navigator"
+msgstr "Helppo taulukossa liikkuminen"
+
+#. Translators: presented when a user is not in a table.
+#: addon/globalPlugins/easyTableNavigator/__init__.py:110
+msgid "Not in a table"
+msgstr "Ei taulukossa"
+
+#. Translators: presented when table navigator layer is on.
+#: addon/globalPlugins/easyTableNavigator/__init__.py:115
+msgid "Table navigator on"
+msgstr "Taulukossa liikkuminen käytössä"
+
+#. Translators: presented when table navigator layer is off.
+#: addon/globalPlugins/easyTableNavigator/__init__.py:121
+msgid "Table navigator off"
+msgstr "Taulukossa liikkuminen pois"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Allows using just arrow keys to navigate between table cells via a dedicated layer."
+msgstr "Mahdollistaa taulukossa liikkumisen pelkillä nuolinäppäimillä erillisen komentokerroksen avulla."
+

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-08-17 06:55+0000\n"
+"PO-Revision-Date: 2025-12-22 01:04\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: reportSymbols.pot\n"
+"X-Crowdin-File-ID: 236\n"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/reportSymbols.py:44
+msgid "Report &printable symbols"
+msgstr "读出可打印符号(&P)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/reportSymbols.py:48
+msgid "Report &spaces"
+msgstr "读出空格(&S)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/reportSymbols.py:52
+msgid "&Report carriage returns"
+msgstr "读出回车符(&R)"
+
+#. Translators: label of a dialog.
+#: addon/globalPlugins/reportSymbols.py:56
+msgid "Repor&t other blank characters"
+msgstr "读出其他空白字符(&T)"
+
+#. Translators: Reported when a symbol has been added to excludedSymbols.
+#: addon/globalPlugins/reportSymbols.py:143
+#, python-brace-format
+msgid "{symbol} excluded from symbols to report"
+msgstr "{symbol} 已从要读出的符号中排除"
+
+#. Translators: Reported when a symbol has been removed to excludedSymbols.
+#: addon/globalPlugins/reportSymbols.py:147
+#, python-brace-format
+msgid "{symbol} included in symbols to report"
+msgstr "{symbol} 已包含在要读出的符号中"
+
+#. Translators: Message presented in input help mode.
+#: addon/globalPlugins/reportSymbols.py:156
+#, python-format
+msgid "Excludes or includes the %s symbol in the set of signs to be reported when typing"
+msgstr "在输入时）将 %s 符号排除或包含在要读出的符号集合中"
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/reportSymbols.py:164
+#, python-format
+msgid "Shows the %s settings."
+msgstr "显示%s设置。"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
+msgid "Report Symbols"
+msgstr "读出符号"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
+msgid "Allows to listen the typed symbols (non alphanumeric or blank characters), even when the speaking of characters is turned off."
+msgstr "即使 NVDA 的“读出输入字符”功能已关闭也可以读出键入的符号（非字母数字或空白字符）。"
+

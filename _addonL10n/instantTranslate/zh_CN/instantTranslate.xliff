@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="instantTranslate.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/instantTranslate/instantTranslate.md">
+    <skeleton>
+# $(ID:f27b090d-2cd4-4aa9-90be-abb657f6cad6)
+
+* $(ID:32cc0bfa-1f4d-44ae-90d5-c5abbde56f2a)
+* $(ID:993b9a1b-96a5-4143-af72-22969f696676)
+* $(ID:0300a560-c55f-45a8-b38c-fb2a1ef463fe)
+
+$(ID:6c5ccb60-ed89-4793-b44b-d23b4863f1a2)
+$(ID:70f1ab03-d053-4b03-acbc-9389deab9d8d)
+
+## $(ID:67702d83-26af-4aa9-8f11-c4990b623bc6)
+$(ID:46ab2c6c-20ae-437b-ad92-fd55dd59555a)
+
+$(ID:34bb47a1-13e3-4af4-b129-a0000e57082f)
+
+$(ID:b82fcde8-a7d2-4bd5-91cd-879c3fa7de0a)
+
+$(ID:5e109f03-7787-4c8e-b600-7524ab4e0053)
+
+$(ID:395dc6d4-ce36-45bc-a678-6c9a4c99c0ae)
+
+$(ID:c95ff594-5ca7-4998-9c80-fb36dd793a50)
+
+$(ID:52941bfe-3306-4fb6-8ff3-58fcc3b86098)
+
+$(ID:3794bc67-dfe7-4692-9b72-37b670b753d9)
+
+$(ID:90bbb2f3-acb1-455a-bea5-a8847e0b473f)
+
+$(ID:031b12b0-d60a-4050-b4e0-c6d23de9a030)
+
+## $(ID:3c717e78-7e4e-4f63-a1fc-e297c746fb1c)
+$(ID:c503fcde-02ad-42ca-af55-6bd4d4b0d9dd)
+
+1. $(ID:5795090d-9d5f-4d73-9409-49fac6613dcb)
+2. $(ID:e95048c2-6888-4e62-b2b4-bf3c365220e2)
+3. $(ID:501d24a0-fc50-4dac-98bb-87946052fe6d)
+
+## $(ID:b54d1501-4efd-40c4-b483-1eedb63ad828)
+$(ID:74f6af5e-2e7d-4bc2-b5ac-3e294b948f37)
+
+* $(ID:5a176337-a399-4ade-b10c-0c68bf81e334)
+* $(ID:0d47baeb-00b4-4e65-b16b-915a371c96fe)
+* $(ID:da09269b-144e-4a2f-a3cc-241864b1fef2)
+* $(ID:7f779bcc-d48d-434c-822b-23855a242163)
+* $(ID:94bf42ea-76ba-4ebf-8b27-2a73d99a8e00)
+* $(ID:a51c23db-fd9f-4134-8a3f-58cd39a6ac32)
+* $(ID:7a9102f1-4e09-448e-8bd2-599c2ba7ba2a)
+* $(ID:e102e977-0a83-491d-9e49-9d298ce7dc38)
+* $(ID:78216b49-06c3-4527-b643-3a2bea3392db)
+
+## $(ID:0a2f539e-f429-4d0d-b730-ed19b55d5cf1)
+* $(ID:3f29a89c-994a-48da-bcdc-6df5cc18e255)
+* $(ID:15319025-5f0b-4bec-8af7-24bae863d639)
+* $(ID:1a856e4e-5c7d-4f33-a3a5-a754eb23a227)
+* $(ID:912ffdb9-e071-4405-9535-aaf38cff8b5a)
+
+
+## $(ID:204d6c02-4b95-46f2-b439-0b042c01bf20)
+* $(ID:32959459-672e-46c3-9c96-52f32bf642bf)
+* $(ID:5f5827e8-2c77-44e0-bee3-c194e8671244)
+
+## $(ID:9ead4161-102a-408e-9c12-3a0ace707a0a)
+* $(ID:552a3a2d-3a2e-4977-82ba-398c762b1443)
+
+## $(ID:4078a80c-4377-4067-8461-7ee44b434bae)
+* $(ID:2f033f57-7b10-4ff5-8773-97a208d6a38f)
+* $(ID:b513afb7-cb55-4f2a-b1f9-cf84f42f71bd)
+
+## $(ID:f90a6175-2fc1-47fc-acf5-037b948541ad)
+* $(ID:5846aca3-ec02-4d52-bfed-5867624648c2)
+* $(ID:3845bc37-3e8a-4679-9301-7825eab543da)
+
+## $(ID:070979d8-770b-416c-b109-c0f158d293fb)
+* $(ID:665a43fd-046a-416d-8227-0f40d49af7b4)
+
+## $(ID:215f467a-037c-4e62-b2d6-fce128f06823)
+* $(ID:f7cae0de-21d8-40b8-894f-0ef55f5ceb4c)
+* $(ID:aa9ffe68-a3c5-44a6-b2d1-917e648bdfa8)
+
+## $(ID:57de5003-1479-4608-a8b5-7b4b4812e798)
+* $(ID:2dcf620d-92ca-4e74-a782-3cfb2d8525f7)
+* $(ID:a67e5716-b888-43de-a0e8-e0cc65aa994a)
+* $(ID:2813ba4f-dc66-48fd-a270-9e28b4d7f2a1)
+* $(ID:de71cbb7-1ccf-4abe-a308-9359ffaf2eea)
+* $(ID:a7ab7fa9-f1ea-4c8b-aedd-4b2c6936c704)
+* $(ID:d0fb290b-29e9-4f18-9a63-6312c25da9e3)
+* $(ID:949620d7-de92-4936-ab03-6811a139a284)
+* $(ID:903199b6-6ecc-421f-bb98-beed3f7ea340)
+* $(ID:b1687061-f488-40a1-b613-54defd6ea76b)
+
+## $(ID:5c833ef1-84e5-4f7a-915e-febe8dc6baf9)
+* $(ID:538bc6bc-423a-4f93-ab33-e66a7ae0c4ba)
+
+## $(ID:a1d5f072-4df4-49e3-95d2-1b65f3967342)
+* $(ID:2d35081b-2c18-41fe-82a3-775f0dbfd935)
+* $(ID:c106d704-f4ba-4668-86d5-962c0253d203)
+* $(ID:c815009f-9026-481a-abec-f28bbe277aa9)
+* $(ID:641c8e7f-c129-4487-9243-f25d8135f9a0)
+
+## $(ID:25dc2ebc-69f7-444b-9fd9-6087ea606c33)
+* $(ID:e406f200-5421-4c4f-8702-9b04c2a70fbb)
+
+$(ID:218d9ac0-9933-4581-862c-77bccdd8deca)
+
+$(ID:3fe6536d-49ea-4035-99be-431cc8095534)
+</skeleton>
+    <unit id="f27b090d-2cd4-4aa9-90be-abb657f6cad6">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>Instant Translate #</source>
+        <target>即时翻译 #</target>
+      </segment>
+    </unit>
+    <unit id="32cc0bfa-1f4d-44ae-90d5-c5abbde56f2a">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Authors: Alexy Sadovoy, Beqa Gozalishvili, Mesar Hameed, Alberto Buffolino and other NVDA contributors.</source>
+        <target>作者： Alexy Sadovoy, Beqa Gozalishvili, Mesar Hameed, Alberto Buffolino and other NVDA contributors.</target>
+      </segment>
+    </unit>
+    <unit id="993b9a1b-96a5-4143-af72-22969f696676">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>下载 [稳定版][1]</target>
+      </segment>
+    </unit>
+    <unit id="0300a560-c55f-45a8-b38c-fb2a1ef463fe">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [development version][2]</source>
+        <target>下载 [开发板][2]</target>
+      </segment>
+    </unit>
+    <unit id="6c5ccb60-ed89-4793-b44b-d23b4863f1a2">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on is used to translate selected and/or clipboard text from one language to another.</source>
+        <target>使用此插件可将所选文本和（或）剪贴板中的文本从一种语言翻译为另一种语言。</target>
+      </segment>
+    </unit>
+    <unit id="70f1ab03-d053-4b03-acbc-9389deab9d8d">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="final">
+        <source>This is done using the Google Translate service.</source>
+        <target>借助 Google 的翻译服务进行翻译。</target>
+      </segment>
+    </unit>
+    <unit id="67702d83-26af-4aa9-8f11-c4990b623bc6">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Configuring languages ##</source>
+        <target>配置语言 ##</target>
+      </segment>
+    </unit>
+    <unit id="46ab2c6c-20ae-437b-ad92-fd55dd59555a">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+      </notes>
+      <segment state="final">
+        <source>To configure source, target and in case swap language, go to: NVDA Menu &gt;&gt; Preferences &gt;&gt; Instant Translate Settings.</source>
+        <target>要配置翻译的原语言、目标语言以及自动切换的语言，请转到： NVDA 菜单 &gt;&gt; 选项 &gt;&gt; 设置 &gt;&gt; 即时翻译设置面板。</target>
+      </segment>
+    </unit>
+    <unit id="34bb47a1-13e3-4af4-b129-a0000e57082f">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+      </notes>
+      <segment state="final">
+        <source>There are two comboboxes labeled "Source language" and "Target language", and a checkbox to decide if it must copy the translation to clipboard.</source>
+        <target>有“源语言”和“目标语言”的两个组合框，以及一个用于控制是否在翻译之后将翻译结果复制到剪贴板的复选框。</target>
+      </segment>
+    </unit>
+    <unit id="b82fcde8-a7d2-4bd5-91cd-879c3fa7de0a">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+      </notes>
+      <segment state="final">
+        <source>In addition, if you selected auto option (the first choice) from "Source language" combobox, there are also a combobox labeled "Language for swapping" and a checkbox about the auto-swap.</source>
+        <target>两个语言组合框和复制到剪贴板的作用很清楚，但还应该有些其他的说明。请注意，下面的解释假设您在“原语言”组合中选择了“自动”选项。</target>
+      </segment>
+    </unit>
+    <unit id="5e109f03-7787-4c8e-b600-7524ab4e0053">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+      </notes>
+      <segment state="final">
+        <source>The meaning of two first comboboxes and checkbox for copy is clear, but some words about the rest are necessary. Remember always that the explanations below assume the source language set on the auto option.</source>
+        <target>两个语言组合框和复制到剪贴板的作用很清楚，但还应该有些其他的说明。请注意，下面的解释假设您在“原语言”组合中选择了“自动”选项。</target>
+      </segment>
+    </unit>
+    <unit id="395dc6d4-ce36-45bc-a678-6c9a4c99c0ae">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+      </notes>
+      <segment state="final">
+        <source>The "Language for swapping" combobox is useful when you swap via script (see below) the source and target language; in fact, a target language set on the auto option has no sense, so the addon sets it to value of combobox above.</source>
+        <target>当您使用“切换源语言和目标语言”功能时，“语言切换”组合框很有用；实际上，当原语言设置为自动时，目标语言是无意义的，所以插件将使用上面“语言切换”组合框中所指定的语言。</target>
+      </segment>
+    </unit>
+    <unit id="c95ff594-5ca7-4998-9c80-fb36dd793a50">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="final">
+        <source>So, imagine this situation: you usually translate into English (your main language), but sometimes (for example, when you write a document) you need to translate into Italian (your second language, suppose); you can set "Language for swapping" combobox to Italian, so you will translate from English to Italian without accessing directly to the addon settings. Obviously this function has a major or minor utility according to your more frequent needs.</source>
+        <target>不妨想象一下这种情况：你通常从一种语言翻译成简体中文（你的母语），但有时候（例如，当你写一篇文档时）你需要翻译成英语（你的第二语言，假设）;你可以将“语言切换”组合框设置为“英语”，这样你就可以从简体中文翻译成英语，而无需转到插件设置去调整。</target>
+      </segment>
+    </unit>
+    <unit id="52941bfe-3306-4fb6-8ff3-58fcc3b86098">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="final">
+        <source>Now, the auto-swap checkbox: it appears if and only if you set the auto option in "Source language" combobox, and is directly connected with "Language for swapping" combobox. If you activate it, then the addon tries to commute automatically from your source and target configuration to a configuration where target becomes the source language, and language selected in "Language for swapping" combobox is the new target language; extremely useful if the source language of the text you want translate is the target language.</source>
+        <target>“自动切换”复选框：当且仅当您在“源语言”组合框中设置为“自动”时它才会显示，并且跟“语言切换”组合框直接关联，如果您选中该复选框，当元语言跟目标语言相同时，则插件会尝试自动交换元语言和目标语言进行翻译。</target>
+      </segment>
+    </unit>
+    <unit id="3794bc67-dfe7-4692-9b72-37b670b753d9">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+      </notes>
+      <segment state="final">
+        <source>A simple example: take again in mind the situation  imagined previously; if you translate a text in a language different from English, there is no problem, you get the correct translation in English. But if you need to translate a text from English, normally you get a translation into English identical to original text, and this is a bit useless. Thanks to auto-swap function, however, assuming that you want to know how your text sounds into Italian, the addon commutes automatically the target language to Italian, so it returns a valid translation.</source>
+        <target>一个简单的例子：再考虑上面假设的情况；如果你将非简体中文的文本翻译为简体中文，这没有问题，你会直接得到翻译结果，但如果你翻译的文本恰恰也是简体中文，你就会得到与原文相同的翻译结果，如果勾选这个复选框，插件就会将简体中文翻译为英语，这就是理想的效果了。</target>
+      </segment>
+    </unit>
+    <unit id="90bbb2f3-acb1-455a-bea5-a8847e0b473f">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+      </notes>
+      <segment state="final">
+        <source>Anyway, this is a temporary configuration; if this option has no effect (it's experimental), try to commute manually to a stable configuration, using the gesture for swapping described below. It's experimental because in some situations (with short texts, typically), Google does not recognize the real source language correctly, and you have to swap languages manually via script, so to force the source language to be the previous target language (English in our example).</source>
+        <target>不过有一些短文本无法自动识别语言，这时候请使用“切换源语言和目标语言”功能来手动切换。</target>
+      </segment>
+    </unit>
+    <unit id="031b12b0-d60a-4050-b4e0-c6d23de9a030">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+      </notes>
+      <segment state="final">
+        <source>At least, in the speech settings parameters dialog (NVDA Menu &gt;&gt; Preferences &gt;&gt; Speech), you may want to check the "Automatic language switching (when supported)" option. This way, if you are using a multi-lingual synthesizer, the translation will be announced using the target language voice of the synthesizer.</source>
+        <target>使用多语言的情况，您可以在 NVDA 语音设置参数对话框中勾选自动语言切换复选框，这样，翻译后的结果将以相应语言的语音进行朗读。</target>
+      </segment>
+    </unit>
+    <unit id="3c717e78-7e4e-4f63-a1fc-e297c746fb1c">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Using ##</source>
+        <target>使用 ##</target>
+      </segment>
+    </unit>
+    <unit id="c503fcde-02ad-42ca-af55-6bd4d4b0d9dd">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+      </notes>
+      <segment state="final">
+        <source>You can use this add-on in three ways:</source>
+        <target>您可以通过三种方式使用此插件：</target>
+      </segment>
+    </unit>
+    <unit id="5795090d-9d5f-4d73-9409-49fac6613dcb">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: 1. </note>
+      </notes>
+      <segment state="final">
+        <source>Select some text using selection commands (shift with arrow keys, for example) and press associated key to translate. translation result will be read with synthesizer which you are using.</source>
+        <target>使用 Shift + 光标键选择文本的功能选择一些文本（例如，使用光标键移动）并按翻译的快捷键进行翻译。翻译结果将以相应语言的语音朗读出来。</target>
+      </segment>
+    </unit>
+    <unit id="e95048c2-6888-4e62-b2b4-bf3c365220e2">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: 2. </note>
+      </notes>
+      <segment state="final">
+        <source>You can also translate text from the Clipboard.</source>
+        <target>您还可以翻译剪贴板中的文本。</target>
+      </segment>
+    </unit>
+    <unit id="501d24a0-fc50-4dac-98bb-87946052fe6d">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: 3. </note>
+      </notes>
+      <segment state="final">
+        <source>Press the dedicated shortcut key to translate the last spoken text.</source>
+        <target>更有用的是，您也可以翻译 NVDA 最后依次朗读的文本。</target>
+      </segment>
+    </unit>
+    <unit id="b54d1501-4efd-40c4-b483-1eedb63ad828">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Shortcuts ##</source>
+        <target>快捷键 ##</target>
+      </segment>
+    </unit>
+    <unit id="74f6af5e-2e7d-4bc2-b5ac-3e294b948f37">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+      </notes>
+      <segment state="final">
+        <source>All following commands must be pressed after modifier key "NVDA+Shift+t":</source>
+        <target>以下单字母快捷键需要先按下 NVDA + Shift + T 进入命令接收面板后才可使用：</target>
+      </segment>
+    </unit>
+    <unit id="5a176337-a399-4ade-b10c-0c68bf81e334">
+      <notes>
+        <note appliesTo="source">line: 42</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>T: Translate selected text,</source>
+        <target>T：翻译所选文本，</target>
+      </segment>
+    </unit>
+    <unit id="0d47baeb-00b4-4e65-b16b-915a371c96fe">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shift+t: translate text from the Clipboard,</source>
+        <target>Shift + t：翻译剪贴板文本，</target>
+      </segment>
+    </unit>
+    <unit id="da09269b-144e-4a2f-a3cc-241864b1fef2">
+      <notes>
+        <note appliesTo="source">line: 44</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>S: swap source and target languages,</source>
+        <target>S：切换源语言和目标语言，</target>
+      </segment>
+    </unit>
+    <unit id="7f779bcc-d48d-434c-822b-23855a242163">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>A: announce current configuration,</source>
+        <target>A：朗读元语言和目标语言，</target>
+      </segment>
+    </unit>
+    <unit id="94bf42ea-76ba-4ebf-8b27-2a73d99a8e00">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>C: copy last result to clipboard,</source>
+        <target>C：拷贝翻译结果到剪贴板，</target>
+      </segment>
+    </unit>
+    <unit id="a51c23db-fd9f-4134-8a3f-58cd39a6ac32">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>I: identify the language of selected text,</source>
+        <target>I：显示当前文本的语言，</target>
+      </segment>
+    </unit>
+    <unit id="7a9102f1-4e09-448e-8bd2-599c2ba7ba2a">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>L: translate the last spoken text,</source>
+        <target>L： 翻译最后依次朗读的文本，</target>
+      </segment>
+    </unit>
+    <unit id="e102e977-0a83-491d-9e49-9d298ce7dc38">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>O: open translation settings dialog</source>
+        <target>O： 打开翻译设置对话框</target>
+      </segment>
+    </unit>
+    <unit id="78216b49-06c3-4527-b643-3a2bea3392db">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>H: announces all available layered commands.</source>
+        <target>H：读出所有可用的快捷键（帮助信息）。</target>
+      </segment>
+    </unit>
+    <unit id="0a2f539e-f429-4d0d-b730-ed19b55d5cf1">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.7 ##</source>
+        <target>4.7 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="3f29a89c-994a-48da-bcdc-6df5cc18e255">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Updated to be compatible with python3.11 and nvda 2024.1</source>
+        <target>已与 python3.11 和 NVDA 2024.1 兼容</target>
+      </segment>
+    </unit>
+    <unit id="15319025-5f0b-4bec-8af7-24bae863d639">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Implemented speakOnDemand mode</source>
+        <target>支持手动朗读模式</target>
+      </segment>
+    </unit>
+    <unit id="1a856e4e-5c7d-4f33-a3a5-a754eb23a227">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed case with caching failled translations</source>
+        <target>修复了缓存翻译失败的情况</target>
+      </segment>
+    </unit>
+    <unit id="912ffdb9-e071-4405-9535-aaf38cff8b5a">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added chinese mirror for translation</source>
+        <target>新增中文翻译镜像</target>
+      </segment>
+    </unit>
+    <unit id="204d6c02-4b95-46f2-b439-0b042c01bf20">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.4.2 ##</source>
+        <target>4.4.2 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="32959459-672e-46c3-9c96-52f32bf642bf">
+      <notes>
+        <note appliesTo="source">line: 60</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Restore language detection and auto-swapping (Thanks to Cyrille for fix)</source>
+        <target>恢复了语言检测和自动交换（感谢Cyrille的修复）。</target>
+      </segment>
+    </unit>
+    <unit id="5f5827e8-2c77-44e0-bee3-c194e8671244">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>updated languages for translation (thanks to Cyrille)</source>
+        <target>更新翻译语言（感谢Cyrille）。</target>
+      </segment>
+    </unit>
+    <unit id="9ead4161-102a-408e-9c12-3a0ace707a0a">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.4 ##</source>
+        <target>4.4 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="552a3a2d-3a2e-4977-82ba-398c762b1443">
+      <notes>
+        <note appliesTo="source">line: 64</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Instant translate is now compatible with NVDA 2019.3 (Python 3 versions of NVDA)</source>
+        <target>即时翻译现在与 NVDA 2019.3（Python 3 版本）兼容</target>
+      </segment>
+    </unit>
+    <unit id="4078a80c-4377-4067-8461-7ee44b434bae">
+      <notes>
+        <note appliesTo="source">line: 66</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.3 ##</source>
+        <target>4.3 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="2f033f57-7b10-4ff5-8773-97a208d6a38f">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>nvda compatibility fix Now instant translate will be compatible with latest nvda builds.</source>
+        <target>NVDA 兼容性修复 现在即时翻译可以在最新的 NVDA 上运行。</target>
+      </segment>
+    </unit>
+    <unit id="b513afb7-cb55-4f2a-b1f9-cf84f42f71bd">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>found a way to use google as a translation service again.</source>
+        <target>找到了一种方法来再次使用谷歌作为翻译服务。</target>
+      </segment>
+    </unit>
+    <unit id="f90a6175-2fc1-47fc-acf5-037b948541ad">
+      <notes>
+        <note appliesTo="source">line: 70</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.2 ##</source>
+        <target>4.2 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="5846aca3-ec02-4d52-bfed-5867624648c2">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Restored working state with newer versions of nvda.</source>
+        <target>恢复了与新版 NVDA 的兼容。</target>
+      </segment>
+    </unit>
+    <unit id="3845bc37-3e8a-4679-9301-7825eab543da">
+      <notes>
+        <note appliesTo="source">line: 72</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Restored automatic language detection.</source>
+        <target>恢复了自动语言检测功能。</target>
+      </segment>
+    </unit>
+    <unit id="070979d8-770b-416c-b109-c0f158d293fb">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.1 ##</source>
+        <target>4.1 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="665a43fd-046a-416d-8227-0f40d49af7b4">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>InstantTranslate is working again, now with Yandex translator service instead of Google.</source>
+        <target>InstantTranslate 恢复，现在使用 Yandex翻译服务，而非谷歌。</target>
+      </segment>
+    </unit>
+    <unit id="215f467a-037c-4e62-b2d6-fce128f06823">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 4.0 ##</source>
+        <target>4.0 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="f7cae0de-21d8-40b8-894f-0ef55f5ceb4c">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Translation is automatically performed after swapping.</source>
+        <target>语言交换后自动执行翻译。</target>
+      </segment>
+    </unit>
+    <unit id="aa9ffe68-a3c5-44a6-b2d1-917e648bdfa8">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Cache bug fixed.</source>
+        <target>缓存的错误修复。</target>
+      </segment>
+    </unit>
+    <unit id="57de5003-1479-4608-a8b5-7b4b4812e798">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 3.0 ##</source>
+        <target>3.0 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="2dcf620d-92ca-4e74-a782-3cfb2d8525f7">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Change way how Shortcuts are used, now you can press instantTranslate modifier key "NVDA+Shift+t", and then single letter key to perform some action (see all Commands in the "Shortcuts" section).</source>
+        <target>更改了快捷键的使用方式，现在您可以按instantTranslate修饰键“NVDA + Shift + t”，然后按单字母键执行某些操作（请参阅“快捷键”部分中的所有单字母快捷键）。</target>
+      </segment>
+    </unit>
+    <unit id="a67e5716-b888-43de-a0e8-e0cc65aa994a">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Implemented swapping languages.</source>
+        <target>实现了交换语言。</target>
+      </segment>
+    </unit>
+    <unit id="2813ba4f-dc66-48fd-a270-9e28b4d7f2a1">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changed configuration format, now we can change instant translate settings if we are in readonly pane, but remember that this will work before first restart of NVDA.</source>
+        <target>更改了配置格式，现在我们可以更改即时翻译的设置，如果我们在只读窗格中，但请记住，这将在首次重新启动NVDA之前工作。</target>
+      </segment>
+    </unit>
+    <unit id="de71cbb7-1ccf-4abe-a308-9359ffaf2eea">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed limit on amount of text that can be translated.</source>
+        <target>解除了可翻译文本数量的限制。</target>
+      </segment>
+    </unit>
+    <unit id="a7ab7fa9-f1ea-4c8b-aedd-4b2c6936c704">
+      <notes>
+        <note appliesTo="source">line: 86</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added shortcut t to the Instant Translate Settings menu item</source>
+        <target>向“即时翻译设置”菜单项添加了快捷键 t</target>
+      </segment>
+    </unit>
+    <unit id="d0fb290b-29e9-4f18-9a63-6312c25da9e3">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The auto option is now in first position in source combo, and absent in target combo.</source>
+        <target>“自动”选项现在位于元语言组合框中的第一个位置，并且在目标语言组合框中不显示。</target>
+      </segment>
+    </unit>
+    <unit id="949620d7-de92-4936-ab03-6811a139a284">
+      <notes>
+        <note appliesTo="source">line: 88</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a checkbox for configuring copying translation results.</source>
+        <target>添加了用于复制翻译结果的复选框。</target>
+      </segment>
+    </unit>
+    <unit id="903199b6-6ecc-421f-bb98-beed3f7ea340">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Store config file in the root of settings folder.</source>
+        <target>将配置文件存储在设置文件夹的根目录中。</target>
+      </segment>
+    </unit>
+    <unit id="b1687061-f488-40a1-b613-54defd6ea76b">
+      <notes>
+        <note appliesTo="source">line: 90</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Source and target languages syncronized with what Google Translate currently exposes (22 Apr 2015).</source>
+        <target>源语言和目标语言与Google翻译目前公开的内容同步（2015年4月22日）。</target>
+      </segment>
+    </unit>
+    <unit id="5c833ef1-84e5-4f7a-915e-febe8dc6baf9">
+      <notes>
+        <note appliesTo="source">line: 92</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.1 ##</source>
+        <target>2.1的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="538bc6bc-423a-4f93-ab33-e66a7ae0c4ba">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Now addon can translate text from clipboard when pressing nvda+shift+y.</source>
+        <target>现在，当您按nvda + shift + y时，插件可以从剪贴板翻译文本。</target>
+      </segment>
+    </unit>
+    <unit id="a1d5f072-4df4-49e3-95d2-1b65f3967342">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 2.0 ##</source>
+        <target>2.0 的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="2d35081b-2c18-41fe-82a3-775f0dbfd935">
+      <notes>
+        <note appliesTo="source">line: 96</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added gui configurator where you can choose source and target languages.</source>
+        <target>添加了gui配置，您可以在其中选择源语言和目标语言。</target>
+      </segment>
+    </unit>
+    <unit id="c106d704-f4ba-4668-86d5-962c0253d203">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added addon menu item found under preferences menu.</source>
+        <target>添加了首选项菜单下的插件菜单项。</target>
+      </segment>
+    </unit>
+    <unit id="c815009f-9026-481a-abec-f28bbe277aa9">
+      <notes>
+        <note appliesTo="source">line: 98</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Settings now is written in separate config file.</source>
+        <target>现在设置会写入到单独的配置文件中。</target>
+      </segment>
+    </unit>
+    <unit id="641c8e7f-c129-4487-9243-f25d8135f9a0">
+      <notes>
+        <note appliesTo="source">line: 99</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Translation results now automatically copies into the clipboard for future manipulations.</source>
+        <target>翻译结果现在会自动复制到剪贴板以备将来操作。</target>
+      </segment>
+    </unit>
+    <unit id="25dc2ebc-69f7-444b-9fd9-6087ea606c33">
+      <notes>
+        <note appliesTo="source">line: 101</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Changes for 1.0 ##</source>
+        <target>1.0的变化 ##</target>
+      </segment>
+    </unit>
+    <unit id="e406f200-5421-4c4f-8702-9b04c2a70fbb">
+      <notes>
+        <note appliesTo="source">line: 102</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial version.</source>
+        <target>发布初始版本。</target>
+      </segment>
+    </unit>
+    <unit id="218d9ac0-9933-4581-862c-77bccdd8deca">
+      <notes>
+        <note appliesTo="source">line: 104</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://addons.nvda-project.org/legacy?file=instantTranslate</source>
+        <target>[1]: https://addons.nvda-project.org/legacy?file=instantTranslate</target>
+      </segment>
+    </unit>
+    <unit id="3fe6536d-49ea-4035-99be-431cc8095534">
+      <notes>
+        <note appliesTo="source">line: 106</note>
+      </notes>
+      <segment state="final">
+        <source>[2]: http://addons.nvda-project.org/files/get.php?file=it-dev</source>
+        <target>[2]: http://addons.nvda-project.org/files/get.php?file=it-dev</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

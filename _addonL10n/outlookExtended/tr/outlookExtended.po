@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-15 07:09+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: outlookExtended.pot\n"
+"X-Crowdin-File-ID: 380\n"
+
+#. Translators: The key ont the right of the "0" key in the alpha-numeric part of the keyboard.
+#. Note: In the translated documentation (/website/addons/outlookExtended.xx.po in the
+#. screenReaderTranslations repo), do not forget to modify the commands section accordingly.
+#: addon/appModules/outlook/__init__.py:80
+msgid "-"
+msgstr "*"
+
+#. Translators: The key just ont the left of the backspace key.
+#. Note: In the translated documentation (/website/addons/outlookExtended.xx.po in the
+#. screenReaderTranslations repo), do not forget to modify the commands section accordingly.
+#: addon/appModules/outlook/__init__.py:84
+msgid "="
+msgstr "-"
+
+#. Translators: Outlook's native string for status
+#: addon/appModules/outlook/__init__.py:99
+msgid "Busy"
+msgstr "Meşgul"
+
+#. Translators: Outlook's native string for status
+#: addon/appModules/outlook/__init__.py:101
+msgid "Out of Office"
+msgstr "Ofis Dışında"
+
+#. Translators: Outlook's native string for status
+#: addon/appModules/outlook/__init__.py:103
+msgid "Free"
+msgstr "Ücretsiz"
+
+#. Translators: Outlook's native string for status
+#: addon/appModules/outlook/__init__.py:105
+msgid "Working Elsewhere"
+msgstr "Başka Yerde Çalış"
+
+#. Translators: Outlook's native string for status
+#: addon/appModules/outlook/__init__.py:107
+msgid "Tentative"
+msgstr "Geçici olarak"
+
+#. Translators: Documentation for mark as read script.
+#: addon/appModules/outlook/__init__.py:140
+msgid "Mark a message as read"
+msgstr "İletiyi okundu olarak işaretle"
+
+#. Translators: Documentation for mark as unread script.
+#: addon/appModules/outlook/__init__.py:148
+msgid "Mark a message as unread"
+msgstr "İletiyi okunmadı olarak işaretle"
+
+#. Translators: To what the mark as read/unread applies to
+#: addon/appModules/outlook/__init__.py:164
+#, python-format
+msgid "Messages group: %s"
+msgstr "İleti grubu: %s"
+
+#. Translators: To what the mark as read/unread applies to
+#: addon/appModules/outlook/__init__.py:167
+#, python-format
+msgid "Messages: %s"
+msgstr "İletiler: %s"
+
+#. Translators: Error when mark as read/unread shortcut is called with no message selected
+#: addon/appModules/outlook/__init__.py:170
+msgid "No message selected"
+msgstr "Seçili ileti yok"
+
+#. Translators: To announce the message or group status: unread
+#: addon/appModules/outlook/__init__.py:179
+msgid "unread"
+msgstr "okunmamış"
+
+#. Translators: To announce the message or group status: read
+#: addon/appModules/outlook/__init__.py:182
+msgid "read"
+msgstr "okunmuş"
+
+#. Supersedes _moveToRow in behaviors.py to disable row navigation because need to be debugged:
+#. when pressing Ctrl+Alt+downarrow, the focus moves visually but NVDA takes updated focus only when you
+#. press control again.
+#. Translators: When trying to move by column in address book (Alt+Ctrl+Up/DownArrow)
+#: addon/appModules/outlook/__init__.py:275
+msgid "Column navigation not supported in the address book"
+msgstr "Adres defterinde sütun dolaşımı desteklenmiyor"
+
+#. Translators: The name of a fake NVDA object used for tests.
+#: addon/appModules/outlook/__init__.py:282
+msgid "Fake root"
+msgstr "Sahte kök"
+
+#. Translators: The name for a button in the notification bar to display more or less information.
+#: addon/appModules/outlook/__init__.py:426
+msgid "More or less information"
+msgstr "Az ya da çok bilgi"
+
+#. Translators: When trying to use Alt+Number shortcut but not in message.
+#. Translators: Error when trying to move focus in message body
+#: addon/appModules/outlook/__init__.py:608
+#: addon/appModules/outlook/__init__.py:730
+msgid "Not in a message window"
+msgstr "İleti penceresinde değil"
+
+#. Translators: When user triple presses Alt+Number to copy a header's field to clipboard
+#. Translators: When user triple press NVDA+shift+N to copy the notification text to clipboard
+#: addon/appModules/outlook/__init__.py:646
+#: addon/appModules/outlook/__init__.py:691
+msgid "Copied to clipboard"
+msgstr "Panoya kopyalandı"
+
+#. Translators: To report name and value of a heaeder's field
+#: addon/appModules/outlook/__init__.py:660
+#, python-brace-format
+msgid "{name} {value}"
+msgstr "{name} {value}"
+
+#. Translators: Documentation for report notification script.
+#: addon/appModules/outlook/__init__.py:668
+msgid "Reports the notification in a message. If pressed twice, moves the focus to it. If pressed three times, copies its content to the clipboard."
+msgstr "Bildirimi bir mesaj içinde bildirir. İki kez basılırsa, odağı ona taşır. Üç kez basılırsa, içeriğini panoya kopyalar."
+
+#. Translators: Message reported when calling the script to report notification bar.
+#: addon/appModules/outlook/__init__.py:678
+msgid "No notification"
+msgstr "Bildirim yok"
+
+#. Translators: Documentation for report info bar script.
+#: addon/appModules/outlook/__init__.py:697
+msgid "Reports the information bar in a message, calendar item or task window. If pressed twice, moves the focus to it. If pressed three times, copies its content to the clipboard."
+msgstr "Bir iletideki, takvim öğesindeki  ya da görevler penceresindeki bilgi çubuğunu okur. İki kez basılırsa odağı bilgi çubuğuna taşır. Üç kez basılırsa içeriğini panoya kopyalar."
+
+#. Translators: When the info bar is not present
+#: addon/appModules/outlook/__init__.py:707
+msgid "No information bar"
+msgstr "Bİlgi çubuğu yok"
+
+#. Translators: Documentation for move to message body script.
+#: addon/appModules/outlook/__init__.py:713
+msgid "Moves the focus to the message body"
+msgstr "Odağı ileti penceresine taşır"
+
+#. Translators: Documentation for Attachments script.
+#: addon/appModules/outlook/__init__.py:737
+msgid "Reports the number and the names of attachments in a message window. If pressed twice, moves the focus to it."
+msgstr "İleti penceresinde eklenti sayısı ve adlarını okur. İki kez basılırsa odağı eklenti bölümüne taşır."
+
+#. Translators: Title of the browseable message displaying the status of all attendees.
+#: addon/appModules/outlook/__init__.py:803
+msgid "All Attendees Status"
+msgstr "Tüm Katılımcıların Durumu"
+
+#. Translators: A status used in the attendees status report.
+#. If possible for you, you can use Outlook's translation visible in the tooltip popping up when
+#. hovering the hatched rectangle with the mouse in the attendees status graphic. You can get an
+#. hatched rectangle (no information available) for people external to your organization.
+#: addon/appModules/outlook/__init__.py:838
+msgid "No Information"
+msgstr "Bilgi Yok"
+
+#. Translators: Reported when calling a test command
+#: addon/appModules/outlook/__init__.py:951
+msgid "Test case path not defined."
+msgstr "Test senaryosu yolu tanımlanmadı."
+
+#. Translators: Reported when calling a test command
+#: addon/appModules/outlook/__init__.py:979
+msgid "Test mode offf"
+msgstr "Test modu kapalı"
+
+#. None or 0
+#. Translators: Reported when calling a test command
+#: addon/appModules/outlook/__init__.py:984
+msgid "Test mode is off."
+msgstr "Test modu kapalı."
+
+#. Translators: Input help mode message for report a header's field command. in outlook message, calendar
+#. item or task window
+#: addon/appModules/outlook/__init__.py:1019
+#, python-format
+msgid "Reports the header field %s in a message, calendar item or task window. If pressed twice, moves the focus to this field if possible. If pressed three times, copies its content to the clipboard."
+msgstr "Bir iletide, takvim öğesinde ya da görevler penceresinde  %s başlık alanını okur.  İki kez basıldığında, mümkünse odağı ilgili alana taşır. Üç kez basılırsa alan içeriğini panoya kopyalar."
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:25
+msgid "Outlook Extended"
+msgstr "Genişletilmiş Outlook Desteği"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:28
+msgid "Extended support and features for Microsoft Outlook."
+msgstr "Microsoft Outlook için genişletilmiş destek ve özellikler."
+

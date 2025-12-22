@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-CN">
+  <file id="goldenCursor.md" original="https://raw.githubusercontent.com/nvaccess/nvda/7bd3ad3ebe2b8d9a297744260a638e8ebf373e9f/addons/goldenCursor/goldenCursor.md">
+    <skeleton>
+# $(ID:e4b56a75-eb25-467e-be64-e5ee8b74636f)
+
+* $(ID:fcd3760d-c662-4a28-a229-a94d1a12d7d6)
+* $(ID:917f2773-0676-439b-8799-54deb98912d5)
+* $(ID:c9de5739-a05a-4adc-8199-fd63d30614a0)
+
+$(ID:9b2b6444-5829-4197-bb21-a3a1d878bbbc)
+
+## $(ID:a8f074b0-320a-4748-88d5-696fd98f75d1)
+
+* $(ID:41225885-75c6-4c9d-b7a7-64b15bb6b6be)
+* $(ID:655313ca-7941-47f7-b12c-effb7fa3e319)
+* $(ID:0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9)
+* $(ID:24fc349c-c2dc-469f-8789-2f48fd4d385e)
+* $(ID:56e9154e-b8db-466e-8bd1-704b518a6f7d)
+* $(ID:36f93986-4ba0-4032-a4b6-ed03359c36e6)
+* $(ID:4ba7ec1e-12ea-4601-8ac4-d88e0445dbde)
+* $(ID:15d44390-71bc-4916-8420-f092f913aad3)
+* $(ID:c2f094d0-d9de-474d-9dee-8e656c7405d7)
+
+$(ID:59f238ed-c7d5-4c4b-8925-8bcf39caf328)
+
+## $(ID:9f37373c-77b3-4ab4-8e3d-25880ab74eb9)
+
+* $(ID:b5a54e44-b081-4a3a-8e57-e33e7c8e4992)
+* $(ID:42c79b8b-c429-4926-a2da-edee799a55f9)
+* $(ID:ffd58ac8-fc54-4952-9e87-2cf42f35b41e)
+* $(ID:ef57c320-f4a8-4248-9e50-d459df0b84eb)
+* $(ID:fbe42a88-9906-4032-95f9-381beb1b1886)
+* $(ID:c48c2f74-4aae-4722-a0f4-f5199bca5a16)
+
+## $(ID:ffa477fa-0da6-4f78-ba3f-a88f9921ad31)
+
+* $(ID:06e9345d-556e-44fc-b74a-03623a773cbe)
+* $(ID:9153c985-65da-479c-94b1-7f2a3569b815)
+
+## $(ID:8a663a31-01ef-4755-b84c-264c7e24a9e6)
+
+* $(ID:33c0084b-ec2e-48c1-b85a-14edb6634f46)
+* $(ID:2451a2ef-f062-4c00-9ef5-d7119d1343b9)
+
+## $(ID:a8200183-82ee-47e0-8fb3-74d806453269)
+
+* $(ID:5362fa7f-b53b-471f-a119-556d4c7195db)
+* $(ID:01067cce-9614-4c4a-95bc-f3d184c5eca7)
+
+## $(ID:db92a919-fe20-4245-b416-a392b31ab3cb)
+
+* $(ID:324c5621-08b6-4c9d-a80e-62705b539067)
+* $(ID:fd73f3be-9566-4465-947d-a175600111b0)
+
+## $(ID:6724a9c4-5436-46e8-a2ef-68c79b244ea9)
+
+* $(ID:13530c65-4d84-4635-8fdd-1bbcdef24424)
+
+## $(ID:69bc898e-c86c-45b9-b71a-a28ba767f049)
+
+* $(ID:17abe10c-e547-4da1-a3ba-52df80a431ad)
+
+## $(ID:c65c97ba-eb4f-438c-b815-c3f85f94374e)
+
+* $(ID:8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4)
+
+## $(ID:0038d7cc-9f53-4970-9e17-36391618d548)
+
+* $(ID:0b901509-15b6-4a59-8a76-e2e3af929914)
+* $(ID:26fe813a-0291-4917-ab4d-a4e9b2fa5a3a)
+* $(ID:da0fe932-d7dc-440c-bc4e-b170d6eb029c)
+
+## $(ID:254856eb-9f1f-48ef-9c0a-08c508ee0626)
+
+* $(ID:218fa153-4f62-4519-bb89-701d5d1c8a1c)
+* $(ID:ba033211-f087-4e36-b3bc-b14b548d7fc5)
+* $(ID:bcfa2ce2-5aeb-4245-bef6-808070ee9673)
+* $(ID:833f731f-13cc-4ab7-9724-62eafe535fd5)
+* $(ID:b9536c7b-9147-41a8-a00a-03047bdb7174)
+* $(ID:cd25d8f3-40d2-4800-bce0-9cf539162ace)
+* $(ID:a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff)
+* $(ID:eac7aa87-4c13-4822-8a0a-ce1eeee9335c)
+* $(ID:2617084b-c0b2-4a52-a52e-d593d59a7394)
+* $(ID:c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3)
+* $(ID:3a80f7ef-b313-40a5-9390-f18272a44692)
+* $(ID:4d8c641e-1831-4cec-8e84-c6832a35192a)
+* $(ID:384815f4-abcf-4381-a393-a6d83b42c84b)
+
+## $(ID:a8d38ec7-07f7-48b7-b135-43ba18184b95)
+
+* $(ID:72b25cd6-bdd1-4786-be35-908cc39f896b)
+
+## $(ID:9e5afa78-f771-4839-a29a-51b11dd59e98)
+
+* $(ID:463ca87d-2ad4-42a5-888f-9e7ce9321446)
+
+$(ID:4ff4542a-307c-4b6c-82b8-08a3d2472fbb)
+
+$(ID:395f75c1-07e4-4989-b546-3dd96e59eadd)
+</skeleton>
+    <unit id="e4b56a75-eb25-467e-be64-e5ee8b74636f">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="final">
+        <source>golden cursor#</source>
+        <target>金色光标 #</target>
+      </segment>
+    </unit>
+    <unit id="fcd3760d-c662-4a28-a229-a94d1a12d7d6">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Author: salah atair, Joseph Lee</source>
+        <target>作者: salah atair, Joseph Lee</target>
+      </segment>
+    </unit>
+    <unit id="917f2773-0676-439b-8799-54deb98912d5">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Download [stable version][1]</source>
+        <target>下载[稳定版][1]</target>
+      </segment>
+    </unit>
+    <unit id="c9de5739-a05a-4adc-8199-fd63d30614a0">
+      <notes>
+        <note appliesTo="source">line: 6</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>NVDA compatibility: 2022.4 and beyond</source>
+        <target>NVDA 兼容性：2023.3.4 及更高版本</target>
+      </segment>
+    </unit>
+    <unit id="9b2b6444-5829-4197-bb21-a3a1d878bbbc">
+      <notes>
+        <note appliesTo="source">line: 8</note>
+      </notes>
+      <segment state="final">
+        <source>This add-on allows you to move the mouse using a keyboard and save mouse positions for applications.</source>
+        <target>该插件可以让您使用键盘移动鼠标并针对特定应用程序保存鼠标位置。</target>
+      </segment>
+    </unit>
+    <unit id="a8f074b0-320a-4748-88d5-696fd98f75d1">
+      <notes>
+        <note appliesTo="source">line: 10</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Key commands</source>
+        <target>快捷键</target>
+      </segment>
+    </unit>
+    <unit id="41225885-75c6-4c9d-b7a7-64b15bb6b6be">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Control+NVDA+L: view saved mouse positions for an application, if any. You can also assign gestures to these positions from this dialog. When pressing the assigned gesture, a left click will be performed in the saved position.</source>
+        <target>Control+NVDA+L：查看在当前应用程序保存的鼠标位置（如果有）。您还可以在该对话框中为这些位置分配手势。按下分配的手势，将在保存的位置执行左键单击。</target>
+      </segment>
+    </unit>
+    <unit id="655313ca-7941-47f7-b12c-effb7fa3e319">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Shift+NVDA+l: save a tag or a label for the current mouse position in the currently focused application.</source>
+        <target>Shift+NVDA+l： 为当前所聚焦的应用程序保存一个位置标记。</target>
+      </segment>
+    </unit>
+    <unit id="0e5a0846-74b6-4f93-92ff-88b2cbf4ceb9">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+C: change mouse movement unit.</source>
+        <target>Windows+NVDA+C： 更改每次移动鼠标时的单位。</target>
+      </segment>
+    </unit>
+    <unit id="24fc349c-c2dc-469f-8789-2f48fd4d385e">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+R: toggle mouse restriction.</source>
+        <target>Windows+NVDA+R: 切换鼠标移动限制区域。</target>
+      </segment>
+    </unit>
+    <unit id="56e9154e-b8db-466e-8bd1-704b518a6f7d">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+S: toggle reporting of mouse position in pixels.</source>
+        <target>Windows+NVDA+S: 切换是否在鼠标移动过程中读出像素坐标。</target>
+      </segment>
+    </unit>
+    <unit id="36f93986-4ba0-4032-a4b6-ed03359c36e6">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+J: move mouse to a specific x and y position.</source>
+        <target>Windows+NVDA+J: 输入横纵坐标以移动鼠标位置。</target>
+      </segment>
+    </unit>
+    <unit id="4ba7ec1e-12ea-4601-8ac4-d88e0445dbde">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+P: report mouse position.</source>
+        <target>Windows+NVDA+P: 读出当前鼠标的位置。</target>
+      </segment>
+    </unit>
+    <unit id="15d44390-71bc-4916-8420-f092f913aad3">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+M: sswitch mouse arrows on or off.</source>
+        <target>Windows+NVDA+M: 开关鼠标方向键模式。</target>
+      </segment>
+    </unit>
+    <unit id="c2f094d0-d9de-474d-9dee-8e656c7405d7">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Windows+NVDA+arrow keys (or just arrow keys if mouse arrows is on): move mouse.</source>
+        <target>Windows + NVDA + 方向键：移动鼠标位置（在方向键模式开启时，只需使用方向键即可）。</target>
+      </segment>
+    </unit>
+    <unit id="59f238ed-c7d5-4c4b-8925-8bcf39caf328">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+      </notes>
+      <segment state="final">
+        <source>Note: these gestures can be reassigned via NVDA's Input Gestures dialog under Golden Cursor category.</source>
+        <target>注意: 这些手势可以在“输入手势”对话框“金色光标”类别下自定义。</target>
+      </segment>
+    </unit>
+    <unit id="9f37373c-77b3-4ab4-8e3d-25880ab74eb9">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Notes</source>
+        <target>注意</target>
+      </segment>
+    </unit>
+    <unit id="b5a54e44-b081-4a3a-8e57-e33e7c8e4992">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When sharing positions (tags), each party should use same display resolution.</source>
+        <target>在共享位置（标记）时，用户之间应使用相同的显示分辨率。</target>
+      </segment>
+    </unit>
+    <unit id="42c79b8b-c429-4926-a2da-edee799a55f9">
+      <notes>
+        <note appliesTo="source">line: 27</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>For maximum compatibility, you should maximize windows by pressing Windows+Up arrow.</source>
+        <target>为取得最最佳兼容性，您应该按 Windows + 上方向键来最大化窗口。</target>
+      </segment>
+    </unit>
+    <unit id="ffd58ac8-fc54-4952-9e87-2cf42f35b41e">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When sharing positions, existing position labels should be renamed.</source>
+        <target>分享位置时，现有的位置（标签）应重命名。</target>
+      </segment>
+    </unit>
+    <unit id="ef57c320-f4a8-4248-9e50-d459df0b84eb">
+      <notes>
+        <note appliesTo="source">line: 29</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.x and 2.x mouse position formats are incompatible.</source>
+        <target>版本1.x和2.x鼠标位置格式不兼容。</target>
+      </segment>
+    </unit>
+    <unit id="fbe42a88-9906-4032-95f9-381beb1b1886">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>To perform functions that require use of arrow keys, turn off mouse arrows first.</source>
+        <target>要执行原本方向键的功能，请先关闭鼠标方向键模式。</target>
+      </segment>
+    </unit>
+    <unit id="c48c2f74-4aae-4722-a0f4-f5199bca5a16">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When deleting saved positions, if there are no saved positions left, positions for the application will be cleared.</source>
+        <target>删除保存的位置时，如果没有保存的位置，该应用程序的位置将被清除。</target>
+      </segment>
+    </unit>
+    <unit id="ffa477fa-0da6-4f78-ba3f-a88f9921ad31">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 6.2</source>
+        <target>版本 6.2</target>
+      </segment>
+    </unit>
+    <unit id="06e9345d-556e-44fc-b74a-03623a773cbe">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2022.4 or later.</source>
+        <target>要求 NVDA 2022.4 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="9153c985-65da-479c-94b1-7f2a3569b815">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Compatible with NVDA 2023.1.</source>
+        <target>兼容 NVDA 2023.1。</target>
+      </segment>
+    </unit>
+    <unit id="8a663a31-01ef-4755-b84c-264c7e24a9e6">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 6.1</source>
+        <target>版本6.1</target>
+      </segment>
+    </unit>
+    <unit id="33c0084b-ec2e-48c1-b85a-14edb6634f46">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2021.3 or later.</source>
+        <target>要求 NVDA 2021.3 或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="2451a2ef-f062-4c00-9ef5-d7119d1343b9">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Now, you can assign shortcuts for saved positions from the positions list. When pressing a shortcut, a left click will be performed for the position.</source>
+        <target>现在，您可以从位置列表中为已保存的位置分配快捷键。按下分配的快捷键，将对相应位置执行左键单击。</target>
+      </segment>
+    </unit>
+    <unit id="a8200183-82ee-47e0-8fb3-74d806453269">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 5.0</source>
+        <target>版本5.0</target>
+      </segment>
+    </unit>
+    <unit id="5362fa7f-b53b-471f-a119-556d4c7195db">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Modernized add-on source code to make it compatible with NVDA 2021.1.</source>
+        <target>插件代码更新，能够与 NVDA 2021.1 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="01067cce-9614-4c4a-95bc-f3d184c5eca7">
+      <notes>
+        <note appliesTo="source">line: 46</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Resolved many coding style issues and potential bugs with Flake8.</source>
+        <target>解决了 Flake8 的众多编码风格问题和错误。</target>
+      </segment>
+    </unit>
+    <unit id="db92a919-fe20-4245-b416-a392b31ab3cb">
+      <notes>
+        <note appliesTo="source">line: 48</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 4.0</source>
+        <target>版本4.0</target>
+      </segment>
+    </unit>
+    <unit id="324c5621-08b6-4c9d-a80e-62705b539067">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2019.3 or later.</source>
+        <target>要求 NVDA 2019.3或更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="fd73f3be-9566-4465-947d-a175600111b0">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Golden Cursor settings dialog has been replaced by Golden Cursor settings panel.</source>
+        <target>将金色光标设置对话框改为设置面板。</target>
+      </segment>
+    </unit>
+    <unit id="6724a9c4-5436-46e8-a2ef-68c79b244ea9">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.3</source>
+        <target>版本 3.3</target>
+      </segment>
+    </unit>
+    <unit id="13530c65-4d84-4635-8fdd-1bbcdef24424">
+      <notes>
+        <note appliesTo="source">line: 55</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Internal changes to support future NVDA releases.</source>
+        <target>内部更改，以支持 NVDA 的后续版本。</target>
+      </segment>
+    </unit>
+    <unit id="69bc898e-c86c-45b9-b71a-a28ba767f049">
+      <notes>
+        <note appliesTo="source">line: 57</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.2</source>
+        <target>版本3.2</target>
+      </segment>
+    </unit>
+    <unit id="17abe10c-e547-4da1-a3ba-52df80a431ad">
+      <notes>
+        <note appliesTo="source">line: 59</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Add-on is compatible with NVDA 2018.3 (wxPython 4).</source>
+        <target>插件与NVDA 2018.3（wxPython 4）兼容。</target>
+      </segment>
+    </unit>
+    <unit id="c65c97ba-eb4f-438c-b815-c3f85f94374e">
+      <notes>
+        <note appliesTo="source">line: 61</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 3.0</source>
+        <target>版本3.0</target>
+      </segment>
+    </unit>
+    <unit id="8f7d2a6b-1dbd-4bd4-8d30-820157c65fd4">
+      <notes>
+        <note appliesTo="source">line: 63</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>If using NVDA 2018.2, add-on settings will be found in new multi-category settings screen under "Golden Cursor" category.</source>
+        <target>如果使用NVDA 2018.2，则可以在“金色光标”类别下找到插件设置面板。</target>
+      </segment>
+    </unit>
+    <unit id="0038d7cc-9f53-4970-9e17-36391618d548">
+      <notes>
+        <note appliesTo="source">line: 65</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 2.1</source>
+        <target>版本2.1</target>
+      </segment>
+    </unit>
+    <unit id="0b901509-15b6-4a59-8a76-e2e3af929914">
+      <notes>
+        <note appliesTo="source">line: 67</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Fixed unicode decode error when trying to delete tag name.</source>
+        <target>修正试图删除标签名称时的 unicode 解码错误。</target>
+      </segment>
+    </unit>
+    <unit id="26fe813a-0291-4917-ab4d-a4e9b2fa5a3a">
+      <notes>
+        <note appliesTo="source">line: 68</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Prevent Multiple Instances When Opening various add-on Dialogs.</source>
+        <target>打开各种插件对话框时防止出现多个实例。</target>
+      </segment>
+    </unit>
+    <unit id="da0fe932-d7dc-440c-bc4e-b170d6eb029c">
+      <notes>
+        <note appliesTo="source">line: 69</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Improved appearance of mouse positions list and jump to position dialogs.</source>
+        <target>改进了鼠标位置列表窗口的外观，并可以输入鼠标位置跳转。</target>
+      </segment>
+    </unit>
+    <unit id="254856eb-9f1f-48ef-9c0a-08c508ee0626">
+      <notes>
+        <note appliesTo="source">line: 71</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 2.0</source>
+        <target>版本2.0</target>
+      </segment>
+    </unit>
+    <unit id="218fa153-4f62-4519-bb89-701d5d1c8a1c">
+      <notes>
+        <note appliesTo="source">line: 73</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Requires NVDA 2017.3 and later.</source>
+        <target>要求 NVDA 2017.3及更高版本。</target>
+      </segment>
+    </unit>
+    <unit id="ba033211-f087-4e36-b3bc-b14b548d7fc5">
+      <notes>
+        <note appliesTo="source">line: 74</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Position file format is incompatible with 1.x versions. If 1.x position format is found, old positions will be migrated to the new format during installation.</source>
+        <target>位置文件格式与1.x版本不兼容。如果找到1.x位置格式，则旧位置将在安装期间迁移到新格式。</target>
+      </segment>
+    </unit>
+    <unit id="bcfa2ce2-5aeb-4245-bef6-808070ee9673">
+      <notes>
+        <note appliesTo="source">line: 75</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Added a new Golden Cursor settings dialog in NVDA's Preferences menu to configure mouse movement unit and announcement of mouse positions as mouse moves.</source>
+        <target>在NVDA的“首选项”菜单中添加了一个新的金色光标设置对话框，用于配置鼠标移动单位以及鼠标移动时鼠标位置的项目。</target>
+      </segment>
+    </unit>
+    <unit id="833f731f-13cc-4ab7-9724-62eafe535fd5">
+      <notes>
+        <note appliesTo="source">line: 76</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Various messages from this add-on has changed.</source>
+        <target>更改了此插件的各种消息。</target>
+      </segment>
+    </unit>
+    <unit id="b9536c7b-9147-41a8-a00a-03047bdb7174">
+      <notes>
+        <note appliesTo="source">line: 77</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When toggling various settings, toggle tone will no longer be heard.</source>
+        <target>切换设置时，不在播放提示音。</target>
+      </segment>
+    </unit>
+    <unit id="cd25d8f3-40d2-4800-bce0-9cf539162ace">
+      <notes>
+        <note appliesTo="source">line: 78</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>You can now enter mouse arrows mode where you can move the mouse by pressing just arrow keys.</source>
+        <target>您现在可以进入鼠标方向键模式，只需按方向键即可移动鼠标。</target>
+      </segment>
+    </unit>
+    <unit id="a5a3d900-4d4c-4dc4-b0ea-984a5ff38bff">
+      <notes>
+        <note appliesTo="source">line: 79</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changes to positions list dialog, including new name (now called Mouse Positions) and layout, displaying mouse coordinates for a label, and showing the name of the active app as part of the title.</source>
+        <target>位置列表对话框的更改，包括新名称（现称为“鼠标位置”）和布局，显示标签的鼠标坐标以及将激活应用程序的名称显示为标题的一部分。</target>
+      </segment>
+    </unit>
+    <unit id="eac7aa87-4c13-4822-8a0a-ce1eeee9335c">
+      <notes>
+        <note appliesTo="source">line: 80</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>From Mouse Positions dialog, pressing Enter on a saved label will move the mouse to the saved location.</source>
+        <target>从鼠标位置对话框中，在已保存的位置标记上按 Enter 键将鼠标移动到相应位置。</target>
+      </segment>
+    </unit>
+    <unit id="2617084b-c0b2-4a52-a52e-d593d59a7394">
+      <notes>
+        <note appliesTo="source">line: 81</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When renaming a mouse position, an error dialog will be shown if a label with the same name as the new name exists.</source>
+        <target>重命名鼠标位置时，如果存在与新名称相同名称的位置标记，则会显示错误对话框。</target>
+      </segment>
+    </unit>
+    <unit id="c6545e0a-1c01-4f6a-b8fc-9dcb633fd8d3">
+      <notes>
+        <note appliesTo="source">line: 82</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When deleting or clearing mouse positions, you must now answer Yes before positions are deleted and/or cleared.</source>
+        <target>删除或清除鼠标位置时，现在必须由用户确认。</target>
+      </segment>
+    </unit>
+    <unit id="3a80f7ef-b313-40a5-9390-f18272a44692">
+      <notes>
+        <note appliesTo="source">line: 83</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Changes to mouse jump feature, including a new name (now called New mouse position) and ability to enter X and Y coordinates separately or by using up or down arrow keys.</source>
+        <target>改进鼠标位置跳转功能，包括一个新名称（现在称为新的鼠标位置）和分别输入X和Y坐标，支持使用上下方向键移动。</target>
+      </segment>
+    </unit>
+    <unit id="4d8c641e-1831-4cec-8e84-c6832a35192a">
+      <notes>
+        <note appliesTo="source">line: 84</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>The dialog shown when saving the current mouse position now shows coordinates for current mouse location.</source>
+        <target>保存当前鼠标位置时显示的对话框现在会同时显示当前鼠标位置的坐标。</target>
+      </segment>
+    </unit>
+    <unit id="384815f4-abcf-4381-a393-a6d83b42c84b">
+      <notes>
+        <note appliesTo="source">line: 85</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>When saving positions, resolved an issue where NvDA may play error tones if the positions folder does not exist.</source>
+        <target>解决了在保存位置时，如果位置文件夹不存在 NVDA 可能播放错误提示音的问题。</target>
+      </segment>
+    </unit>
+    <unit id="a8d38ec7-07f7-48b7-b135-43ba18184b95">
+      <notes>
+        <note appliesTo="source">line: 87</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.4</source>
+        <target>版本1.4</target>
+      </segment>
+    </unit>
+    <unit id="72b25cd6-bdd1-4786-be35-908cc39f896b">
+      <notes>
+        <note appliesTo="source">line: 89</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Removed win32api dependency to make it compatible with past and future versions of NVDA.</source>
+        <target>删除了win32api的依赖，使其与之前和以后的 NVDA 兼容。</target>
+      </segment>
+    </unit>
+    <unit id="9e5afa78-f771-4839-a29a-51b11dd59e98">
+      <notes>
+        <note appliesTo="source">line: 91</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="final">
+        <source>Version 1.0</source>
+        <target>版本1.0</target>
+      </segment>
+    </unit>
+    <unit id="463ca87d-2ad4-42a5-888f-9e7ce9321446">
+      <notes>
+        <note appliesTo="source">line: 93</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="final">
+        <source>Initial release.</source>
+        <target>发布初始版本。</target>
+      </segment>
+    </unit>
+    <unit id="4ff4542a-307c-4b6c-82b8-08a3d2472fbb">
+      <notes>
+        <note appliesTo="source">line: 95</note>
+      </notes>
+      <segment state="final">
+        <source>[1]: https://addons.nvda-project.org/files/get.php?file=gc</source>
+        <target>[1]: https://addons.nvda-project.org/files/get.php?file=gc</target>
+      </segment>
+    </unit>
+    <unit id="395f75c1-07e4-4989-b546-3dd96e59eadd">
+      <notes>
+        <note appliesTo="source">line: 97</note>
+      </notes>
+      <segment state="final">
+        <source>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</source>
+        <target>[2]: https://addons.nvda-project.org/files/get.php?file=gc-dev</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

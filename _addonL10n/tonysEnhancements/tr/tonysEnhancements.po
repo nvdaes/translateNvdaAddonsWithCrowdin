@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-09-14 16:48+0000\n"
+"PO-Revision-Date: 2025-12-22 09:07\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: tonysEnhancements.pot\n"
+"X-Crowdin-File-ID: 304\n"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:179
+msgid "Normal,Above normal,High,Realtime"
+msgstr "Normal,Normalin üzerinde,Yüksek,Gerçek Zamanlı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:193
+#, python-format
+msgid "Failed to set process priority to %s."
+msgstr "İşlem önceliği %s olarak ayarlanamadı."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:193
+msgid "Tony's enhancement add-on encountered an error"
+msgstr "Tony'nin geliştirmeleri eklentisi bir hatayla karşılaştı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:216
+msgid "OK"
+msgstr "Tamam"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:218
+msgid "Cancel"
+msgstr "İptal"
+
+#. Translators: Title for the settings dialog
+#: addon/globalPlugins/tonysEnhancements/__init__.py:278
+msgid "Tony's enhancements  settings"
+msgstr "Tony'nin geliştirmeleri ayarları"
+
+#. checkbox Detect insert mode
+#. Translators: Checkbox for insert mode detection
+#: addon/globalPlugins/tonysEnhancements/__init__.py:287
+msgid "Detect insert mode in text documents and beep on every keystroke when insert mode is on."
+msgstr "Metin belgelerinde ekleme (insert) modunu algıla ve ekleme modu açıkken her tuşa basıldığında bip sesi çıkar."
+
+#. checkbox block double insert
+#. Translators: Checkbox for block double insert
+#: addon/globalPlugins/tonysEnhancements/__init__.py:294
+msgid "Block double insert"
+msgstr "İnsert tuşuna iki kez basılmasını engelle"
+
+#. checkbox block double caps
+#. Translators: Checkbox for block double caps
+#: addon/globalPlugins/tonysEnhancements/__init__.py:299
+msgid "Block double Caps Lock"
+msgstr "Büyük harf kilidi tuşuna iki kez basılmasını engelle"
+
+#. checkbox Busy beep
+#. Translators: Checkbox for busy beep
+#: addon/globalPlugins/tonysEnhancements/__init__.py:305
+msgid "Beep when NVDA is busy"
+msgstr "NVDA meşgulken bip sesi çıkar"
+
+#. checkbox suppress unselected
+#. Translators: Checkbox for suppress unselected
+#: addon/globalPlugins/tonysEnhancements/__init__.py:310
+msgid "Suppress saying of 'unselected'."
+msgstr "'seçili değil' denmesini engelle."
+
+#. Dynamic keystrokes table
+#. Translators: Label for dynamic keystrokes table edit box
+#: addon/globalPlugins/tonysEnhancements/__init__.py:315
+msgid "Edit dynamic keystrokes table - see add-on documentation for more information"
+msgstr "Dinamik tuş girişleri tablosunu düzenle - daha fazla bilgi için eklenti belgelerine bakın"
+
+#. LangMap checkbox and multiline edit button
+#: addon/globalPlugins/tonysEnhancements/__init__.py:321
+msgid "Enable automatic language switching based on character set"
+msgstr "Karakter setine göre otomatik dil geçişini etkinleştir"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:324
+#: addon/globalPlugins/tonysEnhancements/__init__.py:385
+msgid "Edit language map"
+msgstr "Dil haritasını düzenle"
+
+#. checkbox block scroll lock
+#. Translators: Checkbox for blocking scroll lock
+#: addon/globalPlugins/tonysEnhancements/__init__.py:329
+msgid "Suppress scroll lock mode announcements"
+msgstr "Kaydırma kilidi modu duyurularını engelle"
+
+#. System priority Combo box
+#. Translators: Label for system priority combo box
+#: addon/globalPlugins/tonysEnhancements/__init__.py:334
+msgid "NVDA process system priority:"
+msgstr "NVDA işlem sistem önceliği:"
+
+#. checkbox enable apps volume
+#: addon/globalPlugins/tonysEnhancements/__init__.py:339
+msgid "Enable applications volume adjustment (requires restart)"
+msgstr "Uygulamaların ses ayarını etkinleştir (yeniden başlatma gerektirir)"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:349
+#: addon/globalPlugins/tonysEnhancements/__init__.py:375
+msgid "Error"
+msgstr "Hata"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:360
+msgid "Edit dynamic keystrokes table"
+msgstr "Dinamik tuş girişi tablosunu düzenle"
+
+#. Translators: The message reported when a user attempts to use a table movement command
+#. when the cursor is not within a table.
+#: addon/globalPlugins/tonysEnhancements/__init__.py:561
+msgid "Not in a table cell"
+msgstr "Tablo hücresinde değil"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:575
+msgid "Cannot find edge of table in this direction"
+msgstr "Bu yönde tablo kenarı bulunamadı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:588
+#, python-brace-format
+msgid "Cannot find {axis} with index {index} in this table"
+msgstr "Bu tabloda {index} endeksli {axis} bulunamadı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:654
+#: addon/globalPlugins/tonysEnhancements/__init__.py:710
+msgid "Not in a table!"
+msgstr "Tabloda değil!"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:673
+msgid "Cell copied"
+msgstr "Hücre kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:680
+msgid "Row copied"
+msgstr "Satır kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:686
+msgid "Partial row copied"
+msgstr "Satırın bir kısmı kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:692
+msgid "Column copied"
+msgstr "Sütun kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:698
+msgid "Partial column copied"
+msgstr "Sütunun bir kısmı kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:704
+msgid "Table copied"
+msgstr "Tablo kopyalandı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:718
+msgid "Copy ce&ll"
+msgstr "&Hücreyi kopyala"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:719
+msgid "Copy &column"
+msgstr "S&ütunu kopyala"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:720
+msgid "Copy column from current cell &down"
+msgstr "Sütunu geçerli hücre&den aşağıya doğru kopyala"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:721
+msgid "Copy &row"
+msgstr "&Satırı kopyala"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:722
+msgid "Copy row from current cell to the ri&ght"
+msgstr "Satırı &geçerli hücreden sağa doğru kopyalar"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:723
+msgid "Copy &table"
+msgstr "&Tabloyu kopyala"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:990
+msgid "focusable object"
+msgstr "odaklanabilir nesne"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:994
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1000
+msgid "current review character"
+msgstr "mevcut inceleme karakteri"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1004
+msgid "navigator object"
+msgstr "nesne sunucusu"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1024
+msgid "repeat"
+msgstr "tekrar"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1130
+msgid "Clipboard history"
+msgstr "Pano Geçmişi"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1136
+msgid "Entries"
+msgstr "Girişler"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1148
+msgid "&Paste"
+msgstr "Ya&pıştır"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1188
+msgid "Tony's Enhancements"
+msgstr "Tony'nin Geliştirmeleri"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1357
+#, python-format
+msgid "Move to the %d-th column in table"
+msgstr "Tablodaki %d numaralı sütuna git"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1365
+#, python-format
+msgid "Move to the %d-th row in table"
+msgstr "Tablodaki %d  numaralı satıra git"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1373
+msgid "Show popup menu with copy table to clipboard commands."
+msgstr "Tabloyu panoya kopyalamakla ilgili komutları içeren menüyü göster."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1379
+msgid "Copy table cell to clipboard."
+msgstr "Tablo hücresini panoya kopyala."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1385
+msgid "Copy table column to clipboard."
+msgstr "Tablo sütununu panoya kopyala."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1391
+msgid "Copy table row to clipboard."
+msgstr "Tablo satırını panoya kopyala."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1397
+msgid "Copy the whole table to clipboard."
+msgstr "Tüm tabloyu panoya kopyala."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1413
+msgid "Toggle microphone mute."
+msgstr "Mikrofonu kapatıp aç."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1418
+msgid "Default microphone not found."
+msgstr "Varsayılan mikrofon bulunamadı."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1423
+msgid "Muted microphone"
+msgstr "Mikrofon kapalı"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1423
+msgid "Unmuted microphone"
+msgstr "Mikrofon açık"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1429
+msgid "Left click on current object."
+msgstr "Mevcut nesneye sol tıkla."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1434
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1443
+#, python-brace-format
+msgid "Left click on {kind}"
+msgstr "{kind} üzerine sol tık"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1438
+msgid "Right click on current object."
+msgstr "Mevcut nesneye sağ tıkla."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1447
+msgid "Move mouse pointer to top left corner."
+msgstr "Fare imlecini sol üst köşeye taşı."
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1449
+msgid "Mouse pointer moved to top left corner. "
+msgstr "Fare imleci sol üst köşeye taşındı "
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1452
+msgid "Show clipboard history"
+msgstr "Pano Geçmişini Göster"
+
+#. Translators: Describes a command.
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1461
+msgid "Increases the volume of other applications"
+msgstr "Diğer uygulamaların ses düzeyini arttır"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1467
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1480
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1492
+msgid "Applications volume feature of Tony's enhancements add-on is disabled. Please enable it in settings first."
+msgstr "Tony'nin geliştirmeleri eklentisinin uygulama ses düzeyi özelliği devre dışı bırakıldı. Lütfen önce ayarlarda etkinleştirin."
+
+#. Translators: Describes a command.
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1474
+msgid "Decreases the volume of other applications"
+msgstr "Diğer uygulamaların ses düzeyini azalt"
+
+#. Translators: Describes a command.
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1487
+msgid "Mutes or unmutes other applications"
+msgstr "Diğer uygulamaların sesini aç/kapat"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1507
+msgid "Increases the volume of NVDA"
+msgstr "NVDA ses düzeyini arttır"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1512
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1521
+msgid "{} percent NVDA volume"
+msgstr "NVDA ses düzeyi yüzde {}"
+
+#: addon/globalPlugins/tonysEnhancements/__init__.py:1516
+msgid "Decreases the volume of NVDA"
+msgstr "NVDA ses düzeyini azalt"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Tony's enhancements"
+msgstr "Tony'nin Geliştirmeleri"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Various NVDA enhancements."
+msgstr "Çeşitli NVDA geliştirmeleri."
+

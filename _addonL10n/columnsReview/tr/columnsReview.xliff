@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="tr">
+  <file id="readme.md" original="https://raw.githubusercontent.com/nvdaaddons/columnsReview/3cc39be97d9c9c533e1beeb3cd79671f146c9dd0/readme.md">
+    <skeleton>
+# $(ID:f0d2290d-3eb8-4dcf-a616-a5dc49fa77af)
+
+* $(ID:85a24387-2d9a-4240-b4d6-1a559d0c2dd1)
+* $(ID:5ea12cbb-9624-4f6f-8d55-355e8167394e)
+
+$(ID:5f65d37b-483c-4fca-8087-4f3276505e50)
+
+$(ID:227abba0-396e-4af0-ada9-acaca818cd56)
+
+* $(ID:3c364ed0-6371-450f-85f3-eb8301b0633a)
+* $(ID:b0cd6baa-e191-4fe4-af3f-070c6fe4b411)
+* $(ID:880d3434-0150-4b6b-be5b-8cc77a99693c)
+* $(ID:0e862a89-06f8-46de-a3a9-98b6e89dd592)
+* $(ID:0fde4121-4499-48b8-89c5-db5d2aa49cd4)
+* $(ID:77edeb17-4f67-4b85-a659-dcc75ce457fa)
+* $(ID:7c96f451-5c16-49d0-9d47-47ff8f9944ca)
+* $(ID:a094739c-bdc3-4bfc-bced-f9e405e14420)
+* $(ID:b234ab76-ae52-4077-a363-7ad2853e52f4)
+* $(ID:294d3559-d6a5-4b80-808c-d2b6f0d5bb94)
+
+## $(ID:bdd7f815-c9c1-4c8f-bcb1-2e0e0dc526ac)
+
+$(ID:5016ed33-9b7b-44e0-b88d-356091164bbe)
+
+$(ID:a10652bf-e509-4997-9719-e9d4aef1aed1)
+
+$(ID:57e32807-5625-4817-a54d-9f287bef9e09)
+
+* $(ID:0f88ff69-a144-4554-b6e8-69f6b669ab76)
+* $(ID:1f9010fd-7634-4a79-9b71-9591a47c3751)
+* $(ID:22c611c0-e0fc-4597-aafb-7433d9072232)
+* $(ID:2ffddb7c-26b4-4b63-b184-b0122480e11d)
+* $(ID:363faf21-14d5-47e9-af80-784e368d735a)
+* $(ID:29b9f202-dffc-49c8-8838-8dac601026b9)
+* $(ID:2582abae-0080-4edd-9180-c6722b3f33d1)
+* $(ID:0a0ed47d-8d7b-430f-a603-c5b556dcb4f8)
+* $(ID:a33ba238-139b-4b22-89a8-663a5624d4bf)
+* $(ID:4d051f84-0328-4617-bd89-d6643145791d)
+* $(ID:49205e53-661d-4d44-a0cf-c5d531356bcb)
+* $(ID:3c52a6b6-8115-44cf-aba4-d6d30ff91ccf)
+
+## $(ID:c442868c-b404-407d-bd90-b72cd8f2a2c6)
+
+$(ID:36aeaf51-96e6-490c-9120-ee38919bf6ae)
+
+$(ID:ba8e12e9-ff30-4175-9faa-184f06bfdac9)
+
+* $(ID:326ba021-59ba-4077-a40f-a0dd8589201d)
+* $(ID:4815b8ba-8c30-4739-b72f-6b2195970e8e)
+* $(ID:07118d5e-7b78-4248-81e1-caedf80f88cc)
+* $(ID:f4ea4351-186f-4282-9cb5-e99d8f2a1ba5)
+* $(ID:e6491b0c-9b80-4ca0-abb8-7a8995c3f29d)
+* $(ID:61b2a7af-2666-4a67-98c9-b08ea72882a6)
+
+$(ID:f5b518ed-e1ed-41de-a08d-bc321dc72029)
+
+
+</skeleton>
+    <unit id="f0d2290d-3eb8-4dcf-a616-a5dc49fa77af">
+      <notes>
+        <note appliesTo="source">line: 2</note>
+        <note appliesTo="source">prefix: # </note>
+      </notes>
+      <segment state="translated">
+        <source>Columns Review</source>
+        <target>Sütun İncelemesi</target>
+      </segment>
+    </unit>
+    <unit id="85a24387-2d9a-4240-b4d6-1a559d0c2dd1">
+      <notes>
+        <note appliesTo="source">line: 4</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Author: Alberto Buffolino, Łukasz Golonka, other contributors</source>
+        <target>Yazarlar: Alberto Buffolino, Łukasz Golonka ve diğer katkıda bulunanlar</target>
+      </segment>
+    </unit>
+    <unit id="5ea12cbb-9624-4f6f-8d55-355e8167394e">
+      <notes>
+        <note appliesTo="source">line: 5</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA compatibility: 2019.3 and beyond</source>
+        <target>NVDA uyumluluğu: 2019.3 ve sonrası</target>
+      </segment>
+    </unit>
+    <unit id="5f65d37b-483c-4fca-8087-4f3276505e50">
+      <notes>
+        <note appliesTo="source">line: 7</note>
+      </notes>
+      <segment state="translated">
+        <source>Columns Review is an add-on to enhance NVDA experience with lists.</source>
+        <target>Sütun İncelemesi, listelerle NVDA deneyimini geliştirmek için bir eklentidir.</target>
+      </segment>
+    </unit>
+    <unit id="227abba0-396e-4af0-ada9-acaca818cd56">
+      <notes>
+        <note appliesTo="source">line: 9</note>
+      </notes>
+      <segment state="translated">
+        <source>Its features include:</source>
+        <target>Özellikleri şunları içerir:</target>
+      </segment>
+    </unit>
+    <unit id="3c364ed0-6371-450f-85f3-eb8301b0633a">
+      <notes>
+        <note appliesTo="source">line: 11</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>customizable actions on column header and/or content (available actions are read, copy, spell and show in browse mode);</source>
+        <target>sütun başlığı ve/veya içerik üzerinde özelleştirilebilir eylemler (mevcut eylemler okuma, kopyalama, kodlama ve tarama kipinde gösterme);</target>
+      </segment>
+    </unit>
+    <unit id="b0cd6baa-e191-4fe4-af3f-070c6fe4b411">
+      <notes>
+        <note appliesTo="source">line: 12</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>ability to cycle between columns in ten-by-ten intervals;</source>
+        <target>onar onar aralıklarla sütunlar arasında geçiş yapma yeteneği;</target>
+      </segment>
+    </unit>
+    <unit id="880d3434-0150-4b6b-be5b-8cc77a99693c">
+      <notes>
+        <note appliesTo="source">line: 13</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>simplified header management (mouse clicks);</source>
+        <target>basitleştirilmiş başlık yönetimi (fare tıklamaları);</target>
+      </segment>
+    </unit>
+    <unit id="0e862a89-06f8-46de-a3a9-98b6e89dd592">
+      <notes>
+        <note appliesTo="source">line: 14</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>on-demand reading of relative current item position (i.e.: item 7 of 10);</source>
+        <target>göreli geçerli öğe konumunun isteğe bağlı okuması (öğe 7/10 gibi);</target>
+      </segment>
+    </unit>
+    <unit id="0fde4121-4499-48b8-89c5-db5d2aa49cd4">
+      <notes>
+        <note appliesTo="source">line: 15</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>customizable gestures with or without numpad;</source>
+        <target>numaratörün kullanıldığı ya da kullanılmadığı özelleştirilebilir hareketler;</target>
+      </segment>
+    </unit>
+    <unit id="77edeb17-4f67-4b85-a659-dcc75ce457fa">
+      <notes>
+        <note appliesTo="source">line: 16</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>"0 items" announcement when list is empty;</source>
+        <target>Liste boş olduğunda "0 öğe" duyurusu;</target>
+      </segment>
+    </unit>
+    <unit id="7c96f451-5c16-49d0-9d47-47ff8f9944ca">
+      <notes>
+        <note appliesTo="source">line: 17</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>top/bottom edge reporting via speech or beeps;</source>
+        <target>konuşma veya bip sesleri yoluyla üst/alt kenar bildirimi;</target>
+      </segment>
+    </unit>
+    <unit id="a094739c-bdc3-4bfc-bced-f9e405e14420">
+      <notes>
+        <note appliesTo="source">line: 18</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>say all support;</source>
+        <target>tümünü okuma desteği;</target>
+      </segment>
+    </unit>
+    <unit id="b234ab76-ae52-4077-a363-7ad2853e52f4">
+      <notes>
+        <note appliesTo="source">line: 19</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>report of selected items (amount and item names);</source>
+        <target>seçilen öğelerin bildirimi (miktar ve öğe adları);</target>
+      </segment>
+    </unit>
+    <unit id="294d3559-d6a5-4b80-808c-d2b6f0d5bb94">
+      <notes>
+        <note appliesTo="source">line: 20</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>list search (with item multiselection, if checked/supported).</source>
+        <target>liste araması (işaretliyse/destekleniyorsa öğe çoklu seçimli).</target>
+      </segment>
+    </unit>
+    <unit id="bdd7f815-c9c1-4c8f-bcb1-2e0e0dc526ac">
+      <notes>
+        <note appliesTo="source">line: 22</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Gestures</source>
+        <target>Hareketler</target>
+      </segment>
+    </unit>
+    <unit id="5016ed33-9b7b-44e0-b88d-356091164bbe">
+      <notes>
+        <note appliesTo="source">line: 24</note>
+      </notes>
+      <segment state="translated">
+        <source>Default keys for columns, headers and position are NVDA+control, but you can customize them from add-on settings (not "Input gestures" dialog!).</source>
+        <target>Sütunlar, başlıklar ve konum için varsayılan tuşlar NVDA+kontroldür, ancak bunları eklenti ayarlarından özelleştirebilirsiniz ("Girdi hareketleri" iletişim kutusu değil!).</target>
+      </segment>
+    </unit>
+    <unit id="a10652bf-e509-4997-9719-e9d4aef1aed1">
+      <notes>
+        <note appliesTo="source">line: 26</note>
+      </notes>
+      <segment state="translated">
+        <source>Note that your keyboard could have problems processing some key combinations, so try all add-on gestures and adjust them for better results.</source>
+        <target>Klavyenizin bazı tuş kombinasyonlarını işlemede sorun yaşayabileceğini unutmayın, bu nedenle tüm eklenti hareketlerini deneyin ve daha iyi sonuçlar için gerekli ayarları yapın.</target>
+      </segment>
+    </unit>
+    <unit id="57e32807-5625-4817-a54d-9f287bef9e09">
+      <notes>
+        <note appliesTo="source">line: 28</note>
+      </notes>
+      <segment state="translated">
+        <source>See also add-on preferences for numpad mode, keyboard layout (without numpad), and the four available actions for columns.</source>
+        <target>Ayrıca numaratör modu, klavye düzeni (numaratör olmadan) ve sütunlar için kullanılabilen dört eylem için eklenti tercihlerine bakın.</target>
+      </segment>
+    </unit>
+    <unit id="0f88ff69-a144-4554-b6e8-69f6b669ab76">
+      <notes>
+        <note appliesTo="source">line: 30</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+digits from 1 to 0 (keyboard mode) or from 1 to 9 (numpad mode): by default, read the chosen column if pressed once, copy it if pressed twice;</source>
+        <target>1'den 0'a (klavye modu) veya 1'den 9'a (sayısal tuş takımı modu) NVDA+kontrol+haneleri: varsayılan olarak, bir kez basıldığında seçilen sütunu okuyun, iki kez basıldığında kopyalayın;</target>
+      </segment>
+    </unit>
+    <unit id="1f9010fd-7634-4a79-9b71-9591a47c3751">
+      <notes>
+        <note appliesTo="source">line: 31</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+numpadMinus (numpad mode): like NVDA+control+0 in keyboard mode, read or copy the 10th, 20th, etc column;</source>
+        <target>NVDA+kontrol+numaratörEksi (numaratör modu): klavye modunda NVDA+kontrol+0 gibi, 10., 20., vb. sütunu okuyun veya kopyalayın;</target>
+      </segment>
+    </unit>
+    <unit id="22c611c0-e0fc-4597-aafb-7433d9072232">
+      <notes>
+        <note appliesTo="source">line: 32</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+- (keyboard mode, EN-US layout): in a list with 10+ columns, change interval and process columns from 11 to 20, from 21 to 30, and so on (change last char according to your layout, from settings);</source>
+        <target>NVDA+control+- (varsayılan, EN-US düzeni, klavye modu): 10'dan fazla sütunlu bir listede, aralığı değiştirmenize ve 11'den 20'ye, 21'den 30'a vb. sütunları okumanıza yarar; düzeninize göre son karakteri değiştirmek için ayarlara bakın;</target>
+      </segment>
+    </unit>
+    <unit id="2ffddb7c-26b4-4b63-b184-b0122480e11d">
+      <notes>
+        <note appliesTo="source">line: 33</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+numpadPlus (numpad mode): like previous command;</source>
+        <target>NVDA+kontrol+numaratörArtı (numaratör modu): önceki komuta benzer;</target>
+      </segment>
+    </unit>
+    <unit id="363faf21-14d5-47e9-af80-784e368d735a">
+      <notes>
+        <note appliesTo="source">line: 34</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+enter (numpadEnter in numpad mode): open header manager;</source>
+        <target>NVDA+control+enter (numaratörde numaratörEnter): sütun başlıkları yöneticisini açar;</target>
+      </segment>
+    </unit>
+    <unit id="29b9f202-dffc-49c8-8838-8dac601026b9">
+      <notes>
+        <note appliesTo="source">line: 35</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+delete (numpadDelete in numpad mode): read relative current item position (i.e.: item 7 of 10);</source>
+        <target>NVDA+kontrol+sil (numaratörde numaratör sil): göreli geçerli öğe konumunu oku (öğe 7/10 gibi);</target>
+      </segment>
+    </unit>
+    <unit id="2582abae-0080-4edd-9180-c6722b3f33d1">
+      <notes>
+        <note appliesTo="source">line: 36</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Arrows and NVDA+tab (in empty list): repeat "0 items" message;</source>
+        <target>Oklar ve NVDA+sekmesi (boş listede): "0 öğe" mesajını tekrarlar;</target>
+      </segment>
+    </unit>
+    <unit id="0a0ed47d-8d7b-430f-a603-c5b556dcb4f8">
+      <notes>
+        <note appliesTo="source">line: 37</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+downArrow (desktop layout) or NVDA+a (laptop layout): start say all (this gesture depends on original one under "Input gestures"/"System caret");</source>
+        <target>NVDA+aşağı ok (masaüstü düzeni) veya NVDA+a (dizüstü düzeni): tümünü oku (bu hareket "Girdi hareketleri"/"Sistem düzenleme imleci" altındaki orijinal harekete  bağlıdır);</target>
+      </segment>
+    </unit>
+    <unit id="a33ba238-139b-4b22-89a8-663a5624d4bf">
+      <notes>
+        <note appliesTo="source">line: 38</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+shift+upArrow (desktop layout) or NVDA+shift+s (laptop layout): report amount and names of current selected list items (like previous command for customization);</source>
+        <target>NVDA+shift+yukarı ok (masaüstü düzeni) veya NVDA+shift+s (dizüstü düzeni): mevcut seçili liste öğelerinin miktarını ve adlarını bildir (önceki komut gibi NVDA'nın seçilen öğelerin bildirimiyle ilgili girdi hareketine bağlı);</target>
+      </segment>
+    </unit>
+    <unit id="4d051f84-0328-4617-bd89-d6643145791d">
+      <notes>
+        <note appliesTo="source">line: 39</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+control+f: open find dialog (not customizable);</source>
+        <target>NVDA+control+f: bul iletişim kutusunu aç (özelleştirilemez);</target>
+      </segment>
+    </unit>
+    <unit id="49205e53-661d-4d44-a0cf-c5d531356bcb">
+      <notes>
+        <note appliesTo="source">line: 40</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+f3: find next occurrence of previously entered text (not customizable);</source>
+        <target>NVDA+f3: sonrakini bul (özelleştirilemez);</target>
+      </segment>
+    </unit>
+    <unit id="3c52a6b6-8115-44cf-aba4-d6d30ff91ccf">
+      <notes>
+        <note appliesTo="source">line: 41</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>NVDA+shift+f3: find previous occurrence (not customizable).</source>
+        <target>NVDA+shift+f3: öncekini bul (özelleştirilemez).</target>
+      </segment>
+    </unit>
+    <unit id="c442868c-b404-407d-bd90-b72cd8f2a2c6">
+      <notes>
+        <note appliesTo="source">line: 43</note>
+        <note appliesTo="source">prefix: ## </note>
+      </notes>
+      <segment state="translated">
+        <source>Support</source>
+        <target>Destek</target>
+      </segment>
+    </unit>
+    <unit id="36aeaf51-96e6-490c-9120-ee38919bf6ae">
+      <notes>
+        <note appliesTo="source">line: 45</note>
+      </notes>
+      <segment state="translated">
+        <source>This add-on provide a general support for more common lists (see below), and some specific applications. Main author (Alberto Buffolino) cannot guarantee compatibility/functionality for those applications he not uses, like Outlook and Windows Mail, but he'll be happy to collaborate with their users or accept a pull request for them (note: Outlook is covered now, but user reports are still welcome).</source>
+        <target>Bu eklenti, daha yaygın listeler (aşağıya bakın) ve bazı özel uygulamalar için genel bir destek sağlar. Ana yazar (Alberto Buffolino), Outlook ve Windows Mail gibi kullanmadığı uygulamalar için uyumluluğu/işlevselliği garanti edemez, ancak kullanıcılarıyla işbirliği yapmaktan veya onlar için bir çekme talebini kabul etmekten memnuniyet duyacaktır.</target>
+      </segment>
+    </unit>
+    <unit id="ba8e12e9-ff30-4175-9faa-184f06bfdac9">
+      <notes>
+        <note appliesTo="source">line: 47</note>
+      </notes>
+      <segment state="translated">
+        <source>Following list types are supported:</source>
+        <target>Aşağıdaki liste türleri desteklenir:</target>
+      </segment>
+    </unit>
+    <unit id="326ba021-59ba-4077-a40f-a0dd8589201d">
+      <notes>
+        <note appliesTo="source">line: 49</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>SysListView32;</source>
+        <target>SysListView32;</target>
+      </segment>
+    </unit>
+    <unit id="4815b8ba-8c30-4739-b72f-6b2195970e8e">
+      <notes>
+        <note appliesTo="source">line: 50</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>DirectUIHWND (present in 64-bit systems);</source>
+        <target>DirectUIHWND (64 bit sistemlerde bulunur);</target>
+      </segment>
+    </unit>
+    <unit id="07118d5e-7b78-4248-81e1-caedf80f88cc">
+      <notes>
+        <note appliesTo="source">line: 51</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>WindowsForms10.SysListView32.* (applications that use .NET);</source>
+        <target>WindowsForms10.SysListView32.* (.NET kullanan uygulamalar);</target>
+      </segment>
+    </unit>
+    <unit id="f4ea4351-186f-4282-9cb5-e99d8f2a1ba5">
+      <notes>
+        <note appliesTo="source">line: 52</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>multi-column treeview like as that presents in [RSSOwlnix][rss];</source>
+        <target>[RSSOwlnix] [rss] de sunduğu gibi çok sütunlu ağaç görünümü;</target>
+      </segment>
+    </unit>
+    <unit id="e6491b0c-9b80-4ca0-abb8-7a8995c3f29d">
+      <notes>
+        <note appliesTo="source">line: 53</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Thunderbird messages table (thread-grouping supported);</source>
+        <target>Thunderbird ileti tablosu (iş parçacığı gruplaması desteklenir);</target>
+      </segment>
+    </unit>
+    <unit id="61b2a7af-2666-4a67-98c9-b08ea72882a6">
+      <notes>
+        <note appliesTo="source">line: 54</note>
+        <note appliesTo="source">prefix: * </note>
+      </notes>
+      <segment state="translated">
+        <source>Outlook messages table (but list search is not recommended in thread view).</source>
+        <target>Outlook iletileri tablosu (ancak ileti dizisi görünümünde liste araması önerilmez).</target>
+      </segment>
+    </unit>
+    <unit id="f5b518ed-e1ed-41de-a08d-bc321dc72029">
+      <notes>
+        <note appliesTo="source">line: 56</note>
+      </notes>
+      <segment state="translated">
+        <source>[rss]: https://github.com/ABuffEr/rssowlnixSupport</source>
+        <target>[rss]: https://github.com/ABuffEr/rssowlnixSupport</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
