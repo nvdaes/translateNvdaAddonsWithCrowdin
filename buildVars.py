@@ -38,7 +38,7 @@ Crowdin project: https://crowdin.com/project/nvdaaddons""",
 	addon_version="0.0.2",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
-	addon_changelog=_("""* Initial beta version for testing."""),
+	addon_changelog=_("""* Initial beta version for testing"""),
 	# Author(s)
 	addon_author="Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
