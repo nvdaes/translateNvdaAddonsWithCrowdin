@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nvdaaddons\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2025-12-22 04:44+0000\n"
+"PO-Revision-Date: 2026-01-26 00:35\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: nvdaaddons\n"
+"X-Crowdin-Project-ID: 780748\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: translateNvdaAddonsWithCrowdin.pot\n"
+"X-Crowdin-File-ID: 446\n"
+
+#. Translators: the name of a menu item.
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py:36
+msgid "&Translate add-ons with Crowdin..."
+msgstr "Eklen&tileri Crowdin ile çevir..."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py:58
+msgid "Shows the Translate NVDA Add-ons with Crowdin settings."
+msgstr "NVDA Eklentilerini Crowdin ile Çevir Ayarlarını gösterir."
+
+#. Translators: message presented in input mode.
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/__init__.py:66
+msgid "Shows the Translate NVDA Add-ons with Crowdin dialog."
+msgstr "NVDA Eklentilerini Crowdin ile Çevir iletişim kutusunu gösterir."
+
+#. Translators: Title of a dialog.
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:9
+msgid "NVDA add-ons with Crowdin"
+msgstr "Crowdin ile NVDA eklentileri"
+
+#. Translators: label of a dialog
+#: addon/globalPlugins/translateNvdaAddonsWithCrowdin/addonGui.py:16
+msgid "Crowdin API token:"
+msgstr "Crowdin API jetonu:"
+
+#. Add-on summary/title, usually the user visible name of the add-on
+#. Translators: Summary/title for this add-on
+#. to be shown on installation and add-on information found in add-on store
+#: buildVars.py:30
+msgid "Translate NVDA add-ons with Crowdin"
+msgstr "NVDA eklentilerini Crowdin ile çevir"
+
+#. Translators: Long description to be shown for this add-on on add-on information from add-on store
+#: buildVars.py:34
+msgid "Translate NVDA add-ons with Crowdin.\n"
+"Crowdin project: https://crowdin.com/project/nvdaaddons"
+msgstr "NVDA eklentilerini Crowdin ile çevir.\n"
+"Crowdin Projesi: https://crowdin.com/project/nvdaaddons"
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:41
+msgid "* Initial beta version for testing"
+msgstr "* Test için ilk beta sürümü"
+
